@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7" />
+      <stop offset="50%" stop-color="#2563eb" />
+      <stop offset="100%" stop-color="#7c3aed" />
+    </linearGradient>
+    <linearGradient id="glow-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#a855f7" stop-opacity="0.2" />
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+
+  <!-- 背景角丸スクワークル -->
+  <rect width="512" height="512" rx="128" fill="url(#bg-grad)" />
+
+  <!-- 背景の光彩エフェクト -->
+  <circle cx="256" cy="180" r="140" fill="url(#glow-grad)" filter="blur(20px)" />
+
+  <!-- メインアイコン: 新聞・要約カード & 閃き/AIスパークル -->
+  <g filter="url(#shadow)">
+    <!-- カード背面のレイヤー -->
+    <rect x="140" y="110" width="232" height="290" rx="24" fill="#ffffff" fill-opacity="0.2" transform="rotate(-6 256 255)" />
+    
+    <!-- カード本体 -->
+    <rect x="145" y="115" width="222" height="280" rx="20" fill="#ffffff" />
+    
+    <!-- カード内見出しと箇条書きプレビュー -->
+    <rect x="175" y="150" width="90" height="12" rx="6" fill="#0284c7" />
+    <rect x="175" y="180" width="162" height="14" rx="7" fill="#0f172a" />
+    
+    <!-- 3行要約のライン（カラフル） -->
+    <rect x="175" y="215" width="14" height="14" rx="7" fill="#38bdf8" />
+    <rect x="198" y="218" width="139" height="8" rx="4" fill="#64748b" />
+
+    <rect x="175" y="245" width="14" height="14" rx="7" fill="#6366f1" />
+    <rect x="198" y="248" width="125" height="8" rx="4" fill="#64748b" />
+
+    <rect x="175" y="275" width="14" height="14" rx="7" fill="#a855f7" />
+    <rect x="198" y="278" width="145" height="8" rx="4" fill="#64748b" />
+
+    <!-- 記事フッターアクセント -->
+    <rect x="175" y="315" width="60" height="18" rx="9" fill="#e0f2fe" />
+    <rect x="245" y="315" width="50" height="18" rx="9" fill="#f1f5f9" />
+  </g>
+
+  <!-- AIスパークル（右上のキラキラ星） -->
+  <path d="M 380 90 Q 380 130 420 130 Q 380 130 380 170 Q 380 130 340 130 Q 380 130 380 90 Z" fill="#facc15" filter="url(#shadow)" />
+  <circle cx="330" cy="95" r="7" fill="#fde047" />
+  <circle cx="410" cy="180" r="5" fill="#fde047" />
+</svg>

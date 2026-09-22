@@ -1,0 +1,63 @@
+{
+  "categories": [
+    {
+      "id": "azure",
+      "name": "Azure",
+      "icon": "☁️",
+      "description": "Microsoft Azureの公式発表・最新クラウド動向",
+      "feeds": [
+        {
+          "name": "Microsoft Official Blog",
+          "url": "https://blogs.microsoft.com/feed/",
+          "is_official": true
+        },
+        {
+          "name": "Google News (Azure)",
+          "url": "https://news.google.com/rss/search?q=Microsoft+Azure+when:3d&hl=ja&gl=JP&ceid=JP:ja",
+          "is_official": false
+        }
+      ]
+    },
+    {
+      "id": "tesla",
+      "name": "テスラ",
+      "icon": "⚡",
+      "description": "テスラの最新アップデート・EV・FSD・決算動向",
+      "feeds": [
+        {
+          "name": "Electrek (Tesla)",
+          "url": "https://electrek.co/guides/tesla/feed/",
+          "is_official": true
+        },
+        {
+          "name": "Google News (Tesla)",
+          "url": "https://news.google.com/rss/search?q=Tesla+when:3d&hl=ja&gl=JP&ceid=JP:ja",
+          "is_official": false
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "icon": "🤖",
+      "description": "OpenAI・Google・生成AIの公式発表・技術速報",
+      "feeds": [
+        {
+          "name": "OpenAI Official Blog",
+          "url": "https://openai.com/news/rss.xml",
+          "is_official": true
+        },
+        {
+          "name": "Google AI Blog",
+          "url": "https://blog.google/technology/ai/rss/",
+          "is_official": true
+        },
+        {
+          "name": "Google News (AI)",
+          "url": "https://news.google.com/rss/search?q=AI+OR+生成AI+when:2d&hl=ja&gl=JP&ceid=JP:ja",
+          "is_official": false
+        }
+      ]
+    }
+  ]
+}

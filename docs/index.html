@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, user-scalable=no">
+  <title>Morning Brief | AIニュース要約</title>
+
+  <!-- PWA & iOS Safari最適化 -->
+  <link rel="manifest" href="./manifest.json">
+  <meta name="theme-color" content="#0f172a" media="(prefers-color-scheme: dark)">
+  <meta name="theme-color" content="#f8fafc" media="(prefers-color-scheme: light)">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="BriefNews">
+  <link rel="apple-touch-icon" href="./icons/icon.svg">
+  <link rel="icon" type="image/svg+xml" href="./icons/icon.svg">
+
+  <!-- Google Fonts: Inter & Noto Sans JP -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <div id="app" class="app-container">
+    <!-- ヘッダー -->
+    <header class="app-header">
+      <div class="header-top">
+        <div class="brand">
+          <div class="logo-icon">☀️</div>
+          <div>
+            <h1 class="logo-title">Morning Brief</h1>
+            <p class="today-date" id="todayDate">2026年9月23日(水)</p>
+          </div>
+        </div>
+        <div class="header-actions">
+          <button id="themeToggleBtn" class="icon-btn" aria-label="テーマ切り替え">
+            <span id="themeIcon">🌙</span>
+          </button>
+          <button id="infoBtn" class="icon-btn" aria-label="使い方・ホーム画面追加">
+            <span>ℹ️</span>
+          </button>
+        </div>
+      </div>
+
+      <!-- 更新情報 & モデルバッジ -->
+      <div class="header-sub">
+        <div class="update-meta">
+          <span class="pulse-indicator"></span>
+          <span id="updateTimeText">最終更新: 取得中...</span>
+        </div>
+        <span class="model-badge" id="modelBadge">Gemini 3.8 Flash</span>
+      </div>
+
+      <!-- カテゴリタブナビゲーション -->
+      <nav class="category-tabs" id="categoryTabs">
+        <button class="tab-btn active" data-category="all">
+          <span class="tab-icon">🌐</span>すべて <span class="tab-count" id="count-all">0</span>
+        </button>
+        <button class="tab-btn" data-category="azure">
+          <span class="tab-icon">☁️</span>Azure <span class="tab-count" id="count-azure">0</span>
+        </button>
+        <button class="tab-btn" data-category="tesla">
+          <span class="tab-icon">⚡</span>テスラ <span class="tab-count" id="count-tesla">0</span>
+        </button>
+        <button class="tab-btn" data-category="ai">
+          <span class="tab-icon">🤖</span>AI <span class="tab-count" id="count-ai">0</span>
+        </button>
+        <button class="tab-btn" data-category="saved">
+          <span class="tab-icon">⭐</span>保存 <span class="tab-count" id="count-saved">0</span>
+        </button>
+      </nav>
+    </header>
+
+    <!-- コントロールバー（既読フィルター・注目度フィルター・進捗） -->
+    <section class="control-bar">
+      <div class="read-progress">
+        <span id="progressText">進捗: 0 / 0 読了</span>
+        <div class="progress-bar-bg">
+          <div class="progress-bar-fill" id="progressBarFill" style="width: 0%;"></div>
+        </div>
+      </div>
+      <div class="filter-toggles">
+        <button id="highImportanceBtn" class="filter-chip">
+          ★4以上 注目
+        </button>
+        <button id="unreadOnlyBtn" class="filter-chip">
+          ● 未読のみ
+        </button>
+      </div>
+    </section>
+
+    <!-- メインコンテンツ（ニュース一覧） -->
+    <main class="news-list" id="newsList">
+      <div class="loading-state">
+        <div class="spinner"></div>
+        <p>最新のニュース要約を読み込み中...</p>
+      </div>
+    </main>
+
+    <!-- フッター -->
+    <footer class="app-footer">
+      <p>完全無料 ＆ GitHub Actions × Gemini 自動更新</p>
+      <div class="footer-links">
+        <a href="#" id="refreshDataBtn">↻ 最新データ再読込</a>
+        <a href="https://github.com" target="_blank" rel="noopener">GitHub</a>
+      </div>
+    </footer>
+
+    <!-- iPhoneホーム画面追加案内モーダル -->
+    <div id="infoModal" class="modal-overlay hidden">
+      <div class="modal-card">
+        <div class="modal-header">
+          <h3>📱 iPhoneのホーム画面に追加する方法</h3>
+          <button id="closeModalBtn" class="close-btn">&times;</button>
+        </div>
+        <div class="modal-body">
+          <p class="modal-lead">ホーム画面に追加すると、Safariのアドレスバーが消えて<strong>本物のアプリとしてフルスクリーン</strong>でサクサク読めるようになります。</p>
+          <ol class="setup-steps">
+            <li>Safari下部の<strong>共有ボタン（四角から矢印が出たアイコン 📤）</strong>をタップ</li>
+            <li>メニューをスクロールして<strong>「ホーム画面に追加」</strong>をタップ</li>
+            <li>右上の<strong>「追加」</strong>を押せば完了！</li>
+          </ol>
+          <div class="feature-box">
+            <h4>💡 ここがポイント</h4>
+            <ul>
+              <li><strong>毎朝自動更新</strong>: PCの電源を切っていても毎朝JST 6:30にクラウドで最新情報に更新されます。</li>
+              <li><strong>オフライン対応</strong>: 地下鉄などの電波が届かない場所でも直近のニュースがそのまま読めます。</li>
+              <li><strong>完全0円運用</strong>: GitHub Actions・GitHub Pages・Gemini無料枠により維持費0円です。</li>
+            </ul>
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button id="confirmModalBtn" class="primary-btn">わかった</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="./app.js"></script>
+</body>
+</html>
