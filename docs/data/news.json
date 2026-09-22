@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026年09月23日 07:00",
-  "updated_at_iso": "2026-09-23T07:00:00+09:00",
-  "model_used": "gemini-3.8-flash",
-  "total_count": 9,
+  "updated_at": "2026年09月23日 07:37",
+  "updated_at_iso": "2026-09-23T07:37:58.905295+09:00",
+  "model_used": "mock-mode",
   "categories": [
     {
       "id": "azure",
@@ -11,67 +10,104 @@
       "description": "Microsoft Azureの公式発表・最新クラウド動向",
       "articles": [
         {
-          "id": "azure_001",
-          "title": "Microsoft、Azure・Copilotなど18件の脆弱性を修正 7件がCVSS 10.0、顧客側の更新作業は不要",
-          "link": "https://news.google.com/",
-          "source": "Microsoft Official",
-          "is_official": true,
-          "published_at": "2026-09-22 18:30",
-          "importance": 5,
-          "headline": "Azure基盤の重大脆弱性をクラウド側で完全自動修正",
+          "id": "azure_1790116679_1",
+          "title": "オッペンハイマー氏によると、マイクロソフトのAzureおよびM365商用事業は、一部のリスクにもかかわらず、2027会計年度に加速傾向を維持できる見込み - Moomoo",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORHl3ZVVEeW1fZFlRU2ZLSFdLNE83ck1UbDcwRkpjNGpqQ24xSGdvQzdnTmFFRHhCZk1oZGh0VzI2TXotelF2dzlnV2ZpRURvMmJCd1d2enZEMWdnU1NRX2pDUldqVnR6Z3B3QldNVElZRXA1SkczUWQyNDdMN2ljZ1hocDREQl9qNmZrU08wdlVBQzZ2NkM1eTVldXlndFduQTJNaXZfcHVDVzk2M3owdWpnUG1jcElXV2c?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-09-23 03:55",
+          "headline": "オッペンハイマー氏によると、マイクロソフトのAzureおよびM365商用事業は、...",
           "summary": [
-            "マイクロソフトがAzureおよびCopilot関連の18件の脆弱性を修正完了と発表。",
-            "最高深刻度CVSS 10.0の脆弱性が含まれるが、クラウドインフラ側で対策を適用済み。",
-            "利用企業やエンドユーザー側での再起動や手動パッチ適用作業は一切不要。"
+            "【概要】オッペンハイマー氏によると、マイクロソフトのAzureおよびM365商用事業は、一部のリスクにもかかわらず、2027会計年度に加速傾向を維持できる見込み - Moomoo",
+            "オッペンハイマー氏によると、マイクロソフトのAzureおよびM365商用事業は、一部のリスクにもかかわらず、2027会計...",
+            "情報提供元: Google News (Azure)"
           ],
           "key_points": [
-            "クラウドインフラ側での自動修正のためユーザー作業はゼロ",
-            "Azure OpenAI ServiceやCopilotインフラの安全性が向上",
-            "継続的なセキュリティ監視体制を強化中"
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
           ],
-          "badge": "重大セキュリティ"
+          "badge": "注目",
+          "importance": 3
         },
         {
-          "id": "azure_002",
-          "title": "Microsoft Azureの次世代AIアクセラレータ「Maia 200」が一部リージョンでプレビュー提供開始",
-          "link": "https://blogs.microsoft.com/",
-          "source": "Microsoft Blog",
-          "is_official": true,
-          "published_at": "2026-09-22 10:15",
-          "importance": 4,
-          "headline": "マイクロソフト独自AIチップ「Maia 200」プレビュー開始",
+          "id": "azure_1790116679_2",
+          "title": "マイクロソフトのAzure価格決定力は「遅効性のカタリスト」、BNPパリバが指摘 - BigGo ファイナンス",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5yRHBxcl9ESEE3UWY0ZnJ0eTZMQjBiakR5UUdIWDE2N1R1UjJQUTYwUkZVRFh0N1dlcFhjLThwbGFINUotcElNR2lVRkdPZkk2NUg5Ql9HT2RMRUVBWFNRWmJNTGZGMldBWGlfcm02X1FXeGxW?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-09-22 09:05",
+          "headline": "マイクロソフトのAzure価格決定力は「遅効性のカタリスト」、BNPパリバが指摘...",
           "summary": [
-            "マイクロソフトが内製AI推論チップMaia 200のAzureプレビュー提供を一部地域で開始。",
-            "従来のGPU構成と比較して推論コストを最大35%削減しつつスループットを向上。",
-            "大規模言語モデルの運用コスト圧縮を狙う企業向けに順次提供拡大予定。"
+            "【概要】マイクロソフトのAzure価格決定力は「遅効性のカタリスト」、BNPパリバが指摘 - BigGo ファイナンス",
+            "マイクロソフトのAzure価格決定力は「遅効性のカタリスト」、BNPパリバが指摘 BigGo ファイナンス...",
+            "情報提供元: Google News (Azure)"
           ],
           "key_points": [
-            "自社半導体戦略の加速によりAzureのコスト競争力を向上",
-            "OpenAIモデル等のホスティング効率が大幅改善",
-            "年内に日本リージョン含む主要拠点へ展開見込み"
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
           ],
-          "badge": "公式新機能"
+          "badge": "注目",
+          "importance": 3
         },
         {
-          "id": "azure_003",
-          "title": "金融機関向けAzureコンプライアンス自動監査ツールの新バージョンが提供開始",
-          "link": "https://azure.microsoft.com/",
-          "source": "Azure Updates",
-          "is_official": true,
-          "published_at": "2026-09-21 16:40",
-          "importance": 3,
-          "headline": "金融向けクラウド監査・安全基準の自動判定ツールが登場",
+          "id": "azure_1790116679_3",
+          "title": "AWS、オープンソースAIエージェント「Strands Harness」を公開 - 디지털투데이",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZlByM2h4cldDTlRSLWRXQXdCdUYxTFFGN3dFYjBCN19tT2FGVWhnNzRmeG5Gd2ExSy1OYTFsZUpRdFZoSFo0bGZHUHM5b29TRzN6ZkNDN3pyRGZVb05FZklSdXJleDRwT1l6MjFhdzIxeFRFbDBwZ3lZT05YTzBzN2UxYldqazltV2drOEU5UGNXQ090b2xjUkw5TGxrWE8yZHVPTmY4U1pRNElpMS1mUA?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-09-22 05:17",
+          "headline": "AWS、オープンソースAIエージェント「Strands Harness」を公開 ...",
           "summary": [
-            "日本のFISC安全対策基準やグローバル規制に準拠した監査自動化テンプレートが登場。",
-            "設定不備や権限ポリシーの逸脱をリアルタイムで検知し修復手順を提示。",
-            "エンタープライズのクラウド移行とガバナンス運用の負担を大幅に軽減。"
+            "【概要】AWS、オープンソースAIエージェント「Strands Harness」を公開 - 디지털투데이",
+            "AWS、オープンソースAIエージェント「Strands Harness」を公開 디지털투데이...",
+            "情報提供元: Google News (Azure)"
           ],
           "key_points": [
-            "FISC等の業界特化基準にプリセット対応",
-            "Azure Policyと密連携した自動修復機能",
-            "国内大手金融機関での先行検証が完了"
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
           ],
-          "badge": "エンタープライズ"
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1790116679_4",
+          "title": "Microsoft、Azure・Copilotなど18件の脆弱性を修正 7件がCVSS 10.0、顧客側の更新作業は不要(CVE-2026-85889)他 - 合同会社ロケットボーイズ",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUkktV2s0YlQyT19FWmNVdzkxU28zQVVxLUdabXlTREh2X2JjRDQ3dkEzZkR1WHhSTkx2bzJWai1pdzEwZUViS1F0MEtEQndFSU5TQUxza2txVWh1R0d4Y29lc1VDX2kwUi1HWnJwQXJVSmxSaW1xTHA2V3cwWEVNRXo4V29hUWw2NWVpajdxSTk?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-09-21 07:00",
+          "headline": "Microsoft、Azure・Copilotなど18件の脆弱性を修正 7件がC...",
+          "summary": [
+            "【概要】Microsoft、Azure・Copilotなど18件の脆弱性を修正 7件がCVSS 10.0、顧客側の更新作業は不要(CVE-2026-85889)他 - 合同会社ロケットボーイズ",
+            "Microsoft、Azure・Copilotなど18件の脆弱性を修正 7件がCVSS 10.0、顧客側の更新作業は不要...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1790116679_5",
+          "title": "CAFではじめるAzureクラウド導入 - 日経クロステック",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JZk5LRURaeGE0bS15TWwzY0VMRlJpQ2kyeGIwOVhmRkgtdHpDejc0VHFuR2VDSVc5VkFLd3YxSjQtYklqYXpZVlNBNE1RWUVEUXo1cF9sQXc4b19fbjZR?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-09-21 05:09",
+          "headline": "CAFではじめるAzureクラウド導入 - 日経クロステック",
+          "summary": [
+            "【概要】CAFではじめるAzureクラウド導入 - 日経クロステック",
+            "CAFではじめるAzureクラウド導入 日経クロステック...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
         }
       ]
     },
@@ -82,67 +118,104 @@
       "description": "テスラの最新アップデート・EV・FSD・決算動向",
       "articles": [
         {
-          "id": "tesla_001",
-          "title": "Tesla releases Full Self-Driving (FSD) v13.2 with end-to-end highway autonomy",
-          "link": "https://electrek.co/",
-          "source": "Electrek",
+          "id": "tesla_1790116680_1",
+          "title": "Tesla Semi wins 2,500-truck order, doubling US electric Class 8 fleet",
+          "link": "https://electrek.co/2026/09/22/tesla-semi-2500-truck-order-zet-scale-largest-us/",
+          "source": "Electrek (Tesla)",
           "is_official": true,
-          "published_at": "2026-09-22 21:00",
-          "importance": 5,
-          "headline": "テスラFSD v13.2配信開始：高速道路も完全エンドツーエンドAI制御へ",
+          "published_at": "2026-09-23 04:56",
+          "headline": "Tesla Semi wins 2,500-truck order, doubl...",
           "summary": [
-            "テスラが最新の完全自動運転ソフトウェア「FSD v13.2」を一般オーナー向けにロールアウト開始。",
-            "市街地に加えて高速道路走行も単一のエンドツーエンド・ニューラルネットに統合。",
-            "分岐合流のスムーズさや介入頻度の大幅減少が初期テストで報告されている。"
+            "【概要】Tesla Semi wins 2,500-truck order, doubling US electric Class 8 fleet",
+            "Tesla has been named the primary truck supplier for the larg...",
+            "情報提供元: Electrek (Tesla)"
           ],
           "key_points": [
-            "ルールベースのコードをほぼ全廃しAIモデルが直接操縦を判断",
-            "ドライバーの疲労軽減と自動レーンチェンジの精度が劇的向上",
-            "次期Cybercab運用に向けた重要マイルストーン"
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
           ],
-          "badge": "大型アップデート"
+          "badge": "注目",
+          "importance": 4
         },
         {
-          "id": "tesla_002",
-          "title": "テスラ、新型低価格EVの量産ライン試験運転をギガ上海で順次スタート",
-          "link": "https://electrek.co/",
-          "source": "Electrek / Reuters",
+          "id": "tesla_1790116680_2",
+          "title": "Tesla Full Self-Driving bug falsely flags dirty cameras, demands service",
+          "link": "https://electrek.co/2026/09/22/tesla-fsd-v14-3-9-false-camera-service-alerts/",
+          "source": "Electrek (Tesla)",
+          "is_official": true,
+          "published_at": "2026-09-22 23:26",
+          "headline": "Tesla Full Self-Driving bug falsely flag...",
+          "summary": [
+            "【概要】Tesla Full Self-Driving bug falsely flags dirty cameras, demands service",
+            "Tesla’s newest Full Self-Driving update, v14.3.9, is telling...",
+            "情報提供元: Electrek (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 4
+        },
+        {
+          "id": "tesla_1790116680_3",
+          "title": "Tesla’s active robotaxi fleet in Austin crashes back to 8 vehicles after Cybercab pump",
+          "link": "https://electrek.co/2026/09/22/tesla-robotaxi-active-fleet-austin-crashes-8-vehicles/",
+          "source": "Electrek (Tesla)",
+          "is_official": true,
+          "published_at": "2026-09-22 22:45",
+          "headline": "Tesla’s active robotaxi fleet in Austin ...",
+          "summary": [
+            "【概要】Tesla’s active robotaxi fleet in Austin crashes back to 8 vehicles after Cybercab pump",
+            "Tesla’s active robotaxi fleet in Austin has fallen back to j...",
+            "情報提供元: Electrek (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 4
+        },
+        {
+          "id": "tesla_1790116680_4",
+          "title": "テスラの「無人タクシー」が名古屋に ハンドルもブレーキもない車内に驚き 一方で求められる「安全性」は - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Ua3VNOHZfeHBWMDdiLXpoUlV3TmxBclliaXZkeEUyazR6OGxzX2p3ZExmM19ZRHZxLW92SzNMRWgzR19VVGpMajdFRGFVLWdZNjhXd090bGtZQjc4Y002b3pvUW1PN1hyTzg4QVFHd1F6NzhOX2V3T0FfWERSS3c?oc=5",
+          "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-09-22 14:20",
-          "importance": 4,
-          "headline": "テスラ2.5万ドル級EVの試作ラインが上海工場で稼働開始",
+          "published_at": "2026-09-22 19:25",
+          "headline": "テスラの「無人タクシー」が名古屋に ハンドルもブレーキもない車内に驚き 一方で求...",
           "summary": [
-            "次世代アンボックスド製造プロセスを採用したエントリーモデルのラインテストが開始。",
-            "既存のModel 3/Yラインを一部活用することで設備投資と立ち上げ期間を短縮。",
-            "2026年後半からの本格量産・納車開始を目指して最終調整中。"
+            "【概要】テスラの「無人タクシー」が名古屋に ハンドルもブレーキもない車内に驚き 一方で求められる「安全性」は - Yahoo!ニュース",
+            "テスラの「無人タクシー」が名古屋に ハンドルもブレーキもない車内に驚き 一方で求められる「安全性」は Yahoo!ニュー...",
+            "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
-            "車両価格を約300万円台に抑えるグローバル戦略モデル",
-            "新型バッテリーセル搭載で航続距離とコストを両立",
-            "日本・欧州市場への早期投入が期待される"
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
           ],
-          "badge": "新型EV"
+          "badge": "注目",
+          "importance": 3
         },
         {
-          "id": "tesla_003",
-          "title": "Tesla Megapackエネルギー事業の四半期売上高が過去最高を更新へ",
-          "link": "https://news.google.com/",
-          "source": "Tesla Investor Relations",
-          "is_official": true,
-          "published_at": "2026-09-21 19:10",
-          "importance": 4,
-          "headline": "テスラ蓄電池メガパック事業が急成長、電力網向け需要爆発",
+          "id": "tesla_1790116680_5",
+          "title": "韓国輸入車販売1位のTesla、サービス満足度はBYDに後れ…サービスセンター数でも逆転許す - BigGo ファイナンス",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ud0J1cGdjUVZtMThyRWFhNGI5UUpRd1ItZHZjbk5LTFdNN3QtcFVJNjJOclJvTDRiNHIyeWV4UlJXYnVIM28tVDBsT0h4bU80T1lTZllKeDVVMUxWa3FIcERYbGpfeE5kcnV5YUg0TVR6UENp?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-09-22 16:36",
+          "headline": "韓国輸入車販売1位のTesla、サービス満足度はBYDに後れ…サービスセンター数...",
           "summary": [
-            "AIデータセンター急増に伴う電力需要を背景に、メガパックの受注残が過去最大規模に拡大。",
-            "メガファクトリーの増産体制が軌道に乗り、利益率も自動車部門を凌駕する水準へ。",
-            "電力卸売市場向け最適化ソフトウェア「Autobidder」との相乗効果が鮮明。"
+            "【概要】韓国輸入車販売1位のTesla、サービス満足度はBYDに後れ…サービスセンター数でも逆転許す - BigGo ファイナンス",
+            "韓国輸入車販売1位のTesla、サービス満足度はBYDに後れ…サービスセンター数でも逆転許す BigGo ファイナンス...",
+            "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
-            "AIデータセンターのバックアップ電源として需要が急増",
-            "エネルギー部門の収益貢献度が全社利益の重要柱に成長",
-            "次世代Megapack 3の発表も年内予定"
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
           ],
-          "badge": "好決算動向"
+          "badge": "注目",
+          "importance": 3
         }
       ]
     },
@@ -153,69 +226,107 @@
       "description": "OpenAI・Google・生成AIの公式発表・技術速報",
       "articles": [
         {
-          "id": "ai_001",
-          "title": "OpenAI announces next-generation reasoning model updates with real-time web execution",
-          "link": "https://openai.com/news/",
-          "source": "OpenAI Official",
-          "is_official": true,
-          "published_at": "2026-09-22 23:45",
-          "importance": 5,
-          "headline": "OpenAI、思考力とWeb実行力を統合した最新モデルを発表",
-          "summary": [
-            "OpenAIが深い論理的推論とリアルタイムWebアクションを統合した新モデルのアップデートを発表。",
-            "数学やコーディングだけでなく、複数ステップにわたる調査・意思決定タスクの成功率が向上。",
-            "API利用者向けに低レイテンシ・トークン効率化オプションも同時提供。"
-          ],
-          "key_points": [
-            "複雑なマルチステップタスクの自律遂行能力が飛躍",
-            "ハルシネーション（誤情報生成）の発生率が従来比で半減",
-            "ChatGPT PlusおよびAPI有料プランにて即時利用可能"
-          ],
-          "badge": "新世代AI"
-        },
-        {
-          "id": "ai_002",
-          "title": "Google DeepMind、超高効率マルチモーダル基盤モデルの最新研究成果を公表",
-          "link": "https://blog.google/technology/ai/",
-          "source": "Google AI Blog",
-          "is_official": true,
-          "published_at": "2026-09-22 17:00",
-          "importance": 4,
-          "headline": "Google、スマホ端末上で高速推論可能な次世代軽量マルチモーダルAIを公開",
-          "summary": [
-            "音声・画像・テキストを同時にオンデバイス処理できる超小型基盤モデルのアーキテクチャを発表。",
-            "従来モデルの1/4のメモリ消費で同等の対話性能と視覚理解能力を達成。",
-            "次期Android OSおよびPixel端末での本格的なネイティブ実装を視野に展開。"
-          ],
-          "key_points": [
-            "通信不要のオフラインでも高度なマルチモーダル処理が可能",
-            "バッテリー消費を大幅に抑制する新規量子化技術を採用",
-            "オープンソース版研究ウェイトも近日公開予定"
-          ],
-          "badge": "オンデバイス"
-        },
-        {
-          "id": "ai_003",
-          "title": "Anthropic「Claude Opus 5.5」発表、運用コスト大幅削減と文章読解精度向上",
-          "link": "https://news.google.com/",
-          "source": "Anthropic / 報道各社",
+          "id": "ai_1790116681_1",
+          "title": "ＡＩ普及へ主導権争い 米は同盟国、中国は新興国―分断の岐路：時事ドットコム - 時事ドットコム",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE51WGtTNWZ1d3lsNkJZQ0NSMy1ELXgxT3lSbVBlU3BvUXNacWxMeFh2OERUUVdLMDBXMEV6YkJMNk9hMmRlM3AxQTdScXpmYzN6WlFNUmpTeWc0Zk02NTB4bmpIMA?oc=5",
+          "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-09-22 17:15",
-          "importance": 4,
-          "headline": "Claude Opus 5.5登場：高精度推論を維持しつつAPIコストを大幅低減",
+          "published_at": "2026-09-23 07:04",
+          "headline": "ＡＩ普及へ主導権争い 米は同盟国、中国は新興国―分断の岐路：時事ドットコム - ...",
           "summary": [
-            "最上位モデルOpusの最新バージョン「5.5」がリリースされ、推論速度と文章品質が向上。",
-            "運用コストが旧世代比で大幅に引き下げられ、企業導入のハードルを低減。",
-            "長文ドキュメントの整合性チェックや要約精度において新たな業界ベンチマークを記録。"
+            "【概要】ＡＩ普及へ主導権争い 米は同盟国、中国は新興国―分断の岐路：時事ドットコム - 時事ドットコム",
+            "ＡＩ普及へ主導権争い 米は同盟国、中国は新興国―分断の岐路：時事ドットコム 時事ドットコム...",
+            "情報提供元: Google News (AI)"
           ],
           "key_points": [
-            "API価格の引き下げによりコスト効率が劇的改善",
-            "ニュアンスに富んだ自然な日本語表現のクオリティが向上",
-            "コーディング支援および複雑なドキュメント分析に強み"
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
           ],
-          "badge": "新モデル"
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "ai_1790116681_2",
+          "title": "AWS、SalesforceがAI連携を強化 データ分断をどう解消するか - キーマンズネット",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GSElRQzVmcG95NENWZVYwU0xzUzBjcFByU1JCSXhFSTZ0cmJCVkIweWNuOHdFMjJmQnowUWFQcDNIY1drMVJXTnNJYzB3TWlZM2lxRF9OdkQ1SjVPRE1nT2I3RnJQdw?oc=5",
+          "source": "Google News (AI)",
+          "is_official": false,
+          "published_at": "2026-09-23 07:00",
+          "headline": "AWS、SalesforceがAI連携を強化 データ分断をどう解消するか - キ...",
+          "summary": [
+            "【概要】AWS、SalesforceがAI連携を強化 データ分断をどう解消するか - キーマンズネット",
+            "AWS、SalesforceがAI連携を強化 データ分断をどう解消するか キーマンズネット...",
+            "情報提供元: Google News (AI)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "ai_1790116681_3",
+          "title": "最も危険なAIハッキング能力は“ヒューマン・イン・ザ・ループ”で発揮される - WIRED.jp",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbWtKNXluT01ZR19oX3FrV1lFTXZuSjhFckdFQl9uVGNMLUxvOXRFalFwb3l1RjJxQktmcENUV2RtUHVEbFpqZ08zZHNrZDNKUDEteVlZSENoOW94d0h4VDR4YU8yQ3lzczdJd3NxdUlkVTZaNmFKYzBLRktBUWMzNFhCM3EyclIzMFdVNmpYMWFBSUpFSFRr?oc=5",
+          "source": "Google News (AI)",
+          "is_official": false,
+          "published_at": "2026-09-23 07:00",
+          "headline": "最も危険なAIハッキング能力は“ヒューマン・イン・ザ・ループ”で発揮される - ...",
+          "summary": [
+            "【概要】最も危険なAIハッキング能力は“ヒューマン・イン・ザ・ループ”で発揮される - WIRED.jp",
+            "最も危険なAIハッキング能力は“ヒューマン・イン・ザ・ループ”で発揮される WIRED.jp...",
+            "情報提供元: Google News (AI)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "ai_1790116681_4",
+          "title": "「AIに振り回される人」と「使いこなす人」の決定的な差（ダイヤモンド・オンライン） - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CbHFEaXVBM0hPLVpIcWttUzlTZWVjMHJaZGh1VUl0b1VJMFIxMUp1STBZc2JkWHBqR3RIRkpqdXZXMFRyeHBFTzhmWFRKejNjM05ZaldpdDdRbnlrT3UtSEhKYzgwQ29vd1NiMk9KaHBxQnk0ZWJEdlo5Q09RSTA?oc=5",
+          "source": "Google News (AI)",
+          "is_official": false,
+          "published_at": "2026-09-23 06:57",
+          "headline": "「AIに振り回される人」と「使いこなす人」の決定的な差（ダイヤモンド・オンライン...",
+          "summary": [
+            "【概要】「AIに振り回される人」と「使いこなす人」の決定的な差（ダイヤモンド・オンライン） - Yahoo!ニュース",
+            "「AIに振り回される人」と「使いこなす人」の決定的な差（ダイヤモンド・オンライン） Yahoo!ニュース...",
+            "情報提供元: Google News (AI)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "ai_1790116681_5",
+          "title": "Better prompt caching for GPT-6",
+          "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+          "source": "OpenAI Official Blog",
+          "is_official": true,
+          "published_at": "2026-09-23 06:00",
+          "headline": "Better prompt caching for GPT-6",
+          "summary": [
+            "【概要】Better prompt caching for GPT-6",
+            "Learn how GPT-6 improves prompt caching with higher cache hi...",
+            "情報提供元: OpenAI Official Blog"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 4
         }
       ]
     }
-  ]
+  ],
+  "total_count": 15
 }
