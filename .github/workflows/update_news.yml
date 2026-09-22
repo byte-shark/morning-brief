@@ -1,0 +1,46 @@
+name: Update Daily News Summary
+
+on:
+  schedule:
+    # 毎朝 JST 6:30 (UTC 21:30) に自動実行
+    - cron: '30 21 * * *'
+  # GitHubの画面からいつでも「Run workflow」で手動実行可能
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: リポジトリのチェックアウト
+        uses: actions/checkout@v4
+
+      - name: Pythonのセットアップ
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: 'src/requirements.txt'
+
+      - name: 依存パッケージのインストール
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r src/requirements.txt
+
+      - name: 最新ニュース収集 & Gemini 3.8 Flash要約の実行
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ secrets.GEMINI_MODEL || 'gemini-3.8-flash' }}
+          MAX_ARTICLES_PER_CATEGORY: 5
+        run: |
+          python src/fetch_and_summarize.py
+
+      - name: 更新データのコミット & プッシュ
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add docs/data/news.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: 毎朝ニュース自動更新 [skip ci]" && git push)
