@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026年09月24日 08:54",
-  "updated_at_iso": "2026-09-24T08:54:12.927214+09:00",
+  "updated_at": "2026年09月25日 08:58",
+  "updated_at_iso": "2026-09-25T08:58:37.355442+09:00",
   "model_used": "mock-mode",
   "categories": [
     {
@@ -10,7 +10,87 @@
       "description": "Microsoft Azureの公式発表・最新クラウド動向",
       "articles": [
         {
-          "id": "azure_1790207653_1",
+          "id": "azure_1790294317_1",
+          "title": "エーピーコミュニケーションズ、Microsoft MarketplaceでPlaTTのコンテナオファーを販売開始 - ニュースメディアVOIX",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1UcVFmQVh1aWxFUTQ5M3pBQ0dIenB1d2poNkFaU3d4b3BBNllTbkJ5bG1La3VXSHdQNnVXdmpvekw2TVR2Q0ZRN1pZdjhHdkFyd1RMV25LMlVGcFo1UjY2ZVNuZUdpeGdWZG9pNVV5d2F1N3V6U2RwaF9HNkQ?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-09-24 15:53",
+          "headline": "エーピーコミュニケーションズ、Microsoft MarketplaceでPla...",
+          "summary": [
+            "【概要】エーピーコミュニケーションズ、Microsoft MarketplaceでPlaTTのコンテナオファーを販売開始 - ニュースメディアVOIX",
+            "エーピーコミュニケーションズ、Microsoft MarketplaceでPlaTTのコンテナオファーを販売開始 ニュー...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1790294317_2",
+          "title": "WindowsツールをAIでmacOSへ移植、わずか2日 - Microsoft Azure CTOが実践 - マイナビニュース",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BdzY3RzZULTM2eEZ1V2lPci1NVlVaSEI5SUF5LWlON2tkUmpaeFgzZ3E4eFlXdUpBYUFDYmVUdjdCX3dzRngwSWUzSDhzLTJIdnlaSnB5eThPaFg2SlFZX1dzZklCb0Fx?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-09-24 14:47",
+          "headline": "WindowsツールをAIでmacOSへ移植、わずか2日 - Microsoft...",
+          "summary": [
+            "【概要】WindowsツールをAIでmacOSへ移植、わずか2日 - Microsoft Azure CTOが実践 - マイナビニュース",
+            "WindowsツールをAIでmacOSへ移植、わずか2日 - Microsoft Azure CTOが実践 マイナビニュ...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1790294317_3",
+          "title": "バーンスタインレポート解説：ハイパースケール・クラウド企業のQ2に差が開く、グーグルがリード、マイクロソフトは最も堅調 - 深潮TechFlow",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA3dFR6NTZncXVZdVItR0NsbnlsRzl0SmlWM19pQW1WZEhrVFgwd1VZLW5lbV9QTkJDRVIxWjlwZFpOOUI0eVJOWjRkYmx6ZDZ2N1hnVEpPRkZ1bWtP?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-09-24 13:14",
+          "headline": "バーンスタインレポート解説：ハイパースケール・クラウド企業のQ2に差が開く、グー...",
+          "summary": [
+            "【概要】バーンスタインレポート解説：ハイパースケール・クラウド企業のQ2に差が開く、グーグルがリード、マイクロソフトは最も堅調 - 深潮TechFlow",
+            "バーンスタインレポート解説：ハイパースケール・クラウド企業のQ2に差が開く、グーグルがリード、マイクロソフトは最も堅調 ...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1790294317_4",
+          "title": "開発者ポータル「PlaTT」、Microsoft Marketplaceでコンテナオファーでの販売を開始 - PR TIMES",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FQkpiZHF5Q2VZQUdoWWJrRWZjaUtMY09OSDMwWVBzc1VRMUx2TC15TzVHcFlLZ2w3aHh0TG1UUEEyZzB4U0hSMGZUTlZFaXVjS0NtU1VZZ1BmRXRfMEhFRHktS1VnVFp3b1E?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-09-24 11:00",
+          "headline": "開発者ポータル「PlaTT」、Microsoft Marketplaceでコンテ...",
+          "summary": [
+            "【概要】開発者ポータル「PlaTT」、Microsoft Marketplaceでコンテナオファーでの販売を開始 - PR TIMES",
+            "開発者ポータル「PlaTT」、Microsoft Marketplaceでコンテナオファーでの販売を開始 PR TIME...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1790294317_5",
           "title": "Oppenheimer Boosts Microsoft Price Target to $570 Following Strong Azure and Copilot Growth - TIKR.com",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYTdDQlRLWkNmdnNiekxDaE9VUk1DaFBlWE1KQXNrVDhvTURuemhXTDlicXNWR2hMdHpaX1hyaFVKN1I0aURvTFoweTJ6UVotaU1zbjJYd01ZYkZnX3EzTnNnR3p1aFlPLXZrWFJKd3BPY2pqbFRBY3BnVE55Y3hXT0x4MlFGZVhndkQ4eEwySUZqeFRnYzRackp2cmlrazBw?oc=5",
           "source": "Google News (Azure)",
@@ -20,86 +100,6 @@
           "summary": [
             "【概要】Oppenheimer Boosts Microsoft Price Target to $570 Following Strong Azure and Copilot Growth - TIKR.com",
             "Oppenheimer Boosts Microsoft Price Target to $570 Following ...",
-            "情報提供元: Google News (Azure)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "azure_1790207653_2",
-          "title": "アプリ「マウスカーソルげんそくん」をMicrosoft Storeで公開してみた - watch.impress.co.jp",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vQ1ZETVdPdFVBZnkzY3ZERXo3d1AwYl9jczVsYkY1eFVpUktaLS1WRU1NWDVWeGZvN0NUbjJYM3l1R0NkVnF3OHVmWTN1ZlRGRjRzTnhoZk9yc0FSX19ra3FMbnZydw?oc=5",
-          "source": "Google News (Azure)",
-          "is_official": false,
-          "published_at": "2026-09-23 09:00",
-          "headline": "アプリ「マウスカーソルげんそくん」をMicrosoft Storeで公開してみた...",
-          "summary": [
-            "【概要】アプリ「マウスカーソルげんそくん」をMicrosoft Storeで公開してみた - watch.impress.co.jp",
-            "アプリ「マウスカーソルげんそくん」をMicrosoft Storeで公開してみた watch.impress.co.jp...",
-            "情報提供元: Google News (Azure)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "azure_1790207653_3",
-          "title": "オッペンハイマー氏によると、マイクロソフトのAzureおよびM365商用事業は、一部のリスクにもかかわらず、2027会計年度に加速傾向を維持できる見込み - Moomoo",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORHl3ZVVEeW1fZFlRU2ZLSFdLNE83ck1UbDcwRkpjNGpqQ24xSGdvQzdnTmFFRHhCZk1oZGh0VzI2TXotelF2dzlnV2ZpRURvMmJCd1d2enZEMWdnU1NRX2pDUldqVnR6Z3B3QldNVElZRXA1SkczUWQyNDdMN2ljZ1hocDREQl9qNmZrU08wdlVBQzZ2NkM1eTVldXlndFduQTJNaXZfcHVDVzk2M3owdWpnUG1jcElXV2c?oc=5",
-          "source": "Google News (Azure)",
-          "is_official": false,
-          "published_at": "2026-09-23 03:55",
-          "headline": "オッペンハイマー氏によると、マイクロソフトのAzureおよびM365商用事業は、...",
-          "summary": [
-            "【概要】オッペンハイマー氏によると、マイクロソフトのAzureおよびM365商用事業は、一部のリスクにもかかわらず、2027会計年度に加速傾向を維持できる見込み - Moomoo",
-            "オッペンハイマー氏によると、マイクロソフトのAzureおよびM365商用事業は、一部のリスクにもかかわらず、2027会計...",
-            "情報提供元: Google News (Azure)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "azure_1790207653_4",
-          "title": "マイクロソフトのAzure価格決定力は「遅効性のカタリスト」、BNPパリバが指摘 - finance.biggo.jp",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5yRHBxcl9ESEE3UWY0ZnJ0eTZMQjBiakR5UUdIWDE2N1R1UjJQUTYwUkZVRFh0N1dlcFhjLThwbGFINUotcElNR2lVRkdPZkk2NUg5Ql9HT2RMRUVBWFNRWmJNTGZGMldBWGlfcm02X1FXeGxW?oc=5",
-          "source": "Google News (Azure)",
-          "is_official": false,
-          "published_at": "2026-09-22 09:05",
-          "headline": "マイクロソフトのAzure価格決定力は「遅効性のカタリスト」、BNPパリバが指摘...",
-          "summary": [
-            "【概要】マイクロソフトのAzure価格決定力は「遅効性のカタリスト」、BNPパリバが指摘 - finance.biggo.jp",
-            "マイクロソフトのAzure価格決定力は「遅効性のカタリスト」、BNPパリバが指摘 finance.biggo.jp...",
-            "情報提供元: Google News (Azure)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "azure_1790207653_5",
-          "title": "AWS、オープンソースAIエージェント「Strands Harness」を公開 - 디지털투데이",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZlByM2h4cldDTlRSLWRXQXdCdUYxTFFGN3dFYjBCN19tT2FGVWhnNzRmeG5Gd2ExSy1OYTFsZUpRdFZoSFo0bGZHUHM5b29TRzN6ZkNDN3pyRGZVb05FZklSdXJleDRwT1l6MjFhdzIxeFRFbDBwZ3lZT05YTzBzN2UxYldqazltV2drOEU5UGNXQ090b2xjUkw5TGxrWE8yZHVPTmY4U1pRNElpMS1mUA?oc=5",
-          "source": "Google News (Azure)",
-          "is_official": false,
-          "published_at": "2026-09-22 05:17",
-          "headline": "AWS、オープンソースAIエージェント「Strands Harness」を公開 ...",
-          "summary": [
-            "【概要】AWS、オープンソースAIエージェント「Strands Harness」を公開 - 디지털투데이",
-            "AWS、オープンソースAIエージェント「Strands Harness」を公開 디지털투데이...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -118,16 +118,16 @@
       "description": "テスラの最新アップデート・EV・FSD・決算動向",
       "articles": [
         {
-          "id": "tesla_1790207654_1",
-          "title": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vR2owRXJLX1dwYUtHY05wNjVKVmVrTHNXdm5yRGJ0NHJzSzZTaEgxWFo0WmNBOWUxV2tXcHljUWlYaG92bll2YUNIQzJlVE0?oc=5",
+          "id": "tesla_1790294318_1",
+          "title": "テスラのロボタクシー「2035年に売上50兆円」 - 自動運転ラボ",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBGMTBiS29WdU9mMlJqM0IwZ2lpN21pN2g2em9UWVcwRWR6UDZQcW9NRXNLYU5NMDdMWVBsMGRUQmF6U21xZGpQRw?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-09-24 04:30",
-          "headline": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
+          "published_at": "2026-09-25 06:30",
+          "headline": "テスラのロボタクシー「2035年に売上50兆円」 - 自動運転ラボ",
           "summary": [
-            "【概要】テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
-            "テスラ【TSLA】：株価・株式情報 Yahoo!ファイナンス...",
+            "【概要】テスラのロボタクシー「2035年に売上50兆円」 - 自動運転ラボ",
+            "テスラのロボタクシー「2035年に売上50兆円」 自動運転ラボ...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -138,36 +138,16 @@
           "importance": 3
         },
         {
-          "id": "tesla_1790207654_2",
-          "title": "$テスラ (TSLA.US)$ 右肩の形成を待ちましょう。形成された時点で売りシグナルとなります。さらなる下落余地に備えて、売却やプットオプションの購入などを検討してください。 - Moomoo",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR2lVaUhMbE5RXzJSc05hUnNuTGdEMW9RR3pGTmg5OFFUejBXaUJCS0pNRTNSX3QtclZuTmM2NGFwMEhiZ1pmdEhFaS0yVVZwVXRUV2d2RFZvcVZQQjQ3Rk1yWjJyeEx6QlB5bGRPbUtiT2FvSGU2c2c2RVA3eERXODA3V21aTzZRYlhxeVBwRFpncUVoTDJ4VjNyOENlUUxjY3RTRDFVZUh4c0E?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-09-24 00:42",
-          "headline": "$テスラ (TSLA.US)$ 右肩の形成を待ちましょう。形成された時点で売りシ...",
-          "summary": [
-            "【概要】$テスラ (TSLA.US)$ 右肩の形成を待ちましょう。形成された時点で売りシグナルとなります。さらなる下落余地に備えて、売却やプットオプションの購入などを検討してください。 - Moomoo",
-            "$テスラ (TSLA.US)$ 右肩の形成を待ちましょう。形成された時点で売りシグナルとなります。さらなる下落余地に備え...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "tesla_1790207654_3",
-          "title": "Tesla’s ‘hardcore lawyers’ went a little too hardcore",
-          "link": "https://electrek.co/2026/09/23/tesla-hardcore-lawyers-misled-witness-racism-trial/",
+          "id": "tesla_1790294318_2",
+          "title": "Tesla ‘FSD’ sped in 55% of Brussels 30 km/h zones ahead of EU vote",
+          "link": "https://electrek.co/2026/09/24/tesla-fsd-belgium-test-speeding-30-kmh-eu-vote/",
           "source": "Electrek (Tesla)",
           "is_official": true,
-          "published_at": "2026-09-23 23:15",
-          "headline": "Tesla’s ‘hardcore lawyers’ went a little...",
+          "published_at": "2026-09-25 04:50",
+          "headline": "Tesla ‘FSD’ sped in 55% of Brussels 30 k...",
           "summary": [
-            "【概要】Tesla’s ‘hardcore lawyers’ went a little too hardcore",
-            "Tesla’s racism trial in California opened Monday with a bad ...",
+            "【概要】Tesla ‘FSD’ sped in 55% of Brussels 30 km/h zones ahead of EU vote",
+            "Tesla’s “Full Self-Driving (Supervised)” broke the speed lim...",
             "情報提供元: Electrek (Tesla)"
           ],
           "key_points": [
@@ -178,16 +158,16 @@
           "importance": 4
         },
         {
-          "id": "tesla_1790207654_4",
-          "title": "Tesla Registers Local Entity in Vietnam Ahead of Potential Market Expansion - TIKR.com",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZFNjMGREcmlyblZqRFZiOWJxTnpIbzdhQ2Y3Q2ZFUjlLTG10eE5aZ2oyUExUM25HZHk5bVU3NkFwZDZfM2VWcTQ3Rm02VUs1bWI2LXdqYU5SRU01bkhtMWxuMFlDeGVNanAxZUZpSW0wcHRvS1JGVFBVNFgxdHlZN01ySFpJdVFxQzh1R2NlSl9QYW8?oc=5",
+          "id": "tesla_1790294318_3",
+          "title": "＜画像3 / 9＞米電気自動車・テスラモーターズのショールームが心斎橋にオープン - ウォーカープラス",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WQ0t3cGFXdm9wZlgtVk5nYUI2QTE1N2JLU1VTR2wxT2laSVRnQlQzUWxxVEMwb1pzd2JubWx1bWFEQ0dTazhHUl9sQUFpRUEyV1Z4ZS1sZzJaVWZTdDJLRm9tbmpBb0Iy?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-09-23 22:01",
-          "headline": "Tesla Registers Local Entity in Vietnam ...",
+          "published_at": "2026-09-25 03:36",
+          "headline": "＜画像3 / 9＞米電気自動車・テスラモーターズのショールームが心斎橋にオープン...",
           "summary": [
-            "【概要】Tesla Registers Local Entity in Vietnam Ahead of Potential Market Expansion - TIKR.com",
-            "Tesla Registers Local Entity in Vietnam Ahead of Potential M...",
+            "【概要】＜画像3 / 9＞米電気自動車・テスラモーターズのショールームが心斎橋にオープン - ウォーカープラス",
+            "＜画像3 / 9＞米電気自動車・テスラモーターズのショールームが心斎橋にオープン ウォーカープラス...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -198,16 +178,16 @@
           "importance": 3
         },
         {
-          "id": "tesla_1790207654_5",
-          "title": "Tesla Japan、家庭用蓄電池Powerwall 3を発売 - 千葉テレビ放送",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WZUZ0ZVF6ZEdvcUZCbWpwNkdxNFpVYjNJQURvVS1IY3Z1ZjJ2QlZzUG9TRk1Uajc1ZGh1NjR6aGs4ZVJYZEFLSUF5SVlJMXlQdXpMRkZaX1YzNGdGTHkw?oc=5",
+          "id": "tesla_1790294318_4",
+          "title": "テスラの野望、日本揺さぶる 「レベル3」工場という起死回生 - 日経ビジネス電子版",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vZHBFVlBnTDV3YUpldldzc2U1VTA2NlB6US11V0xwV3RZeDFNc1Jlb3ZtQnJsOVRPT25mZk9oRF9tQVFwZm1SVXo1MWx4bW5uTlFhOEtQS1BWR3BJNUtlZ19vTTI?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-09-23 21:11",
-          "headline": "Tesla Japan、家庭用蓄電池Powerwall 3を発売 - 千葉テレビ...",
+          "published_at": "2026-09-25 00:00",
+          "headline": "テスラの野望、日本揺さぶる 「レベル3」工場という起死回生 - 日経ビジネス電子...",
           "summary": [
-            "【概要】Tesla Japan、家庭用蓄電池Powerwall 3を発売 - 千葉テレビ放送",
-            "Tesla Japan、家庭用蓄電池Powerwall 3を発売 千葉テレビ放送...",
+            "【概要】テスラの野望、日本揺さぶる 「レベル3」工場という起死回生 - 日経ビジネス電子版",
+            "テスラの野望、日本揺さぶる 「レベル3」工場という起死回生 日経ビジネス電子版...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -216,6 +196,26 @@
           ],
           "badge": "注目",
           "importance": 3
+        },
+        {
+          "id": "tesla_1790294318_5",
+          "title": "Tesla Semi launch sneak peek: several customers are being announced",
+          "link": "https://electrek.co/2026/09/24/tesla-semi-launch-sneak-peek-customers-announced/",
+          "source": "Electrek (Tesla)",
+          "is_official": true,
+          "published_at": "2026-09-24 23:10",
+          "headline": "Tesla Semi launch sneak peek: several cu...",
+          "summary": [
+            "【概要】Tesla Semi launch sneak peek: several customers are being announced",
+            "Tesla has lined up at least 11 Semi electric trucks wearing ...",
+            "情報提供元: Electrek (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 4
         }
       ]
     },
@@ -226,16 +226,16 @@
       "description": "OpenAI・Google・生成AIの公式発表・技術速報",
       "articles": [
         {
-          "id": "ai_1790207655_1",
-          "title": "オープンＡＩのエージェントが豪政府サイト侵入、6月に発生と首相説明 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03VFQ5RThPazcwSWVYeFNqblAzb0ZRLUs0aGRaRUdZaXA4UVFnczZPRTJYeVFzQ2VsOHh3Zml5RXhzZWJJSkdOVG1SenRTWllMcWQzUExDYlRKWV9manNHSTV6dlpZZGZ2Q2J5blFBdERRWVUtaXNtcXZKeWlNMmc?oc=5",
+          "id": "ai_1790294319_1",
+          "title": "エクサウィザーズグループ、生成AI活用の”活用停滞”を解消する「AX推進支援パッケージ」を提供開始 ～個人・組織診断で課題と推進アクションを特定。全社員教育から実務変革、経営向け成果報告まで約半年で一貫提供 - 株式会社エクサウィザーズ",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UelZlZ0I5cXg4Q1VaWDdYOFNyVzVLcWtROUNTNTZWckxLSnZMV25HTEt5VktBZThtTEhtZ3cyNzNVZTd0VVJreTFsdkUzS1E?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-09-24 07:37",
-          "headline": "オープンＡＩのエージェントが豪政府サイト侵入、6月に発生と首相説明 - Reut...",
+          "published_at": "2026-09-25 08:36",
+          "headline": "エクサウィザーズグループ、生成AI活用の”活用停滞”を解消する「AX推進支援パッ...",
           "summary": [
-            "【概要】オープンＡＩのエージェントが豪政府サイト侵入、6月に発生と首相説明 - Reuters",
-            "オープンＡＩのエージェントが豪政府サイト侵入、6月に発生と首相説明 Reuters...",
+            "【概要】エクサウィザーズグループ、生成AI活用の”活用停滞”を解消する「AX推進支援パッケージ」を提供開始 ～個人・組織診断で課題と推進アクションを特定。全社員教育から実務変革、経営向け成果報告まで約半年で一貫提供 - 株式会社エクサウィザーズ",
+            "エクサウィザーズグループ、生成AI活用の”活用停滞”を解消する「AX推進支援パッケージ」を提供開始 ～個人・組織診断で課...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -246,16 +246,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1790207655_2",
-          "title": "低価格AIモデルを発表 米オープンAIとアンソロピック（時事通信） - Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUNFBpZm10QUwyaG9INF9HbEg1RnRIV1pTYXQ1ZGtaUWVvazNEbnBZY3hNSENCMHNlYWNZUTIzUV95Q3pTRGdYR085d3ZSNjA2SDg2cFRBMzRzaDdNZFRYbjhSbEdzdkI4SlVDRzFGSzNwWXpqUndUNDdBakgyTUk?oc=5",
+          "id": "ai_1790294319_2",
+          "title": "日本発スタートアップのエッジAIチップがNVIDIA超え、AI処理性能は3.36PFLOPS：人工知能ニュース - monoist.itmedia.co.jp",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9oc25UYV8xQlRQS3l5dFU0dklBT1NRZm5xaWtlVURuLUlpbnl4SUI0T0ZQTEJEQm1zRWlyU3B2c3c3cU1PcUlORG1WQlFId29iVlV4MW5rRVluaWNUWUROVXVqS0pwV3Zna0NCVjVCcw?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-09-24 07:23",
-          "headline": "低価格AIモデルを発表 米オープンAIとアンソロピック（時事通信） - Yaho...",
+          "published_at": "2026-09-25 06:45",
+          "headline": "日本発スタートアップのエッジAIチップがNVIDIA超え、AI処理性能は3.36...",
           "summary": [
-            "【概要】低価格AIモデルを発表 米オープンAIとアンソロピック（時事通信） - Yahoo!ニュース",
-            "低価格AIモデルを発表 米オープンAIとアンソロピック（時事通信） Yahoo!ニュース...",
+            "【概要】日本発スタートアップのエッジAIチップがNVIDIA超え、AI処理性能は3.36PFLOPS：人工知能ニュース - monoist.itmedia.co.jp",
+            "日本発スタートアップのエッジAIチップがNVIDIA超え、AI処理性能は3.36PFLOPS：人工知能ニュース mono...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -266,16 +266,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1790207655_3",
-          "title": "AI管理の主導権巡り対立 トランプ大統領、国連で国際統制を拒否 - 株式会社エクサウィザーズ",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JX1hnYjUyU1J5NjdsMW1RREl1R2JJc1ZYZFgtblV0WHphMTYzeUNnX3FqengzaWdnS1RKZ0wwUFVfU0gtOFlySzZ2a2F0aUJHMGVlWHEwLTJOS29xSlJJQ1VWQ2JlZw?oc=5",
+          "id": "ai_1790294319_3",
+          "title": "メタのAI「ミューズ」日本で開始へ 買い物代行、情報漏洩にはリスク - 日本経済新聞",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0eEhHMDZqM0wzQTNxZC1OR3BfdjBXTlZUcHdudjhqRWFuZi1vY3kyb3plSjdOLWtKMzhOTkFtVTlfRDR0dWlXdWhrdm5kUlFMMEtEeVZBblg0UFNFaERjczE1LTJNQmhjUVI2Wg?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-09-24 07:08",
-          "headline": "AI管理の主導権巡り対立 トランプ大統領、国連で国際統制を拒否 - 株式会社エク...",
+          "published_at": "2026-09-25 06:09",
+          "headline": "メタのAI「ミューズ」日本で開始へ 買い物代行、情報漏洩にはリスク - 日本経済...",
           "summary": [
-            "【概要】AI管理の主導権巡り対立 トランプ大統領、国連で国際統制を拒否 - 株式会社エクサウィザーズ",
-            "AI管理の主導権巡り対立 トランプ大統領、国連で国際統制を拒否 株式会社エクサウィザーズ...",
+            "【概要】メタのAI「ミューズ」日本で開始へ 買い物代行、情報漏洩にはリスク - 日本経済新聞",
+            "メタのAI「ミューズ」日本で開始へ 買い物代行、情報漏洩にはリスク 日本経済新聞...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -286,16 +286,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1790207655_4",
-          "title": "ＡＩ、７０年越しに本格普及 競争加速、脅威論も台頭―社会・経済に地殻変動 - 時事ドットコム",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZZGswZU9IMUpSTTlaODl4N3daTTlDWWVzNHpycmtoZHY1dkxMX2VEMWozTjQySHJvMXp2OG9HSzY2VmJ2Z2Q2bm44VU9UNTNmUnUtNHVqMUVXUzRtRmdWbmpGTQ?oc=5",
+          "id": "ai_1790294319_4",
+          "title": "米政権、オープンＡＩとアンソロピックに英への新モデル共有保留を要請＝報道 - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CNWhkazAzVnhyY2xsa1dMb0U3a3RTLUFpSS1LYnV4ZnZRbklkRGNwbTlGVFlhQzl3MnFSdHJnQ1ZlSExndkZPUDZZV25MMF9ERkdtUmtKLThDZnltbEdFa2Q5VzNVZUN1a2JXS0h3N2gwSXVmRTQ3cE42dm95QQ?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-09-24 07:05",
-          "headline": "ＡＩ、７０年越しに本格普及 競争加速、脅威論も台頭―社会・経済に地殻変動 - 時...",
+          "published_at": "2026-09-25 05:41",
+          "headline": "米政権、オープンＡＩとアンソロピックに英への新モデル共有保留を要請＝報道 - r...",
           "summary": [
-            "【概要】ＡＩ、７０年越しに本格普及 競争加速、脅威論も台頭―社会・経済に地殻変動 - 時事ドットコム",
-            "ＡＩ、７０年越しに本格普及 競争加速、脅威論も台頭―社会・経済に地殻変動 時事ドットコム...",
+            "【概要】米政権、オープンＡＩとアンソロピックに英への新モデル共有保留を要請＝報道 - reuters.com",
+            "米政権、オープンＡＩとアンソロピックに英への新モデル共有保留を要請＝報道 reuters.com...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -306,16 +306,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1790207655_5",
-          "title": "AIがAIを狂わせる サイバー被害責めるほど「攻撃者の思うつぼ」 [AIの時代] - 朝日新聞",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1aFFxNnp1ZnJST2pTZTdaVU5FWWF3MG5ReUN4dkV6aEVNbkROZnE2bTc3NjN3OXluVEVhMFU1Z1VYZlFKZ0JjUEZvV0F3UnoyUG1tbjF4X0t5YW9ZVVFSR1ZKNENISDQ?oc=5",
+          "id": "ai_1790294319_5",
+          "title": "米オープンAIのエージェント、豪政府ウェブサイトに「侵入」　首相が明かす - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UdjRpRHFVY0pMT1lxQUlLaW5xSGo3SzkxVkZWMFZiQUFIM1NrWFlxeDJnTnZOaDlERXEzczdwWDRGOVFDaXZBSHowV0U2WURTNDQ1eVhtc1FOU3drdUFmVtIBZkFVX3lxTE1mdWk0TFpGcmZ4RDNPQlR3bDhWUFBycVZIOFlEbklxRFAySHlkV2lxdXY5QVJCcHAtMUtlc2VXdk9pOWluUGtDVDVEdWw2WlFEMVlHbjhzWEpYTHUxMUtCSk1kNUVLZw?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-09-24 07:00",
-          "headline": "AIがAIを狂わせる サイバー被害責めるほど「攻撃者の思うつぼ」 [AIの時代]...",
+          "published_at": "2026-09-24 17:10",
+          "headline": "米オープンAIのエージェント、豪政府ウェブサイトに「侵入」　首相が明かす - B...",
           "summary": [
-            "【概要】AIがAIを狂わせる サイバー被害責めるほど「攻撃者の思うつぼ」 [AIの時代] - 朝日新聞",
-            "AIがAIを狂わせる サイバー被害責めるほど「攻撃者の思うつぼ」 [AIの時代] 朝日新聞...",
+            "【概要】米オープンAIのエージェント、豪政府ウェブサイトに「侵入」　首相が明かす - BBC",
+            "米オープンAIのエージェント、豪政府ウェブサイトに「侵入」 首相が明かす BBC...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
