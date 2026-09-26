@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026年09月25日 08:58",
-  "updated_at_iso": "2026-09-25T08:58:37.355442+09:00",
+  "updated_at": "2026年09月26日 09:04",
+  "updated_at_iso": "2026-09-26T09:04:34.577941+09:00",
   "model_used": "mock-mode",
   "categories": [
     {
@@ -10,7 +10,67 @@
       "description": "Microsoft Azureの公式発表・最新クラウド動向",
       "articles": [
         {
-          "id": "azure_1790294317_1",
+          "id": "azure_1790381075_1",
+          "title": "Introducing the new Copilot with Home, Code and Autopilot",
+          "link": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+          "source": "Microsoft Official Blog",
+          "is_official": true,
+          "published_at": "2026-09-25 21:03",
+          "headline": "Introducing the new Copilot with Home, C...",
+          "summary": [
+            "【概要】Introducing the new Copilot with Home, Code and Autopilot",
+            "We’re reimagining Microsoft Copilot to enable work as it evo...",
+            "情報提供元: Microsoft Official Blog"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 4
+        },
+        {
+          "id": "azure_1790381075_2",
+          "title": "Azureコラム 第13回「AVD Hybrid on Nutanix AHV with Nerdio」 - intellilink.co.jp",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UYTJlV0t3Y3Z3Y29oZEo0VVI0Z2FxZF9hVnBHbl9SSnVqT3dXTWtDVjJKTnNHcU85OTZTM0I1YjVNcUZpQnMyVThnOWpsSVBRZFRZUmFETW5mcUsyRE9pU1h5NmphRDA?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-09-25 20:12",
+          "headline": "Azureコラム 第13回「AVD Hybrid on Nutanix AHV ...",
+          "summary": [
+            "【概要】Azureコラム 第13回「AVD Hybrid on Nutanix AHV with Nerdio」 - intellilink.co.jp",
+            "Azureコラム 第13回「AVD Hybrid on Nutanix AHV with Nerdio」 intelli...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1790381075_3",
+          "title": "Azureのコストを可視化・最適化する「Surveil」は何がすごい？ - ITmedia",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1aSDhxZlBYWnBGcUM0YkdoTGNRYlN5S1VXSUdLOU5GMFZiYnBsbUYtalcxczZwV0NqMklHdzdaUFdkanZDb19kb1BNaHRqcldzbUwxeHRYeVliWW85UFpCeFhkQzV4RFVISUtDNzdkZ2plR3FH?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-09-25 10:00",
+          "headline": "Azureのコストを可視化・最適化する「Surveil」は何がすごい？ - IT...",
+          "summary": [
+            "【概要】Azureのコストを可視化・最適化する「Surveil」は何がすごい？ - ITmedia",
+            "Azureのコストを可視化・最適化する「Surveil」は何がすごい？ ITmedia...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1790381075_4",
           "title": "エーピーコミュニケーションズ、Microsoft MarketplaceでPlaTTのコンテナオファーを販売開始 - ニュースメディアVOIX",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1UcVFmQVh1aWxFUTQ5M3pBQ0dIenB1d2poNkFaU3d4b3BBNllTbkJ5bG1La3VXSHdQNnVXdmpvekw2TVR2Q0ZRN1pZdjhHdkFyd1RMV25LMlVGcFo1UjY2ZVNuZUdpeGdWZG9pNVV5d2F1N3V6U2RwaF9HNkQ?oc=5",
           "source": "Google News (Azure)",
@@ -30,7 +90,7 @@
           "importance": 3
         },
         {
-          "id": "azure_1790294317_2",
+          "id": "azure_1790381075_5",
           "title": "WindowsツールをAIでmacOSへ移植、わずか2日 - Microsoft Azure CTOが実践 - マイナビニュース",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BdzY3RzZULTM2eEZ1V2lPci1NVlVaSEI5SUF5LWlON2tkUmpaeFgzZ3E4eFlXdUpBYUFDYmVUdjdCX3dzRngwSWUzSDhzLTJIdnlaSnB5eThPaFg2SlFZX1dzZklCb0Fx?oc=5",
           "source": "Google News (Azure)",
@@ -40,66 +100,6 @@
           "summary": [
             "【概要】WindowsツールをAIでmacOSへ移植、わずか2日 - Microsoft Azure CTOが実践 - マイナビニュース",
             "WindowsツールをAIでmacOSへ移植、わずか2日 - Microsoft Azure CTOが実践 マイナビニュ...",
-            "情報提供元: Google News (Azure)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "azure_1790294317_3",
-          "title": "バーンスタインレポート解説：ハイパースケール・クラウド企業のQ2に差が開く、グーグルがリード、マイクロソフトは最も堅調 - 深潮TechFlow",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA3dFR6NTZncXVZdVItR0NsbnlsRzl0SmlWM19pQW1WZEhrVFgwd1VZLW5lbV9QTkJDRVIxWjlwZFpOOUI0eVJOWjRkYmx6ZDZ2N1hnVEpPRkZ1bWtP?oc=5",
-          "source": "Google News (Azure)",
-          "is_official": false,
-          "published_at": "2026-09-24 13:14",
-          "headline": "バーンスタインレポート解説：ハイパースケール・クラウド企業のQ2に差が開く、グー...",
-          "summary": [
-            "【概要】バーンスタインレポート解説：ハイパースケール・クラウド企業のQ2に差が開く、グーグルがリード、マイクロソフトは最も堅調 - 深潮TechFlow",
-            "バーンスタインレポート解説：ハイパースケール・クラウド企業のQ2に差が開く、グーグルがリード、マイクロソフトは最も堅調 ...",
-            "情報提供元: Google News (Azure)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "azure_1790294317_4",
-          "title": "開発者ポータル「PlaTT」、Microsoft Marketplaceでコンテナオファーでの販売を開始 - PR TIMES",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FQkpiZHF5Q2VZQUdoWWJrRWZjaUtMY09OSDMwWVBzc1VRMUx2TC15TzVHcFlLZ2w3aHh0TG1UUEEyZzB4U0hSMGZUTlZFaXVjS0NtU1VZZ1BmRXRfMEhFRHktS1VnVFp3b1E?oc=5",
-          "source": "Google News (Azure)",
-          "is_official": false,
-          "published_at": "2026-09-24 11:00",
-          "headline": "開発者ポータル「PlaTT」、Microsoft Marketplaceでコンテ...",
-          "summary": [
-            "【概要】開発者ポータル「PlaTT」、Microsoft Marketplaceでコンテナオファーでの販売を開始 - PR TIMES",
-            "開発者ポータル「PlaTT」、Microsoft Marketplaceでコンテナオファーでの販売を開始 PR TIME...",
-            "情報提供元: Google News (Azure)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "azure_1790294317_5",
-          "title": "Oppenheimer Boosts Microsoft Price Target to $570 Following Strong Azure and Copilot Growth - TIKR.com",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYTdDQlRLWkNmdnNiekxDaE9VUk1DaFBlWE1KQXNrVDhvTURuemhXTDlicXNWR2hMdHpaX1hyaFVKN1I0aURvTFoweTJ6UVotaU1zbjJYd01ZYkZnX3EzTnNnR3p1aFlPLXZrWFJKd3BPY2pqbFRBY3BnVE55Y3hXT0x4MlFGZVhndkQ4eEwySUZqeFRnYzRackp2cmlrazBw?oc=5",
-          "source": "Google News (Azure)",
-          "is_official": false,
-          "published_at": "2026-09-24 05:15",
-          "headline": "Oppenheimer Boosts Microsoft Price Targe...",
-          "summary": [
-            "【概要】Oppenheimer Boosts Microsoft Price Target to $570 Following Strong Azure and Copilot Growth - TIKR.com",
-            "Oppenheimer Boosts Microsoft Price Target to $570 Following ...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -118,16 +118,16 @@
       "description": "テスラの最新アップデート・EV・FSD・決算動向",
       "articles": [
         {
-          "id": "tesla_1790294318_1",
-          "title": "テスラのロボタクシー「2035年に売上50兆円」 - 自動運転ラボ",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBGMTBiS29WdU9mMlJqM0IwZ2lpN21pN2g2em9UWVcwRWR6UDZQcW9NRXNLYU5NMDdMWVBsMGRUQmF6U21xZGpQRw?oc=5",
+          "id": "tesla_1790381075_1",
+          "title": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vR2owRXJLX1dwYUtHY05wNjVKVmVrTHNXdm5yRGJ0NHJzSzZTaEgxWFo0WmNBOWUxV2tXcHljUWlYaG92bll2YUNIQzJlVE0?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-09-25 06:30",
-          "headline": "テスラのロボタクシー「2035年に売上50兆円」 - 自動運転ラボ",
+          "published_at": "2026-09-26 07:57",
+          "headline": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
           "summary": [
-            "【概要】テスラのロボタクシー「2035年に売上50兆円」 - 自動運転ラボ",
-            "テスラのロボタクシー「2035年に売上50兆円」 自動運転ラボ...",
+            "【概要】テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
+            "テスラ【TSLA】：株価・株式情報 Yahoo!ファイナンス...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -138,16 +138,36 @@
           "importance": 3
         },
         {
-          "id": "tesla_1790294318_2",
-          "title": "Tesla ‘FSD’ sped in 55% of Brussels 30 km/h zones ahead of EU vote",
-          "link": "https://electrek.co/2026/09/24/tesla-fsd-belgium-test-speeding-30-kmh-eu-vote/",
+          "id": "tesla_1790381075_2",
+          "title": "At hacking competition, team exposes Tesla bug - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53S0FjY2tPUTRqM2tpYWVQRGtEdXczbDhWODM3WFJwNzdfNFJzb1FRVDUtaEU1UG9JR0dxd2pFSjc5VkJ1Ukl6eENCZWpYNlFqWUd1cUw5WGNUbWFlNkNOUg?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-09-26 06:04",
+          "headline": "At hacking competition, team exposes Tes...",
+          "summary": [
+            "【概要】At hacking competition, team exposes Tesla bug - Reuters",
+            "At hacking competition, team exposes Tesla bug Reuters...",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "tesla_1790381075_3",
+          "title": "EU delays Tesla ‘Full Self-Driving’ vote to December at the earliest",
+          "link": "https://electrek.co/2026/09/25/eu-delays-tesla-fsd-vote-december-tcmv-agenda/",
           "source": "Electrek (Tesla)",
           "is_official": true,
-          "published_at": "2026-09-25 04:50",
-          "headline": "Tesla ‘FSD’ sped in 55% of Brussels 30 k...",
+          "published_at": "2026-09-26 02:31",
+          "headline": "EU delays Tesla ‘Full Self-Driving’ vote...",
           "summary": [
-            "【概要】Tesla ‘FSD’ sped in 55% of Brussels 30 km/h zones ahead of EU vote",
-            "Tesla’s “Full Self-Driving (Supervised)” broke the speed lim...",
+            "【概要】EU delays Tesla ‘Full Self-Driving’ vote to December at the earliest",
+            "The EU won’t vote on Tesla’s “Full Self-Driving (Supervised)...",
             "情報提供元: Electrek (Tesla)"
           ],
           "key_points": [
@@ -158,56 +178,36 @@
           "importance": 4
         },
         {
-          "id": "tesla_1790294318_3",
-          "title": "＜画像3 / 9＞米電気自動車・テスラモーターズのショールームが心斎橋にオープン - ウォーカープラス",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WQ0t3cGFXdm9wZlgtVk5nYUI2QTE1N2JLU1VTR2wxT2laSVRnQlQzUWxxVEMwb1pzd2JubWx1bWFEQ0dTazhHUl9sQUFpRUEyV1Z4ZS1sZzJaVWZTdDJLRm9tbmpBb0Iy?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-09-25 03:36",
-          "headline": "＜画像3 / 9＞米電気自動車・テスラモーターズのショールームが心斎橋にオープン...",
-          "summary": [
-            "【概要】＜画像3 / 9＞米電気自動車・テスラモーターズのショールームが心斎橋にオープン - ウォーカープラス",
-            "＜画像3 / 9＞米電気自動車・テスラモーターズのショールームが心斎橋にオープン ウォーカープラス...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "tesla_1790294318_4",
-          "title": "テスラの野望、日本揺さぶる 「レベル3」工場という起死回生 - 日経ビジネス電子版",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vZHBFVlBnTDV3YUpldldzc2U1VTA2NlB6US11V0xwV3RZeDFNc1Jlb3ZtQnJsOVRPT25mZk9oRF9tQVFwZm1SVXo1MWx4bW5uTlFhOEtQS1BWR3BJNUtlZ19vTTI?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-09-25 00:00",
-          "headline": "テスラの野望、日本揺さぶる 「レベル3」工場という起死回生 - 日経ビジネス電子...",
-          "summary": [
-            "【概要】テスラの野望、日本揺さぶる 「レベル3」工場という起死回生 - 日経ビジネス電子版",
-            "テスラの野望、日本揺さぶる 「レベル3」工場という起死回生 日経ビジネス電子版...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "tesla_1790294318_5",
-          "title": "Tesla Semi launch sneak peek: several customers are being announced",
-          "link": "https://electrek.co/2026/09/24/tesla-semi-launch-sneak-peek-customers-announced/",
+          "id": "tesla_1790381075_4",
+          "title": "Tesla ramps Optimus to hundreds a week, but the robots can’t generalize",
+          "link": "https://electrek.co/2026/09/25/tesla-optimus-production-ramp-hands-ai-generalization-problems/",
           "source": "Electrek (Tesla)",
           "is_official": true,
-          "published_at": "2026-09-24 23:10",
-          "headline": "Tesla Semi launch sneak peek: several cu...",
+          "published_at": "2026-09-25 23:45",
+          "headline": "Tesla ramps Optimus to hundreds a week, ...",
           "summary": [
-            "【概要】Tesla Semi launch sneak peek: several customers are being announced",
-            "Tesla has lined up at least 11 Semi electric trucks wearing ...",
+            "【概要】Tesla ramps Optimus to hundreds a week, but the robots can’t generalize",
+            "Tesla is now building several hundred Optimus humanoid robot...",
+            "情報提供元: Electrek (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 4
+        },
+        {
+          "id": "tesla_1790381075_5",
+          "title": "Tesla Semi finally enters volume production, 7 years behind schedule",
+          "link": "https://electrek.co/2026/09/25/tesla-semi-volume-production-launch-nevada-factory/",
+          "source": "Electrek (Tesla)",
+          "is_official": true,
+          "published_at": "2026-09-25 21:31",
+          "headline": "Tesla Semi finally enters volume product...",
+          "summary": [
+            "【概要】Tesla Semi finally enters volume production, 7 years behind schedule",
+            "Tesla officially launched high-volume production of the Tesl...",
             "情報提供元: Electrek (Tesla)"
           ],
           "key_points": [
@@ -226,16 +226,16 @@
       "description": "OpenAI・Google・生成AIの公式発表・技術速報",
       "articles": [
         {
-          "id": "ai_1790294319_1",
-          "title": "エクサウィザーズグループ、生成AI活用の”活用停滞”を解消する「AX推進支援パッケージ」を提供開始 ～個人・組織診断で課題と推進アクションを特定。全社員教育から実務変革、経営向け成果報告まで約半年で一貫提供 - 株式会社エクサウィザーズ",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UelZlZ0I5cXg4Q1VaWDdYOFNyVzVLcWtROUNTNTZWckxLSnZMV25HTEt5VktBZThtTEhtZ3cyNzNVZTd0VVJreTFsdkUzS1E?oc=5",
+          "id": "ai_1790381077_1",
+          "title": "テクマトリックス、「Secure Code Warrior」にてAIリテラシー・セキュリティ学習の新コンテンツを提供開始 - EnterpriseZine",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uejk2OFBHemcyTFU1WnFyUVp5U1lHc0U5U01BQk9DVENWeEJweUw5NFVUZmdMTHVFQ3c4aDNVTHI2dEsxV0NIdGg5RUxwM1dZOWJsVUdR?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-09-25 08:36",
-          "headline": "エクサウィザーズグループ、生成AI活用の”活用停滞”を解消する「AX推進支援パッ...",
+          "published_at": "2026-09-26 08:03",
+          "headline": "テクマトリックス、「Secure Code Warrior」にてAIリテラシー・...",
           "summary": [
-            "【概要】エクサウィザーズグループ、生成AI活用の”活用停滞”を解消する「AX推進支援パッケージ」を提供開始 ～個人・組織診断で課題と推進アクションを特定。全社員教育から実務変革、経営向け成果報告まで約半年で一貫提供 - 株式会社エクサウィザーズ",
-            "エクサウィザーズグループ、生成AI活用の”活用停滞”を解消する「AX推進支援パッケージ」を提供開始 ～個人・組織診断で課...",
+            "【概要】テクマトリックス、「Secure Code Warrior」にてAIリテラシー・セキュリティ学習の新コンテンツを提供開始 - EnterpriseZine",
+            "テクマトリックス、「Secure Code Warrior」にてAIリテラシー・セキュリティ学習の新コンテンツを提供開始...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -246,16 +246,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1790294319_2",
-          "title": "日本発スタートアップのエッジAIチップがNVIDIA超え、AI処理性能は3.36PFLOPS：人工知能ニュース - monoist.itmedia.co.jp",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9oc25UYV8xQlRQS3l5dFU0dklBT1NRZm5xaWtlVURuLUlpbnl4SUI0T0ZQTEJEQm1zRWlyU3B2c3c3cU1PcUlORG1WQlFId29iVlV4MW5rRVluaWNUWUROVXVqS0pwV3Zna0NCVjVCcw?oc=5",
+          "id": "ai_1790381077_2",
+          "title": "ＡＩは「人間に奉仕を」 ユネスコで訴え―ローマ教皇 - 時事ドットコム",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA4WUFuUFN2cDVvS1FyaFJSdUxhcUVLa1BHaGlpRDlxcExzbjhRcURFX2RpZVVUWlY1ZkMzZFdsb0JncW9GUWk0TXR6RVdmQnZTajdaemRGRlBicXBRUzRjcnBobw?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-09-25 06:45",
-          "headline": "日本発スタートアップのエッジAIチップがNVIDIA超え、AI処理性能は3.36...",
+          "published_at": "2026-09-26 07:38",
+          "headline": "ＡＩは「人間に奉仕を」 ユネスコで訴え―ローマ教皇 - 時事ドットコム",
           "summary": [
-            "【概要】日本発スタートアップのエッジAIチップがNVIDIA超え、AI処理性能は3.36PFLOPS：人工知能ニュース - monoist.itmedia.co.jp",
-            "日本発スタートアップのエッジAIチップがNVIDIA超え、AI処理性能は3.36PFLOPS：人工知能ニュース mono...",
+            "【概要】ＡＩは「人間に奉仕を」 ユネスコで訴え―ローマ教皇 - 時事ドットコム",
+            "ＡＩは「人間に奉仕を」 ユネスコで訴え―ローマ教皇 時事ドットコム...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -266,16 +266,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1790294319_3",
-          "title": "メタのAI「ミューズ」日本で開始へ 買い物代行、情報漏洩にはリスク - 日本経済新聞",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0eEhHMDZqM0wzQTNxZC1OR3BfdjBXTlZUcHdudjhqRWFuZi1vY3kyb3plSjdOLWtKMzhOTkFtVTlfRDR0dWlXdWhrdm5kUlFMMEtEeVZBblg0UFNFaERjczE1LTJNQmhjUVI2Wg?oc=5",
+          "id": "ai_1790381077_3",
+          "title": "米OpenAI、AI暴走は数十件 不正アクセスや大量書き込み - 日本経済新聞",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSV3NlcTZnRTFvNXRPUHhQcl9YRTVrWFV0Y2pmaGZSTWwyNFdCX3hPajZuR2tqaUJYSzhvNW03UnYyZkYzZnVxYUdkSm9wbXVIQlRZZ0xIOUQ3MFRkQ0MwSGxzMXJqNTVUdTl6cA?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-09-25 06:09",
-          "headline": "メタのAI「ミューズ」日本で開始へ 買い物代行、情報漏洩にはリスク - 日本経済...",
+          "published_at": "2026-09-26 06:13",
+          "headline": "米OpenAI、AI暴走は数十件 不正アクセスや大量書き込み - 日本経済新聞",
           "summary": [
-            "【概要】メタのAI「ミューズ」日本で開始へ 買い物代行、情報漏洩にはリスク - 日本経済新聞",
-            "メタのAI「ミューズ」日本で開始へ 買い物代行、情報漏洩にはリスク 日本経済新聞...",
+            "【概要】米OpenAI、AI暴走は数十件 不正アクセスや大量書き込み - 日本経済新聞",
+            "米OpenAI、AI暴走は数十件 不正アクセスや大量書き込み 日本経済新聞...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -286,16 +286,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1790294319_4",
-          "title": "米政権、オープンＡＩとアンソロピックに英への新モデル共有保留を要請＝報道 - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CNWhkazAzVnhyY2xsa1dMb0U3a3RTLUFpSS1LYnV4ZnZRbklkRGNwbTlGVFlhQzl3MnFSdHJnQ1ZlSExndkZPUDZZV25MMF9ERkdtUmtKLThDZnltbEdFa2Q5VzNVZUN1a2JXS0h3N2gwSXVmRTQ3cE42dm95QQ?oc=5",
+          "id": "ai_1790381077_4",
+          "title": "AIが司令部の「頭脳」に 変わる戦争の意思決定と日本のAI主権 [高市政権の安保見直し][安全保障関連3文書] - 朝日新聞",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YajFwZ1pUNHRzVGdrZ09XaGZrcURuUFp1WXB0WmhTeWxoSnhuMlh5UGwxXzFGem5rTnBEUmoxYzJfZkVoUFJrX0pQZFNCemgyRzBrOXBUM0RWNnNObnkzNDdCdDNyRFE?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-09-25 05:41",
-          "headline": "米政権、オープンＡＩとアンソロピックに英への新モデル共有保留を要請＝報道 - r...",
+          "published_at": "2026-09-26 06:00",
+          "headline": "AIが司令部の「頭脳」に 変わる戦争の意思決定と日本のAI主権 [高市政権の安保...",
           "summary": [
-            "【概要】米政権、オープンＡＩとアンソロピックに英への新モデル共有保留を要請＝報道 - reuters.com",
-            "米政権、オープンＡＩとアンソロピックに英への新モデル共有保留を要請＝報道 reuters.com...",
+            "【概要】AIが司令部の「頭脳」に 変わる戦争の意思決定と日本のAI主権 [高市政権の安保見直し][安全保障関連3文書] - 朝日新聞",
+            "AIが司令部の「頭脳」に 変わる戦争の意思決定と日本のAI主権 [高市政権の安保見直し][安全保障関連3文書] 朝日新聞...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -306,24 +306,24 @@
           "importance": 3
         },
         {
-          "id": "ai_1790294319_5",
-          "title": "米オープンAIのエージェント、豪政府ウェブサイトに「侵入」　首相が明かす - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UdjRpRHFVY0pMT1lxQUlLaW5xSGo3SzkxVkZWMFZiQUFIM1NrWFlxeDJnTnZOaDlERXEzczdwWDRGOVFDaXZBSHowV0U2WURTNDQ1eVhtc1FOU3drdUFmVtIBZkFVX3lxTE1mdWk0TFpGcmZ4RDNPQlR3bDhWUFBycVZIOFlEbklxRFAySHlkV2lxdXY5QVJCcHAtMUtlc2VXdk9pOWluUGtDVDVEdWw2WlFEMVlHbjhzWEpYTHUxMUtCSk1kNUVLZw?oc=5",
-          "source": "Google News (AI)",
-          "is_official": false,
-          "published_at": "2026-09-24 17:10",
-          "headline": "米オープンAIのエージェント、豪政府ウェブサイトに「侵入」　首相が明かす - B...",
+          "id": "ai_1790381077_5",
+          "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+          "link": "https://openai.com/index/proaction",
+          "source": "OpenAI Official Blog",
+          "is_official": true,
+          "published_at": "2026-09-26 04:00",
+          "headline": "Proaction boosts sales 60% and saves 75+...",
           "summary": [
-            "【概要】米オープンAIのエージェント、豪政府ウェブサイトに「侵入」　首相が明かす - BBC",
-            "米オープンAIのエージェント、豪政府ウェブサイトに「侵入」 首相が明かす BBC...",
-            "情報提供元: Google News (AI)"
+            "【概要】Proaction boosts sales 60% and saves 75+ hours with Codex",
+            "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, o...",
+            "情報提供元: OpenAI Official Blog"
           ],
           "key_points": [
             "最新の公式・主要発表",
             "詳細は元記事リンクから確認可能"
           ],
           "badge": "注目",
-          "importance": 3
+          "importance": 4
         }
       ]
     }
