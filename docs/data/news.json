@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026年09月27日 08:47",
-  "updated_at_iso": "2026-09-27T08:47:16.501244+09:00",
+  "updated_at": "2026年09月28日 08:53",
+  "updated_at_iso": "2026-09-28T08:53:35.551168+09:00",
   "model_used": "mock-mode",
   "categories": [
     {
@@ -10,16 +10,16 @@
       "description": "Microsoft Azureの公式発表・最新クラウド動向",
       "articles": [
         {
-          "id": "azure_1790466437_1",
-          "title": "AnthropicがAIモデル「Claude Opus 5.5」を発表／OpenAIもAIモデル「GPT-6 Sol」「GPT-6 Luna」を投入 - Infoseek",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vX2tNbHRfYlZTLWNFTHNfRUtEUlUxc3FxcDZ3T2RYTFBCbWxReDVVOUZSMUxvQXNWNTV0ZjViUnFCVGxuM1BYeFlhc2xqUGhGNm5rd21oNHJBelNFTkxLd0pmQ002S2hpbXY5ZXAyYVI2eTJXVUHSAXZBVV95cUxNb19rTWx0X2JWUy1jRUxzX0VLRFJVMXNxcXA2d09kWExQQm1sUXg1VTlGUjFMb0FzVjU1dGY1YlJxQlRsbjNQWHhZYXNsalBoRjZua3dtaDRyQXpTRU5MS3dKZkNNNktoaW12OWVwMmFSNnkyV1VB?oc=5",
+          "id": "azure_1790553216_1",
+          "title": "Microsoft IQとは？ AIエージェントが必要とする理由は？ マイクロソフトの担当幹部が解説 (1/2) - ascii.jp",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWekR1NkRaM3JKWk51ZTdoUV9mSl9teHYwYTVXVl9TeFVUWU5mSnZyZlR1NkdxaTRIRm5qckNVUXJ6VFdZSW9lWFJyR1BpbVZJblphdQ?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-09-27 06:05",
-          "headline": "AnthropicがAIモデル「Claude Opus 5.5」を発表／Open...",
+          "published_at": "2026-09-28 07:30",
+          "headline": "Microsoft IQとは？ AIエージェントが必要とする理由は？ マイクロソ...",
           "summary": [
-            "【概要】AnthropicがAIモデル「Claude Opus 5.5」を発表／OpenAIもAIモデル「GPT-6 Sol」「GPT-6 Luna」を投入 - Infoseek",
-            "AnthropicがAIモデル「Claude Opus 5.5」を発表／OpenAIもAIモデル「GPT-6 Sol」「...",
+            "【概要】Microsoft IQとは？ AIエージェントが必要とする理由は？ マイクロソフトの担当幹部が解説 (1/2) - ascii.jp",
+            "Microsoft IQとは？ AIエージェントが必要とする理由は？ マイクロソフトの担当幹部が解説 (1/2) asc...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -30,7 +30,7 @@
           "importance": 3
         },
         {
-          "id": "azure_1790466437_2",
+          "id": "azure_1790553216_2",
           "title": "Microsoft Stock Is Up 48% From Its Low as Azure Growth Heads Toward 45% - TIKR.com",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ051eFVXNTBoN0RWQ2FONEc3dGFteDJEN250X0Jlcm5uRExYTzRPeGlla25LZDBlOHR4SlY2eWxpRHQ4a0J2Q1FSbGVzVnc1ZVNGSkdjT1A0V01tekEyQ2oyVGRJSkw4ZkRQclNWcHZqZFR0dHpOdENHQTdIeEg1X0tVVWwyZ1dVcFBaNE16YnFPeVcyWEhvZlN2cUV5dnpB?oc=5",
           "source": "Google News (Azure)",
@@ -50,7 +50,7 @@
           "importance": 3
         },
         {
-          "id": "azure_1790466437_3",
+          "id": "azure_1790553216_3",
           "title": "Introducing the new Copilot with Home, Code and Autopilot",
           "link": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
           "source": "Microsoft Official Blog",
@@ -70,16 +70,16 @@
           "importance": 4
         },
         {
-          "id": "azure_1790466437_4",
-          "title": "Azureのコストを可視化・最適化する「Surveil」は何がすごい？ - ITmedia",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1aSDhxZlBYWnBGcUM0YkdoTGNRYlN5S1VXSUdLOU5GMFZiYnBsbUYtalcxczZwV0NqMklHdzdaUFdkanZDb19kb1BNaHRqcldzbUwxeHRYeVliWW85UFpCeFhkQzV4RFVISUtDNzdkZ2plR3FH?oc=5",
+          "id": "azure_1790553216_4",
+          "title": "Azureコラム 第13回「AVD Hybrid on Nutanix AHV with Nerdio」 - intellilink.co.jp",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UYTJlV0t3Y3Z3Y29oZEo0VVI0Z2FxZF9hVnBHbl9SSnVqT3dXTWtDVjJKTnNHcU85OTZTM0I1YjVNcUZpQnMyVThnOWpsSVBRZFRZUmFETW5mcUsyRE9pU1h5NmphRDA?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-09-25 10:00",
-          "headline": "Azureのコストを可視化・最適化する「Surveil」は何がすごい？ - IT...",
+          "published_at": "2026-09-25 20:12",
+          "headline": "Azureコラム 第13回「AVD Hybrid on Nutanix AHV ...",
           "summary": [
-            "【概要】Azureのコストを可視化・最適化する「Surveil」は何がすごい？ - ITmedia",
-            "Azureのコストを可視化・最適化する「Surveil」は何がすごい？ ITmedia...",
+            "【概要】Azureコラム 第13回「AVD Hybrid on Nutanix AHV with Nerdio」 - intellilink.co.jp",
+            "Azureコラム 第13回「AVD Hybrid on Nutanix AHV with Nerdio」 intelli...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -90,16 +90,16 @@
           "importance": 3
         },
         {
-          "id": "azure_1790466437_5",
-          "title": "WindowsツールをAIでmacOSへ移植、わずか2日 - Microsoft Azure CTOが実践 - マイナビニュース",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BdzY3RzZULTM2eEZ1V2lPci1NVlVaSEI5SUF5LWlON2tkUmpaeFgzZ3E4eFlXdUpBYUFDYmVUdjdCX3dzRngwSWUzSDhzLTJIdnlaSnB5eThPaFg2SlFZX1dzZklCb0Fx?oc=5",
+          "id": "azure_1790553216_5",
+          "title": "CAFではじめるAzureクラウド導入 - 日経クロステック",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JZk5LRURaeGE0bS15TWwzY0VMRlJpQ2kyeGIwOVhmRkgtdHpDejc0VHFuR2VDSVc5VkFLd3YxSjQtYklqYXpZVlNBNE1RWUVEUXo1cF9sQXc4b19fbjZR?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-09-24 14:47",
-          "headline": "WindowsツールをAIでmacOSへ移植、わずか2日 - Microsoft...",
+          "published_at": "2026-09-25 19:53",
+          "headline": "CAFではじめるAzureクラウド導入 - 日経クロステック",
           "summary": [
-            "【概要】WindowsツールをAIでmacOSへ移植、わずか2日 - Microsoft Azure CTOが実践 - マイナビニュース",
-            "WindowsツールをAIでmacOSへ移植、わずか2日 - Microsoft Azure CTOが実践 マイナビニュ...",
+            "【概要】CAFではじめるAzureクラウド導入 - 日経クロステック",
+            "CAFではじめるAzureクラウド導入 日経クロステック...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -118,16 +118,16 @@
       "description": "テスラの最新アップデート・EV・FSD・決算動向",
       "articles": [
         {
-          "id": "tesla_1790466437_1",
-          "title": "Tesla Stock Sits 25% Below Its High as Semi Deliveries Begin - TIKR.com",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRnBWQ2w1QURBMl9WbGI0NWRYekw4RWRtVklBWkx1VnlyQmRmZkpkbVdFdXZMZE5WczlNckxlYW5nVmRKS0hwejBKVVYyTExPOF9FSHFIOXBHSFBoTkpuWXdQSzRDSWVwWlgyZmx0aHFPejQ5NG5Tdmx6ZHg5X1E1WjZ1MmRfREtUNHdyMWk1TGI2UQ?oc=5",
+          "id": "tesla_1790553217_1",
+          "title": "テスラ自動運転 実は「人間より4倍事故が多い」 - 自動運転ラボ",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9KUDZMNV9zQWo4c1NuajYtRThjRkYzQ0d4TUswMnlOVXVVZFV4ZlZSazE5SjZLRkg5S1BJa19COE10YVRJYXlPbA?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-09-26 23:26",
-          "headline": "Tesla Stock Sits 25% Below Its High as S...",
+          "published_at": "2026-09-28 07:04",
+          "headline": "テスラ自動運転 実は「人間より4倍事故が多い」 - 自動運転ラボ",
           "summary": [
-            "【概要】Tesla Stock Sits 25% Below Its High as Semi Deliveries Begin - TIKR.com",
-            "Tesla Stock Sits 25% Below Its High as Semi Deliveries Begin...",
+            "【概要】テスラ自動運転 実は「人間より4倍事故が多い」 - 自動運転ラボ",
+            "テスラ自動運転 実は「人間より4倍事故が多い」 自動運転ラボ...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -138,12 +138,52 @@
           "importance": 3
         },
         {
-          "id": "tesla_1790466437_2",
+          "id": "tesla_1790553217_2",
+          "title": "Survey Sunday: When self driving cars crash, who gets the blame?",
+          "link": "https://electrek.co/2026/09/27/survey-sunday-when-self-driving-cars-crash-who-gets-the-blame/",
+          "source": "Electrek (Tesla)",
+          "is_official": true,
+          "published_at": "2026-09-28 04:24",
+          "headline": "Survey Sunday: When self driving cars cr...",
+          "summary": [
+            "【概要】Survey Sunday: When self driving cars crash, who gets the blame?",
+            "For the last few weeks, we’ve been running a sidebar survey ...",
+            "情報提供元: Electrek (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 4
+        },
+        {
+          "id": "tesla_1790553217_3",
+          "title": "テスラ【TSLA】株価掲示板｜投資家のコメント - Moomoo",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53TURDTXhGdWFLUkRXTUJ6OGZPRkZKYUJxN3NueG56NmlIZG1zc1I0SDNOWkFuUjFEOUV6YWpNLTVuNEduRFBRT1d6RW15NmtLc0NzaVIyVF8zUWdkZmc?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-09-28 02:31",
+          "headline": "テスラ【TSLA】株価掲示板｜投資家のコメント - Moomoo",
+          "summary": [
+            "【概要】テスラ【TSLA】株価掲示板｜投資家のコメント - Moomoo",
+            "テスラ【TSLA】株価掲示板｜投資家のコメント Moomoo...",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "tesla_1790553217_4",
           "title": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vR2owRXJLX1dwYUtHY05wNjVKVmVrTHNXdm5yRGJ0NHJzSzZTaEgxWFo0WmNBOWUxV2tXcHljUWlYaG92bll2YUNIQzJlVE0?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-09-26 23:09",
+          "published_at": "2026-09-27 23:24",
           "headline": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
           "summary": [
             "【概要】テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
@@ -158,47 +198,7 @@
           "importance": 3
         },
         {
-          "id": "tesla_1790466437_3",
-          "title": "Amazonのロボタクシー ラスベガスで「100台制限」撤廃 テスラやウェイモと激突 - 自動運転ラボ",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE93aGNvenl6LTM5SDltYnhiRVlxZHV4Y2ZtQkU5dlRPeHNISUV5SXBzUExfekEyX2RBS1RRVmtmTEVIbllHeEN0Zw?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-09-26 20:00",
-          "headline": "Amazonのロボタクシー ラスベガスで「100台制限」撤廃 テスラやウェイモと...",
-          "summary": [
-            "【概要】Amazonのロボタクシー ラスベガスで「100台制限」撤廃 テスラやウェイモと激突 - 自動運転ラボ",
-            "Amazonのロボタクシー ラスベガスで「100台制限」撤廃 テスラやウェイモと激突 自動運転ラボ...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "tesla_1790466437_4",
-          "title": "米Tesla、人型ロボ「Optimus」量産に壁 - 株式会社エクサウィザーズ",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iNFdTQkJpRlpqR2t1cGd2R0IxbVphbjhNaVJacXZPOTdRMmdTcTlpQWtwVVQ2SDlNSjFUZkNjX1FYZ2pjQ1lGMGdxOG9CTHM1NkludzhERXg2WlliakZtQkR6bFoyeGpS?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-09-26 10:51",
-          "headline": "米Tesla、人型ロボ「Optimus」量産に壁 - 株式会社エクサウィザーズ",
-          "summary": [
-            "【概要】米Tesla、人型ロボ「Optimus」量産に壁 - 株式会社エクサウィザーズ",
-            "米Tesla、人型ロボ「Optimus」量産に壁 株式会社エクサウィザーズ...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "tesla_1790466437_5",
+          "id": "tesla_1790553217_5",
           "title": "EU delays Tesla ‘Full Self-Driving’ vote to December at the earliest",
           "link": "https://electrek.co/2026/09/25/eu-delays-tesla-fsd-vote-december-tcmv-agenda/",
           "source": "Electrek (Tesla)",
@@ -226,16 +226,16 @@
       "description": "OpenAI・Google・生成AIの公式発表・技術速報",
       "articles": [
         {
-          "id": "ai_1790466438_1",
-          "title": "競馬 - 2026年スプリンターズステークス AI予想 - スポーツナビ",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBkY2phcDV2cGZfcmlGcEVZb3hnV2hGUGV1OVVhVWlKLTZqVnpJY3NTZVdrUEVjaXlWSllLdWFXUlQ2QnRFNnM0d2lCZVkzRERIMG1BR3YxUmlsbFB6eFQ5R2hhT05wUEx2S0Rz?oc=5",
+          "id": "ai_1790553218_1",
+          "title": "ゲイツ氏、ＡＩ安全策で法整備訴え 「自主規制では不十分」 - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9MVUptTzdVaVdFazBRUXRsNXZRd2Z5dEhEdTk4UFFZWFl2UlhhbTJLd0tsNS05VWY1RW9RTkx1R1pGUGtleTc1V1BNZTFMNjkwSE5XVTBBMXA3RHkwYm1ZUEw4TUN2Q0s1bE14OEVWZWxXUU85NFNzcDlBVFhNQQ?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-09-27 08:45",
-          "headline": "競馬 - 2026年スプリンターズステークス AI予想 - スポーツナビ",
+          "published_at": "2026-09-28 08:29",
+          "headline": "ゲイツ氏、ＡＩ安全策で法整備訴え 「自主規制では不十分」 - Reuters",
           "summary": [
-            "【概要】競馬 - 2026年スプリンターズステークス AI予想 - スポーツナビ",
-            "競馬 - 2026年スプリンターズステークス AI予想 スポーツナビ...",
+            "【概要】ゲイツ氏、ＡＩ安全策で法整備訴え 「自主規制では不十分」 - Reuters",
+            "ゲイツ氏、ＡＩ安全策で法整備訴え 「自主規制では不十分」 Reuters...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -246,16 +246,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1790466438_2",
-          "title": "（社説）ＡＩの安全確保 依存なき多国間連携を - 朝日新聞",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4aGsxSERHV0t2YWlCNVc3RERUTlFWX0hOT3VDMF9CMktDbXllNjd6Z3BrV3p5T0t2WXRSNUF0N2g3b24xY1hKUlpsTHFXeW5DaUpPMXQ4a1k2VFk3?oc=5",
+          "id": "ai_1790553218_2",
+          "title": "AIの革新は「モデルの外」へ Jevが示した次の競争軸 - 株式会社エクサウィザーズ",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tVFFCUDdvYnlLMXBwSFYtU3NWLUZSSU1pYTdWcXBIRW80b3VPcVJKS0lfTEFIVEx1bW9NTm5vMC0tZTVLZ0pnRmtvcV9lLWVMZERQVWY3U2M4Sy14SWtWNmpJdGxWMlRT?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-09-27 05:00",
-          "headline": "（社説）ＡＩの安全確保 依存なき多国間連携を - 朝日新聞",
+          "published_at": "2026-09-28 08:18",
+          "headline": "AIの革新は「モデルの外」へ Jevが示した次の競争軸 - 株式会社エクサウィザ...",
           "summary": [
-            "【概要】（社説）ＡＩの安全確保 依存なき多国間連携を - 朝日新聞",
-            "（社説）ＡＩの安全確保 依存なき多国間連携を 朝日新聞...",
+            "【概要】AIの革新は「モデルの外」へ Jevが示した次の競争軸 - 株式会社エクサウィザーズ",
+            "AIの革新は「モデルの外」へ Jevが示した次の競争軸 株式会社エクサウィザーズ...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -266,16 +266,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1790466438_3",
-          "title": "AIは「SI」と言い換え 米中首脳が合意と米ホワイトハウス発表 - 日本経済新聞",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LZUZNREJsSDFIQUhCZW92M2xJTFhYLWVKYnZWR3F6aWRTN1Y1UHVhTWJQeEpkX1BVOER6bGNhSkNuQ0dOSWo2S2F6dVlqc0FuemNDV0RCazE3a2J5V3VkWWtiUEI4UWtsLUJhXw?oc=5",
+          "id": "ai_1790553218_3",
+          "title": "博報堂ＤＹホールディングスが再定義する 人とAIの関係性｜The H Magazine - hakuhodo.co.jp",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tbzBrRWdwdUdaYUxvb0l3Z3BUWmJLVlpXOWw4T040TlZfWkpUMkJtRS1hOHNGdGFIdC02YVpPbDhqT3cybW91blVsQVAxaXFuaGJCOEtn?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-09-26 21:22",
-          "headline": "AIは「SI」と言い換え 米中首脳が合意と米ホワイトハウス発表 - 日本経済新聞",
+          "published_at": "2026-09-28 07:37",
+          "headline": "博報堂ＤＹホールディングスが再定義する 人とAIの関係性｜The H Magaz...",
           "summary": [
-            "【概要】AIは「SI」と言い換え 米中首脳が合意と米ホワイトハウス発表 - 日本経済新聞",
-            "AIは「SI」と言い換え 米中首脳が合意と米ホワイトハウス発表 日本経済新聞...",
+            "【概要】博報堂ＤＹホールディングスが再定義する 人とAIの関係性｜The H Magazine - hakuhodo.co.jp",
+            "博報堂ＤＹホールディングスが再定義する 人とAIの関係性｜The H Magazine hakuhodo.co.jp...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -286,16 +286,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1790466438_4",
-          "title": "人類が滅びる？高まるAI脅威論 国内の研究者の見方は | NHKニュース | 生成AI・人工知能、デジタル深掘り - NHKニュース",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rckZMdGc2bG94cThacGtRS0VkdHpDNjgwS0drS3o1aHFsVTItUjJSLWFnYWdhNS1CTWNaQVJ5X1pudmR0ZkQtMElqTE45WU40OFZMY1NKck82U3VqQlFr?oc=5",
+          "id": "ai_1790553218_4",
+          "title": "【保存版】デロイト流「AI活用術」大解剖、学習データの整備術・若手育成術も凄い… - sbbit.jp",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JdHdlVGo0d0Q1Mnh0OTBvWWdReEtZZjdSb0dKSnNrRG9jZkI4TlhqLWZVQ2dBLU9lbldzSHVwSk5mRlNTcndhMUIyTEJUTW55OGh3?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-09-26 17:49",
-          "headline": "人類が滅びる？高まるAI脅威論 国内の研究者の見方は | NHKニュース | 生...",
+          "published_at": "2026-09-28 07:10",
+          "headline": "【保存版】デロイト流「AI活用術」大解剖、学習データの整備術・若手育成術も凄い…...",
           "summary": [
-            "【概要】人類が滅びる？高まるAI脅威論 国内の研究者の見方は | NHKニュース | 生成AI・人工知能、デジタル深掘り - NHKニュース",
-            "人類が滅びる？高まるAI脅威論 国内の研究者の見方は | NHKニュース | 生成AI・人工知能、デジタル深掘り NHK...",
+            "【概要】【保存版】デロイト流「AI活用術」大解剖、学習データの整備術・若手育成術も凄い… - sbbit.jp",
+            "【保存版】デロイト流「AI活用術」大解剖、学習データの整備術・若手育成術も凄い… sbbit.jp...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -306,16 +306,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1790466438_5",
-          "title": "ＡＩ「暴走」さらに数十件 不正アクセスなど―米オープンＡＩ - 時事ドットコム",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5pLWlSZVNTYmRrbVJvRjRQaEJzbjhCZXF5NDhQQ3JXQ0VGd0dSWTNHdFRHYjk0OUFIRTBBUXI4RjV6YXBBTkFsYW5LS3BwTVVZa0lrSzJyMFhJQndPandUTGo2UQ?oc=5",
+          "id": "ai_1790553218_5",
+          "title": "好きな映画を的中、性格も判定 内面暴くAI、データ利用は企業次第 [AIの時代] - 朝日新聞",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9meVRVMnNCSkdVdHdISDNrN1ZqX0RLX2RJV1pKVjB0MlJlMzNnZHdGTTVVLTNMcm1MSHFrMHhZeV9IOVppeEJfa3h6N2hvQ2R3ZWdYeUpkTWdZbk53TVF2NWVHUzFUcU0?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-09-26 16:45",
-          "headline": "ＡＩ「暴走」さらに数十件 不正アクセスなど―米オープンＡＩ - 時事ドットコム",
+          "published_at": "2026-09-28 06:00",
+          "headline": "好きな映画を的中、性格も判定 内面暴くAI、データ利用は企業次第 [AIの時代]...",
           "summary": [
-            "【概要】ＡＩ「暴走」さらに数十件 不正アクセスなど―米オープンＡＩ - 時事ドットコム",
-            "ＡＩ「暴走」さらに数十件 不正アクセスなど―米オープンＡＩ 時事ドットコム...",
+            "【概要】好きな映画を的中、性格も判定 内面暴くAI、データ利用は企業次第 [AIの時代] - 朝日新聞",
+            "好きな映画を的中、性格も判定 内面暴くAI、データ利用は企業次第 [AIの時代] 朝日新聞...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
