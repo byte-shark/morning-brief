@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026年09月30日 09:42",
-  "updated_at_iso": "2026-09-30T09:42:12.085601+09:00",
+  "updated_at": "2026年10月01日 09:46",
+  "updated_at_iso": "2026-10-01T09:46:24.453348+09:00",
   "model_used": "mock-mode",
   "categories": [
     {
@@ -10,7 +10,87 @@
       "description": "Microsoft Azureの公式発表・最新クラウド動向",
       "articles": [
         {
-          "id": "azure_1790728932_1",
+          "id": "azure_1790815585_1",
+          "title": "Azureとオンプレをつなぐ「管理ツール」が侵入口に？ ハイブリッド構成の盲点 - TechTargetジャパン",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UWWpZaGROR1pFUnRtNjN5YTNvY1VKTzJ5YnE5V3VRdTl5MWkxUGFvZHpvZHpOY2txV0dCclpzbjZ5SDVTQ3pmRncwQnFoelpTLXo1UFI1aW9BcHZLOFVsMUxSVEZQTG5oV0tnaTVsMHQ?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-10-01 05:00",
+          "headline": "Azureとオンプレをつなぐ「管理ツール」が侵入口に？ ハイブリッド構成の盲点 ...",
+          "summary": [
+            "【概要】Azureとオンプレをつなぐ「管理ツール」が侵入口に？ ハイブリッド構成の盲点 - TechTargetジャパン",
+            "Azureとオンプレをつなぐ「管理ツール」が侵入口に？ ハイブリッド構成の盲点 TechTargetジャパン...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1790815585_2",
+          "title": "CAC、個別に提供してきたMicrosoft Azureの活用支援を体系化し「Azure導入支援サービス」として刷新 - ニコニコニュース",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xVloxQnFiUWNCNHAxWkllUnhrYXE0TDQ0S1VhVlVvdi0xcllDSVNUaVY2V1FsRDlYY0JDWVVHZ1Mzd3FQT19CanJIMlkwZ3BGNGZlMzcxWFRzcmhpNkpmanIydGoxMzZCVF84N09aUm1CX3pZYmFGN3Zrbw?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-09-30 19:51",
+          "headline": "CAC、個別に提供してきたMicrosoft Azureの活用支援を体系化し「A...",
+          "summary": [
+            "【概要】CAC、個別に提供してきたMicrosoft Azureの活用支援を体系化し「Azure導入支援サービス」として刷新 - ニコニコニュース",
+            "CAC、個別に提供してきたMicrosoft Azureの活用支援を体系化し「Azure導入支援サービス」として刷新 ニ...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1790815585_3",
+          "title": "Keeper Security、Azure Logic Apps向けの認定コネクタを提供開始・ゼロ知識の認証情報管理をMicrosoft Power Platformに拡張 - asahi.com",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03bkdveHB4U1NNWTBheWdJSU5wUFYzMDQtcTNKMXFVUzlLV2VOcklyVVBFYUpFVnBseWUxWlVrZURoMW9jcF9KcUNldkhYUHpfaHZ1elV0ZXExTlE?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-09-30 18:05",
+          "headline": "Keeper Security、Azure Logic Apps向けの認定コネク...",
+          "summary": [
+            "【概要】Keeper Security、Azure Logic Apps向けの認定コネクタを提供開始・ゼロ知識の認証情報管理をMicrosoft Power Platformに拡張 - asahi.com",
+            "Keeper Security、Azure Logic Apps向けの認定コネクタを提供開始・ゼロ知識の認証情報管理をM...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1790815585_4",
+          "title": "AI を活用し「社員の働き方」をモダナイズ、ＪＲ東日本情報システムが GitHub Copilot で挑む「生成 AI を活用した新たな開発スタイル」の確立 - Microsoft",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVzUyZXZQRHpkMkVsejYtRjRTMmxXZW9BOGRXSW1pYk5reml1S2F1cTRfbkl2VHR6Vk5kUjdqVTRPR0hmeG0tdDF5ZVBPRXRMV3Vqa29FYzNhYkh5bFBfX0QtUGFNdkg0M1ZGaElINXc0UHMyaVpBckR4TlpFYlhiYk9sLURsVmRUbTNBZkpRekpUZnZRYTBoTUtNTFUtWXhuWUtXWHZTWQ?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-09-30 11:01",
+          "headline": "AI を活用し「社員の働き方」をモダナイズ、ＪＲ東日本情報システムが GitHu...",
+          "summary": [
+            "【概要】AI を活用し「社員の働き方」をモダナイズ、ＪＲ東日本情報システムが GitHub Copilot で挑む「生成 AI を活用した新たな開発スタイル」の確立 - Microsoft",
+            "AI を活用し「社員の働き方」をモダナイズ、ＪＲ東日本情報システムが GitHub Copilot で挑む「生成 AI ...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1790815585_5",
           "title": "川崎重工、Azure Kubernetes Serviceを活用し、拡張性の高いロボティクスのサービス化プラットフォームを構築 - Microsoft",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS2ZTbUlZQm5Ld09WT21QWGxsVUNidWpMVUwtaXJqaHRVOWl2c216dXNiR29obHppUVFaeFB0aEtocmtSR3p5cUhtWWhJVDBwamp1MnNsU01VVl9fVWticTg4MEVTQlNlQm1LN1g0X3pVOHVOZ3I0dkFVcG5ORWZGNjFfYkFxbU9aQnJOZmc3R2VYU2t6ZU9IVWJGVmxQWl92d2xDZjNhUQ?oc=5",
           "source": "Google News (Azure)",
@@ -20,86 +100,6 @@
           "summary": [
             "【概要】川崎重工、Azure Kubernetes Serviceを活用し、拡張性の高いロボティクスのサービス化プラットフォームを構築 - Microsoft",
             "川崎重工、Azure Kubernetes Serviceを活用し、拡張性の高いロボティクスのサービス化プラットフォーム...",
-            "情報提供元: Google News (Azure)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "azure_1790728932_2",
-          "title": "Azureで100超のストレージアカウント削除を試行、約7分の攻撃をMicrosoftが分析 - 財経新聞",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpdXBWSTd1dGotSVFVcERmeXd4cWpUVEZ6eHJoYVFKQUE1R1V1WHl4QU1YdjBKYndTLXFTaEJIczVIQTVWRzVTOS1OakpaY0oxZm5TblR0c1U0c2hKRWhNcnYwY9IBaEFVX3lxTE9rSmRVWk1OdUdnM2ZXdG9ULU9FXzhFOTRkN05RWjFxVlhsNENPV09Ub1hyemZHM3ppbzVsRXJPNjRmbUpwZkxRc2hPV25UM0ZfU0FqcTh4d2Y3NjZSRzJJOFhxeTNpQm5n?oc=5",
-          "source": "Google News (Azure)",
-          "is_official": false,
-          "published_at": "2026-09-30 00:36",
-          "headline": "Azureで100超のストレージアカウント削除を試行、約7分の攻撃をMicros...",
-          "summary": [
-            "【概要】Azureで100超のストレージアカウント削除を試行、約7分の攻撃をMicrosoftが分析 - 財経新聞",
-            "Azureで100超のストレージアカウント削除を試行、約7分の攻撃をMicrosoftが分析 財経新聞...",
-            "情報提供元: Google News (Azure)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "azure_1790728932_3",
-          "title": "New Microsoft data innovations unlock what only your business knows",
-          "link": "https://blogs.microsoft.com/blog/2026/09/28/new-microsoft-data-innovations-unlock-what-only-your-business-knows/",
-          "source": "Microsoft Official Blog",
-          "is_official": true,
-          "published_at": "2026-09-29 15:30",
-          "headline": "New Microsoft data innovations unlock wh...",
-          "summary": [
-            "【概要】New Microsoft data innovations unlock what only your business knows",
-            "Every organization has knowledge that is uniquely its own: t...",
-            "情報提供元: Microsoft Official Blog"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 4
-        },
-        {
-          "id": "azure_1790728932_4",
-          "title": "Sun*、マイクロソフトの「Digital & App Innovation（Azure）ソリューションパートナー」および「Infrastructure（Azure）ソリューションパートナー」に認定 - PR TIMES",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sX1FOV3VkOGs2c0tzNjFTWXNYZmZuQnM3RC0temhoZHRKQ3pHZko3dTYwUFA5YmF2dTFPb1NHRzc2U0lnZUlYaXlURlJyTnByTHlqM3RiMGdkc2g5bzZfNVFJMk1meUJnX2c?oc=5",
-          "source": "Google News (Azure)",
-          "is_official": false,
-          "published_at": "2026-09-29 11:00",
-          "headline": "Sun*、マイクロソフトの「Digital & App Innovation（A...",
-          "summary": [
-            "【概要】Sun*、マイクロソフトの「Digital & App Innovation（Azure）ソリューションパートナー」および「Infrastructure（Azure）ソリューションパートナー」に認定 - PR TIMES",
-            "Sun*、マイクロソフトの「Digital & App Innovation（Azure）ソリューションパートナー」およ...",
-            "情報提供元: Google News (Azure)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "azure_1790728932_5",
-          "title": "Microsoft 365 Copilot を用いた AI エージェント開発―京都府が進める地方公共団体における生成 AI 活用の実践 - Microsoft",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS2JDN3k1anZPSVFDbWJoRmF5ajZFdDJXd1YtbWdvcDVWY19WT0xUZzZkaUNBWldQME5seTc0cVZEUXdsdXB1UWxUWTNyX09qbjVuVmNudHN1aFQwOFNWV1lhb2NOdU4wWWJvZkZJMXJLU19wWVNNbHktWkZiZzdleVdDLXJXXzZ2ajZ4M2pXSjlqdkV6N2F3?oc=5",
-          "source": "Google News (Azure)",
-          "is_official": false,
-          "published_at": "2026-09-28 16:00",
-          "headline": "Microsoft 365 Copilot を用いた AI エージェント開発―京...",
-          "summary": [
-            "【概要】Microsoft 365 Copilot を用いた AI エージェント開発―京都府が進める地方公共団体における生成 AI 活用の実践 - Microsoft",
-            "Microsoft 365 Copilot を用いた AI エージェント開発―京都府が進める地方公共団体における生成 A...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -118,56 +118,16 @@
       "description": "テスラの最新アップデート・EV・FSD・決算動向",
       "articles": [
         {
-          "id": "tesla_1790728933_1",
-          "title": "【156箇所目】テスラ、土浦にスーパーチャージャーをオープン - touchlab.jp",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XNUkyaFc1Y1dGNTlVdGVoaXlOLUxfUElURkd4N3dlTmJHSmpwUHFKV3NDdi0tcmI0Q0dLMXh1VXhVN3dyT3ZZRHBlQ3M4V3lNdWFjLWl3bEpmX1NQWmpONmpSV29PQVVX?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-09-30 08:25",
-          "headline": "【156箇所目】テスラ、土浦にスーパーチャージャーをオープン - touchla...",
-          "summary": [
-            "【概要】【156箇所目】テスラ、土浦にスーパーチャージャーをオープン - touchlab.jp",
-            "【156箇所目】テスラ、土浦にスーパーチャージャーをオープン touchlab.jp...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "tesla_1790728933_2",
-          "title": "米SEC、Teslaの小口株主向け自動議決権行使制度を承認 SpaceXを巡る株主判断に影響も - 디지털투데이",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUmtFTHhNd1RTNTJ0ZTY4TXhhbkNhMGswbkhyeXF4Uy03SHhqSWNKVEExa0pJN09nMWxFRkFTS0JkQUZoa1g4RWZsOGs0b2s0eUw2ZEQ5NjRpTTBuRm1NR2I1OHNRYnNoaVZDNjRmTnBGM2xqNmotUThjejJyWGJBN2Nra09ZQWx4OEVybGgyQktOSzJxcXB4SXNQLUp3Qi02azdsNkYtSUwzMVB0djJTZEV2SU5iNzRkTTRTb09zMGtBcUNkTEtoaHVB?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-09-30 08:22",
-          "headline": "米SEC、Teslaの小口株主向け自動議決権行使制度を承認 SpaceXを巡る株...",
-          "summary": [
-            "【概要】米SEC、Teslaの小口株主向け自動議決権行使制度を承認 SpaceXを巡る株主判断に影響も - 디지털투데이",
-            "米SEC、Teslaの小口株主向け自動議決権行使制度を承認 SpaceXを巡る株主判断に影響も 디지털투데이...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "tesla_1790728933_3",
-          "title": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
+          "id": "tesla_1790815585_1",
+          "title": "テスラ【TSLA】：株価・株式情報 - finance.yahoo.co.jp",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vR2owRXJLX1dwYUtHY05wNjVKVmVrTHNXdm5yRGJ0NHJzSzZTaEgxWFo0WmNBOWUxV2tXcHljUWlYaG92bll2YUNIQzJlVE0?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-09-30 07:39",
-          "headline": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
+          "published_at": "2026-10-01 07:48",
+          "headline": "テスラ【TSLA】：株価・株式情報 - finance.yahoo.co.jp",
           "summary": [
-            "【概要】テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
-            "テスラ【TSLA】：株価・株式情報 Yahoo!ファイナンス...",
+            "【概要】テスラ【TSLA】：株価・株式情報 - finance.yahoo.co.jp",
+            "テスラ【TSLA】：株価・株式情報 finance.yahoo.co.jp...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -178,16 +138,36 @@
           "importance": 3
         },
         {
-          "id": "tesla_1790728933_4",
-          "title": "Tesla takes on $30 billion in credit as it approaches unprofitability",
-          "link": "https://electrek.co/2026/09/29/tesla-takes-on-30-billion-in-credit-as-it-approaches-unprofitability/",
+          "id": "tesla_1790815585_2",
+          "title": "テスラの空売り勢が撤退、決算前の売り主導は長期保有者に：空売り追跡データ - Moomoo",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSk1EZjZJVXJWekNiQU96RWNITUVtc24ySkdYN1NKZnViUF9zSnd1ajZ4Ri1DWmlTWFN5V29MZDhocjJzNmdOQjBrV1JVME5iejJzeThRQnYtQ3h4d0s0U0FRdkxnUHJyYWRJamdZRVUwZ19lNHBMTExjY2JpQzVLcTMwbzFwa3FQMzVTLWhScERfRmpiemtHSTZRb2ZPWldlell0Z0w3elh3dl9QLVVCem5ibnU?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-09-30 23:21",
+          "headline": "テスラの空売り勢が撤退、決算前の売り主導は長期保有者に：空売り追跡データ - M...",
+          "summary": [
+            "【概要】テスラの空売り勢が撤退、決算前の売り主導は長期保有者に：空売り追跡データ - Moomoo",
+            "テスラの空売り勢が撤退、決算前の売り主導は長期保有者に：空売り追跡データ Moomoo...",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "tesla_1790815585_3",
+          "title": "Tesla Robotaxi fleets are the new crypto treasury for zombie companies",
+          "link": "https://electrek.co/2026/09/30/kidz-ai-tesla-robotaxi-fleet-zombie-company-bitcoin-treasury/",
           "source": "Electrek (Tesla)",
           "is_official": true,
-          "published_at": "2026-09-30 06:55",
-          "headline": "Tesla takes on $30 billion in credit as ...",
+          "published_at": "2026-09-30 23:02",
+          "headline": "Tesla Robotaxi fleets are the new crypto...",
           "summary": [
-            "【概要】Tesla takes on $30 billion in credit as it approaches unprofitability",
-            "Tesla opened $30 billion in lines of credit according to a r...",
+            "【概要】Tesla Robotaxi fleets are the new crypto treasury for zombie companies",
+            "A Nasdaq-listed company worth about $2.4 million says it wan...",
             "情報提供元: Electrek (Tesla)"
           ],
           "key_points": [
@@ -198,24 +178,44 @@
           "importance": 4
         },
         {
-          "id": "tesla_1790728933_5",
-          "title": "Tesla (TSLA) wins SEC OK to auto-vote retail shares with board ahead of SpaceX merger",
-          "link": "https://electrek.co/2026/09/29/tesla-sec-retail-auto-vote-board-spacex-merger/",
-          "source": "Electrek (Tesla)",
-          "is_official": true,
-          "published_at": "2026-09-30 01:57",
-          "headline": "Tesla (TSLA) wins SEC OK to auto-vote re...",
+          "id": "tesla_1790815585_4",
+          "title": "Tesla Secures $30 Billion Credit Facility to Fund AI Infrastructure Expansion - TIKR.com",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPY183d0dSc0tDS3ZjWG1uT3JNQUtVeWpKWmtESlVaMFZCQm84T0F1cmszRkFHRjlWZnh1ZGF0VDRHaXdvSnVvS1FaTmFxSy1aMTZJR2hWQXVSRk1oS0dMTjF2WHBSWm9ZbmFXTW94dGxDMzhQaGxpS05ncGhnNHFjMkVyZVUxeDdWM0pNbVl5bw?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-09-30 21:52",
+          "headline": "Tesla Secures $30 Billion Credit Facilit...",
           "summary": [
-            "【概要】Tesla (TSLA) wins SEC OK to auto-vote retail shares with board ahead of SpaceX merger",
-            "Tesla (TSLA) got the SEC’s blessing today to let retail shar...",
-            "情報提供元: Electrek (Tesla)"
+            "【概要】Tesla Secures $30 Billion Credit Facility to Fund AI Infrastructure Expansion - TIKR.com",
+            "Tesla Secures $30 Billion Credit Facility to Fund AI Infrast...",
+            "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
             "最新の公式・主要発表",
             "詳細は元記事リンクから確認可能"
           ],
           "badge": "注目",
-          "importance": 4
+          "importance": 3
+        },
+        {
+          "id": "tesla_1790815585_5",
+          "title": "テスラで行く【呉服屋さんのランチ!?〜ぶどう狩り〜秀吉本陣跡】孫とも合流して最後の夏のお楽しみ方#hyogo #tesla #modelYL #modely #model3 - YouTube",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5qdHJHWnB1b0l4WFdRMnFPR29wTjc5RjZvN2Y1YVZ1M1NSMkN6SkZNanpqQWtfa1hpbDRMVTZtZ0RUQQ?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-09-30 21:00",
+          "headline": "テスラで行く【呉服屋さんのランチ!?〜ぶどう狩り〜秀吉本陣跡】孫とも合流して最後...",
+          "summary": [
+            "【概要】テスラで行く【呉服屋さんのランチ!?〜ぶどう狩り〜秀吉本陣跡】孫とも合流して最後の夏のお楽しみ方#hyogo #tesla #modelYL #modely #model3 - YouTube",
+            "テスラで行く【呉服屋さんのランチ!?〜ぶどう狩り〜秀吉本陣跡】孫とも合流して最後の夏のお楽しみ方#hyogo #tesl...",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
         }
       ]
     },
@@ -226,16 +226,16 @@
       "description": "OpenAI・Google・生成AIの公式発表・技術速報",
       "articles": [
         {
-          "id": "ai_1790728934_1",
-          "title": "オープンAI 新モデル公開取りやめ - Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45YmdkVWxIdktwU3lWYkxyN1dEcjV4Sjd4SmY4N1BRRlV3a0JFeUg5YXo2LWl4M2xseUR0V1RkUERYb25OUGZjd1J1MWJMc1dz?oc=5",
+          "id": "ai_1790815587_1",
+          "title": "AIオンデマンド交通 「スパイスボックス」乗り方教室 - town.nagaizumi.lg.jp",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqUEhkUGdxNVh6bllJRmEydXpvZ291eTNrbWRIWTVBUUNPVzZ0enJINEEwa0VFSFZJRm1rRUFROFZyQV9WYzZrblRlUFBtUWZXcmNCQUtBa09pMk90OG5zeEtXcHV3NldOcWgwejdOYw?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-09-30 08:11",
-          "headline": "オープンAI 新モデル公開取りやめ - Yahoo!ニュース",
+          "published_at": "2026-10-01 09:20",
+          "headline": "AIオンデマンド交通 「スパイスボックス」乗り方教室 - town.nagaiz...",
           "summary": [
-            "【概要】オープンAI 新モデル公開取りやめ - Yahoo!ニュース",
-            "オープンAI 新モデル公開取りやめ Yahoo!ニュース...",
+            "【概要】AIオンデマンド交通 「スパイスボックス」乗り方教室 - town.nagaizumi.lg.jp",
+            "AIオンデマンド交通 「スパイスボックス」乗り方教室 town.nagaizumi.lg.jp...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -246,16 +246,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1790728934_2",
-          "title": "OpenAI、24時間働くAIエージェント「dots」を発表 ChatGPTを仕事の拠点に - 株式会社エクサウィザーズ",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUNjhyczg5dkJpaFUzekFVemR3djloTzRENnFYNjM0anVuWTdIZDRJLVVuRkRQQ3RWQXA4RG1fTnhScE5pcGZBYW5ObThWbE1Sak12TGw4b3ZfUUNhcGVRckdZbTFsNEo0?oc=5",
+          "id": "ai_1790815587_2",
+          "title": "トランプ政権とAI大手6社が安全協定 - 株式会社エクサウィザーズ",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VNkhlUnRxVjh5NDVhckIza2xoSUdTR1lCSmNjVkpQbTlBamk3ZFdyV0xjZENSWWo0MEpaRVR5ZV9NYlRncE9FaGJDblMzaWZSX1N4dThtT0JFZ1JmLVVremo1REpLVmps?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-09-30 06:49",
-          "headline": "OpenAI、24時間働くAIエージェント「dots」を発表 ChatGPTを仕...",
+          "published_at": "2026-10-01 08:38",
+          "headline": "トランプ政権とAI大手6社が安全協定 - 株式会社エクサウィザーズ",
           "summary": [
-            "【概要】OpenAI、24時間働くAIエージェント「dots」を発表 ChatGPTを仕事の拠点に - 株式会社エクサウィザーズ",
-            "OpenAI、24時間働くAIエージェント「dots」を発表 ChatGPTを仕事の拠点に 株式会社エクサウィザーズ...",
+            "【概要】トランプ政権とAI大手6社が安全協定 - 株式会社エクサウィザーズ",
+            "トランプ政権とAI大手6社が安全協定 株式会社エクサウィザーズ...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -266,16 +266,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1790728934_3",
-          "title": "トランプ氏、ＡＩ企業トップと会談 安全性議論か「共有事項は多い」 - 朝日新聞",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1lZ0tjYXE4TVY2dU1KM25YRjZzMHh3QVhIVGpJX3psWlo1RE1pY3ZGYlVMMUpNRHl0LXA5d0wyMkxTTXV5SlNVRUV0cDk0SkhxNDUweEhVOXZQVkhHVE9jcGNnYTMwSnM?oc=5",
+          "id": "ai_1790815587_3",
+          "title": "「AIは、人と人をつなぐ」 博報堂ＤＹグループが見出したAIのもうひとつの価値｜The H Magazine - hakuhodo.co.jp",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jRjlyWHlURjNLNm1oX1RBVjQ1aTQyNFVpZ0hDZXY2NFlBZUxlRFNjMV9yNEx2S0syeXlUYmxpc19QY2hoYnV1ckY3NjlvZDBUUEYyOXVn?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-09-30 06:14",
-          "headline": "トランプ氏、ＡＩ企業トップと会談 安全性議論か「共有事項は多い」 - 朝日新聞",
+          "published_at": "2026-10-01 07:50",
+          "headline": "「AIは、人と人をつなぐ」 博報堂ＤＹグループが見出したAIのもうひとつの価値｜...",
           "summary": [
-            "【概要】トランプ氏、ＡＩ企業トップと会談 安全性議論か「共有事項は多い」 - 朝日新聞",
-            "トランプ氏、ＡＩ企業トップと会談 安全性議論か「共有事項は多い」 朝日新聞...",
+            "【概要】「AIは、人と人をつなぐ」 博報堂ＤＹグループが見出したAIのもうひとつの価値｜The H Magazine - hakuhodo.co.jp",
+            "「AIは、人と人をつなぐ」 博報堂ＤＹグループが見出したAIのもうひとつの価値｜The H Magazine hakuh...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -286,16 +286,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1790728934_4",
-          "title": "DevDay 2026 の振り返り - OpenAI",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEQ2g5Z1E3MjZLM0I1UEpCbmxvOEloS0Z6UVU4cVE5S1k0cjYwR2x3UkdmYTdEZzdKMVhVd1RWenNUakszcm5lWlEzY2ZRQ3FyRWd5MThaRlBJQ2xNYlE?oc=5",
+          "id": "ai_1790815587_4",
+          "title": "高性能AI普及へ 年内に行動計画 - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ya3dhX2hJdnBoVGVsLW45aS02MS1rQ3lpVDBkMHBQSVdITHZLSEdyZXhEaV8tNk9XODBDaDJDWGZhN1FsSnFJclE0dlIxVWx5?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-09-30 02:27",
-          "headline": "DevDay 2026 の振り返り - OpenAI",
+          "published_at": "2026-10-01 07:33",
+          "headline": "高性能AI普及へ 年内に行動計画 - Yahoo!ニュース",
           "summary": [
-            "【概要】DevDay 2026 の振り返り - OpenAI",
-            "DevDay 2026 の振り返り OpenAI...",
+            "【概要】高性能AI普及へ 年内に行動計画 - Yahoo!ニュース",
+            "高性能AI普及へ 年内に行動計画 Yahoo!ニュース...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -306,16 +306,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1790728934_5",
-          "title": "オープンＡＩ、年間経常収益700億ドルに迫る 企業向け堅調＝関係筋 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Xend2cHhtRjFZV2lkbGtqWEdVaTJuLWdjX2RNSmVObGNOQmJORWRJM0l4bW5kem0wbkJ2Ym5lYzliUHNiTXlIOXl0NGlTVXhnUnp0UzMxRWs2NDRfZE5nQlVhZGcwcTVuSzdScEJYenlsSUltTU55V1pndktfZw?oc=5",
+          "id": "ai_1790815587_5",
+          "title": "AI減速論、人類への脅威か企業リスクか 議論のレベル見極め対処を [AIの時代] - asahi.com",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtWkVaSXowVGt2bHJmbDVrUkdVMThQaTQ4WjVUN0R4MFFubmQyMlMxWXRvbEViZmM4eXhkSklRTmpoYW1WelpnUzI2NnVTNTVnOWxTR21UaFA4Z2tZa1BabW1NQ2pzYUk?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-09-30 01:45",
-          "headline": "オープンＡＩ、年間経常収益700億ドルに迫る 企業向け堅調＝関係筋 - Reut...",
+          "published_at": "2026-10-01 05:00",
+          "headline": "AI減速論、人類への脅威か企業リスクか 議論のレベル見極め対処を [AIの時代]...",
           "summary": [
-            "【概要】オープンＡＩ、年間経常収益700億ドルに迫る 企業向け堅調＝関係筋 - Reuters",
-            "オープンＡＩ、年間経常収益700億ドルに迫る 企業向け堅調＝関係筋 Reuters...",
+            "【概要】AI減速論、人類への脅威か企業リスクか 議論のレベル見極め対処を [AIの時代] - asahi.com",
+            "AI減速論、人類への脅威か企業リスクか 議論のレベル見極め対処を [AIの時代] asahi.com...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
