@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026年10月01日 09:46",
-  "updated_at_iso": "2026-10-01T09:46:24.453348+09:00",
+  "updated_at": "2026年10月02日 10:02",
+  "updated_at_iso": "2026-10-02T10:02:29.680396+09:00",
   "model_used": "mock-mode",
   "categories": [
     {
@@ -10,16 +10,36 @@
       "description": "Microsoft Azureの公式発表・最新クラウド動向",
       "articles": [
         {
-          "id": "azure_1790815585_1",
-          "title": "Azureとオンプレをつなぐ「管理ツール」が侵入口に？ ハイブリッド構成の盲点 - TechTargetジャパン",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UWWpZaGROR1pFUnRtNjN5YTNvY1VKTzJ5YnE5V3VRdTl5MWkxUGFvZHpvZHpOY2txV0dCclpzbjZ5SDVTQ3pmRncwQnFoelpTLXo1UFI1aW9BcHZLOFVsMUxSVEZQTG5oV0tnaTVsMHQ?oc=5",
+          "id": "azure_1790902950_1",
+          "title": "Microsoft 365 and LinkedIn leadership update",
+          "link": "https://blogs.microsoft.com/blog/2026/10/01/microsoft-365-and-linkedin-leadership-update/",
+          "source": "Microsoft Official Blog",
+          "is_official": true,
+          "published_at": "2026-10-02 00:03",
+          "headline": "Microsoft 365 and LinkedIn leadership up...",
+          "summary": [
+            "【概要】Microsoft 365 and LinkedIn leadership update",
+            "Satya Nadella, Chairman and CEO, and Ryan Roslansky, Executi...",
+            "情報提供元: Microsoft Official Blog"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 4
+        },
+        {
+          "id": "azure_1790902950_2",
+          "title": "教育における AI へのマイクロソフトの取り組み: 生徒を守り、学びをさらに豊かに - Microsoft Source",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNemFIQzkyTFp3bkJJekJFT3VHb2FfU2tqSlNqc2FxUUliS1R4TkZWc0ZkRlhERTNOdGN6NXpuQ0JfMTZhVENpVUo5Z1dWN19UdEJnNTQ4R21HUE1kbmFXbEhKZ2VibF9EeG9aTGlHRlhuWlZiaG5YcXpadjhZUEZBamEzZUQxWVBQV2Y2YV9nVUhjeGVSRDZkbUVUVkZGOGs?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-10-01 05:00",
-          "headline": "Azureとオンプレをつなぐ「管理ツール」が侵入口に？ ハイブリッド構成の盲点 ...",
+          "published_at": "2026-10-01 16:29",
+          "headline": "教育における AI へのマイクロソフトの取り組み: 生徒を守り、学びをさらに豊か...",
           "summary": [
-            "【概要】Azureとオンプレをつなぐ「管理ツール」が侵入口に？ ハイブリッド構成の盲点 - TechTargetジャパン",
-            "Azureとオンプレをつなぐ「管理ツール」が侵入口に？ ハイブリッド構成の盲点 TechTargetジャパン...",
+            "【概要】教育における AI へのマイクロソフトの取り組み: 生徒を守り、学びをさらに豊かに - Microsoft Source",
+            "教育における AI へのマイクロソフトの取り組み: 生徒を守り、学びをさらに豊かに Microsoft Source...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -30,16 +50,16 @@
           "importance": 3
         },
         {
-          "id": "azure_1790815585_2",
-          "title": "CAC、個別に提供してきたMicrosoft Azureの活用支援を体系化し「Azure導入支援サービス」として刷新 - ニコニコニュース",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xVloxQnFiUWNCNHAxWkllUnhrYXE0TDQ0S1VhVlVvdi0xcllDSVNUaVY2V1FsRDlYY0JDWVVHZ1Mzd3FQT19CanJIMlkwZ3BGNGZlMzcxWFRzcmhpNkpmanIydGoxMzZCVF84N09aUm1CX3pZYmFGN3Zrbw?oc=5",
+          "id": "azure_1790902950_3",
+          "title": "コムチュア - nikkei.com",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PaU9UUFRTcXhmajNGeDFxeE5JV3hidFhaYjcwNlRmZTlIS2M3dTNFZkJxYkRVMHVtWUpRbDZhUUVzNmVETnNETnprTkVkUTZSNXQ5andmNHFIMHFnbVhnZUpXbU4yUG1Jdnc?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-09-30 19:51",
-          "headline": "CAC、個別に提供してきたMicrosoft Azureの活用支援を体系化し「A...",
+          "published_at": "2026-10-01 16:10",
+          "headline": "コムチュア - nikkei.com",
           "summary": [
-            "【概要】CAC、個別に提供してきたMicrosoft Azureの活用支援を体系化し「Azure導入支援サービス」として刷新 - ニコニコニュース",
-            "CAC、個別に提供してきたMicrosoft Azureの活用支援を体系化し「Azure導入支援サービス」として刷新 ニ...",
+            "【概要】コムチュア - nikkei.com",
+            "コムチュア nikkei.com...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -50,16 +70,16 @@
           "importance": 3
         },
         {
-          "id": "azure_1790815585_3",
-          "title": "Keeper Security、Azure Logic Apps向けの認定コネクタを提供開始・ゼロ知識の認証情報管理をMicrosoft Power Platformに拡張 - asahi.com",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03bkdveHB4U1NNWTBheWdJSU5wUFYzMDQtcTNKMXFVUzlLV2VOcklyVVBFYUpFVnBseWUxWlVrZURoMW9jcF9KcUNldkhYUHpfaHZ1elV0ZXExTlE?oc=5",
+          "id": "azure_1790902950_4",
+          "title": "コムチュア、株式会社クボタ様の人事データ活用基盤をMicrosoft Azure上に構築 - prtimes.jp",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCM3pnTzdOS3Z3NlZFUXQ1Nl9VaEE0VTBiY2tqRmtVLWlUZ3RYY0hkT0V4OHZCQm50RDB0cWVUTXZDWTFRSXVxQmhTMWZ6amxlczZGZDdidUsyNUVaUS1ZOExkY2FxTVNPekE?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-09-30 18:05",
-          "headline": "Keeper Security、Azure Logic Apps向けの認定コネク...",
+          "published_at": "2026-10-01 15:30",
+          "headline": "コムチュア、株式会社クボタ様の人事データ活用基盤をMicrosoft Azure...",
           "summary": [
-            "【概要】Keeper Security、Azure Logic Apps向けの認定コネクタを提供開始・ゼロ知識の認証情報管理をMicrosoft Power Platformに拡張 - asahi.com",
-            "Keeper Security、Azure Logic Apps向けの認定コネクタを提供開始・ゼロ知識の認証情報管理をM...",
+            "【概要】コムチュア、株式会社クボタ様の人事データ活用基盤をMicrosoft Azure上に構築 - prtimes.jp",
+            "コムチュア、株式会社クボタ様の人事データ活用基盤をMicrosoft Azure上に構築 prtimes.jp...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -70,36 +90,16 @@
           "importance": 3
         },
         {
-          "id": "azure_1790815585_4",
-          "title": "AI を活用し「社員の働き方」をモダナイズ、ＪＲ東日本情報システムが GitHub Copilot で挑む「生成 AI を活用した新たな開発スタイル」の確立 - Microsoft",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVzUyZXZQRHpkMkVsejYtRjRTMmxXZW9BOGRXSW1pYk5reml1S2F1cTRfbkl2VHR6Vk5kUjdqVTRPR0hmeG0tdDF5ZVBPRXRMV3Vqa29FYzNhYkh5bFBfX0QtUGFNdkg0M1ZGaElINXc0UHMyaVpBckR4TlpFYlhiYk9sLURsVmRUbTNBZkpRekpUZnZRYTBoTUtNTFUtWXhuWUtXWHZTWQ?oc=5",
+          "id": "azure_1790902950_5",
+          "title": "マイクロソフトのAzureで大規模ネットワーク障害、西日本含む19リージョンに影響 - BigGo ファイナンス",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42QzdSazVkLWlNY3A4SnpIa2wyQWNybjY3SjhVbnNZUzBmQ243aHBiTkk4MDh5QkktYXJUZXpEbG92bEhuT2Y5WjVtdDJTWXZPX1VtU0h5NEtDaHo2Qk94SWFIeUJ4c0JrQzV2bWFuYzJCc2tS?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-09-30 11:01",
-          "headline": "AI を活用し「社員の働き方」をモダナイズ、ＪＲ東日本情報システムが GitHu...",
+          "published_at": "2026-10-01 12:35",
+          "headline": "マイクロソフトのAzureで大規模ネットワーク障害、西日本含む19リージョンに影...",
           "summary": [
-            "【概要】AI を活用し「社員の働き方」をモダナイズ、ＪＲ東日本情報システムが GitHub Copilot で挑む「生成 AI を活用した新たな開発スタイル」の確立 - Microsoft",
-            "AI を活用し「社員の働き方」をモダナイズ、ＪＲ東日本情報システムが GitHub Copilot で挑む「生成 AI ...",
-            "情報提供元: Google News (Azure)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "azure_1790815585_5",
-          "title": "川崎重工、Azure Kubernetes Serviceを活用し、拡張性の高いロボティクスのサービス化プラットフォームを構築 - Microsoft",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS2ZTbUlZQm5Ld09WT21QWGxsVUNidWpMVUwtaXJqaHRVOWl2c216dXNiR29obHppUVFaeFB0aEtocmtSR3p5cUhtWWhJVDBwamp1MnNsU01VVl9fVWticTg4MEVTQlNlQm1LN1g0X3pVOHVOZ3I0dkFVcG5ORWZGNjFfYkFxbU9aQnJOZmc3R2VYU2t6ZU9IVWJGVmxQWl92d2xDZjNhUQ?oc=5",
-          "source": "Google News (Azure)",
-          "is_official": false,
-          "published_at": "2026-09-30 06:01",
-          "headline": "川崎重工、Azure Kubernetes Serviceを活用し、拡張性の高い...",
-          "summary": [
-            "【概要】川崎重工、Azure Kubernetes Serviceを活用し、拡張性の高いロボティクスのサービス化プラットフォームを構築 - Microsoft",
-            "川崎重工、Azure Kubernetes Serviceを活用し、拡張性の高いロボティクスのサービス化プラットフォーム...",
+            "【概要】マイクロソフトのAzureで大規模ネットワーク障害、西日本含む19リージョンに影響 - BigGo ファイナンス",
+            "マイクロソフトのAzureで大規模ネットワーク障害、西日本含む19リージョンに影響 BigGo ファイナンス...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -118,56 +118,16 @@
       "description": "テスラの最新アップデート・EV・FSD・決算動向",
       "articles": [
         {
-          "id": "tesla_1790815585_1",
-          "title": "テスラ【TSLA】：株価・株式情報 - finance.yahoo.co.jp",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vR2owRXJLX1dwYUtHY05wNjVKVmVrTHNXdm5yRGJ0NHJzSzZTaEgxWFo0WmNBOWUxV2tXcHljUWlYaG92bll2YUNIQzJlVE0?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-10-01 07:48",
-          "headline": "テスラ【TSLA】：株価・株式情報 - finance.yahoo.co.jp",
-          "summary": [
-            "【概要】テスラ【TSLA】：株価・株式情報 - finance.yahoo.co.jp",
-            "テスラ【TSLA】：株価・株式情報 finance.yahoo.co.jp...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "tesla_1790815585_2",
-          "title": "テスラの空売り勢が撤退、決算前の売り主導は長期保有者に：空売り追跡データ - Moomoo",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSk1EZjZJVXJWekNiQU96RWNITUVtc24ySkdYN1NKZnViUF9zSnd1ajZ4Ri1DWmlTWFN5V29MZDhocjJzNmdOQjBrV1JVME5iejJzeThRQnYtQ3h4d0s0U0FRdkxnUHJyYWRJamdZRVUwZ19lNHBMTExjY2JpQzVLcTMwbzFwa3FQMzVTLWhScERfRmpiemtHSTZRb2ZPWldlell0Z0w3elh3dl9QLVVCem5ibnU?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-09-30 23:21",
-          "headline": "テスラの空売り勢が撤退、決算前の売り主導は長期保有者に：空売り追跡データ - M...",
-          "summary": [
-            "【概要】テスラの空売り勢が撤退、決算前の売り主導は長期保有者に：空売り追跡データ - Moomoo",
-            "テスラの空売り勢が撤退、決算前の売り主導は長期保有者に：空売り追跡データ Moomoo...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "tesla_1790815585_3",
-          "title": "Tesla Robotaxi fleets are the new crypto treasury for zombie companies",
-          "link": "https://electrek.co/2026/09/30/kidz-ai-tesla-robotaxi-fleet-zombie-company-bitcoin-treasury/",
+          "id": "tesla_1790902951_1",
+          "title": "Tesla Model 3 gets range and performance boost, plus a new 16-inch screen in US",
+          "link": "https://electrek.co/2026/10/01/tesla-model-3-us-16-inch-screen-performance-528-hp/",
           "source": "Electrek (Tesla)",
           "is_official": true,
-          "published_at": "2026-09-30 23:02",
-          "headline": "Tesla Robotaxi fleets are the new crypto...",
+          "published_at": "2026-10-02 09:54",
+          "headline": "Tesla Model 3 gets range and performance...",
           "summary": [
-            "【概要】Tesla Robotaxi fleets are the new crypto treasury for zombie companies",
-            "A Nasdaq-listed company worth about $2.4 million says it wan...",
+            "【概要】Tesla Model 3 gets range and performance boost, plus a new 16-inch screen in US",
+            "Tesla is now putting its larger 16-inch center touchscreen i...",
             "情報提供元: Electrek (Tesla)"
           ],
           "key_points": [
@@ -178,16 +138,16 @@
           "importance": 4
         },
         {
-          "id": "tesla_1790815585_4",
-          "title": "Tesla Secures $30 Billion Credit Facility to Fund AI Infrastructure Expansion - TIKR.com",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPY183d0dSc0tDS3ZjWG1uT3JNQUtVeWpKWmtESlVaMFZCQm84T0F1cmszRkFHRjlWZnh1ZGF0VDRHaXdvSnVvS1FaTmFxSy1aMTZJR2hWQXVSRk1oS0dMTjF2WHBSWm9ZbmFXTW94dGxDMzhQaGxpS05ncGhnNHFjMkVyZVUxeDdWM0pNbVl5bw?oc=5",
+          "id": "tesla_1790902951_2",
+          "title": "米テスラ、9月の欧州販売台数は回復基調 - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd0pJVjZtY0ZvSkVaZGcwdEU1TjVGLVRTeldhWEZPMkdWU1lXQjBoZDQ2YVVIR0Z3dWlJSUxiTkkxMmptSDM1azNkczBnOEdSd0EtdFpnbmpzczFDd0hZSDdvYXM3LU41cENWbWRoZ2ZDbXI5SWNDS3hXTl9PZEpqTXpWMGE4Zw?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-09-30 21:52",
-          "headline": "Tesla Secures $30 Billion Credit Facilit...",
+          "published_at": "2026-10-02 08:55",
+          "headline": "米テスラ、9月の欧州販売台数は回復基調 - reuters.com",
           "summary": [
-            "【概要】Tesla Secures $30 Billion Credit Facility to Fund AI Infrastructure Expansion - TIKR.com",
-            "Tesla Secures $30 Billion Credit Facility to Fund AI Infrast...",
+            "【概要】米テスラ、9月の欧州販売台数は回復基調 - reuters.com",
+            "米テスラ、9月の欧州販売台数は回復基調 reuters.com...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -198,16 +158,56 @@
           "importance": 3
         },
         {
-          "id": "tesla_1790815585_5",
-          "title": "テスラで行く【呉服屋さんのランチ!?〜ぶどう狩り〜秀吉本陣跡】孫とも合流して最後の夏のお楽しみ方#hyogo #tesla #modelYL #modely #model3 - YouTube",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5qdHJHWnB1b0l4WFdRMnFPR29wTjc5RjZvN2Y1YVZ1M1NSMkN6SkZNanpqQWtfa1hpbDRMVTZtZ0RUQQ?oc=5",
+          "id": "tesla_1790902951_3",
+          "title": "Tesla launches capability to drive away while plugged in after deadly Supercharger shooting",
+          "link": "https://electrek.co/2026/10/01/tesla-emergency-drive-away-supercharger-shooting/",
+          "source": "Electrek (Tesla)",
+          "is_official": true,
+          "published_at": "2026-10-02 08:28",
+          "headline": "Tesla launches capability to drive away ...",
+          "summary": [
+            "【概要】Tesla launches capability to drive away while plugged in after deadly Supercharger shooting",
+            "Tesla launched a new feature called “Emergency Drive Away” t...",
+            "情報提供元: Electrek (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 4
+        },
+        {
+          "id": "tesla_1790902951_4",
+          "title": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vR2owRXJLX1dwYUtHY05wNjVKVmVrTHNXdm5yRGJ0NHJzSzZTaEgxWFo0WmNBOWUxV2tXcHljUWlYaG92bll2YUNIQzJlVE0?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-09-30 21:00",
-          "headline": "テスラで行く【呉服屋さんのランチ!?〜ぶどう狩り〜秀吉本陣跡】孫とも合流して最後...",
+          "published_at": "2026-10-02 08:01",
+          "headline": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
           "summary": [
-            "【概要】テスラで行く【呉服屋さんのランチ!?〜ぶどう狩り〜秀吉本陣跡】孫とも合流して最後の夏のお楽しみ方#hyogo #tesla #modelYL #modely #model3 - YouTube",
-            "テスラで行く【呉服屋さんのランチ!?〜ぶどう狩り〜秀吉本陣跡】孫とも合流して最後の夏のお楽しみ方#hyogo #tesl...",
+            "【概要】テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
+            "テスラ【TSLA】：株価・株式情報 Yahoo!ファイナンス...",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "tesla_1790902951_5",
+          "title": "テスラ運転手のiPhone、事故後「勝手に警察に通報」 - 自動運転ラボ",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RcTZscVU2Ujk0aWtkQ0hPNl9sQzhkZ2lNcEJvOTdzVF9qYXhQWElZX0NXTjNaelUxYVVibjJsX2RhOXdhMVh1bA?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-10-02 06:57",
+          "headline": "テスラ運転手のiPhone、事故後「勝手に警察に通報」 - 自動運転ラボ",
+          "summary": [
+            "【概要】テスラ運転手のiPhone、事故後「勝手に警察に通報」 - 自動運転ラボ",
+            "テスラ運転手のiPhone、事故後「勝手に警察に通報」 自動運転ラボ...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -226,16 +226,16 @@
       "description": "OpenAI・Google・生成AIの公式発表・技術速報",
       "articles": [
         {
-          "id": "ai_1790815587_1",
-          "title": "AIオンデマンド交通 「スパイスボックス」乗り方教室 - town.nagaizumi.lg.jp",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqUEhkUGdxNVh6bllJRmEydXpvZ291eTNrbWRIWTVBUUNPVzZ0enJINEEwa0VFSFZJRm1rRUFROFZyQV9WYzZrblRlUFBtUWZXcmNCQUtBa09pMk90OG5zeEtXcHV3NldOcWgwejdOYw?oc=5",
+          "id": "ai_1790902952_1",
+          "title": "AIで生産性は上がるのか―個人の時短が組織成果につながらない３つの理由 - パーソル総合研究所",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9qVkJpNlhZZTg4YmZZeFgwbzVEcGZLRHQ3OXAtUVlGYldXakcybXhuS0x6NHQtYzdWYU5JU3FKcHhDdzdMZlFrdGFUNXlZUk1WVTNpVlJOeFFqQU9BbjV1WHJpbzRKZVNKVjlKcHNkREV3M0Y1ZldJUjVB?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-01 09:20",
-          "headline": "AIオンデマンド交通 「スパイスボックス」乗り方教室 - town.nagaiz...",
+          "published_at": "2026-10-02 10:00",
+          "headline": "AIで生産性は上がるのか―個人の時短が組織成果につながらない３つの理由 - パー...",
           "summary": [
-            "【概要】AIオンデマンド交通 「スパイスボックス」乗り方教室 - town.nagaizumi.lg.jp",
-            "AIオンデマンド交通 「スパイスボックス」乗り方教室 town.nagaizumi.lg.jp...",
+            "【概要】AIで生産性は上がるのか―個人の時短が組織成果につながらない３つの理由 - パーソル総合研究所",
+            "AIで生産性は上がるのか―個人の時短が組織成果につながらない３つの理由 パーソル総合研究所...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -246,16 +246,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1790815587_2",
-          "title": "トランプ政権とAI大手6社が安全協定 - 株式会社エクサウィザーズ",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VNkhlUnRxVjh5NDVhckIza2xoSUdTR1lCSmNjVkpQbTlBamk3ZFdyV0xjZENSWWo0MEpaRVR5ZV9NYlRncE9FaGJDblMzaWZSX1N4dThtT0JFZ1JmLVVremo1REpLVmps?oc=5",
+          "id": "ai_1790902952_2",
+          "title": "最先端ＡＩ開発停止・禁止 米中など開発国に要求を/共産党国会議員団、政府に申し入れ | しんぶん赤旗 - jcp.or.jp",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBwZF90MVZubmNPLVMtSjFFR01kQ0VIRkZOVWpiMlFicGp2eWNjS0hqMmM1Ry05VW9KYTZkSzJHZXZEakFUSlk3N3JFeXRwc185WXpNeXdFejlpUDBOYktZUHp1VmEtY2VSRzh6N2MwUGtVNTl3?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-01 08:38",
-          "headline": "トランプ政権とAI大手6社が安全協定 - 株式会社エクサウィザーズ",
+          "published_at": "2026-10-02 09:58",
+          "headline": "最先端ＡＩ開発停止・禁止 米中など開発国に要求を/共産党国会議員団、政府に申し入...",
           "summary": [
-            "【概要】トランプ政権とAI大手6社が安全協定 - 株式会社エクサウィザーズ",
-            "トランプ政権とAI大手6社が安全協定 株式会社エクサウィザーズ...",
+            "【概要】最先端ＡＩ開発停止・禁止 米中など開発国に要求を/共産党国会議員団、政府に申し入れ | しんぶん赤旗 - jcp.or.jp",
+            "最先端ＡＩ開発停止・禁止 米中など開発国に要求を/共産党国会議員団、政府に申し入れ | しんぶん赤旗 jcp.or.jp...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -266,16 +266,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1790815587_3",
-          "title": "「AIは、人と人をつなぐ」 博報堂ＤＹグループが見出したAIのもうひとつの価値｜The H Magazine - hakuhodo.co.jp",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jRjlyWHlURjNLNm1oX1RBVjQ1aTQyNFVpZ0hDZXY2NFlBZUxlRFNjMV9yNEx2S0syeXlUYmxpc19QY2hoYnV1ckY3NjlvZDBUUEYyOXVn?oc=5",
+          "id": "ai_1790902952_3",
+          "title": "AIとスパコンで迫る天の川銀河の進化 - riken.jp",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsRWlNMGVaa201M0sxWHpLN09vUVRLcjhBOHlaSGlra29NelJVVlRQTlFCRzFjdjBob2JLNUdlVXA0WDZUWGtGWU5UUV9QQU92cnBjWm9sY2thSVZFeDRUUC11bzRGZ3NpM0E?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-01 07:50",
-          "headline": "「AIは、人と人をつなぐ」 博報堂ＤＹグループが見出したAIのもうひとつの価値｜...",
+          "published_at": "2026-10-02 09:17",
+          "headline": "AIとスパコンで迫る天の川銀河の進化 - riken.jp",
           "summary": [
-            "【概要】「AIは、人と人をつなぐ」 博報堂ＤＹグループが見出したAIのもうひとつの価値｜The H Magazine - hakuhodo.co.jp",
-            "「AIは、人と人をつなぐ」 博報堂ＤＹグループが見出したAIのもうひとつの価値｜The H Magazine hakuh...",
+            "【概要】AIとスパコンで迫る天の川銀河の進化 - riken.jp",
+            "AIとスパコンで迫る天の川銀河の進化 riken.jp...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -286,16 +286,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1790815587_4",
-          "title": "高性能AI普及へ 年内に行動計画 - Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ya3dhX2hJdnBoVGVsLW45aS02MS1rQ3lpVDBkMHBQSVdITHZLSEdyZXhEaV8tNk9XODBDaDJDWGZhN1FsSnFJclE0dlIxVWx5?oc=5",
+          "id": "ai_1790902952_4",
+          "title": "米ＡＩモデル「ウエート」、中国が盗む恐れ 民主議員が警告 - reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NbGxPcTFQUzN4OWloZGdjWmVadVRlMVF0Y1E5ZjMwUDdkQnpabXhJUmJBZFFQMmpIaDFEU0pMQmNfOXdnamZ5TjhFaDJKNm9PVUlHNVd4cUtrQkgtUjl2MHlwQ2RNOWhoUmtCU3d3VE5vMl9uTjVnMHBQX1Awdw?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-01 07:33",
-          "headline": "高性能AI普及へ 年内に行動計画 - Yahoo!ニュース",
+          "published_at": "2026-10-02 08:37",
+          "headline": "米ＡＩモデル「ウエート」、中国が盗む恐れ 民主議員が警告 - reuters.c...",
           "summary": [
-            "【概要】高性能AI普及へ 年内に行動計画 - Yahoo!ニュース",
-            "高性能AI普及へ 年内に行動計画 Yahoo!ニュース...",
+            "【概要】米ＡＩモデル「ウエート」、中国が盗む恐れ 民主議員が警告 - reuters.com",
+            "米ＡＩモデル「ウエート」、中国が盗む恐れ 民主議員が警告 reuters.com...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -306,24 +306,24 @@
           "importance": 3
         },
         {
-          "id": "ai_1790815587_5",
-          "title": "AI減速論、人類への脅威か企業リスクか 議論のレベル見極め対処を [AIの時代] - asahi.com",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtWkVaSXowVGt2bHJmbDVrUkdVMThQaTQ4WjVUN0R4MFFubmQyMlMxWXRvbEViZmM4eXhkSklRTmpoYW1WelpnUzI2NnVTNTVnOWxTR21UaFA4Z2tZa1BabW1NQ2pzYUk?oc=5",
-          "source": "Google News (AI)",
-          "is_official": false,
-          "published_at": "2026-10-01 05:00",
-          "headline": "AI減速論、人類への脅威か企業リスクか 議論のレベル見極め対処を [AIの時代]...",
+          "id": "ai_1790902952_5",
+          "title": "The eternal complement",
+          "link": "https://openai.com/index/the-eternal-complement",
+          "source": "OpenAI Official Blog",
+          "is_official": true,
+          "published_at": "2026-10-02 02:00",
+          "headline": "The eternal complement",
           "summary": [
-            "【概要】AI減速論、人類への脅威か企業リスクか 議論のレベル見極め対処を [AIの時代] - asahi.com",
-            "AI減速論、人類への脅威か企業リスクか 議論のレベル見極め対処を [AIの時代] asahi.com...",
-            "情報提供元: Google News (AI)"
+            "【概要】The eternal complement",
+            "Advanced AI may matter most for the routine work behind brea...",
+            "情報提供元: OpenAI Official Blog"
           ],
           "key_points": [
             "最新の公式・主要発表",
             "詳細は元記事リンクから確認可能"
           ],
           "badge": "注目",
-          "importance": 3
+          "importance": 4
         }
       ]
     }
