@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026年10月02日 10:02",
-  "updated_at_iso": "2026-10-02T10:02:29.680396+09:00",
+  "updated_at": "2026年10月03日 09:39",
+  "updated_at_iso": "2026-10-03T09:39:52.657292+09:00",
   "model_used": "mock-mode",
   "categories": [
     {
@@ -10,7 +10,7 @@
       "description": "Microsoft Azureの公式発表・最新クラウド動向",
       "articles": [
         {
-          "id": "azure_1790902950_1",
+          "id": "azure_1790987993_1",
           "title": "Microsoft 365 and LinkedIn leadership update",
           "link": "https://blogs.microsoft.com/blog/2026/10/01/microsoft-365-and-linkedin-leadership-update/",
           "source": "Microsoft Official Blog",
@@ -30,7 +30,7 @@
           "importance": 4
         },
         {
-          "id": "azure_1790902950_2",
+          "id": "azure_1790987993_2",
           "title": "教育における AI へのマイクロソフトの取り組み: 生徒を守り、学びをさらに豊かに - Microsoft Source",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNemFIQzkyTFp3bkJJekJFT3VHb2FfU2tqSlNqc2FxUUliS1R4TkZWc0ZkRlhERTNOdGN6NXpuQ0JfMTZhVENpVUo5Z1dWN19UdEJnNTQ4R21HUE1kbmFXbEhKZ2VibF9EeG9aTGlHRlhuWlZiaG5YcXpadjhZUEZBamEzZUQxWVBQV2Y2YV9nVUhjeGVSRDZkbUVUVkZGOGs?oc=5",
           "source": "Google News (Azure)",
@@ -50,16 +50,16 @@
           "importance": 3
         },
         {
-          "id": "azure_1790902950_3",
-          "title": "コムチュア - nikkei.com",
+          "id": "azure_1790987993_3",
+          "title": "コムチュア[3844]：コムチュア、株式会社クボタ様の人事データ活用基盤をMicrosoft Azure上に構築 2026年10月1日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PaU9UUFRTcXhmajNGeDFxeE5JV3hidFhaYjcwNlRmZTlIS2M3dTNFZkJxYkRVMHVtWUpRbDZhUUVzNmVETnNETnprTkVkUTZSNXQ5andmNHFIMHFnbVhnZUpXbU4yUG1Jdnc?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
           "published_at": "2026-10-01 16:10",
-          "headline": "コムチュア - nikkei.com",
+          "headline": "コムチュア[3844]：コムチュア、株式会社クボタ様の人事データ活用基盤をMic...",
           "summary": [
-            "【概要】コムチュア - nikkei.com",
-            "コムチュア nikkei.com...",
+            "【概要】コムチュア[3844]：コムチュア、株式会社クボタ様の人事データ活用基盤をMicrosoft Azure上に構築 2026年10月1日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+            "コムチュア[3844]：コムチュア、株式会社クボタ様の人事データ活用基盤をMicrosoft Azure上に構築 202...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -70,16 +70,16 @@
           "importance": 3
         },
         {
-          "id": "azure_1790902950_4",
-          "title": "コムチュア、株式会社クボタ様の人事データ活用基盤をMicrosoft Azure上に構築 - prtimes.jp",
+          "id": "azure_1790987993_4",
+          "title": "コムチュア、株式会社クボタ様の人事データ活用基盤をMicrosoft Azure上に構築 - PR TIMES",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCM3pnTzdOS3Z3NlZFUXQ1Nl9VaEE0VTBiY2tqRmtVLWlUZ3RYY0hkT0V4OHZCQm50RDB0cWVUTXZDWTFRSXVxQmhTMWZ6amxlczZGZDdidUsyNUVaUS1ZOExkY2FxTVNPekE?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
           "published_at": "2026-10-01 15:30",
           "headline": "コムチュア、株式会社クボタ様の人事データ活用基盤をMicrosoft Azure...",
           "summary": [
-            "【概要】コムチュア、株式会社クボタ様の人事データ活用基盤をMicrosoft Azure上に構築 - prtimes.jp",
-            "コムチュア、株式会社クボタ様の人事データ活用基盤をMicrosoft Azure上に構築 prtimes.jp...",
+            "【概要】コムチュア、株式会社クボタ様の人事データ活用基盤をMicrosoft Azure上に構築 - PR TIMES",
+            "コムチュア、株式会社クボタ様の人事データ活用基盤をMicrosoft Azure上に構築 PR TIMES...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -90,7 +90,7 @@
           "importance": 3
         },
         {
-          "id": "azure_1790902950_5",
+          "id": "azure_1790987993_5",
           "title": "マイクロソフトのAzureで大規模ネットワーク障害、西日本含む19リージョンに影響 - BigGo ファイナンス",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42QzdSazVkLWlNY3A4SnpIa2wyQWNybjY3SjhVbnNZUzBmQ243aHBiTkk4MDh5QkktYXJUZXpEbG92bEhuT2Y5WjVtdDJTWXZPX1VtU0h5NEtDaHo2Qk94SWFIeUJ4c0JrQzV2bWFuYzJCc2tS?oc=5",
           "source": "Google News (Azure)",
@@ -118,16 +118,96 @@
       "description": "テスラの最新アップデート・EV・FSD・決算動向",
       "articles": [
         {
-          "id": "tesla_1790902951_1",
-          "title": "Tesla Model 3 gets range and performance boost, plus a new 16-inch screen in US",
-          "link": "https://electrek.co/2026/10/01/tesla-model-3-us-16-inch-screen-performance-528-hp/",
+          "id": "tesla_1790987994_1",
+          "title": "半導体主導のラリーでナスダック上昇、テスラは4.65%急騰 - Moomoo",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaXBDZzB2LXF6UFJMbFdLS05kZ0dFbG1GMGo1cXk5VmhaaHN0b1FUQkpIWWtkRzJabXlxc3RscTJwRlpvQk9xcUt1NlEwcS1BeEtlUmhQNW0yUU5PdUJZa0Nfb0pwMkZucG9kNGN6RnU0cm5NNlB5ZkVJSURqVVJxYm5yNll2ZV93WlRMX1plRzhnbWNjNy1OWkNMX3FOSGZXeWRJ?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-10-03 09:04",
+          "headline": "半導体主導のラリーでナスダック上昇、テスラは4.65%急騰 - Moomoo",
+          "summary": [
+            "【概要】半導体主導のラリーでナスダック上昇、テスラは4.65%急騰 - Moomoo",
+            "半導体主導のラリーでナスダック上昇、テスラは4.65%急騰 Moomoo...",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "tesla_1790987994_2",
+          "title": "テスラ 世界の新車販売台数減少“去年の駆け込み需要の反動” - NHKニュース",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uOXRVMGxXbHkxdm8wczRTR0wtM09vNUNoQWg5TzlpU2FTdENNQ2NIeURjNnhVNGU3RUpRTmVIY3pGTXRHMC1KWmh2VG8teXNsRnhCQXRHaUtVMlpyR2xv?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-10-03 08:16",
+          "headline": "テスラ 世界の新車販売台数減少“去年の駆け込み需要の反動” - NHKニュース",
+          "summary": [
+            "【概要】テスラ 世界の新車販売台数減少“去年の駆け込み需要の反動” - NHKニュース",
+            "テスラ 世界の新車販売台数減少“去年の駆け込み需要の反動” NHKニュース...",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "tesla_1790987994_3",
+          "title": "テスラ株5％上昇、第3四半期納車48万6532台で市場予想超え（Forbes JAPAN） - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ibEowaDk0UE4zemNOWHNqQUk3ZlZsMGlhRjZZUURHOTFYNHZhdk85eTlCZDZvYjVzMUJTRVl4OF9BVEwyalpxanY0QjdBVGhpQ0JKOVFUMmZZSXlyWFNiZnByXzU4cXdUdmpFMi1HQzRVcERDUEZuWTVRSVhtYzg?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-10-03 08:00",
+          "headline": "テスラ株5％上昇、第3四半期納車48万6532台で市場予想超え（Forbes J...",
+          "summary": [
+            "【概要】テスラ株5％上昇、第3四半期納車48万6532台で市場予想超え（Forbes JAPAN） - Yahoo!ニュース",
+            "テスラ株5％上昇、第3四半期納車48万6532台で市場予想超え（Forbes JAPAN） Yahoo!ニュース...",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "tesla_1790987994_4",
+          "title": "Hyundai Motor社長「販売不振はストのせい」…Tesla・BYDには残存価値で対抗 - BigGo ファイナンス",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzS2JXSElBUU1UT0N2RmYxM2xyejVOXzVUdkpncjNXTjlTOVlOVkxJR244WVNyaFllM1o2VlhLcFBvcHdYSXNudm5HbDRJdE4wVjZXT0RWbER2bWNVSDYwN2Rxc1RsODdnR1BRRlNnbU9xazIt?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-10-03 03:05",
+          "headline": "Hyundai Motor社長「販売不振はストのせい」…Tesla・BYDには残...",
+          "summary": [
+            "【概要】Hyundai Motor社長「販売不振はストのせい」…Tesla・BYDには残存価値で対抗 - BigGo ファイナンス",
+            "Hyundai Motor社長「販売不振はストのせい」…Tesla・BYDには残存価値で対抗 BigGo ファイナンス...",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "tesla_1790987994_5",
+          "title": "UK EV sales surge 36% to record high in September",
+          "link": "https://electrek.co/2026/10/02/uk-ev-sales-record-september-2026-tesla-model-3/",
           "source": "Electrek (Tesla)",
           "is_official": true,
-          "published_at": "2026-10-02 09:54",
-          "headline": "Tesla Model 3 gets range and performance...",
+          "published_at": "2026-10-03 02:17",
+          "headline": "UK EV sales surge 36% to record high in ...",
           "summary": [
-            "【概要】Tesla Model 3 gets range and performance boost, plus a new 16-inch screen in US",
-            "Tesla is now putting its larger 16-inch center touchscreen i...",
+            "【概要】UK EV sales surge 36% to record high in September",
+            "UK EV sales hit a new all-time record in September. The coun...",
             "情報提供元: Electrek (Tesla)"
           ],
           "key_points": [
@@ -136,86 +216,6 @@
           ],
           "badge": "注目",
           "importance": 4
-        },
-        {
-          "id": "tesla_1790902951_2",
-          "title": "米テスラ、9月の欧州販売台数は回復基調 - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd0pJVjZtY0ZvSkVaZGcwdEU1TjVGLVRTeldhWEZPMkdWU1lXQjBoZDQ2YVVIR0Z3dWlJSUxiTkkxMmptSDM1azNkczBnOEdSd0EtdFpnbmpzczFDd0hZSDdvYXM3LU41cENWbWRoZ2ZDbXI5SWNDS3hXTl9PZEpqTXpWMGE4Zw?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-10-02 08:55",
-          "headline": "米テスラ、9月の欧州販売台数は回復基調 - reuters.com",
-          "summary": [
-            "【概要】米テスラ、9月の欧州販売台数は回復基調 - reuters.com",
-            "米テスラ、9月の欧州販売台数は回復基調 reuters.com...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "tesla_1790902951_3",
-          "title": "Tesla launches capability to drive away while plugged in after deadly Supercharger shooting",
-          "link": "https://electrek.co/2026/10/01/tesla-emergency-drive-away-supercharger-shooting/",
-          "source": "Electrek (Tesla)",
-          "is_official": true,
-          "published_at": "2026-10-02 08:28",
-          "headline": "Tesla launches capability to drive away ...",
-          "summary": [
-            "【概要】Tesla launches capability to drive away while plugged in after deadly Supercharger shooting",
-            "Tesla launched a new feature called “Emergency Drive Away” t...",
-            "情報提供元: Electrek (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 4
-        },
-        {
-          "id": "tesla_1790902951_4",
-          "title": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vR2owRXJLX1dwYUtHY05wNjVKVmVrTHNXdm5yRGJ0NHJzSzZTaEgxWFo0WmNBOWUxV2tXcHljUWlYaG92bll2YUNIQzJlVE0?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-10-02 08:01",
-          "headline": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
-          "summary": [
-            "【概要】テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
-            "テスラ【TSLA】：株価・株式情報 Yahoo!ファイナンス...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "tesla_1790902951_5",
-          "title": "テスラ運転手のiPhone、事故後「勝手に警察に通報」 - 自動運転ラボ",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RcTZscVU2Ujk0aWtkQ0hPNl9sQzhkZ2lNcEJvOTdzVF9qYXhQWElZX0NXTjNaelUxYVVibjJsX2RhOXdhMVh1bA?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-10-02 06:57",
-          "headline": "テスラ運転手のiPhone、事故後「勝手に警察に通報」 - 自動運転ラボ",
-          "summary": [
-            "【概要】テスラ運転手のiPhone、事故後「勝手に警察に通報」 - 自動運転ラボ",
-            "テスラ運転手のiPhone、事故後「勝手に警察に通報」 自動運転ラボ...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
         }
       ]
     },
@@ -226,16 +226,16 @@
       "description": "OpenAI・Google・生成AIの公式発表・技術速報",
       "articles": [
         {
-          "id": "ai_1790902952_1",
-          "title": "AIで生産性は上がるのか―個人の時短が組織成果につながらない３つの理由 - パーソル総合研究所",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9qVkJpNlhZZTg4YmZZeFgwbzVEcGZLRHQ3OXAtUVlGYldXakcybXhuS0x6NHQtYzdWYU5JU3FKcHhDdzdMZlFrdGFUNXlZUk1WVTNpVlJOeFFqQU9BbjV1WHJpbzRKZVNKVjlKcHNkREV3M0Y1ZldJUjVB?oc=5",
+          "id": "ai_1790987995_1",
+          "title": "NVIDIA、5月以来の最高値 AI需要・自社株買いを好感 - 日本経済新聞",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zdkFScUpwd3l6TzVQVVVnelN3blpjc0ozZi1paXhLeVhxVlR1elNwOXZob21lR2UwNGlKZ2U0ZlZrMUVjTUZESGdoaDdtZzFaMDF5UEJRQ2NxR0pWWVNjdTdVd1FOZG9BQzl4WA?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-02 10:00",
-          "headline": "AIで生産性は上がるのか―個人の時短が組織成果につながらない３つの理由 - パー...",
+          "published_at": "2026-10-03 08:26",
+          "headline": "NVIDIA、5月以来の最高値 AI需要・自社株買いを好感 - 日本経済新聞",
           "summary": [
-            "【概要】AIで生産性は上がるのか―個人の時短が組織成果につながらない３つの理由 - パーソル総合研究所",
-            "AIで生産性は上がるのか―個人の時短が組織成果につながらない３つの理由 パーソル総合研究所...",
+            "【概要】NVIDIA、5月以来の最高値 AI需要・自社株買いを好感 - 日本経済新聞",
+            "NVIDIA、5月以来の最高値 AI需要・自社株買いを好感 日本経済新聞...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -246,16 +246,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1790902952_2",
-          "title": "最先端ＡＩ開発停止・禁止 米中など開発国に要求を/共産党国会議員団、政府に申し入れ | しんぶん赤旗 - jcp.or.jp",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBwZF90MVZubmNPLVMtSjFFR01kQ0VIRkZOVWpiMlFicGp2eWNjS0hqMmM1Ry05VW9KYTZkSzJHZXZEakFUSlk3N3JFeXRwc185WXpNeXdFejlpUDBOYktZUHp1VmEtY2VSRzh6N2MwUGtVNTl3?oc=5",
+          "id": "ai_1790987995_2",
+          "title": "ウォール街、AI導入（FDE）の求人が18倍に 年棒約2800万円 - 株式会社エクサウィザーズ",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zbnhUc1BNektMbnJHakd6Y3BrZkNLWmwyLUxvRTlDaEVrV0J1TnlfY3FsTEFjTGpkQzhNcXo0YW0zZ2lud1ZqeFhMdVN3cURwLWtienpGM21nY2VhZ0lNdWJqNnRuQQ?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-02 09:58",
-          "headline": "最先端ＡＩ開発停止・禁止 米中など開発国に要求を/共産党国会議員団、政府に申し入...",
+          "published_at": "2026-10-03 07:30",
+          "headline": "ウォール街、AI導入（FDE）の求人が18倍に 年棒約2800万円 - 株式会社...",
           "summary": [
-            "【概要】最先端ＡＩ開発停止・禁止 米中など開発国に要求を/共産党国会議員団、政府に申し入れ | しんぶん赤旗 - jcp.or.jp",
-            "最先端ＡＩ開発停止・禁止 米中など開発国に要求を/共産党国会議員団、政府に申し入れ | しんぶん赤旗 jcp.or.jp...",
+            "【概要】ウォール街、AI導入（FDE）の求人が18倍に 年棒約2800万円 - 株式会社エクサウィザーズ",
+            "ウォール街、AI導入（FDE）の求人が18倍に 年棒約2800万円 株式会社エクサウィザーズ...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -266,16 +266,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1790902952_3",
-          "title": "AIとスパコンで迫る天の川銀河の進化 - riken.jp",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsRWlNMGVaa201M0sxWHpLN09vUVRLcjhBOHlaSGlra29NelJVVlRQTlFCRzFjdjBob2JLNUdlVXA0WDZUWGtGWU5UUV9QQU92cnBjWm9sY2thSVZFeDRUUC11bzRGZ3NpM0E?oc=5",
+          "id": "ai_1790987995_3",
+          "title": "OpenAI「dots」で始まる常駐型AI競争、24時間働くエージェントは何を変えるのか？ - JBpress",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uVUZPZnA4TnVhU25CRUlxQ1RDMjdaUDBNSGJPUGtOSUVXMm8zeUdoR3lrX09SS1BIVmJET2RnOVlrVXJ6Y0JOMDB4RElmVnlWUlRvRy1n?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-02 09:17",
-          "headline": "AIとスパコンで迫る天の川銀河の進化 - riken.jp",
+          "published_at": "2026-10-03 06:00",
+          "headline": "OpenAI「dots」で始まる常駐型AI競争、24時間働くエージェントは何を変...",
           "summary": [
-            "【概要】AIとスパコンで迫る天の川銀河の進化 - riken.jp",
-            "AIとスパコンで迫る天の川銀河の進化 riken.jp...",
+            "【概要】OpenAI「dots」で始まる常駐型AI競争、24時間働くエージェントは何を変えるのか？ - JBpress",
+            "OpenAI「dots」で始まる常駐型AI競争、24時間働くエージェントは何を変えるのか？ JBpress...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -286,16 +286,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1790902952_4",
-          "title": "米ＡＩモデル「ウエート」、中国が盗む恐れ 民主議員が警告 - reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NbGxPcTFQUzN4OWloZGdjWmVadVRlMVF0Y1E5ZjMwUDdkQnpabXhJUmJBZFFQMmpIaDFEU0pMQmNfOXdnamZ5TjhFaDJKNm9PVUlHNVd4cUtrQkgtUjl2MHlwQ2RNOWhoUmtCU3d3VE5vMl9uTjVnMHBQX1Awdw?oc=5",
+          "id": "ai_1790987995_4",
+          "title": "AIによる生産性向上の幻想、「テクノ封建制」での真実 - ダイヤモンド・オンライン",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9wWHNwWENZaUxWYkxBUDhUUm5KcUJsMXJZaXhMSVJDczNydWwwUnVFRmVpUXpWY0tBMlJPaHl0a1NMUDZ6dHJYTktiWWjSAU9BVV95cUxOTnU1QTVqWGJEWXZqbWJRc2VVdVJyYnVMQXhqSHZlTFppa1c5V3ZTMTNESXJUeDZZQlFMVzR3dWg1WWNxZzRpc3U3aklyYUpv?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-02 08:37",
-          "headline": "米ＡＩモデル「ウエート」、中国が盗む恐れ 民主議員が警告 - reuters.c...",
+          "published_at": "2026-10-03 04:50",
+          "headline": "AIによる生産性向上の幻想、「テクノ封建制」での真実 - ダイヤモンド・オンライ...",
           "summary": [
-            "【概要】米ＡＩモデル「ウエート」、中国が盗む恐れ 民主議員が警告 - reuters.com",
-            "米ＡＩモデル「ウエート」、中国が盗む恐れ 民主議員が警告 reuters.com...",
+            "【概要】AIによる生産性向上の幻想、「テクノ封建制」での真実 - ダイヤモンド・オンライン",
+            "AIによる生産性向上の幻想、「テクノ封建制」での真実 ダイヤモンド・オンライン...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -306,24 +306,24 @@
           "importance": 3
         },
         {
-          "id": "ai_1790902952_5",
-          "title": "The eternal complement",
-          "link": "https://openai.com/index/the-eternal-complement",
-          "source": "OpenAI Official Blog",
-          "is_official": true,
-          "published_at": "2026-10-02 02:00",
-          "headline": "The eternal complement",
+          "id": "ai_1790987995_5",
+          "title": "アップル、macOS「フルディスクアクセス」厳格化へ AIエージェントの権限リスクに対応 - ビジネス+IT",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkTks4ZWRWb1Q3cHNScUI5VkZ1WVdrX21zZEU1X0o4eG8wV0pSNkpuQ2ZtMVFqU1kxb2JaaFFGWlFMVjhrclBjZlNpbW8xY09nWVZZ?oc=5",
+          "source": "Google News (AI)",
+          "is_official": false,
+          "published_at": "2026-10-03 04:27",
+          "headline": "アップル、macOS「フルディスクアクセス」厳格化へ AIエージェントの権限リス...",
           "summary": [
-            "【概要】The eternal complement",
-            "Advanced AI may matter most for the routine work behind brea...",
-            "情報提供元: OpenAI Official Blog"
+            "【概要】アップル、macOS「フルディスクアクセス」厳格化へ AIエージェントの権限リスクに対応 - ビジネス+IT",
+            "アップル、macOS「フルディスクアクセス」厳格化へ AIエージェントの権限リスクに対応 ビジネス+IT...",
+            "情報提供元: Google News (AI)"
           ],
           "key_points": [
             "最新の公式・主要発表",
             "詳細は元記事リンクから確認可能"
           ],
           "badge": "注目",
-          "importance": 4
+          "importance": 3
         }
       ]
     }
