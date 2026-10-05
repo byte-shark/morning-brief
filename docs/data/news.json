@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026年10月04日 08:59",
-  "updated_at_iso": "2026-10-04T08:59:08.913889+09:00",
+  "updated_at": "2026年10月05日 09:06",
+  "updated_at_iso": "2026-10-05T09:06:01.393356+09:00",
   "model_used": "mock-mode",
   "categories": [
     {
@@ -10,7 +10,27 @@
       "description": "Microsoft Azureの公式発表・最新クラウド動向",
       "articles": [
         {
-          "id": "azure_1791071949_1",
+          "id": "azure_1791158761_1",
+          "title": "Googleが新フロンティアモデル「Gemini 4 Argon」を発表／OpenAIがAIモデル「GPT-6.1 Sol」を公開：週末の「気になるニュース」一気読み！（2/3 ページ） - ITmedia PC USER - itmedia.co.jp",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBReEJwS0ZrcDQ2Tlp3RTNwTGJiblB4OUhpYjBHTlZGLWJSQVJjRFkxam9rWHhSRldVYkprY3VFZ2pTWXg4MkYtVDBWaklqcnNHTjFqZmJqRVJlLVc0NkwtUW1xZ250LWJKa09V0gFrQVVfeXFMUFF4QnBLRmtwNDZOWndFM3BMYmJuUHg5SGliMEdOVkYtYlJBUmNEWTFqb2tYeFJGV1ViSmtjdUVnalNZeDgyRi1UMFZqSWpyc0dOMWpmYmpFUmUtVzQ2TC1RbXFnbnQtYkprT1U?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-10-04 06:00",
+          "headline": "Googleが新フロンティアモデル「Gemini 4 Argon」を発表／Ope...",
+          "summary": [
+            "【概要】Googleが新フロンティアモデル「Gemini 4 Argon」を発表／OpenAIがAIモデル「GPT-6.1 Sol」を公開：週末の「気になるニュース」一気読み！（2/3 ページ） - ITmedia PC USER - itmedia.co.jp",
+            "Googleが新フロンティアモデル「Gemini 4 Argon」を発表／OpenAIがAIモデル「GPT-6.1 So...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1791158761_2",
           "title": "マイクロソフト株の今後6カ月、カギは「Azureの伸びと設備投資の額」 - Forbes JAPAN",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWOHhYa2xPOENDNUJTekNUNUJteWpmWmZZSm9QR3lmaWl2QWtnWjZZY1dXaU1YdGg5MGh3TVFzZUNjVnp1UDNMcU84cVVqVVU1NDRWVEFhbXZKUQ?oc=5",
           "source": "Google News (Azure)",
@@ -30,76 +50,56 @@
           "importance": 3
         },
         {
-          "id": "azure_1791071949_2",
-          "title": "Microsoft 365 and LinkedIn leadership update",
-          "link": "https://blogs.microsoft.com/blog/2026/10/01/microsoft-365-and-linkedin-leadership-update/",
-          "source": "Microsoft Official Blog",
-          "is_official": true,
-          "published_at": "2026-10-02 00:03",
-          "headline": "Microsoft 365 and LinkedIn leadership up...",
-          "summary": [
-            "【概要】Microsoft 365 and LinkedIn leadership update",
-            "Satya Nadella, Chairman and CEO, and Ryan Roslansky, Executi...",
-            "情報提供元: Microsoft Official Blog"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 4
-        },
-        {
-          "id": "azure_1791071949_3",
-          "title": "教育における AI へのマイクロソフトの取り組み: 生徒を守り、学びをさらに豊かに - Microsoft Source",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNemFIQzkyTFp3bkJJekJFT3VHb2FfU2tqSlNqc2FxUUliS1R4TkZWc0ZkRlhERTNOdGN6NXpuQ0JfMTZhVENpVUo5Z1dWN19UdEJnNTQ4R21HUE1kbmFXbEhKZ2VibF9EeG9aTGlHRlhuWlZiaG5YcXpadjhZUEZBamEzZUQxWVBQV2Y2YV9nVUhjeGVSRDZkbUVUVkZGOGs?oc=5",
+          "id": "azure_1791158761_3",
+          "title": "コムチュア、株式会社クボタ様の人事データ活用基盤をMicrosoft Azure上に構築 - ニコニコニュース",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MbUt6dUkxM3gzZjZTU1Rham5HWWhaeER0SndFNEhGMEVTN2YyMkZjZEhRZXRkbENyd0U1TTBKRW01Z25tcEt2UlcwN0hnR0loemNfbA?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-10-01 16:29",
-          "headline": "教育における AI へのマイクロソフトの取り組み: 生徒を守り、学びをさらに豊か...",
-          "summary": [
-            "【概要】教育における AI へのマイクロソフトの取り組み: 生徒を守り、学びをさらに豊かに - Microsoft Source",
-            "教育における AI へのマイクロソフトの取り組み: 生徒を守り、学びをさらに豊かに Microsoft Source...",
-            "情報提供元: Google News (Azure)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "azure_1791071949_4",
-          "title": "コムチュア[3844]：コムチュア、株式会社クボタ様の人事データ活用基盤をMicrosoft Azure上に構築 2026年10月1日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PaU9UUFRTcXhmajNGeDFxeE5JV3hidFhaYjcwNlRmZTlIS2M3dTNFZkJxYkRVMHVtWUpRbDZhUUVzNmVETnNETnprTkVkUTZSNXQ5andmNHFIMHFnbVhnZUpXbU4yUG1Jdnc?oc=5",
-          "source": "Google News (Azure)",
-          "is_official": false,
-          "published_at": "2026-10-01 16:10",
-          "headline": "コムチュア[3844]：コムチュア、株式会社クボタ様の人事データ活用基盤をMic...",
-          "summary": [
-            "【概要】コムチュア[3844]：コムチュア、株式会社クボタ様の人事データ活用基盤をMicrosoft Azure上に構築 2026年10月1日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-            "コムチュア[3844]：コムチュア、株式会社クボタ様の人事データ活用基盤をMicrosoft Azure上に構築 202...",
-            "情報提供元: Google News (Azure)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "azure_1791071949_5",
-          "title": "コムチュア、株式会社クボタ様の人事データ活用基盤をMicrosoft Azure上に構築 - prtimes.jp",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCM3pnTzdOS3Z3NlZFUXQ1Nl9VaEE0VTBiY2tqRmtVLWlUZ3RYY0hkT0V4OHZCQm50RDB0cWVUTXZDWTFRSXVxQmhTMWZ6amxlczZGZDdidUsyNUVaUS1ZOExkY2FxTVNPekE?oc=5",
-          "source": "Google News (Azure)",
-          "is_official": false,
-          "published_at": "2026-10-01 15:30",
+          "published_at": "2026-10-02 17:30",
           "headline": "コムチュア、株式会社クボタ様の人事データ活用基盤をMicrosoft Azure...",
           "summary": [
-            "【概要】コムチュア、株式会社クボタ様の人事データ活用基盤をMicrosoft Azure上に構築 - prtimes.jp",
-            "コムチュア、株式会社クボタ様の人事データ活用基盤をMicrosoft Azure上に構築 prtimes.jp...",
+            "【概要】コムチュア、株式会社クボタ様の人事データ活用基盤をMicrosoft Azure上に構築 - ニコニコニュース",
+            "コムチュア、株式会社クボタ様の人事データ活用基盤をMicrosoft Azure上に構築 ニコニコニュース...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1791158761_4",
+          "title": "相互につながるサイバー リスクの時代に向けた政府機関の備え - Microsoft Source",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcnVHblFZT1Z6T042YmpleVhCWGw2RmplZkN4SUFMNW1LM1ZWOWV0bEY4ME1BR0k2dXotTEVwVFdkWmlJSWlnN3d2WEhNOHpCb1k3M2lxNFlwMVNRUzNLRHBRNWdpd3dVUUlQNy1ETDVfX2tkb0dFMDgxVF9sazBzQUZaZ1BJczBLcmN3UkZNWmwzTllRRkxnOV9sNmk3clB4bEhscEcxdzlEZEpwOU5Qd3RKY1Jha0wwS3c?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-10-02 13:17",
+          "headline": "相互につながるサイバー リスクの時代に向けた政府機関の備え - Microsof...",
+          "summary": [
+            "【概要】相互につながるサイバー リスクの時代に向けた政府機関の備え - Microsoft Source",
+            "相互につながるサイバー リスクの時代に向けた政府機関の備え Microsoft Source...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1791158761_5",
+          "title": "リアルタイム文字起こしAI「MAI-Transcribe-2-Streaming」をMicrosoftがリリース - GIGAZINE",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZcndERjZKa19vem56bG01TW9Lb1hRUy1GX1hOV2Fmem9mbzNfc3VWV0hCSmlJcmxnNm1TVjNwVHhqU1dyRDJqVzN2dXNXa3pmZW81dWNZVzNncjlkV2tzZndCY3NkQUIzeklyVkFsOA?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-10-02 12:56",
+          "headline": "リアルタイム文字起こしAI「MAI-Transcribe-2-Streaming...",
+          "summary": [
+            "【概要】リアルタイム文字起こしAI「MAI-Transcribe-2-Streaming」をMicrosoftがリリース - GIGAZINE",
+            "リアルタイム文字起こしAI「MAI-Transcribe-2-Streaming」をMicrosoftがリリース GIG...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -118,12 +118,12 @@
       "description": "テスラの最新アップデート・EV・FSD・決算動向",
       "articles": [
         {
-          "id": "tesla_1791071950_1",
+          "id": "tesla_1791158762_1",
           "title": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vR2owRXJLX1dwYUtHY05wNjVKVmVrTHNXdm5yRGJ0NHJzSzZTaEgxWFo0WmNBOWUxV2tXcHljUWlYaG92bll2YUNIQzJlVE0?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-10-04 02:25",
+          "published_at": "2026-10-05 08:51",
           "headline": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
           "summary": [
             "【概要】テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
@@ -138,16 +138,16 @@
           "importance": 3
         },
         {
-          "id": "tesla_1791071950_2",
-          "title": "$テスラ (TSLA.US)$ - Moomoo",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA5alFadmQ4WjBnYWF2UkdabjRtaUVjVG1ISWcwSVNKMEtuQzgya1MzTWlnY1NQYlpIN09YUmFtdmpkbmI4WnVNNHg5OGVRTW5SazFPakpOVHJjMmh6SFBTRXJad2tVNEJqQkZPVVR1bVM2QjhGQW95TThR?oc=5",
+          "id": "tesla_1791158762_2",
+          "title": "テスラがタクシー大手「第一交通」を買収するって本当？ - 自動運転ラボ",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5FV1JYVUw0T19CSW9IN1JxX056ZVN0WFRsMWhxbTBmNkhFUnY1azFWaFFaeXU0bG95VUh5S1QyREtUdVZmbWJ5NA?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-10-04 00:36",
-          "headline": "$テスラ (TSLA.US)$ - Moomoo",
+          "published_at": "2026-10-05 07:21",
+          "headline": "テスラがタクシー大手「第一交通」を買収するって本当？ - 自動運転ラボ",
           "summary": [
-            "【概要】$テスラ (TSLA.US)$ - Moomoo",
-            "$テスラ (TSLA.US)$ Moomoo...",
+            "【概要】テスラがタクシー大手「第一交通」を買収するって本当？ - 自動運転ラボ",
+            "テスラがタクシー大手「第一交通」を買収するって本当？ 自動運転ラボ...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -158,36 +158,16 @@
           "importance": 3
         },
         {
-          "id": "tesla_1791071950_3",
-          "title": "Musk explains why Tesla Robotaxi is not running at night, and lidar is the answer",
-          "link": "https://electrek.co/2026/10/03/tesla-robotaxi-pets-night-musk-lidar/",
-          "source": "Electrek (Tesla)",
-          "is_official": true,
-          "published_at": "2026-10-03 23:36",
-          "headline": "Musk explains why Tesla Robotaxi is not ...",
-          "summary": [
-            "【概要】Musk explains why Tesla Robotaxi is not running at night, and lidar is the answer",
-            "Elon Musk says the main thing holding back Tesla Robotaxi’s ...",
-            "情報提供元: Electrek (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 4
-        },
-        {
-          "id": "tesla_1791071950_4",
-          "title": "【V2L】テスラ韓国、10月納車の「Model 3」「Model Y」から対応〜同じ上海製の国内は発表なし - touchlab.jp",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zTUhyeUxnNEo0aDdUTU1CYm1sQmFpZkhVWERUU1lnZTNVcmMxWVlQdDFLbU1KREZBN0t5eGUzbTdubXhHbXJOSmRjTHQycXNZeUJCRUhpWV9HQ2JycjkxWE1IUVUwVldySWc?oc=5",
+          "id": "tesla_1791158762_3",
+          "title": "Tesla Robotaxi、夜間の難題は「灰色の子猫」 LiDARが補う情報と安全設計 - xenospectrum.com",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oMkU2QnlSRjRCcmtDc2Q4UnBWOWRHMU9QUkZWZnNYU1FoWEVfcEhicXV5b0dTbGJNaHZoWG1lYVpuY0xuRmU3WHlrdkhyQWdYLVRhUDNxNGZWWWxMV1pIR21LemJGU1FB?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-10-03 13:32",
-          "headline": "【V2L】テスラ韓国、10月納車の「Model 3」「Model Y」から対応〜...",
+          "published_at": "2026-10-05 05:40",
+          "headline": "Tesla Robotaxi、夜間の難題は「灰色の子猫」 LiDARが補う情報と...",
           "summary": [
-            "【概要】【V2L】テスラ韓国、10月納車の「Model 3」「Model Y」から対応〜同じ上海製の国内は発表なし - touchlab.jp",
-            "【V2L】テスラ韓国、10月納車の「Model 3」「Model Y」から対応〜同じ上海製の国内は発表なし touchl...",
+            "【概要】Tesla Robotaxi、夜間の難題は「灰色の子猫」 LiDARが補う情報と安全設計 - xenospectrum.com",
+            "Tesla Robotaxi、夜間の難題は「灰色の子猫」 LiDARが補う情報と安全設計 xenospectrum.co...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -198,24 +178,44 @@
           "importance": 3
         },
         {
-          "id": "tesla_1791071950_5",
-          "title": "UK EV sales surge 36% to record high in September",
-          "link": "https://electrek.co/2026/10/02/uk-ev-sales-record-september-2026-tesla-model-3/",
-          "source": "Electrek (Tesla)",
-          "is_official": true,
-          "published_at": "2026-10-03 02:17",
-          "headline": "UK EV sales surge 36% to record high in ...",
+          "id": "tesla_1791158762_4",
+          "title": "シャシー革命、テスラが電動ブレーキとステア・バイ・ワイヤ 中国勢先行 - 日経クロステック（xTECH）",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5peEVhUUgwSWU0NXJuTmFvSy1sRmxHd3V6dk9FMHVfN0Jha3ZuWkNGcXF4QUo3ZkVLMmtDUW5VTzI3bkxneU5ZYjVGZDNoN21meldWb1RGWW1YSnZlaWpBTjg4aFBRQzZRdTJvRA?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-10-05 05:00",
+          "headline": "シャシー革命、テスラが電動ブレーキとステア・バイ・ワイヤ 中国勢先行 - 日経ク...",
           "summary": [
-            "【概要】UK EV sales surge 36% to record high in September",
-            "UK EV sales hit a new all-time record in September. The coun...",
-            "情報提供元: Electrek (Tesla)"
+            "【概要】シャシー革命、テスラが電動ブレーキとステア・バイ・ワイヤ 中国勢先行 - 日経クロステック（xTECH）",
+            "シャシー革命、テスラが電動ブレーキとステア・バイ・ワイヤ 中国勢先行 日経クロステック（xTECH）...",
+            "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
             "最新の公式・主要発表",
             "詳細は元記事リンクから確認可能"
           ],
           "badge": "注目",
-          "importance": 4
+          "importance": 3
+        },
+        {
+          "id": "tesla_1791158762_5",
+          "title": "【10月24日～11月8日配信】新作ミュージカル『ニコラ・テスラ ～エジソンが恐れた孤高の天才～』期間限定で公演映像の配信決定！（アーカイブあり）｜【公式】ホリプロステージ｜チケット情報・販売・購入・予約 - horipro-stage.jp",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBXdEhMNXJ1UkQ2X1FuTHM1XzdscFdMU2x1SDJ2WmtKcS1lUDFCMEhjTU9nRnViTkItVlpMN3NMZmlMVWktWFc3b1E4ajIzbFdiTS1YVVZXTjNVVUNTUGhVM2hJcw?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-10-04 19:28",
+          "headline": "【10月24日～11月8日配信】新作ミュージカル『ニコラ・テスラ ～エジソンが恐...",
+          "summary": [
+            "【概要】【10月24日～11月8日配信】新作ミュージカル『ニコラ・テスラ ～エジソンが恐れた孤高の天才～』期間限定で公演映像の配信決定！（アーカイブあり）｜【公式】ホリプロステージ｜チケット情報・販売・購入・予約 - horipro-stage.jp",
+            "【10月24日～11月8日配信】新作ミュージカル『ニコラ・テスラ ～エジソンが恐れた孤高の天才～』期間限定で公演映像の配...",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
         }
       ]
     },
@@ -226,16 +226,16 @@
       "description": "OpenAI・Google・生成AIの公式発表・技術速報",
       "articles": [
         {
-          "id": "ai_1791071951_1",
-          "title": "（フォーラム）ＡＩ時代の語学：２ これからは - 朝日新聞",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FejlBUGlMYTlvTkJhQ1hrYUdJS1gtOHEyZ25xc01Ta2VrX1BOV1gzMnBwMk1FenVCWGlNRFVSa3hoYW9RcTl0Z2ZoczFMelVLbVp6WklWam9JeVB3?oc=5",
+          "id": "ai_1791158763_1",
+          "title": "「日本のひなた宮崎 国スポ・障スポ」大会ホームページに生成AIチャットボットを導入しました - pref.miyazaki.lg.jp",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQblRUMWZoaUVvX0ZwR3JLWk14T2E2c0xqc2s5OHo3Q2lNQ2xxSUFDQ2JjVzYyN3ZkajY0N2ppMHQxbk50RmlxdEFNbDdVdHI3aFdQZ2QyM2JRWFhUVkZTZ0tPUFNIQlNMSEt1bUVUYWgwdUFtb05RajJ0TjJJU05rczBGZw?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-04 05:00",
-          "headline": "（フォーラム）ＡＩ時代の語学：２ これからは - 朝日新聞",
+          "published_at": "2026-10-05 09:04",
+          "headline": "「日本のひなた宮崎 国スポ・障スポ」大会ホームページに生成AIチャットボットを導...",
           "summary": [
-            "【概要】（フォーラム）ＡＩ時代の語学：２ これからは - 朝日新聞",
-            "（フォーラム）ＡＩ時代の語学：２ これからは 朝日新聞...",
+            "【概要】「日本のひなた宮崎 国スポ・障スポ」大会ホームページに生成AIチャットボットを導入しました - pref.miyazaki.lg.jp",
+            "「日本のひなた宮崎 国スポ・障スポ」大会ホームページに生成AIチャットボットを導入しました pref.miyazaki....",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -246,16 +246,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1791071951_2",
-          "title": "韓国で「踊るロボット」人気 フィジカルAI活用、似顔絵制作や演奏も - 日本経済新聞",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0Nks3cm9vTGxhUDE1WTlkZXdDNGFhSmxfWmt2cC13U18zMV9qMlBfbzBmZ0cxczI5TzRMNzlpalRnMVBzLTR1MjZXREpKMldrYlhJUFJKejAyREhOeXZoNnVDRzJDaDVvajZkVw?oc=5",
+          "id": "ai_1791158763_2",
+          "title": "AI時代、業務ソフトは作り直される Altman氏が語る「生きた文書」 - 株式会社エクサウィザーズ",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ISUh1VVJLYk03ZTgzRDFsbmthNmw5WVFGZXRsUk5mMlVTVGlQZ1FQU2hrWnJvTVpoUFoyMzVHNFpvUzRNRVB2ajJ4dzFtUXJGT1VzSUhrSUlTU0loTi00SzNHc2Jhdw?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-04 05:00",
-          "headline": "韓国で「踊るロボット」人気 フィジカルAI活用、似顔絵制作や演奏も - 日本経済...",
+          "published_at": "2026-10-05 08:48",
+          "headline": "AI時代、業務ソフトは作り直される Altman氏が語る「生きた文書」 - 株式...",
           "summary": [
-            "【概要】韓国で「踊るロボット」人気 フィジカルAI活用、似顔絵制作や演奏も - 日本経済新聞",
-            "韓国で「踊るロボット」人気 フィジカルAI活用、似顔絵制作や演奏も 日本経済新聞...",
+            "【概要】AI時代、業務ソフトは作り直される Altman氏が語る「生きた文書」 - 株式会社エクサウィザーズ",
+            "AI時代、業務ソフトは作り直される Altman氏が語る「生きた文書」 株式会社エクサウィザーズ...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -266,16 +266,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1791071951_3",
-          "title": "AI投資への“依存度”高める世界経済の脆弱性、マクロ経済予測が問う「AI株価」の妥当性 - ダイヤモンド・オンライン",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE85bTBHMzFWeElOMGdNa0VReTFIdmlfUHNrSjJMWVJ2Ym1VUXR2SnNJWURnSVB2WWRVMndabzVCVGtjV25yWlVvckJRRUnSAU9BVV95cUxQdzlDVUNGT0VXaEtjUl91MnFyVS10RVR6UmozVTc3c2lfTzhndVowN0I1TzM4NG1oeWRMNzdwZjFQRkhlYXZ0TEZhSWV1R3lj?oc=5",
+          "id": "ai_1791158763_3",
+          "title": "オープンＡＩ安全性担当者が退職、「試行錯誤の時代は終わった」 - jp.reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1EamxGdHBQdnVFQjZMeDRXdGpFNnFNbHBWT3Z6MjZjZXFoTmNLaUlPdTItQkRYRG1obDlXbHJNcVZ2SmRHakdZVDZJaGRuZDdzNi1ndFVOLW1JZHljUFhNdElmTG93WUxlVm1zb0E1NnpkbGZyVWp0T3ZxSmU?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-04 04:55",
-          "headline": "AI投資への“依存度”高める世界経済の脆弱性、マクロ経済予測が問う「AI株価」の...",
+          "published_at": "2026-10-05 08:27",
+          "headline": "オープンＡＩ安全性担当者が退職、「試行錯誤の時代は終わった」 - jp.reut...",
           "summary": [
-            "【概要】AI投資への“依存度”高める世界経済の脆弱性、マクロ経済予測が問う「AI株価」の妥当性 - ダイヤモンド・オンライン",
-            "AI投資への“依存度”高める世界経済の脆弱性、マクロ経済予測が問う「AI株価」の妥当性 ダイヤモンド・オンライン...",
+            "【概要】オープンＡＩ安全性担当者が退職、「試行錯誤の時代は終わった」 - jp.reuters.com",
+            "オープンＡＩ安全性担当者が退職、「試行錯誤の時代は終わった」 jp.reuters.com...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -286,16 +286,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1791071951_4",
-          "title": "米政府のAI 都合の悪い質問を拒否 - Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9keWtNaHU4dE9OSlhoNXh5YTJSQTh0QmdKRV80aHhBblkzVWh0Xzd2dVVxTkxxV2U0SXg3YnZENjRCQmU4VXJWQ0pKWmw4d2ho?oc=5",
+          "id": "ai_1791158763_4",
+          "title": "トランプ大統領 AI政策を調整する司令塔組織を設立 - news.web.nhk",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VYzItQlFDTEVyWUJhY005eElZbExyMlIxX0JVRjRBa3l2N1owSFU2SGoyOXNwOXZSeUMtbU12U2dqd0xkLTAwTEk3dl91cWpaeGp2MzVWcURGMEExUGl3?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-03 22:35",
-          "headline": "米政府のAI 都合の悪い質問を拒否 - Yahoo!ニュース",
+          "published_at": "2026-10-05 06:35",
+          "headline": "トランプ大統領 AI政策を調整する司令塔組織を設立 - news.web.nhk",
           "summary": [
-            "【概要】米政府のAI 都合の悪い質問を拒否 - Yahoo!ニュース",
-            "米政府のAI 都合の悪い質問を拒否 Yahoo!ニュース...",
+            "【概要】トランプ大統領 AI政策を調整する司令塔組織を設立 - news.web.nhk",
+            "トランプ大統領 AI政策を調整する司令塔組織を設立 news.web.nhk...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -306,16 +306,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1791071951_5",
-          "title": "デジタル化・AI導入補助金（旧IT導入補助金）とは？最大450万円・補助率1/2〜4/5・採択率44%【2026年10月最新】 - 補助金ポータル",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0ckhwdUEzVWs0c3RZaU5YcER1NzRGT0FGU2U2NGRoYmdYc2UyZjhUMzRvQ0tDbmhwUzNMVzJBb3JYY29Yak91UTZlS0tZN3ZZODQ5TGZxcDBva1FBTVFmTHYxQQ?oc=5",
+          "id": "ai_1791158763_5",
+          "title": "NTTデータG、法人向けAIで日立らに挑む 人月ビジネスから脱却図る - 日経ビジネス電子版",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaV9lZDhoT24tRHduOWoxVjhNRkR5Nm15MGhuRW9ZVkxVNHgyZVB1SG42Zk5WcmFEWmZQbEwzZExyUlBkS3JpeVZEcVlWWEFwd3dtblZBbk85VkpXejhPWGNIYXA2MkNjbFRtRGdJU0JMa3VMVzBIa2xxbUJrc3N2d1otVUtDMm5CSWpWbQ?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-03 16:43",
-          "headline": "デジタル化・AI導入補助金（旧IT導入補助金）とは？最大450万円・補助率1/2...",
+          "published_at": "2026-10-05 05:00",
+          "headline": "NTTデータG、法人向けAIで日立らに挑む 人月ビジネスから脱却図る - 日経ビ...",
           "summary": [
-            "【概要】デジタル化・AI導入補助金（旧IT導入補助金）とは？最大450万円・補助率1/2〜4/5・採択率44%【2026年10月最新】 - 補助金ポータル",
-            "デジタル化・AI導入補助金（旧IT導入補助金）とは？最大450万円・補助率1/2〜4/5・採択率44%【2026年10月...",
+            "【概要】NTTデータG、法人向けAIで日立らに挑む 人月ビジネスから脱却図る - 日経ビジネス電子版",
+            "NTTデータG、法人向けAIで日立らに挑む 人月ビジネスから脱却図る 日経ビジネス電子版...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
