@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026年10月05日 09:06",
-  "updated_at_iso": "2026-10-05T09:06:01.393356+09:00",
+  "updated_at": "2026年10月06日 10:50",
+  "updated_at_iso": "2026-10-06T10:50:48.260034+09:00",
   "model_used": "mock-mode",
   "categories": [
     {
@@ -10,96 +10,96 @@
       "description": "Microsoft Azureの公式発表・最新クラウド動向",
       "articles": [
         {
-          "id": "azure_1791158761_1",
-          "title": "Googleが新フロンティアモデル「Gemini 4 Argon」を発表／OpenAIがAIモデル「GPT-6.1 Sol」を公開：週末の「気になるニュース」一気読み！（2/3 ページ） - ITmedia PC USER - itmedia.co.jp",
+          "id": "azure_1791251448_1",
+          "title": "Microsoft Stock Is Up Nearly 39% Since June 30. Here’s What Must Happen at Its Q1 Report Later This Month - TIKR.com",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeTdkekV0REhVUVpRaUZmemRuTndqRDl1c05TbTNjdHNSbFNUWWhiei1vcVk0Ri1ZZHRRV3FYLU9PajM3WUxzLVBsTjZjMVczLTZ2eWJ5ZmRaampYZ21ydTBtRDRXUG4tUlExa1VsWkFXa0l1Snk0ZHlEWTUxU2lWYzVSM3RlS0xYTmhaQUNrbzZCRFdwZlhEZjVKXzlOM080WjAzdExpTXhMZnR2dVdudjFCU2RFU0hLemdVdnZ3VTJaaGs4RXNJZFdsSQ?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-10-06 06:56",
+          "headline": "Microsoft Stock Is Up Nearly 39% Since J...",
+          "summary": [
+            "【概要】Microsoft Stock Is Up Nearly 39% Since June 30. Here’s What Must Happen at Its Q1 Report Later This Month - TIKR.com",
+            "Microsoft Stock Is Up Nearly 39% Since June 30. Here’s What ...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1791251448_2",
+          "title": "クラウド FinOps世界シェアランキング - pando.life",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1NNV9pb1VnLTdXd0xFV252VFhBSHkxbWdVZDFlMnYzRjRLdTlkSXF3ZlZwM2NLV0pTMXEySlVCdDVoQlByeGE4d09B?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-10-05 18:30",
+          "headline": "クラウド FinOps世界シェアランキング - pando.life",
+          "summary": [
+            "【概要】クラウド FinOps世界シェアランキング - pando.life",
+            "クラウド FinOps世界シェアランキング pando.life...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1791251448_3",
+          "title": "Microsoft Azure移行分野の高度な専門性と実績でSpecializationを更新 - PR TIMES",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vZzdFTnRQTXZSTlZZcVlfZ2JnZWVSOG50SWlKeGxuWVVRVVpsUElidllxaEtsMFFVTGYtSkJxMmdWcXVYNDRzRnZJRmk3Zzd5S3BQOERBRENGSGRuUllDZ0FVODZvTGVPRWc?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-10-05 11:00",
+          "headline": "Microsoft Azure移行分野の高度な専門性と実績でSpecializa...",
+          "summary": [
+            "【概要】Microsoft Azure移行分野の高度な専門性と実績でSpecializationを更新 - PR TIMES",
+            "Microsoft Azure移行分野の高度な専門性と実績でSpecializationを更新 PR TIMES...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1791251448_4",
+          "title": "Microsoft、リアルタイム文字起こしと音声生成の新モデル3種を公開 - zaikei.co.jp",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9SWTdVZG5Ja293dWNHQTQwZk11NU8zUnNGbkpKT2F2UmtCZ2FJNkd1VTB3S3ZVbkxaeTA4Ung3eDNMcXMwUG91WW5NbEFXU2RRdG1MX2E5T3VOb2x4SF8yM1NMNNIBaEFVX3lxTE5rX3VIRzgyWTNsX1NwX2c2WDBxNm9UcVluX080bGhaTk9hUmVVV0szWER1WWFTSHEycXExQmNhOW5QTmZueXQ5R0RXNWxnYVY1bmVqY3hSeExrV1ZHbXdoZVA4cThsMjhE?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-10-04 13:49",
+          "headline": "Microsoft、リアルタイム文字起こしと音声生成の新モデル3種を公開 - z...",
+          "summary": [
+            "【概要】Microsoft、リアルタイム文字起こしと音声生成の新モデル3種を公開 - zaikei.co.jp",
+            "Microsoft、リアルタイム文字起こしと音声生成の新モデル3種を公開 zaikei.co.jp...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1791251448_5",
+          "title": "Googleが新フロンティアモデル「Gemini 4 Argon」を発表／OpenAIがAIモデル「GPT-6.1 Sol」を公開：週末の「気になるニュース」一気読み！（2/3 ページ） - ITmedia PC USER - ITmedia",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBReEJwS0ZrcDQ2Tlp3RTNwTGJiblB4OUhpYjBHTlZGLWJSQVJjRFkxam9rWHhSRldVYkprY3VFZ2pTWXg4MkYtVDBWaklqcnNHTjFqZmJqRVJlLVc0NkwtUW1xZ250LWJKa09V0gFrQVVfeXFMUFF4QnBLRmtwNDZOWndFM3BMYmJuUHg5SGliMEdOVkYtYlJBUmNEWTFqb2tYeFJGV1ViSmtjdUVnalNZeDgyRi1UMFZqSWpyc0dOMWpmYmpFUmUtVzQ2TC1RbXFnbnQtYkprT1U?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
           "published_at": "2026-10-04 06:00",
           "headline": "Googleが新フロンティアモデル「Gemini 4 Argon」を発表／Ope...",
           "summary": [
-            "【概要】Googleが新フロンティアモデル「Gemini 4 Argon」を発表／OpenAIがAIモデル「GPT-6.1 Sol」を公開：週末の「気になるニュース」一気読み！（2/3 ページ） - ITmedia PC USER - itmedia.co.jp",
+            "【概要】Googleが新フロンティアモデル「Gemini 4 Argon」を発表／OpenAIがAIモデル「GPT-6.1 Sol」を公開：週末の「気になるニュース」一気読み！（2/3 ページ） - ITmedia PC USER - ITmedia",
             "Googleが新フロンティアモデル「Gemini 4 Argon」を発表／OpenAIがAIモデル「GPT-6.1 So...",
-            "情報提供元: Google News (Azure)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "azure_1791158761_2",
-          "title": "マイクロソフト株の今後6カ月、カギは「Azureの伸びと設備投資の額」 - Forbes JAPAN",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWOHhYa2xPOENDNUJTekNUNUJteWpmWmZZSm9QR3lmaWl2QWtnWjZZY1dXaU1YdGg5MGh3TVFzZUNjVnp1UDNMcU84cVVqVVU1NDRWVEFhbXZKUQ?oc=5",
-          "source": "Google News (Azure)",
-          "is_official": false,
-          "published_at": "2026-10-03 10:45",
-          "headline": "マイクロソフト株の今後6カ月、カギは「Azureの伸びと設備投資の額」 - Fo...",
-          "summary": [
-            "【概要】マイクロソフト株の今後6カ月、カギは「Azureの伸びと設備投資の額」 - Forbes JAPAN",
-            "マイクロソフト株の今後6カ月、カギは「Azureの伸びと設備投資の額」 Forbes JAPAN...",
-            "情報提供元: Google News (Azure)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "azure_1791158761_3",
-          "title": "コムチュア、株式会社クボタ様の人事データ活用基盤をMicrosoft Azure上に構築 - ニコニコニュース",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MbUt6dUkxM3gzZjZTU1Rham5HWWhaeER0SndFNEhGMEVTN2YyMkZjZEhRZXRkbENyd0U1TTBKRW01Z25tcEt2UlcwN0hnR0loemNfbA?oc=5",
-          "source": "Google News (Azure)",
-          "is_official": false,
-          "published_at": "2026-10-02 17:30",
-          "headline": "コムチュア、株式会社クボタ様の人事データ活用基盤をMicrosoft Azure...",
-          "summary": [
-            "【概要】コムチュア、株式会社クボタ様の人事データ活用基盤をMicrosoft Azure上に構築 - ニコニコニュース",
-            "コムチュア、株式会社クボタ様の人事データ活用基盤をMicrosoft Azure上に構築 ニコニコニュース...",
-            "情報提供元: Google News (Azure)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "azure_1791158761_4",
-          "title": "相互につながるサイバー リスクの時代に向けた政府機関の備え - Microsoft Source",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcnVHblFZT1Z6T042YmpleVhCWGw2RmplZkN4SUFMNW1LM1ZWOWV0bEY4ME1BR0k2dXotTEVwVFdkWmlJSWlnN3d2WEhNOHpCb1k3M2lxNFlwMVNRUzNLRHBRNWdpd3dVUUlQNy1ETDVfX2tkb0dFMDgxVF9sazBzQUZaZ1BJczBLcmN3UkZNWmwzTllRRkxnOV9sNmk3clB4bEhscEcxdzlEZEpwOU5Qd3RKY1Jha0wwS3c?oc=5",
-          "source": "Google News (Azure)",
-          "is_official": false,
-          "published_at": "2026-10-02 13:17",
-          "headline": "相互につながるサイバー リスクの時代に向けた政府機関の備え - Microsof...",
-          "summary": [
-            "【概要】相互につながるサイバー リスクの時代に向けた政府機関の備え - Microsoft Source",
-            "相互につながるサイバー リスクの時代に向けた政府機関の備え Microsoft Source...",
-            "情報提供元: Google News (Azure)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "azure_1791158761_5",
-          "title": "リアルタイム文字起こしAI「MAI-Transcribe-2-Streaming」をMicrosoftがリリース - GIGAZINE",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZcndERjZKa19vem56bG01TW9Lb1hRUy1GX1hOV2Fmem9mbzNfc3VWV0hCSmlJcmxnNm1TVjNwVHhqU1dyRDJqVzN2dXNXa3pmZW81dWNZVzNncjlkV2tzZndCY3NkQUIzeklyVkFsOA?oc=5",
-          "source": "Google News (Azure)",
-          "is_official": false,
-          "published_at": "2026-10-02 12:56",
-          "headline": "リアルタイム文字起こしAI「MAI-Transcribe-2-Streaming...",
-          "summary": [
-            "【概要】リアルタイム文字起こしAI「MAI-Transcribe-2-Streaming」をMicrosoftがリリース - GIGAZINE",
-            "リアルタイム文字起こしAI「MAI-Transcribe-2-Streaming」をMicrosoftがリリース GIG...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -118,12 +118,12 @@
       "description": "テスラの最新アップデート・EV・FSD・決算動向",
       "articles": [
         {
-          "id": "tesla_1791158762_1",
+          "id": "tesla_1791251449_1",
           "title": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vR2owRXJLX1dwYUtHY05wNjVKVmVrTHNXdm5yRGJ0NHJzSzZTaEgxWFo0WmNBOWUxV2tXcHljUWlYaG92bll2YUNIQzJlVE0?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-10-05 08:51",
+          "published_at": "2026-10-06 09:00",
           "headline": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
           "summary": [
             "【概要】テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
@@ -138,76 +138,76 @@
           "importance": 3
         },
         {
-          "id": "tesla_1791158762_2",
+          "id": "tesla_1791251449_2",
+          "title": "Nvidia（NVDA）、Tesla（TSLA）、Apple（APPL）がオンチェーン化へ。OKXとICEの新しい市場の仕組みとは - CoinDesk",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN2dvMlQ2VlFpOGhfVzFFbThWUXJyUGt0MUV3YmdCeHVYQkNsZ0JmVkM3TmVZck9rX1h5SWZpVmxXMzRlX01pN0RLSE5TNDVDbkRfbE4yUFYzMWJhTnFPN3RkTVNlOTRWc2JQT2VHZWxJTEVjYWpsM2swS0Z6TWplYjJUNGk3eE4zcnV4Z3l6Q2dJbVdObWtLQU1nWG43Q2xPNVhwYjJXSkNtV2hOVlc3TFFlQmx3UXMzaUhxV2RaSTUwWXRZa1lvZ2pMSU1ibDVSYmc?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-10-06 02:49",
+          "headline": "Nvidia（NVDA）、Tesla（TSLA）、Apple（APPL）がオンチ...",
+          "summary": [
+            "【概要】Nvidia（NVDA）、Tesla（TSLA）、Apple（APPL）がオンチェーン化へ。OKXとICEの新しい市場の仕組みとは - CoinDesk",
+            "Nvidia（NVDA）、Tesla（TSLA）、Apple（APPL）がオンチェーン化へ。OKXとICEの新しい市場の...",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "tesla_1791251449_3",
+          "title": "Tesla Beats Q3 Delivery Estimates by Almost 30,000 Vehicles. Is Profit Keeping Up? - TIKR.com",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVWV4c24wRkdSanB5aG12NzR5eGtfZDRIdzAzQlp5RkJIYVNESXJYYmZGOEFQX0JsWEZNRC12RXRZOVdOeXIzd1ZZSFR0V3Uxd1pnOWRTb2d2a0tZUzIzczJSTW1Kc2dFT1BBYzViOWhsX2FpZTc5UTZabTh3ZU9TLVNaMWVlNW5zbGZ0T0xlYnNtRkpaeDFmSnVVUGhibkNFWWZQY0ZnZ2oyN3lQ?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-10-06 01:30",
+          "headline": "Tesla Beats Q3 Delivery Estimates by Alm...",
+          "summary": [
+            "【概要】Tesla Beats Q3 Delivery Estimates by Almost 30,000 Vehicles. Is Profit Keeping Up? - TIKR.com",
+            "Tesla Beats Q3 Delivery Estimates by Almost 30,000 Vehicles....",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "tesla_1791251449_4",
+          "title": "我が家の2台目カーにTesla Model Yが仲間入り！家族のお出かけがもっと快適になりました - BAILA（バイラ）",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XX1dlZUhzMFpkXzNMdHN2eXd5VlR6cUN5YXJ2ZS16WXFHcmNFZS11SllFUHUydmVYa2RBNTNnNXNNNTJQM2R3bmhtWUxJZk9sVVowb0NTX2hqc2Y4?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-10-05 21:59",
+          "headline": "我が家の2台目カーにTesla Model Yが仲間入り！家族のお出かけがもっと...",
+          "summary": [
+            "【概要】我が家の2台目カーにTesla Model Yが仲間入り！家族のお出かけがもっと快適になりました - BAILA（バイラ）",
+            "我が家の2台目カーにTesla Model Yが仲間入り！家族のお出かけがもっと快適になりました BAILA（バイラ）...",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "tesla_1791251449_5",
           "title": "テスラがタクシー大手「第一交通」を買収するって本当？ - 自動運転ラボ",
           "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5FV1JYVUw0T19CSW9IN1JxX056ZVN0WFRsMWhxbTBmNkhFUnY1azFWaFFaeXU0bG95VUh5S1QyREtUdVZmbWJ5NA?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-10-05 07:21",
+          "published_at": "2026-10-05 16:17",
           "headline": "テスラがタクシー大手「第一交通」を買収するって本当？ - 自動運転ラボ",
           "summary": [
             "【概要】テスラがタクシー大手「第一交通」を買収するって本当？ - 自動運転ラボ",
             "テスラがタクシー大手「第一交通」を買収するって本当？ 自動運転ラボ...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "tesla_1791158762_3",
-          "title": "Tesla Robotaxi、夜間の難題は「灰色の子猫」 LiDARが補う情報と安全設計 - xenospectrum.com",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oMkU2QnlSRjRCcmtDc2Q4UnBWOWRHMU9QUkZWZnNYU1FoWEVfcEhicXV5b0dTbGJNaHZoWG1lYVpuY0xuRmU3WHlrdkhyQWdYLVRhUDNxNGZWWWxMV1pIR21LemJGU1FB?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-10-05 05:40",
-          "headline": "Tesla Robotaxi、夜間の難題は「灰色の子猫」 LiDARが補う情報と...",
-          "summary": [
-            "【概要】Tesla Robotaxi、夜間の難題は「灰色の子猫」 LiDARが補う情報と安全設計 - xenospectrum.com",
-            "Tesla Robotaxi、夜間の難題は「灰色の子猫」 LiDARが補う情報と安全設計 xenospectrum.co...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "tesla_1791158762_4",
-          "title": "シャシー革命、テスラが電動ブレーキとステア・バイ・ワイヤ 中国勢先行 - 日経クロステック（xTECH）",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5peEVhUUgwSWU0NXJuTmFvSy1sRmxHd3V6dk9FMHVfN0Jha3ZuWkNGcXF4QUo3ZkVLMmtDUW5VTzI3bkxneU5ZYjVGZDNoN21meldWb1RGWW1YSnZlaWpBTjg4aFBRQzZRdTJvRA?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-10-05 05:00",
-          "headline": "シャシー革命、テスラが電動ブレーキとステア・バイ・ワイヤ 中国勢先行 - 日経ク...",
-          "summary": [
-            "【概要】シャシー革命、テスラが電動ブレーキとステア・バイ・ワイヤ 中国勢先行 - 日経クロステック（xTECH）",
-            "シャシー革命、テスラが電動ブレーキとステア・バイ・ワイヤ 中国勢先行 日経クロステック（xTECH）...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "tesla_1791158762_5",
-          "title": "【10月24日～11月8日配信】新作ミュージカル『ニコラ・テスラ ～エジソンが恐れた孤高の天才～』期間限定で公演映像の配信決定！（アーカイブあり）｜【公式】ホリプロステージ｜チケット情報・販売・購入・予約 - horipro-stage.jp",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBXdEhMNXJ1UkQ2X1FuTHM1XzdscFdMU2x1SDJ2WmtKcS1lUDFCMEhjTU9nRnViTkItVlpMN3NMZmlMVWktWFc3b1E4ajIzbFdiTS1YVVZXTjNVVUNTUGhVM2hJcw?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-10-04 19:28",
-          "headline": "【10月24日～11月8日配信】新作ミュージカル『ニコラ・テスラ ～エジソンが恐...",
-          "summary": [
-            "【概要】【10月24日～11月8日配信】新作ミュージカル『ニコラ・テスラ ～エジソンが恐れた孤高の天才～』期間限定で公演映像の配信決定！（アーカイブあり）｜【公式】ホリプロステージ｜チケット情報・販売・購入・予約 - horipro-stage.jp",
-            "【10月24日～11月8日配信】新作ミュージカル『ニコラ・テスラ ～エジソンが恐れた孤高の天才～』期間限定で公演映像の配...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -226,16 +226,16 @@
       "description": "OpenAI・Google・生成AIの公式発表・技術速報",
       "articles": [
         {
-          "id": "ai_1791158763_1",
-          "title": "「日本のひなた宮崎 国スポ・障スポ」大会ホームページに生成AIチャットボットを導入しました - pref.miyazaki.lg.jp",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQblRUMWZoaUVvX0ZwR3JLWk14T2E2c0xqc2s5OHo3Q2lNQ2xxSUFDQ2JjVzYyN3ZkajY0N2ppMHQxbk50RmlxdEFNbDdVdHI3aFdQZ2QyM2JRWFhUVkZTZ0tPUFNIQlNMSEt1bUVUYWgwdUFtb05RajJ0TjJJU05rczBGZw?oc=5",
+          "id": "ai_1791251450_1",
+          "title": "ウェビナー「フィジカルAIとは？ ロボット開発・導入を支える開発環境とNVIDIAソリューションを解説」開催のお知らせ - 株式会社アスク",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xOXJmRlAzV0pvWmUtRHc3eGx0U2YzaE4zTHRyOWxBNG5DT2dVOVhkWmxPZFZEY1Y5eEJCOHBMMXA5QlllU2N6d1hkUWFMQXFFMjNJOWhHUlRlTFl3d21qYVJDNHp5VDlMOV9XQTJB?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-05 09:04",
-          "headline": "「日本のひなた宮崎 国スポ・障スポ」大会ホームページに生成AIチャットボットを導...",
+          "published_at": "2026-10-06 10:00",
+          "headline": "ウェビナー「フィジカルAIとは？ ロボット開発・導入を支える開発環境とNVIDI...",
           "summary": [
-            "【概要】「日本のひなた宮崎 国スポ・障スポ」大会ホームページに生成AIチャットボットを導入しました - pref.miyazaki.lg.jp",
-            "「日本のひなた宮崎 国スポ・障スポ」大会ホームページに生成AIチャットボットを導入しました pref.miyazaki....",
+            "【概要】ウェビナー「フィジカルAIとは？ ロボット開発・導入を支える開発環境とNVIDIAソリューションを解説」開催のお知らせ - 株式会社アスク",
+            "ウェビナー「フィジカルAIとは？ ロボット開発・導入を支える開発環境とNVIDIAソリューションを解説」開催のお知らせ ...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -246,16 +246,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1791158763_2",
-          "title": "AI時代、業務ソフトは作り直される Altman氏が語る「生きた文書」 - 株式会社エクサウィザーズ",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ISUh1VVJLYk03ZTgzRDFsbmthNmw5WVFGZXRsUk5mMlVTVGlQZ1FQU2hrWnJvTVpoUFoyMzVHNFpvUzRNRVB2ajJ4dzFtUXJGT1VzSUhrSUlTU0loTi00SzNHc2Jhdw?oc=5",
+          "id": "ai_1791251450_2",
+          "title": "「災害支援でのAI活用に関する実態・意識調査」を実施～AIで災害支援「部分的に役立つ」が半数以上、一方で半数以上が「誤情報」に不安～｜プレスリリース｜おしらせ・最新情報 - 日本赤十字社",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEeDBMekY5XzFOYVFqaVlIZnpYeWZmZVlJTC1pX282MzdaWk9oX0Fsbjd0V0JtMTRWS3NQcEFoUGJUOHRYYWF5OXlWR1JDcDZTUllYblBGRF9hVHI5NWc?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-05 08:48",
-          "headline": "AI時代、業務ソフトは作り直される Altman氏が語る「生きた文書」 - 株式...",
+          "published_at": "2026-10-06 09:03",
+          "headline": "「災害支援でのAI活用に関する実態・意識調査」を実施～AIで災害支援「部分的に役...",
           "summary": [
-            "【概要】AI時代、業務ソフトは作り直される Altman氏が語る「生きた文書」 - 株式会社エクサウィザーズ",
-            "AI時代、業務ソフトは作り直される Altman氏が語る「生きた文書」 株式会社エクサウィザーズ...",
+            "【概要】「災害支援でのAI活用に関する実態・意識調査」を実施～AIで災害支援「部分的に役立つ」が半数以上、一方で半数以上が「誤情報」に不安～｜プレスリリース｜おしらせ・最新情報 - 日本赤十字社",
+            "「災害支援でのAI活用に関する実態・意識調査」を実施～AIで災害支援「部分的に役立つ」が半数以上、一方で半数以上が「誤情...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -266,16 +266,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1791158763_3",
-          "title": "オープンＡＩ安全性担当者が退職、「試行錯誤の時代は終わった」 - jp.reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1EamxGdHBQdnVFQjZMeDRXdGpFNnFNbHBWT3Z6MjZjZXFoTmNLaUlPdTItQkRYRG1obDlXbHJNcVZ2SmRHakdZVDZJaGRuZDdzNi1ndFVOLW1JZHljUFhNdElmTG93WUxlVm1zb0E1NnpkbGZyVWp0T3ZxSmU?oc=5",
+          "id": "ai_1791251450_3",
+          "title": "AIでコード生成は加速、でも人間の確認が追いつかない問題。t-wadaが示す「レビュー解体」という答え - 転職 type",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5STEpJR1lVeThuRnBiRkZ1ZFB5cVFsQ2tnUnlZZTdfSndFZy1BQUJkZm0xSlBNVW82NDR5YVg3S3pzV1F4U3RIXw?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-05 08:27",
-          "headline": "オープンＡＩ安全性担当者が退職、「試行錯誤の時代は終わった」 - jp.reut...",
+          "published_at": "2026-10-06 08:43",
+          "headline": "AIでコード生成は加速、でも人間の確認が追いつかない問題。t-wadaが示す「レ...",
           "summary": [
-            "【概要】オープンＡＩ安全性担当者が退職、「試行錯誤の時代は終わった」 - jp.reuters.com",
-            "オープンＡＩ安全性担当者が退職、「試行錯誤の時代は終わった」 jp.reuters.com...",
+            "【概要】AIでコード生成は加速、でも人間の確認が追いつかない問題。t-wadaが示す「レビュー解体」という答え - 転職 type",
+            "AIでコード生成は加速、でも人間の確認が追いつかない問題。t-wadaが示す「レビュー解体」という答え 転職 type...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -286,16 +286,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1791158763_4",
-          "title": "トランプ大統領 AI政策を調整する司令塔組織を設立 - news.web.nhk",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VYzItQlFDTEVyWUJhY005eElZbExyMlIxX0JVRjRBa3l2N1owSFU2SGoyOXNwOXZSeUMtbU12U2dqd0xkLTAwTEk3dl91cWpaeGp2MzVWcURGMEExUGl3?oc=5",
+          "id": "ai_1791251450_4",
+          "title": "五條市生成AIシステム利用ガイドラインを策定しました - city.gojo.lg.jp",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdTAyQ0RadTdsTWZpQll4aU5nWkp3MDFtR1ltQ084aWtlSjZ1SjNzOGM4V0ZrOG9vZUFocXhmdmktRGlTbnBOYjc3WHJjR0wyS3ctWUZib0NXdFhrc3dzOWNJbzhuMUtiV2lNdzl5OWoxbU9GbTliOE5DZ0FMVlRWS1h5TQ?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-05 06:35",
-          "headline": "トランプ大統領 AI政策を調整する司令塔組織を設立 - news.web.nhk",
+          "published_at": "2026-10-06 08:41",
+          "headline": "五條市生成AIシステム利用ガイドラインを策定しました - city.gojo.l...",
           "summary": [
-            "【概要】トランプ大統領 AI政策を調整する司令塔組織を設立 - news.web.nhk",
-            "トランプ大統領 AI政策を調整する司令塔組織を設立 news.web.nhk...",
+            "【概要】五條市生成AIシステム利用ガイドラインを策定しました - city.gojo.lg.jp",
+            "五條市生成AIシステム利用ガイドラインを策定しました city.gojo.lg.jp...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -306,16 +306,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1791158763_5",
-          "title": "NTTデータG、法人向けAIで日立らに挑む 人月ビジネスから脱却図る - 日経ビジネス電子版",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaV9lZDhoT24tRHduOWoxVjhNRkR5Nm15MGhuRW9ZVkxVNHgyZVB1SG42Zk5WcmFEWmZQbEwzZExyUlBkS3JpeVZEcVlWWEFwd3dtblZBbk85VkpXejhPWGNIYXA2MkNjbFRtRGdJU0JMa3VMVzBIa2xxbUJrc3N2d1otVUtDMm5CSWpWbQ?oc=5",
+          "id": "ai_1791251450_5",
+          "title": "[AI-Driven Modernization] AIエージェントに規律ある移行作業をさせる「AI Modernization Flow」を公開しました - Amazon Web Services (AWS)",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSUN0enMzd1JQSWNpUG5id0RJSi03ejJ4QWRlQy1fUFkyYktzOGh2QUpKR2ZpN19mQTFLZFE0LVQxVVdYZm5ZTG05cGJuZTJaa3R5TW5QVWhYNTd6TE4wYXBXTk1VeGM5cWhTMXMwdHJPMURYYUFlaUtTNGE2QXEzSGd3?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-05 05:00",
-          "headline": "NTTデータG、法人向けAIで日立らに挑む 人月ビジネスから脱却図る - 日経ビ...",
+          "published_at": "2026-10-06 07:08",
+          "headline": "[AI-Driven Modernization] AIエージェントに規律ある移...",
           "summary": [
-            "【概要】NTTデータG、法人向けAIで日立らに挑む 人月ビジネスから脱却図る - 日経ビジネス電子版",
-            "NTTデータG、法人向けAIで日立らに挑む 人月ビジネスから脱却図る 日経ビジネス電子版...",
+            "【概要】[AI-Driven Modernization] AIエージェントに規律ある移行作業をさせる「AI Modernization Flow」を公開しました - Amazon Web Services (AWS)",
+            "[AI-Driven Modernization] AIエージェントに規律ある移行作業をさせる「AI Moderniza...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
