@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026年10月07日 09:57",
-  "updated_at_iso": "2026-10-07T09:57:22.340592+09:00",
+  "updated_at": "2026年10月08日 10:13",
+  "updated_at_iso": "2026-10-08T10:13:22.558918+09:00",
   "model_used": "mock-mode",
   "categories": [
     {
@@ -10,16 +10,16 @@
       "description": "Microsoft Azureの公式発表・最新クラウド動向",
       "articles": [
         {
-          "id": "azure_1791334642_1",
-          "title": "勉強も運動もダメだった 「才能ゼロ」「ポンコツ」の僕が米マイクロソフトに入社できた理由 - AERA DIGITAL",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4M1g2LUQ3bXByMkpYZUdHcHVubmJKdTNpY0RHYUNQRHVtRFJXTFhlT0RMZFhTNC1ESWVqQkE4WEZoWTNOMm1GQlBNZXZHNmJjb0IxYUxOLWo?oc=5",
+          "id": "azure_1791422003_1",
+          "title": "Anthropic、「Claude Haiku 5.5」公開　「Haiku 4.5」から大幅性能向上で利用コスト約75％減 - Infoseek",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9HamwyRkd6ZG84blVhMlBLbkZzWlBWbHJEMFlMSUJDLUZXcU9ZSEpjTXhEeVJNTzZ0aUdod1RPYWY5bWxaVkZhZDEtVlZxM25HX2RhWXlXdHd2UllwUW40OG1HcFRwWW1jZWNiNHA4Ylo1VGhKN3pNdFV1NGHSAXxBVV95cUxPR2psMkZHemRvOG5VYTJQS25Gc1pQVmxyRDBZTElCQy1GV3FPWUhKY014RHlSTU82dGlHaHdUT2FmOW1sWlZGYWQxLVZWcTNuR19kYVl5V3R3dlJZcFFuNDhtR3BUcFltY2VjYjRwOGJaNVRoSjd6TXRVdTRh?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-10-07 07:00",
-          "headline": "勉強も運動もダメだった 「才能ゼロ」「ポンコツ」の僕が米マイクロソフトに入社でき...",
+          "published_at": "2026-10-08 08:22",
+          "headline": "Anthropic、「Claude Haiku 5.5」公開　「Haiku 4....",
           "summary": [
-            "【概要】勉強も運動もダメだった 「才能ゼロ」「ポンコツ」の僕が米マイクロソフトに入社できた理由 - AERA DIGITAL",
-            "勉強も運動もダメだった 「才能ゼロ」「ポンコツ」の僕が米マイクロソフトに入社できた理由 AERA DIGITAL...",
+            "【概要】Anthropic、「Claude Haiku 5.5」公開　「Haiku 4.5」から大幅性能向上で利用コスト約75％減 - Infoseek",
+            "Anthropic、「Claude Haiku 5.5」公開 「Haiku 4.5」から大幅性能向上で利用コスト約75％...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -30,7 +30,27 @@
           "importance": 3
         },
         {
-          "id": "azure_1791334642_2",
+          "id": "azure_1791422003_2",
+          "title": "AI狂騒の半年、企業導入はクラウド経由が主流に 開発競争と安全保障のはざまで - BigGo ファイナンス",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5OWmNPVWVRUEVyZ0VvdllzdTlodlVCemdxbWdYT1dWRGZJVDY0eW8xa1dCdnpzTFhBMzgwWHhUOUNlVUt1a01RTUEwMXJ3QmVuV3dEX3lYejlZNUY5N0NmUTZnLWRmMmYtS1J2aktUUDg2Z296?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-10-08 08:05",
+          "headline": "AI狂騒の半年、企業導入はクラウド経由が主流に 開発競争と安全保障のはざまで -...",
+          "summary": [
+            "【概要】AI狂騒の半年、企業導入はクラウド経由が主流に 開発競争と安全保障のはざまで - BigGo ファイナンス",
+            "AI狂騒の半年、企業導入はクラウド経由が主流に 開発競争と安全保障のはざまで BigGo ファイナンス...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1791422003_3",
           "title": "Why I think all 'average engineers' should come to Seattle｜牛尾 剛 - note",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80M1NHblVqOUdaVkRHdnBGQXRsU1dyVUV1LW5FcnVuMDhMSHV6TnRiVVJyWjVDN1hJeXRIXzFaeDBHWnRXc2pHYVFBVVkyZzZIMW9ER2ZlREJRVFZ6MzJFZzlMMG4?oc=5",
           "source": "Google News (Azure)",
@@ -50,27 +70,7 @@
           "importance": 3
         },
         {
-          "id": "azure_1791334642_3",
-          "title": "マイクロソフト株に続く 米国家安全保障AI関連株の有力候補とは - Simply Wall Street",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZnBiWE1ZVF9RR0Y0elhZMnZNdTNvNU9Zalo3Vkljak1SWlpGaXJnUkwxclF3V1JwRnNOa3BjYkZ1cmZQUlVTOHZtNXlSN1dRc1FGRHFyS2FaUGxIUVFJc2E5QzFzTWRueDFxZkJQTTgzbk14VzBFaThNRWVxN01TMnpwYjdJeU5JdmxwaHpYbFBTS0ZNQ2fSAZYBQVVfeXFMTWZwYlhNWVRfUUdGNHpYWTJ2TXUzbzVPWWpaN1ZJY2pNUlpaRmlyZ1JMMXJRd1dScEZzTmtwY2JGdXJmUFJVUzh2bTV5UjdXUXNRRkRxckthWlBsSFFRSXNhOUMxc01kbngxcWZCUE04M25NeFcwRWk4TUVlcTdNUzJ6cGI3SXlOSXZscGh6WGxQU0tGTUNn?oc=5",
-          "source": "Google News (Azure)",
-          "is_official": false,
-          "published_at": "2026-10-06 14:44",
-          "headline": "マイクロソフト株に続く 米国家安全保障AI関連株の有力候補とは - Simply...",
-          "summary": [
-            "【概要】マイクロソフト株に続く 米国家安全保障AI関連株の有力候補とは - Simply Wall Street",
-            "マイクロソフト株に続く 米国家安全保障AI関連株の有力候補とは Simply Wall Street...",
-            "情報提供元: Google News (Azure)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "azure_1791334642_4",
+          "id": "azure_1791422003_4",
           "title": "PFN、Microsoft Foundryで国産生成AI基盤モデル PLaMo 3.0 PrimeおよびPLaMo翻訳を提供開始 - 株式会社Preferred Networks",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UZ25xZ25JU3pDeEVrZkVYSUdRaElGSl96Zk1haDlvQlZEUDNTNTZTZFEzVWpXd1VBUkkwZU1GOC10Rm1DaTczYUtHeUVCclVnbmdVSlZR?oc=5",
           "source": "Google News (Azure)",
@@ -90,16 +90,16 @@
           "importance": 3
         },
         {
-          "id": "azure_1791334642_5",
-          "title": "Microsoft Azure移行分野の高度な専門性と実績でSpecializationを更新 - Infoseek",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JSGtoc21MMW1CY05NT2tMbXZYWUc0ZEptTF9INzlOSWJBamwyWjI2VFNZYkU5YTBfNW1nU29ZaVNXTlB5RDRhdGVrTTUweEMycFF2TXJrbHpzY09HNUJsaV9HZDN4M2Q4aGdxbFVsdXJlUQ?oc=5",
+          "id": "azure_1791422003_5",
+          "title": "Microsoft Azure移行分野の高度な専門性と実績でSpecializationを更新 - PR TIMES",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vZzdFTnRQTXZSTlZZcVlfZ2JnZWVSOG50SWlKeGxuWVVRVVpsUElidllxaEtsMFFVTGYtSkJxMmdWcXVYNDRzRnZJRmk3Zzd5S3BQOERBRENGSGRuUllDZ0FVODZvTGVPRWc?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-10-05 12:45",
+          "published_at": "2026-10-05 11:00",
           "headline": "Microsoft Azure移行分野の高度な専門性と実績でSpecializa...",
           "summary": [
-            "【概要】Microsoft Azure移行分野の高度な専門性と実績でSpecializationを更新 - Infoseek",
-            "Microsoft Azure移行分野の高度な専門性と実績でSpecializationを更新 Infoseek...",
+            "【概要】Microsoft Azure移行分野の高度な専門性と実績でSpecializationを更新 - PR TIMES",
+            "Microsoft Azure移行分野の高度な専門性と実績でSpecializationを更新 PR TIMES...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -118,16 +118,16 @@
       "description": "テスラの最新アップデート・EV・FSD・決算動向",
       "articles": [
         {
-          "id": "tesla_1791334643_1",
-          "title": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vR2owRXJLX1dwYUtHY05wNjVKVmVrTHNXdm5yRGJ0NHJzSzZTaEgxWFo0WmNBOWUxV2tXcHljUWlYaG92bll2YUNIQzJlVE0?oc=5",
+          "id": "tesla_1791422003_1",
+          "title": "Teslaの巨大半導体工場「Terafab」、IntelとTSMCが両睨みへ｜マスク氏が描く“自前半導体”戦略｜Semiconductor Geek - note",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GaU91MWZzYkZWMFU2MVl3R3V4c0dRT3BkSGFBVjZhLTE2Zkl0WUVBV2JNalJrdk5oSlJKWFpvTDJKMXJjajhsSExqU3ItbXBoYzNZcXFYX24zVnRXRWc?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-10-07 09:11",
-          "headline": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
+          "published_at": "2026-10-08 07:10",
+          "headline": "Teslaの巨大半導体工場「Terafab」、IntelとTSMCが両睨みへ｜マ...",
           "summary": [
-            "【概要】テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
-            "テスラ【TSLA】：株価・株式情報 Yahoo!ファイナンス...",
+            "【概要】Teslaの巨大半導体工場「Terafab」、IntelとTSMCが両睨みへ｜マスク氏が描く“自前半導体”戦略｜Semiconductor Geek - note",
+            "Teslaの巨大半導体工場「Terafab」、IntelとTSMCが両睨みへ｜マスク氏が描く“自前半導体”戦略｜Semi...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -138,16 +138,16 @@
           "importance": 3
         },
         {
-          "id": "tesla_1791334643_2",
-          "title": "【アップデート】テスラ、「ハロウィンモード」を海外で配信開始 - Touch Lab",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zTjlTUzRtRDZnNk9wZVJIZTZELXkyRTV1NDQzQmRDRzlHOGFaazRYbjM1NmF0OEU0aFI5MkNuVW9EZE1CMXU4VGpfbkN1UjZKamt2RUc3bGhDbV9RN243TUk2ZXBBTVE?oc=5",
+          "id": "tesla_1791422003_2",
+          "title": "米企業、テスラCybercabを購入して「ロボタクシー事業」？ - 自動運転ラボ",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9GcUI2OWV1c2p6Yl9hSWt3a1huVmVMY1hFU2pMSXlXbXBxaGI2S3dmS2pYMFRTT0ZtTlE4TzY1bGp3ZjdiRWpMQg?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-10-07 09:06",
-          "headline": "【アップデート】テスラ、「ハロウィンモード」を海外で配信開始 - Touch L...",
+          "published_at": "2026-10-08 06:40",
+          "headline": "米企業、テスラCybercabを購入して「ロボタクシー事業」？ - 自動運転ラボ",
           "summary": [
-            "【概要】【アップデート】テスラ、「ハロウィンモード」を海外で配信開始 - Touch Lab",
-            "【アップデート】テスラ、「ハロウィンモード」を海外で配信開始 Touch Lab...",
+            "【概要】米企業、テスラCybercabを購入して「ロボタクシー事業」？ - 自動運転ラボ",
+            "米企業、テスラCybercabを購入して「ロボタクシー事業」？ 自動運転ラボ...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -158,16 +158,16 @@
           "importance": 3
         },
         {
-          "id": "tesla_1791334643_3",
-          "title": "4〜9月の輸入車販売､EVが初の2万台超 テスラけん引 - 日本経済新聞",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kNklYc1duZWNQMVZ6N0RfRnhROExScFFlVlRQUXdwNTNvWmE3dWRxMUI2ZGxXYnNyV1hUY04tT3JicXVpb2hWOEVSeWYtSEZqdnAwYWNibFJMMmUyNEdIMzVWQWxEY3lOUG1Eb1cxalZaZDBXNzFSNkJZdDBMZFk?oc=5",
+          "id": "tesla_1791422003_3",
+          "title": "韓国国会国政監査、Tesla Korea・BYD Korea代表を証人喚問へ…FSD検証の空白・整備網不足を追及 - BigGo ファイナンス",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uUnNOcmpxOFJ6alZiUjhadnN4M2VtUmZNdV9ZSVNkVHcyc2t1Z2F0MnRDdFRIMENDQmZtUzNRVDdkSWZLSG5PaFJKQk01ZzFVc0xsbDVNZWdPb05MZmJWeU9yXzI3ZUVhcTh1OHhaUzBYX3Zv?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-10-07 05:00",
-          "headline": "4〜9月の輸入車販売､EVが初の2万台超 テスラけん引 - 日本経済新聞",
+          "published_at": "2026-10-08 06:25",
+          "headline": "韓国国会国政監査、Tesla Korea・BYD Korea代表を証人喚問へ…F...",
           "summary": [
-            "【概要】4〜9月の輸入車販売､EVが初の2万台超 テスラけん引 - 日本経済新聞",
-            "4〜9月の輸入車販売､EVが初の2万台超 テスラけん引 日本経済新聞...",
+            "【概要】韓国国会国政監査、Tesla Korea・BYD Korea代表を証人喚問へ…FSD検証の空白・整備網不足を追及 - BigGo ファイナンス",
+            "韓国国会国政監査、Tesla Korea・BYD Korea代表を証人喚問へ…FSD検証の空白・整備網不足を追及 Big...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -178,16 +178,36 @@
           "importance": 3
         },
         {
-          "id": "tesla_1791334643_4",
-          "title": "Tesla Model 3 and Model Y can finally power your home",
-          "link": "https://electrek.co/2026/10/06/tesla-powershare-home-backup-model-3-model-y-powerwall-3/",
+          "id": "tesla_1791422003_4",
+          "title": "節目の自動運転 ウェイモ日本で、テスラは自家用車のE2E - 日本経済新聞",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQS2dXSzE0U2ZRQklLdlZPOFlyb0RmRWpJRkFPWDV4dU5xTmw1bEVrclhHWlpnSnhMb1IxNS1JOEdUQjRONExhTG5NbFFNWFBIbEZpTklJMndiV2ZZWEpySE4wTkdTMkkyRXo2OFJDOGZFdUdaWWhMbmNLNmdPTjEwMEhPdUhESEU?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-10-08 05:00",
+          "headline": "節目の自動運転 ウェイモ日本で、テスラは自家用車のE2E - 日本経済新聞",
+          "summary": [
+            "【概要】節目の自動運転 ウェイモ日本で、テスラは自家用車のE2E - 日本経済新聞",
+            "節目の自動運転 ウェイモ日本で、テスラは自家用車のE2E 日本経済新聞...",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "tesla_1791422003_5",
+          "title": "Tesla Cybercab loses its entire door panel in a Philadelphia crash",
+          "link": "https://electrek.co/2026/10/07/tesla-cybercab-crash-philadelphia-door-panel/",
           "source": "Electrek (Tesla)",
           "is_official": true,
-          "published_at": "2026-10-07 01:57",
-          "headline": "Tesla Model 3 and Model Y can finally po...",
+          "published_at": "2026-10-08 03:44",
+          "headline": "Tesla Cybercab loses its entire door pan...",
           "summary": [
-            "【概要】Tesla Model 3 and Model Y can finally power your home",
-            "Tesla has turned on Powershare Home Backup for the Model 3 a...",
+            "【概要】Tesla Cybercab loses its entire door panel in a Philadelphia crash",
+            "A Tesla Cybercab was involved in a crash in Philadelphia thi...",
             "情報提供元: Electrek (Tesla)"
           ],
           "key_points": [
@@ -196,26 +216,6 @@
           ],
           "badge": "注目",
           "importance": 4
-        },
-        {
-          "id": "tesla_1791334643_5",
-          "title": "Tesla Proves the “EV Winter” is Over: Here’s the Conservative Case for 32% Upside - TIKR.com",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZmZ0cEpGakM2U0NOWFBhNnExWU12b1JhU3RtZVpLY3FtZkM1aVpvYlJGandiWUNmY1pWUEtZdGFZY2M1YlpGSmRBWS1rNjJ3amZSZFhQSGJCMndLUVpxeWlFamxvUndhd3FrWkFtbUtmNzFYZzhBYTFtRXpHZENlZF92dUw2YmR5aXhtT3Y5MVRTajNQMS1nX2Z0WGdvYnVBcTB1dG5OdUpvZw?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-10-06 23:09",
-          "headline": "Tesla Proves the “EV Winter” is Over: He...",
-          "summary": [
-            "【概要】Tesla Proves the “EV Winter” is Over: Here’s the Conservative Case for 32% Upside - TIKR.com",
-            "Tesla Proves the “EV Winter” is Over: Here’s the Conservativ...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
         }
       ]
     },
@@ -226,16 +226,16 @@
       "description": "OpenAI・Google・生成AIの公式発表・技術速報",
       "articles": [
         {
-          "id": "ai_1791334644_1",
-          "title": "サイバー攻撃で情報漏えい急増、ＡＩ悪用で「短時間・広範囲に」…会員ポイントが不正交換される「二次被害」も - 読売新聞",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01aWl1Vk1fMzZMemhuNm9rSFhwOGo4NXo5UndwYjNFeGVxSmJnRWw5ckdaTDZlakx0cmJ0cllaQVRaamRBbmYwRmlyZHF1RFNNbDVMTlB2WkRIaHJrUXdoVzZOQ3RFZw?oc=5",
+          "id": "ai_1791422005_1",
+          "title": "OpenAI、AIが生成した数学論文722本を一挙公開 - 株式会社エクサウィザーズ",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VRW43WUk4TGZWNHRVWFBDUGcyUkNEalhmRy15SEJ3RG8xdmlSLW1fQnM0YnQ1SVMtMDJGXzhGNGNCcWtyNzlYT3oxX1kyb21IYWFoSUhXR2MwcllsYUJhSXVSbzBSdw?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-07 08:57",
-          "headline": "サイバー攻撃で情報漏えい急増、ＡＩ悪用で「短時間・広範囲に」…会員ポイントが不正...",
+          "published_at": "2026-10-08 09:10",
+          "headline": "OpenAI、AIが生成した数学論文722本を一挙公開 - 株式会社エクサウィザ...",
           "summary": [
-            "【概要】サイバー攻撃で情報漏えい急増、ＡＩ悪用で「短時間・広範囲に」…会員ポイントが不正交換される「二次被害」も - 読売新聞",
-            "サイバー攻撃で情報漏えい急増、ＡＩ悪用で「短時間・広範囲に」…会員ポイントが不正交換される「二次被害」も 読売新聞...",
+            "【概要】OpenAI、AIが生成した数学論文722本を一挙公開 - 株式会社エクサウィザーズ",
+            "OpenAI、AIが生成した数学論文722本を一挙公開 株式会社エクサウィザーズ...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -246,16 +246,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1791334644_2",
-          "title": "グーグル、画像生成AI「Nano Banana 2.1」を公開 1K画像は約5円、前世代の約半額に - ビジネス+IT",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PVk9jY2JkaDlYTkQtYS1haTRYVjAwNzI0NTZuTFY1ZVp1TFBpZWdGY3E2NG1ZaE82UHNBbGp2VkdjY1VmVzR4NXF0cnZSWVVpb01V?oc=5",
+          "id": "ai_1791422005_2",
+          "title": "生成AIでみどりの窓口の顧客体験を創出 NECとJR東日本が目指す駅サービスの進化: NEC Stories - NEC",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2azZDYWVzTWVaa3gtWWdaYUhwYkZZdmxqaVcxNnhmdXJiQ0VJaFZDVTNOUExBdUtpektEV1VYc2REU2VmVnhTcy04dkFqMXRseVpBak94SGxOX1JI?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-07 08:51",
-          "headline": "グーグル、画像生成AI「Nano Banana 2.1」を公開 1K画像は約5円...",
+          "published_at": "2026-10-08 09:06",
+          "headline": "生成AIでみどりの窓口の顧客体験を創出 NECとJR東日本が目指す駅サービスの進...",
           "summary": [
-            "【概要】グーグル、画像生成AI「Nano Banana 2.1」を公開 1K画像は約5円、前世代の約半額に - ビジネス+IT",
-            "グーグル、画像生成AI「Nano Banana 2.1」を公開 1K画像は約5円、前世代の約半額に ビジネス+IT...",
+            "【概要】生成AIでみどりの窓口の顧客体験を創出 NECとJR東日本が目指す駅サービスの進化: NEC Stories - NEC",
+            "生成AIでみどりの窓口の顧客体験を創出 NECとJR東日本が目指す駅サービスの進化: NEC Stories NEC...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -266,16 +266,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1791334644_3",
-          "title": "マーベル、28年度売上高200億ドル見込む ＡＩ向けカスタム半導体がけん引 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1SMWt3aVBTVDIyNnZVVkpDUlhNb0NfUjNkS095NkkwX1ZCcWZId1c0ajNRQU5pQy1nNG85d2VFTFpac2V6RzhVckwyazczOFZsd3o3ZVdUZVFMNjN0Q1BweVVkaW53ZlZRZWdYUDA0V29JV1Jkc0VMT3d2bw?oc=5",
+          "id": "ai_1791422005_3",
+          "title": "「フィジカルAI」やエネルギー分野での協力掲げる 日米財界人会議 - 朝日新聞",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jZjJRUVVyYUVlc3M0NGpfZGpaX1ltWEplQi03akQyVGFIVkJ5V1NTTmt1ZGZxdDdnR2NEcmlNWGR5M19YcVVHVHIzY184ZzVQaXo3Z1JZVWxJZ0pJaDJ4QUliSUU1RGc?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-07 07:03",
-          "headline": "マーベル、28年度売上高200億ドル見込む ＡＩ向けカスタム半導体がけん引 - ...",
+          "published_at": "2026-10-08 07:00",
+          "headline": "「フィジカルAI」やエネルギー分野での協力掲げる 日米財界人会議 - 朝日新聞",
           "summary": [
-            "【概要】マーベル、28年度売上高200億ドル見込む ＡＩ向けカスタム半導体がけん引 - Reuters",
-            "マーベル、28年度売上高200億ドル見込む ＡＩ向けカスタム半導体がけん引 Reuters...",
+            "【概要】「フィジカルAI」やエネルギー分野での協力掲げる 日米財界人会議 - 朝日新聞",
+            "「フィジカルAI」やエネルギー分野での協力掲げる 日米財界人会議 朝日新聞...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -286,16 +286,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1791334644_4",
-          "title": "もう「AI上司」で十分？ ドコモビジネスで200超導入、部長も課長も - 日本経済新聞",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SQ3lBYWFZbFVPeEtLZ1ZxTHJSZi04b0wxQmFJaHhxMVFUVTJMUzhqS1NsYXRDMmwxOFZGUHhyUzZQOURpaTg4OXdza0FWSjVnYW4xeU1HR2tpUlhfaERla3oyM3QzU1E5a2VWeg?oc=5",
+          "id": "ai_1791422005_4",
+          "title": "「SaaSの死」に抗う米ハブスポット、突破口は「AI界のスイス」戦略 - 日経ビジネス電子版",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5maEQ1eFZ4dmlzamo4c1BkNnk5bTFPZTY0aW9DVldXandYVmthNGloZE5rUUVlQWNYdTAyR1hFYk5KRERYZlQzNjNBR2JpeWZwajMxczA5NEZQcXAtaTZBVWlMdHcybE0?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-07 05:00",
-          "headline": "もう「AI上司」で十分？ ドコモビジネスで200超導入、部長も課長も - 日本経...",
+          "published_at": "2026-10-08 05:00",
+          "headline": "「SaaSの死」に抗う米ハブスポット、突破口は「AI界のスイス」戦略 - 日経ビ...",
           "summary": [
-            "【概要】もう「AI上司」で十分？ ドコモビジネスで200超導入、部長も課長も - 日本経済新聞",
-            "もう「AI上司」で十分？ ドコモビジネスで200超導入、部長も課長も 日本経済新聞...",
+            "【概要】「SaaSの死」に抗う米ハブスポット、突破口は「AI界のスイス」戦略 - 日経ビジネス電子版",
+            "「SaaSの死」に抗う米ハブスポット、突破口は「AI界のスイス」戦略 日経ビジネス電子版...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -306,16 +306,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1791334644_5",
-          "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-          "link": "https://openai.com/index/atlassian-partnership",
+          "id": "ai_1791422005_5",
+          "title": "Helping teens learn, plan, and shape the future of AI",
+          "link": "https://openai.com/index/teens-learn-and-plan",
           "source": "OpenAI Official Blog",
           "is_official": true,
-          "published_at": "2026-10-07 01:00",
-          "headline": "Atlassian and OpenAI expand partnership ...",
+          "published_at": "2026-10-07 21:00",
+          "headline": "Helping teens learn, plan, and shape the...",
           "summary": [
-            "【概要】Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-            "Atlassian and OpenAI are expanding their partnership to conn...",
+            "【概要】Helping teens learn, plan, and shape the future of AI",
+            "College Planner is coming to ChatGPT for Teens to help stude...",
             "情報提供元: OpenAI Official Blog"
           ],
           "key_points": [
