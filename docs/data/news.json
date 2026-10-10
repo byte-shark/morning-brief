@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026年10月09日 10:21",
-  "updated_at_iso": "2026-10-09T10:21:05.106216+09:00",
+  "updated_at": "2026年10月10日 10:09",
+  "updated_at_iso": "2026-10-10T10:09:03.053873+09:00",
   "model_used": "mock-mode",
   "categories": [
     {
@@ -10,16 +10,16 @@
       "description": "Microsoft Azureの公式発表・最新クラウド動向",
       "articles": [
         {
-          "id": "azure_1791508865_1",
-          "title": "DDoS 防御市場の主要10社まとめ - pando.life",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBhejlCcFM3SjRKRF9paUNyeVVGV29LcXRQdVY2bjdBclVEekdJLVloQjRnRW1wR0tKWVUwWlF3UnVwZXNVZkNCb3Jn?oc=5",
+          "id": "azure_1791594543_1",
+          "title": "ヘッドウォータース、「AI Platform on Microsoft Azure」Specializationを更新 - ニコニコニュース",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5URVVrZURNZS1RSkxzN1VxLU5LbkVfZlhSMFoybVJXY2Fqd0pGZ0hFZHBONF9VVFRXRjMwV0l4UWlqR25uT1hvdVFza0dPSGExaVRpWFp3LU1WN0JEWXpsd2hkMlpPWE1vdzlLODZBT0VCSmRSMklqMUw5SQ?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-10-09 02:36",
-          "headline": "DDoS 防御市場の主要10社まとめ - pando.life",
+          "published_at": "2026-10-09 18:21",
+          "headline": "ヘッドウォータース、「AI Platform on Microsoft Azur...",
           "summary": [
-            "【概要】DDoS 防御市場の主要10社まとめ - pando.life",
-            "DDoS 防御市場の主要10社まとめ pando.life...",
+            "【概要】ヘッドウォータース、「AI Platform on Microsoft Azure」Specializationを更新 - ニコニコニュース",
+            "ヘッドウォータース、「AI Platform on Microsoft Azure」Specializationを更新 ...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -30,7 +30,47 @@
           "importance": 3
         },
         {
-          "id": "azure_1791508865_2",
+          "id": "azure_1791594543_2",
+          "title": "「Microsoft Dev Box」が2028年9月18日に終了へ ～移行先は「Windows 365」 - 窓の杜",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzTUZ5amNCOFJiT29GamRZQzZIVjYwc3BfUHM2dVNlSVVxZ2JzdGdSOS11WTRRVkhJWTZ4bWtQQ2tFa2lqd1ZMbVgtQTJJSGd5RlAtbDhSZkdySFN2NHZ1NTNRbEVPd3NP?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-10-09 17:53",
+          "headline": "「Microsoft Dev Box」が2028年9月18日に終了へ ～移行先は...",
+          "summary": [
+            "【概要】「Microsoft Dev Box」が2028年9月18日に終了へ ～移行先は「Windows 365」 - 窓の杜",
+            "「Microsoft Dev Box」が2028年9月18日に終了へ ～移行先は「Windows 365」 窓の杜...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1791594543_3",
+          "title": "ヘッドウォータース、AI Platform on Microsoft AzureのSpecializationを新たに更新した成果 - ニュースメディアVOIX",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ma2xxQmRQSkxwQUhNVjNOb0F5Z2wtMk1lR01BNjd4VFlUSUxvbUhoM0VJR1AwRlhWalhLcUtsMjZGb3VpYWRUTlBJbkx2YThoNzF0Yi1pZWxOcmxMQmFEWmdRdTBSa3B6bnJv?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-10-09 17:03",
+          "headline": "ヘッドウォータース、AI Platform on Microsoft Azure...",
+          "summary": [
+            "【概要】ヘッドウォータース、AI Platform on Microsoft AzureのSpecializationを新たに更新した成果 - ニュースメディアVOIX",
+            "ヘッドウォータース、AI Platform on Microsoft AzureのSpecializationを新たに更...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1791594543_4",
           "title": "ハイブリッド インテリジェンスを実現する Windows - Microsoft Source",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQnVKRzJkOHJRQVpNZjcwRURpRHJyaVdYN1d6VFk3QkxfZTZCSEc0V21KS3JwZ0VYamZSU3lCR3FyQVpWaFFxazlBY0ZVaGFuMm1PYUJETEVWYkpSZ0x1ekRvRkpHWW54SG05TjAtVHF0NGJiQkVSZFVkeVAxbkZQZTFiUmg3YW1wNVlhSFE5T2ZpUHBHX2wyRUdvU1puQQ?oc=5",
           "source": "Google News (Azure)",
@@ -50,56 +90,16 @@
           "importance": 3
         },
         {
-          "id": "azure_1791508865_3",
-          "title": "リコージャパン、Difyの環境構築・導入サービスを開始 - ZDNET Japan",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yWnBwbnFVbFVSa1J4WVNQMEdrRGVrZldsSmZCenNHTFR2YWNYRVNqQmJnVlNLd09ZZlowVkE3Sk51V0R3NE1KeGhWVTBLLU9KdmNN?oc=5",
+          "id": "azure_1791594543_5",
+          "title": "3大クラウド、39項目徹底比較 - 日経クロステック（xTECH）",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQR2wtTkF4UHJXLUJJOXowdFNyelZGblVhcXljcXktU2JBOGtHUktlV2dsRFlCMlMzanktU0JNRWN6c05IeFUzckVpYXBpOXdUVS1LTFFGM1dGdzZGd084MXRvbTQ1NEVOVGFzUGFrc2FIZjhCaTZhNVNSd2F5VkNwNV9Gd1ZqUFV0bF9vNWpIUW5Cd2N3OFZGVHVjQkVuUWdmMkg3SVd4WnJ2cXY4ZHRwYVJwZy1HZXFMZHVoT2hFOU1xNVdiYzdQODVrMy00Zw?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-10-08 16:26",
-          "headline": "リコージャパン、Difyの環境構築・導入サービスを開始 - ZDNET Japa...",
+          "published_at": "2026-10-08 12:53",
+          "headline": "3大クラウド、39項目徹底比較 - 日経クロステック（xTECH）",
           "summary": [
-            "【概要】リコージャパン、Difyの環境構築・導入サービスを開始 - ZDNET Japan",
-            "リコージャパン、Difyの環境構築・導入サービスを開始 ZDNET Japan...",
-            "情報提供元: Google News (Azure)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "azure_1791508865_4",
-          "title": "勉強も運動もダメだった 「才能ゼロ」「ポンコツ」の僕が米マイクロソフトに入社できた理由 | AERA Books（アエラブックス） - AERA DIGITAL",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4M1g2LUQ3bXByMkpYZUdHcHVubmJKdTNpY0RHYUNQRHVtRFJXTFhlT0RMZFhTNC1ESWVqQkE4WEZoWTNOMm1GQlBNZXZHNmJjb0IxYUxOLWo?oc=5",
-          "source": "Google News (Azure)",
-          "is_official": false,
-          "published_at": "2026-10-07 07:00",
-          "headline": "勉強も運動もダメだった 「才能ゼロ」「ポンコツ」の僕が米マイクロソフトに入社でき...",
-          "summary": [
-            "【概要】勉強も運動もダメだった 「才能ゼロ」「ポンコツ」の僕が米マイクロソフトに入社できた理由 | AERA Books（アエラブックス） - AERA DIGITAL",
-            "勉強も運動もダメだった 「才能ゼロ」「ポンコツ」の僕が米マイクロソフトに入社できた理由 | AERA Books（アエラ...",
-            "情報提供元: Google News (Azure)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "azure_1791508865_5",
-          "title": "CAFではじめるAzureクラウド導入 - 日経クロステック（xTECH）",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JZk5LRURaeGE0bS15TWwzY0VMRlJpQ2kyeGIwOVhmRkgtdHpDejc0VHFuR2VDSVc5VkFLd3YxSjQtYklqYXpZVlNBNE1RWUVEUXo1cF9sQXc4b19fbjZR?oc=5",
-          "source": "Google News (Azure)",
-          "is_official": false,
-          "published_at": "2026-10-07 05:55",
-          "headline": "CAFではじめるAzureクラウド導入 - 日経クロステック（xTECH）",
-          "summary": [
-            "【概要】CAFではじめるAzureクラウド導入 - 日経クロステック（xTECH）",
-            "CAFではじめるAzureクラウド導入 日経クロステック（xTECH）...",
+            "【概要】3大クラウド、39項目徹底比較 - 日経クロステック（xTECH）",
+            "3大クラウド、39項目徹底比較 日経クロステック（xTECH）...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -118,16 +118,16 @@
       "description": "テスラの最新アップデート・EV・FSD・決算動向",
       "articles": [
         {
-          "id": "tesla_1791508866_1",
-          "title": "Tesla Model 3とModel Yは今、家の電力源になることができます - VOI.ID",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE13U0lfMDRBaGRmX1loc3EzTlBqRkZNdm96RTAxSVhWTk5CbktHRFpLc3o2S1JkTkdod0MxMmVVcy1Objgt0gFCQVVfeXFMTUxfcXhiNlRSQUpiaEc3dldnSjB3TUdDcFZBb3dTSDNjbFgyS210eEdNZkttNTlMNnF6YU9sZFhPbEZB?oc=5",
+          "id": "tesla_1791594544_1",
+          "title": "スペースXとテスラ株が上昇、イーロン・マスクが資産約158兆円の「トリリオネア」に返り咲き - Forbes JAPAN",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhLVJSV2QxY3A2LUtxZHJNeDlCZC1qeVVDVmpoZDBETlczRXJTQ1k3TFh0enFzNDFvdndOM0YybzVhNGY1bkd0MTN5MU5wRjN2N2hjYWxzN0NHZw?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-10-09 09:17",
-          "headline": "Tesla Model 3とModel Yは今、家の電力源になることができます ...",
+          "published_at": "2026-10-10 09:30",
+          "headline": "スペースXとテスラ株が上昇、イーロン・マスクが資産約158兆円の「トリリオネア」...",
           "summary": [
-            "【概要】Tesla Model 3とModel Yは今、家の電力源になることができます - VOI.ID",
-            "Tesla Model 3とModel Yは今、家の電力源になることができます VOI.ID...",
+            "【概要】スペースXとテスラ株が上昇、イーロン・マスクが資産約158兆円の「トリリオネア」に返り咲き - Forbes JAPAN",
+            "スペースXとテスラ株が上昇、イーロン・マスクが資産約158兆円の「トリリオネア」に返り咲き Forbes JAPAN...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -138,76 +138,16 @@
           "importance": 3
         },
         {
-          "id": "tesla_1791508866_2",
-          "title": "米国 ロボタクシーが救急車の邪魔をしたらテスラやWaymoに「罰金」の法律が施行 - 自動運転ラボ",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE81aWJ4Q2JHMlRBbW9EUXpFdW9MMjZhMUJJWGVjRTk5SXh3ZFFWazZ2cjl6ZUVGTHhSclNVTWlKM0xtM1ZIVl9HQg?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-10-09 07:03",
-          "headline": "米国 ロボタクシーが救急車の邪魔をしたらテスラやWaymoに「罰金」の法律が施行...",
-          "summary": [
-            "【概要】米国 ロボタクシーが救急車の邪魔をしたらテスラやWaymoに「罰金」の法律が施行 - 自動運転ラボ",
-            "米国 ロボタクシーが救急車の邪魔をしたらテスラやWaymoに「罰金」の法律が施行 自動運転ラボ...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "tesla_1791508866_3",
-          "title": "Tesla Will Sell More Robots Than Cars “Within Two Years,” Predicts Former Stability AI CEO - TIKR.com",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUGJrdUxOdHNyNU9RcW1NRmp3bFQ4b2NBR2ZySVRXbUpSMlNTWHlGa3hobFJVWGNadlo3LXBXRW04dzJRX2wwcnNqaTFwcUphV2RIZFc1TV9EZE40QjhoYnZBWmd1NXFObG5oRlNTaWw4akFvZVYwaGd1MzNRYWlZbUI2M1huQmxIWDBaZkpZZ0VCaGZYcl9YNHJwOGhiNzhFYmVmeVQwa0hUdVRSUlNnUE80Uks5aEk?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-10-09 05:48",
-          "headline": "Tesla Will Sell More Robots Than Cars “W...",
-          "summary": [
-            "【概要】Tesla Will Sell More Robots Than Cars “Within Two Years,” Predicts Former Stability AI CEO - TIKR.com",
-            "Tesla Will Sell More Robots Than Cars “Within Two Years,” Pr...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "tesla_1791508866_4",
-          "title": "編集者の視点「テスラが樹脂製外板の製法特許を公開」 - 日本経済新聞",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM3VuU2hROTZBTEFobjZYOUVwdkQ4a0RJRkx3S0VhRU1naGlIeER2OEl1c0JfUEtZN3MzN2hLVGNaSmVwbUUya3FTLVF2SFlQdE9xdnp4N3ZxdzZkTWlEZ2J1amlzSzN1SGk2b21YQ2ZfWThjcTBFcWR1cUllTzMyd1JPUEUyR3M?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-10-09 05:00",
-          "headline": "編集者の視点「テスラが樹脂製外板の製法特許を公開」 - 日本経済新聞",
-          "summary": [
-            "【概要】編集者の視点「テスラが樹脂製外板の製法特許を公開」 - 日本経済新聞",
-            "編集者の視点「テスラが樹脂製外板の製法特許を公開」 日本経済新聞...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "tesla_1791508866_5",
-          "title": "Tesla files permit for Semi service center in Las Vegas as ramp begins",
-          "link": "https://electrek.co/2026/10/08/tesla-semi-service-center-las-vegas-permit/",
+          "id": "tesla_1791594544_2",
+          "title": "Tesla’s next big clean energy source is rising in the Arizona desert",
+          "link": "https://electrek.co/2026/10/09/teslas-next-big-clean-energy-source-is-rising-in-the-arizona-desert/",
           "source": "Electrek (Tesla)",
           "is_official": true,
-          "published_at": "2026-10-09 00:20",
-          "headline": "Tesla files permit for Semi service cent...",
+          "published_at": "2026-10-10 09:05",
+          "headline": "Tesla’s next big clean energy source is ...",
           "summary": [
-            "【概要】Tesla files permit for Semi service center in Las Vegas as ramp begins",
-            "Tesla is preparing a dedicated Tesla Semi service center in ...",
+            "【概要】Tesla’s next big clean energy source is rising in the Arizona desert",
+            "A 450-megawatt (MW) solar farm with a massive battery system...",
             "情報提供元: Electrek (Tesla)"
           ],
           "key_points": [
@@ -216,6 +156,66 @@
           ],
           "badge": "注目",
           "importance": 4
+        },
+        {
+          "id": "tesla_1791594544_3",
+          "title": "テスラ「夜の猫」に苦労！ロボタクシー24時間営業に壁 - 自動運転ラボ",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE84SDBPcUhYblZ0My15Rno5MUxRMFdWN1RHOEVENHI2cXdDc05LTkRxTjJfSHJLVUxkZlkzV0pXYkp5RW8zZUNOdA?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-10-10 07:09",
+          "headline": "テスラ「夜の猫」に苦労！ロボタクシー24時間営業に壁 - 自動運転ラボ",
+          "summary": [
+            "【概要】テスラ「夜の猫」に苦労！ロボタクシー24時間営業に壁 - 自動運転ラボ",
+            "テスラ「夜の猫」に苦労！ロボタクシー24時間営業に壁 自動運転ラボ...",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "tesla_1791594544_4",
+          "title": "Tesla drops ‘Full Self-Driving’ name in Europe after Germany pushback",
+          "link": "https://electrek.co/2026/10/09/tesla-fsd-renamed-tesla-assisted-driving-europe/",
+          "source": "Electrek (Tesla)",
+          "is_official": true,
+          "published_at": "2026-10-10 00:16",
+          "headline": "Tesla drops ‘Full Self-Driving’ name in ...",
+          "summary": [
+            "【概要】Tesla drops ‘Full Self-Driving’ name in Europe after Germany pushback",
+            "Tesla’s driver-assistance package is now called “Tesla Assis...",
+            "情報提供元: Electrek (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 4
+        },
+        {
+          "id": "tesla_1791594544_5",
+          "title": "テスラ、欧州で「FSD」名称を放棄 「テスラ・アシスティッド・ドライビング」に変更し規制当局の承認狙う - BigGo ファイナンス",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50U2ZadWtDVlBJX0NVMDdGdFpFWHU3aEVmVS1JV2VIVDNFR0xpMnNib0dhZzJ4TGpZeDVNOXBhbTZpNUlQaV9yWjVZTWFncWVzdm5FalRqeWQ2N09TQ193NDByRTZic0J2TmVVN0Q5d2EzakZX?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-10-10 00:06",
+          "headline": "テスラ、欧州で「FSD」名称を放棄 「テスラ・アシスティッド・ドライビング」に変...",
+          "summary": [
+            "【概要】テスラ、欧州で「FSD」名称を放棄 「テスラ・アシスティッド・ドライビング」に変更し規制当局の承認狙う - BigGo ファイナンス",
+            "テスラ、欧州で「FSD」名称を放棄 「テスラ・アシスティッド・ドライビング」に変更し規制当局の承認狙う BigGo ファ...",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
         }
       ]
     },
@@ -226,16 +226,16 @@
       "description": "OpenAI・Google・生成AIの公式発表・技術速報",
       "articles": [
         {
-          "id": "ai_1791508867_1",
-          "title": "GoogleもパーソナルAI「Gemini Agent」を発表 - 株式会社エクサウィザーズ",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hV3FfeG41LXVvcEhqd2tnc0VfT1RyMkoyNzdDb3daUXFwVG1Ka0hwaTNUTkxKam14RkV5VG1WUGRUeWVyV00zR0Q3OHMxNXcwYnYyN1E4cHVMYmpfUk43Y2psakpvQQ?oc=5",
+          "id": "ai_1791594545_1",
+          "title": "中国はAI開発を減速しない SemiAnalysisが安全政策と主要9社を調査 - 株式会社エクサウィザーズ",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUVEIyN1FwMWtJYm9RbWtzZ0gta1pKVXo2NkprVEpXYkNjc3AwWF80TXJfU2RmZEJUQnNaRFhPR0dzR1dzZXFHeHhXWkFQaklycVBqT3otaldEdVBNRzN3ZjB2cGZ1V1ZF?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-09 09:33",
-          "headline": "GoogleもパーソナルAI「Gemini Agent」を発表 - 株式会社エク...",
+          "published_at": "2026-10-10 08:30",
+          "headline": "中国はAI開発を減速しない SemiAnalysisが安全政策と主要9社を調査 ...",
           "summary": [
-            "【概要】GoogleもパーソナルAI「Gemini Agent」を発表 - 株式会社エクサウィザーズ",
-            "GoogleもパーソナルAI「Gemini Agent」を発表 株式会社エクサウィザーズ...",
+            "【概要】中国はAI開発を減速しない SemiAnalysisが安全政策と主要9社を調査 - 株式会社エクサウィザーズ",
+            "中国はAI開発を減速しない SemiAnalysisが安全政策と主要9社を調査 株式会社エクサウィザーズ...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -246,16 +246,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1791508867_2",
-          "title": "オープンＡＩ年換算売上高、従来報道を200億ドル下回る ＦＴ報道 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBLX1ppRXVBRVpxYUJNM1lQWHAwNDFmZDFSbWZFcjVrcnVEUWlHclE4cThjTUpDTzVGeTNXeU5DY3lyMnhPUHd2ekVMRHNtNzlGejlCX29BcFJGSEthbU9CN21PRnh5aDk2a1lCOFN4X1FRdFhLTC1PQ3JxUWVPQQ?oc=5",
+          "id": "ai_1791594545_2",
+          "title": "利用率約80％・年間約5.5万時間の作業時間削減に至った 「生成AI全社定着」推進の舞台裏 - 株式会社 日立ソリューションズ・クリエイト",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPM0R3VjZFR013cTNJUmgtNXNuQ291akhjakswdzdlSlRCbEJXWnJ3WGRxd2FfREV2VXNoWDdEeVJiMEhYcU9SdVE1UVkxSU4tR251c3V4aTB3MDJzVG91c2pzVm9VSlNnemFVQkwzQ0pyN2F4UkkzQk9GWjhScXFXVEpNZWZEbWpWZlE?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-09 08:03",
-          "headline": "オープンＡＩ年換算売上高、従来報道を200億ドル下回る ＦＴ報道 - Reute...",
+          "published_at": "2026-10-10 06:00",
+          "headline": "利用率約80％・年間約5.5万時間の作業時間削減に至った 「生成AI全社定着」推...",
           "summary": [
-            "【概要】オープンＡＩ年換算売上高、従来報道を200億ドル下回る ＦＴ報道 - Reuters",
-            "オープンＡＩ年換算売上高、従来報道を200億ドル下回る ＦＴ報道 Reuters...",
+            "【概要】利用率約80％・年間約5.5万時間の作業時間削減に至った 「生成AI全社定着」推進の舞台裏 - 株式会社 日立ソリューションズ・クリエイト",
+            "利用率約80％・年間約5.5万時間の作業時間削減に至った 「生成AI全社定着」推進の舞台裏 株式会社 日立ソリューション...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -266,16 +266,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1791508867_3",
-          "title": "AIエージェントが職場に押し寄せる。だが、人間はまだ準備ができていない - WIRED.jp",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLWphclVhYnRTZU1QNEJRclRNeEduenpOWHpzS01yZFJiM1gtcWpJQ1hQb2YwcV9QYXdrckd5eTBlUm80dzBuSGh4MS1HX29EWGdZaWNhUkk1RkZoeW12SW5FbVZ4eWplUFFmR3BzVndUQTZqSFJTdGRyZ0ZpcjRGOXpHeWFqWlcwVjZseHVBaW1CYlU?oc=5",
+          "id": "ai_1791594545_3",
+          "title": "米アンソロピックのＡＩモデル、虚偽の殺人情報を警察サイトに送信 - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzOGktRmhwQmxkX2lwWFB3RXBvZWY5SUJBUjc2VWx3S0FIc0l4RTdRU3pVU21DMVBvWDZjc1pfbUxjVFZuckR2MHA2UWtvdFliT1lCWTFUNE5mR3JhYmI3TkJGZ29GOVRISHpVcWFwa0I4bVFNcHF6R1RMRGxFOWM?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-09 08:00",
-          "headline": "AIエージェントが職場に押し寄せる。だが、人間はまだ準備ができていない - WI...",
+          "published_at": "2026-10-10 05:07",
+          "headline": "米アンソロピックのＡＩモデル、虚偽の殺人情報を警察サイトに送信 - Reuter...",
           "summary": [
-            "【概要】AIエージェントが職場に押し寄せる。だが、人間はまだ準備ができていない - WIRED.jp",
-            "AIエージェントが職場に押し寄せる。だが、人間はまだ準備ができていない WIRED.jp...",
+            "【概要】米アンソロピックのＡＩモデル、虚偽の殺人情報を警察サイトに送信 - Reuters",
+            "米アンソロピックのＡＩモデル、虚偽の殺人情報を警察サイトに送信 Reuters...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -286,16 +286,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1791508867_4",
-          "title": "韓国金融当局「AI攻撃はAIで防御」…相次ぐハッキングでネットワーク分離規制の緩和検討（KOREA WAVE） - Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yTlVPMi1FRzd0UGlEMC1RcHlnSXphcTRTM0FFQ2pNb0pma3JBX0lUUVVVc2tCM1ZiY0hfczVRaVg5LWZmamlWdnpIbjVOczMzRHE4c2Foa1Vhcms5UkJoSGhsQ1Z0d2xCa2huTXhZb05CbWItSEFFLURHczFGVVk?oc=5",
+          "id": "ai_1791594545_4",
+          "title": "Google､業務用エージェント開発もAIで自動化 導入しやすく - 日本経済新聞",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwLTU1bzBtNXJsY296Zkk0MXQtTU1kT2NVWVVlcE5FNVhzeDBwUWxWNThKcUppdVR5Z1NiX0VUOTdlRFNWZFpreTYxbXRTTGNsaGt2RjRacWh2cHNDdGFMNzZiT2U3djZQb1hlUA?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-09 07:32",
-          "headline": "韓国金融当局「AI攻撃はAIで防御」…相次ぐハッキングでネットワーク分離規制の緩...",
+          "published_at": "2026-10-10 04:48",
+          "headline": "Google､業務用エージェント開発もAIで自動化 導入しやすく - 日本経済新...",
           "summary": [
-            "【概要】韓国金融当局「AI攻撃はAIで防御」…相次ぐハッキングでネットワーク分離規制の緩和検討（KOREA WAVE） - Yahoo!ニュース",
-            "韓国金融当局「AI攻撃はAIで防御」…相次ぐハッキングでネットワーク分離規制の緩和検討（KOREA WAVE） Yaho...",
+            "【概要】Google､業務用エージェント開発もAIで自動化 導入しやすく - 日本経済新聞",
+            "Google､業務用エージェント開発もAIで自動化 導入しやすく 日本経済新聞...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -306,16 +306,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1791508867_5",
-          "title": "声優などの団体 声の生成AIガイドライン初作成“事前許諾を” - NHKニュース",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WNjVwMjluckxUVUplWUlqc0hjSmZDeFZKdDJicnlfSEt3MFZzbjlIZVZqN3ZyNjFxX1VYUldrd2tPWlRVSEhWTVZWNjV1M0J1Y2lnUy1ocXRJbm9WYV80?oc=5",
+          "id": "ai_1791594545_5",
+          "title": "大学教授がAI使い著書に誤り 絶版 - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAwRU9CWFlyLTBNWDJqeVRFcjBiQVhvbmJPbnVZOS1MQWpsazR1dFFSWlVPck1ZczVjUmU5Tm1XTmxwTUtuVjE4X3F4aGI1SEdY?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-09 05:13",
-          "headline": "声優などの団体 声の生成AIガイドライン初作成“事前許諾を” - NHKニュース",
+          "published_at": "2026-10-09 18:44",
+          "headline": "大学教授がAI使い著書に誤り 絶版 - Yahoo!ニュース",
           "summary": [
-            "【概要】声優などの団体 声の生成AIガイドライン初作成“事前許諾を” - NHKニュース",
-            "声優などの団体 声の生成AIガイドライン初作成“事前許諾を” NHKニュース...",
+            "【概要】大学教授がAI使い著書に誤り 絶版 - Yahoo!ニュース",
+            "大学教授がAI使い著書に誤り 絶版 Yahoo!ニュース...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
