@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026年10月10日 10:09",
-  "updated_at_iso": "2026-10-10T10:09:03.053873+09:00",
+  "updated_at": "2026年10月11日 09:23",
+  "updated_at_iso": "2026-10-11T09:23:18.771667+09:00",
   "model_used": "mock-mode",
   "categories": [
     {
@@ -10,16 +10,16 @@
       "description": "Microsoft Azureの公式発表・最新クラウド動向",
       "articles": [
         {
-          "id": "azure_1791594543_1",
-          "title": "ヘッドウォータース、「AI Platform on Microsoft Azure」Specializationを更新 - ニコニコニュース",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5URVVrZURNZS1RSkxzN1VxLU5LbkVfZlhSMFoybVJXY2Fqd0pGZ0hFZHBONF9VVFRXRjMwV0l4UWlqR25uT1hvdVFza0dPSGExaVRpWFp3LU1WN0JEWXpsd2hkMlpPWE1vdzlLODZBT0VCSmRSMklqMUw5SQ?oc=5",
+          "id": "azure_1791678199_1",
+          "title": "Anthropicが小型AIモデル「Claude Haiku 5.5」を発表／Mistral AIが大規模言語モデル「Mistral Large 4」を公開：週末の「気になるニュース」一気読み！（1/3 ページ） - ITmedia PC USER - ITmedia",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKYVJHN1FiMXgtSDBUVGN1ZTB6LVJTZXNWakpjNU0xWG5DYTFSQWR1ZHNCdlpRWVBiZ1lteE5hZ1ZKVWpCa1NidEtsaEMxUXEwX1BULVdCbWZvS3FhSmhPd2tmV19mUmxU0gFoQVVfeXFMUEphUkc3UWIxeC1IMFRUY3VlMHotUlNlc1ZqSmM1TTFYbkNhMVJBZHVkc0J2WlFZUGJnWW14TmFnVkpVakJrU2J0S2xoQzFRcTBfUFQtV0JtZm9LcWFKaE93a2ZXX2ZSbFQ?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-10-09 18:21",
-          "headline": "ヘッドウォータース、「AI Platform on Microsoft Azur...",
+          "published_at": "2026-10-11 06:00",
+          "headline": "Anthropicが小型AIモデル「Claude Haiku 5.5」を発表／M...",
           "summary": [
-            "【概要】ヘッドウォータース、「AI Platform on Microsoft Azure」Specializationを更新 - ニコニコニュース",
-            "ヘッドウォータース、「AI Platform on Microsoft Azure」Specializationを更新 ...",
+            "【概要】Anthropicが小型AIモデル「Claude Haiku 5.5」を発表／Mistral AIが大規模言語モデル「Mistral Large 4」を公開：週末の「気になるニュース」一気読み！（1/3 ページ） - ITmedia PC USER - ITmedia",
+            "Anthropicが小型AIモデル「Claude Haiku 5.5」を発表／Mistral AIが大規模言語モデル「M...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -30,7 +30,7 @@
           "importance": 3
         },
         {
-          "id": "azure_1791594543_2",
+          "id": "azure_1791678199_2",
           "title": "「Microsoft Dev Box」が2028年9月18日に終了へ ～移行先は「Windows 365」 - 窓の杜",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzTUZ5amNCOFJiT29GamRZQzZIVjYwc3BfUHM2dVNlSVVxZ2JzdGdSOS11WTRRVkhJWTZ4bWtQQ2tFa2lqd1ZMbVgtQTJJSGd5RlAtbDhSZkdySFN2NHZ1NTNRbEVPd3NP?oc=5",
           "source": "Google News (Azure)",
@@ -50,7 +50,7 @@
           "importance": 3
         },
         {
-          "id": "azure_1791594543_3",
+          "id": "azure_1791678199_3",
           "title": "ヘッドウォータース、AI Platform on Microsoft AzureのSpecializationを新たに更新した成果 - ニュースメディアVOIX",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ma2xxQmRQSkxwQUhNVjNOb0F5Z2wtMk1lR01BNjd4VFlUSUxvbUhoM0VJR1AwRlhWalhLcUtsMjZGb3VpYWRUTlBJbkx2YThoNzF0Yi1pZWxOcmxMQmFEWmdRdTBSa3B6bnJv?oc=5",
           "source": "Google News (Azure)",
@@ -70,16 +70,16 @@
           "importance": 3
         },
         {
-          "id": "azure_1791594543_4",
-          "title": "ハイブリッド インテリジェンスを実現する Windows - Microsoft Source",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQnVKRzJkOHJRQVpNZjcwRURpRHJyaVdYN1d6VFk3QkxfZTZCSEc0V21KS3JwZ0VYamZSU3lCR3FyQVpWaFFxazlBY0ZVaGFuMm1PYUJETEVWYkpSZ0x1ekRvRkpHWW54SG05TjAtVHF0NGJiQkVSZFVkeVAxbkZQZTFiUmg3YW1wNVlhSFE5T2ZpUHBHX2wyRUdvU1puQQ?oc=5",
+          "id": "azure_1791678199_4",
+          "title": "「Microsoft Playwright Workspaces」でE2Eテストの課題を解決 (1/3) - CodeZine",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pTjlVcWxSN0ZNN2lzeklLMzQwTHpIMmJndnVKc3RWN1JJSlRiVGRHWVAyczFWU0VBN0RuRlVLSVJ1eTcyR3RkNDdfZ2VGSWMxT2c?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-10-08 19:33",
-          "headline": "ハイブリッド インテリジェンスを実現する Windows - Microsoft...",
+          "published_at": "2026-10-09 16:00",
+          "headline": "「Microsoft Playwright Workspaces」でE2Eテスト...",
           "summary": [
-            "【概要】ハイブリッド インテリジェンスを実現する Windows - Microsoft Source",
-            "ハイブリッド インテリジェンスを実現する Windows Microsoft Source...",
+            "【概要】「Microsoft Playwright Workspaces」でE2Eテストの課題を解決 (1/3) - CodeZine",
+            "「Microsoft Playwright Workspaces」でE2Eテストの課題を解決 (1/3) CodeZin...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -90,16 +90,16 @@
           "importance": 3
         },
         {
-          "id": "azure_1791594543_5",
-          "title": "3大クラウド、39項目徹底比較 - 日経クロステック（xTECH）",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQR2wtTkF4UHJXLUJJOXowdFNyelZGblVhcXljcXktU2JBOGtHUktlV2dsRFlCMlMzanktU0JNRWN6c05IeFUzckVpYXBpOXdUVS1LTFFGM1dGdzZGd084MXRvbTQ1NEVOVGFzUGFrc2FIZjhCaTZhNVNSd2F5VkNwNV9Gd1ZqUFV0bF9vNWpIUW5Cd2N3OFZGVHVjQkVuUWdmMkg3SVd4WnJ2cXY4ZHRwYVJwZy1HZXFMZHVoT2hFOU1xNVdiYzdQODVrMy00Zw?oc=5",
+          "id": "azure_1791678199_5",
+          "title": "ハイブリッド インテリジェンスを実現する Windows - Microsoft Source",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQnVKRzJkOHJRQVpNZjcwRURpRHJyaVdYN1d6VFk3QkxfZTZCSEc0V21KS3JwZ0VYamZSU3lCR3FyQVpWaFFxazlBY0ZVaGFuMm1PYUJETEVWYkpSZ0x1ekRvRkpHWW54SG05TjAtVHF0NGJiQkVSZFVkeVAxbkZQZTFiUmg3YW1wNVlhSFE5T2ZpUHBHX2wyRUdvU1puQQ?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-10-08 12:53",
-          "headline": "3大クラウド、39項目徹底比較 - 日経クロステック（xTECH）",
+          "published_at": "2026-10-08 19:33",
+          "headline": "ハイブリッド インテリジェンスを実現する Windows - Microsoft...",
           "summary": [
-            "【概要】3大クラウド、39項目徹底比較 - 日経クロステック（xTECH）",
-            "3大クラウド、39項目徹底比較 日経クロステック（xTECH）...",
+            "【概要】ハイブリッド インテリジェンスを実現する Windows - Microsoft Source",
+            "ハイブリッド インテリジェンスを実現する Windows Microsoft Source...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -118,16 +118,16 @@
       "description": "テスラの最新アップデート・EV・FSD・決算動向",
       "articles": [
         {
-          "id": "tesla_1791594544_1",
-          "title": "スペースXとテスラ株が上昇、イーロン・マスクが資産約158兆円の「トリリオネア」に返り咲き - Forbes JAPAN",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhLVJSV2QxY3A2LUtxZHJNeDlCZC1qeVVDVmpoZDBETlczRXJTQ1k3TFh0enFzNDFvdndOM0YybzVhNGY1bkd0MTN5MU5wRjN2N2hjYWxzN0NHZw?oc=5",
+          "id": "tesla_1791678199_1",
+          "title": "アップルとテスラの人工知能：どちらがより多くの費用を負担し、どちらがより多くの利益を得るのか？ - آي-فون إسلام",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSHlIRy1fVDc0eW45NGlieExYY2cwanpORDFINGFfS3MyT05ydDAzTTR0LUNmWkZfSEZaYU9ucXdrWF9aNXkyZ2thbTI0M3RuOVh4ZjRQc1lSeTdGd3h6ZUJqaVFPUWNCY2NVM2xOM3dMSzViVm1JOUVLdUN4V0IyY3NFSGlkeWlVMG1vckdqYTliYnpmbHlxWkJfQXUyN0t5MXVFNEEwWWh5VmdZYjZ0R1V6aUQzcHc0Rk5uaw?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-10-10 09:30",
-          "headline": "スペースXとテスラ株が上昇、イーロン・マスクが資産約158兆円の「トリリオネア」...",
+          "published_at": "2026-10-11 03:56",
+          "headline": "アップルとテスラの人工知能：どちらがより多くの費用を負担し、どちらがより多くの利...",
           "summary": [
-            "【概要】スペースXとテスラ株が上昇、イーロン・マスクが資産約158兆円の「トリリオネア」に返り咲き - Forbes JAPAN",
-            "スペースXとテスラ株が上昇、イーロン・マスクが資産約158兆円の「トリリオネア」に返り咲き Forbes JAPAN...",
+            "【概要】アップルとテスラの人工知能：どちらがより多くの費用を負担し、どちらがより多くの利益を得るのか？ - آي-فون إسلام",
+            "アップルとテスラの人工知能：どちらがより多くの費用を負担し、どちらがより多くの利益を得るのか？ آي-فون إسلام...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -138,76 +138,76 @@
           "importance": 3
         },
         {
-          "id": "tesla_1791594544_2",
-          "title": "Tesla’s next big clean energy source is rising in the Arizona desert",
-          "link": "https://electrek.co/2026/10/09/teslas-next-big-clean-energy-source-is-rising-in-the-arizona-desert/",
-          "source": "Electrek (Tesla)",
-          "is_official": true,
-          "published_at": "2026-10-10 09:05",
-          "headline": "Tesla’s next big clean energy source is ...",
+          "id": "tesla_1791678199_2",
+          "title": "テスラ・スペースXの半導体製造構想「Terafab」、インテルは協力継続、TSMCは一部借り受け案 - 財経新聞",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42TmdGZkVtWVpVSzJoMW8tSUhabFB0YnBBbXF3V3k1NFd4UDZ6aWg0TkQ5Wmo0UmpZVVFNRC01RWhUdlZIcE1hVGthQlNaXzNjNVZ2SnFYb1FPc2dadFdSaXRpM19KRWVD0gFoQVVfeXFMTjZOZ0ZmRW1ZWlVLMmgxby1JSFpsUHRicEFtcXdXeTU0V3hQNnppaDRORDlaajRSallVUU1ELTVFaFR2VkhwTWFUa2FCU1pfM2M1VnZKcVhvUU9zZ1p0V1JpdGkzX0pFZUM?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-10-10 21:58",
+          "headline": "テスラ・スペースXの半導体製造構想「Terafab」、インテルは協力継続、TSM...",
           "summary": [
-            "【概要】Tesla’s next big clean energy source is rising in the Arizona desert",
-            "A 450-megawatt (MW) solar farm with a massive battery system...",
-            "情報提供元: Electrek (Tesla)"
+            "【概要】テスラ・スペースXの半導体製造構想「Terafab」、インテルは協力継続、TSMCは一部借り受け案 - 財経新聞",
+            "テスラ・スペースXの半導体製造構想「Terafab」、インテルは協力継続、TSMCは一部借り受け案 財経新聞...",
+            "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
             "最新の公式・主要発表",
             "詳細は元記事リンクから確認可能"
           ],
           "badge": "注目",
-          "importance": 4
+          "importance": 3
         },
         {
-          "id": "tesla_1791594544_3",
+          "id": "tesla_1791678199_3",
+          "title": "大破したテスラ車 米で高騰の理由 - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5GQTdsbmdsSmRTV2VNYzRqZk90WU9RSHVtOWVXNl9salF2R3RkS3Rnelo1X3o3Z1VhaWRNalJjSnFCOGMtTlBTeGc4dHhWYllJ?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-10-10 18:39",
+          "headline": "大破したテスラ車 米で高騰の理由 - Yahoo!ニュース",
+          "summary": [
+            "【概要】大破したテスラ車 米で高騰の理由 - Yahoo!ニュース",
+            "大破したテスラ車 米で高騰の理由 Yahoo!ニュース...",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "tesla_1791678199_4",
+          "title": "Tesla Drops “Full Self-Driving” in Europe, Where Its Revenue Fell 10% Last Year - TIKR.com",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdUxEaWlzZkh2SXJUNldmaTVwdnFmVWY2YXNGU0tRZTV2T3Y4YUdKQ3N0LVhMVHpELXE4aUxyZ1BQcmZlOVV0UFkzRExjSWlzMV9ib1c0UVRMQVRQZzlvNnhjZjFEN2JOOEdNb21BdWZuckZIMVAxVVB5aE44TFl5NW9MczZaQU93bWFNbDF0M05pd19IQW9YamRBRFRCMlZkanZ0ZUJ1S2E?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-10-10 17:35",
+          "headline": "Tesla Drops “Full Self-Driving” in Europ...",
+          "summary": [
+            "【概要】Tesla Drops “Full Self-Driving” in Europe, Where Its Revenue Fell 10% Last Year - TIKR.com",
+            "Tesla Drops “Full Self-Driving” in Europe, Where Its Revenue...",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "tesla_1791678199_5",
           "title": "テスラ「夜の猫」に苦労！ロボタクシー24時間営業に壁 - 自動運転ラボ",
           "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE84SDBPcUhYblZ0My15Rno5MUxRMFdWN1RHOEVENHI2cXdDc05LTkRxTjJfSHJLVUxkZlkzV0pXYkp5RW8zZUNOdA?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-10-10 07:09",
+          "published_at": "2026-10-10 16:05",
           "headline": "テスラ「夜の猫」に苦労！ロボタクシー24時間営業に壁 - 自動運転ラボ",
           "summary": [
             "【概要】テスラ「夜の猫」に苦労！ロボタクシー24時間営業に壁 - 自動運転ラボ",
             "テスラ「夜の猫」に苦労！ロボタクシー24時間営業に壁 自動運転ラボ...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "tesla_1791594544_4",
-          "title": "Tesla drops ‘Full Self-Driving’ name in Europe after Germany pushback",
-          "link": "https://electrek.co/2026/10/09/tesla-fsd-renamed-tesla-assisted-driving-europe/",
-          "source": "Electrek (Tesla)",
-          "is_official": true,
-          "published_at": "2026-10-10 00:16",
-          "headline": "Tesla drops ‘Full Self-Driving’ name in ...",
-          "summary": [
-            "【概要】Tesla drops ‘Full Self-Driving’ name in Europe after Germany pushback",
-            "Tesla’s driver-assistance package is now called “Tesla Assis...",
-            "情報提供元: Electrek (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 4
-        },
-        {
-          "id": "tesla_1791594544_5",
-          "title": "テスラ、欧州で「FSD」名称を放棄 「テスラ・アシスティッド・ドライビング」に変更し規制当局の承認狙う - BigGo ファイナンス",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50U2ZadWtDVlBJX0NVMDdGdFpFWHU3aEVmVS1JV2VIVDNFR0xpMnNib0dhZzJ4TGpZeDVNOXBhbTZpNUlQaV9yWjVZTWFncWVzdm5FalRqeWQ2N09TQ193NDByRTZic0J2TmVVN0Q5d2EzakZX?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-10-10 00:06",
-          "headline": "テスラ、欧州で「FSD」名称を放棄 「テスラ・アシスティッド・ドライビング」に変...",
-          "summary": [
-            "【概要】テスラ、欧州で「FSD」名称を放棄 「テスラ・アシスティッド・ドライビング」に変更し規制当局の承認狙う - BigGo ファイナンス",
-            "テスラ、欧州で「FSD」名称を放棄 「テスラ・アシスティッド・ドライビング」に変更し規制当局の承認狙う BigGo ファ...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -226,16 +226,16 @@
       "description": "OpenAI・Google・生成AIの公式発表・技術速報",
       "articles": [
         {
-          "id": "ai_1791594545_1",
-          "title": "中国はAI開発を減速しない SemiAnalysisが安全政策と主要9社を調査 - 株式会社エクサウィザーズ",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUVEIyN1FwMWtJYm9RbWtzZ0gta1pKVXo2NkprVEpXYkNjc3AwWF80TXJfU2RmZEJUQnNaRFhPR0dzR1dzZXFHeHhXWkFQaklycVBqT3otaldEdVBNRzN3ZjB2cGZ1V1ZF?oc=5",
+          "id": "ai_1791678201_1",
+          "title": "「スター技術者」の米国 vs「チーム戦」の中国——米研究者が明かした中国AI強さの真相 - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeGs1Si1RUFVNXzQ2R3F0U3lKdGtLSTN0LUZTX1VFMTZHWTVhemxWOXZHMzYzaFhTUUtrTllrM2dRQXQ5dGlicDFZY1dfWGhTbHdQdzlHOFBTdzZob2pGbDRyZExibkJURTZTVHh4T0V2cEQ1eWc0bHY1bU16WFhmWXlmYmpYNUpScHNSZWl3?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-10 08:30",
-          "headline": "中国はAI開発を減速しない SemiAnalysisが安全政策と主要9社を調査 ...",
+          "published_at": "2026-10-11 08:41",
+          "headline": "「スター技術者」の米国 vs「チーム戦」の中国——米研究者が明かした中国AI強さ...",
           "summary": [
-            "【概要】中国はAI開発を減速しない SemiAnalysisが安全政策と主要9社を調査 - 株式会社エクサウィザーズ",
-            "中国はAI開発を減速しない SemiAnalysisが安全政策と主要9社を調査 株式会社エクサウィザーズ...",
+            "【概要】「スター技術者」の米国 vs「チーム戦」の中国——米研究者が明かした中国AI強さの真相 - Yahoo!ニュース",
+            "「スター技術者」の米国 vs「チーム戦」の中国——米研究者が明かした中国AI強さの真相 Yahoo!ニュース...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -246,16 +246,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1791594545_2",
-          "title": "利用率約80％・年間約5.5万時間の作業時間削減に至った 「生成AI全社定着」推進の舞台裏 - 株式会社 日立ソリューションズ・クリエイト",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPM0R3VjZFR013cTNJUmgtNXNuQ291akhjakswdzdlSlRCbEJXWnJ3WGRxd2FfREV2VXNoWDdEeVJiMEhYcU9SdVE1UVkxSU4tR251c3V4aTB3MDJzVG91c2pzVm9VSlNnemFVQkwzQ0pyN2F4UkkzQk9GWjhScXFXVEpNZWZEbWpWZlE?oc=5",
+          "id": "ai_1791678201_2",
+          "title": "AIは国家戦略の要に､動き出した｢国産AI｣関連注目の16銘柄 - 四季報オンライン",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9JOEd5LXo2Q0k1Yk1OblA2ci04bWJvLWNweFM5VEpWajdnV1V5anRTQnVPY2FUOEFraWRoUnIzVXZWWE5yZnZOVm1sVWZjb1VtbjhhSVUzOA?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-10 06:00",
-          "headline": "利用率約80％・年間約5.5万時間の作業時間削減に至った 「生成AI全社定着」推...",
+          "published_at": "2026-10-11 07:00",
+          "headline": "AIは国家戦略の要に､動き出した｢国産AI｣関連注目の16銘柄 - 四季報オンラ...",
           "summary": [
-            "【概要】利用率約80％・年間約5.5万時間の作業時間削減に至った 「生成AI全社定着」推進の舞台裏 - 株式会社 日立ソリューションズ・クリエイト",
-            "利用率約80％・年間約5.5万時間の作業時間削減に至った 「生成AI全社定着」推進の舞台裏 株式会社 日立ソリューション...",
+            "【概要】AIは国家戦略の要に､動き出した｢国産AI｣関連注目の16銘柄 - 四季報オンライン",
+            "AIは国家戦略の要に､動き出した｢国産AI｣関連注目の16銘柄 四季報オンライン...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -266,16 +266,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1791594545_3",
-          "title": "米アンソロピックのＡＩモデル、虚偽の殺人情報を警察サイトに送信 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzOGktRmhwQmxkX2lwWFB3RXBvZWY5SUJBUjc2VWx3S0FIc0l4RTdRU3pVU21DMVBvWDZjc1pfbUxjVFZuckR2MHA2UWtvdFliT1lCWTFUNE5mR3JhYmI3TkJGZ29GOVRISHpVcWFwa0I4bVFNcHF6R1RMRGxFOWM?oc=5",
+          "id": "ai_1791678201_3",
+          "title": "Anthropicが小型AIモデル「Claude Haiku 5.5」を発表／Mistral AIが大規模言語モデル「Mistral Large 4」を公開：週末の「気になるニュース」一気読み！（1/3 ページ） - ITmedia PC USER - ITmedia",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKYVJHN1FiMXgtSDBUVGN1ZTB6LVJTZXNWakpjNU0xWG5DYTFSQWR1ZHNCdlpRWVBiZ1lteE5hZ1ZKVWpCa1NidEtsaEMxUXEwX1BULVdCbWZvS3FhSmhPd2tmV19mUmxU0gFoQVVfeXFMUEphUkc3UWIxeC1IMFRUY3VlMHotUlNlc1ZqSmM1TTFYbkNhMVJBZHVkc0J2WlFZUGJnWW14TmFnVkpVakJrU2J0S2xoQzFRcTBfUFQtV0JtZm9LcWFKaE93a2ZXX2ZSbFQ?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-10 05:07",
-          "headline": "米アンソロピックのＡＩモデル、虚偽の殺人情報を警察サイトに送信 - Reuter...",
+          "published_at": "2026-10-11 06:00",
+          "headline": "Anthropicが小型AIモデル「Claude Haiku 5.5」を発表／M...",
           "summary": [
-            "【概要】米アンソロピックのＡＩモデル、虚偽の殺人情報を警察サイトに送信 - Reuters",
-            "米アンソロピックのＡＩモデル、虚偽の殺人情報を警察サイトに送信 Reuters...",
+            "【概要】Anthropicが小型AIモデル「Claude Haiku 5.5」を発表／Mistral AIが大規模言語モデル「Mistral Large 4」を公開：週末の「気になるニュース」一気読み！（1/3 ページ） - ITmedia PC USER - ITmedia",
+            "Anthropicが小型AIモデル「Claude Haiku 5.5」を発表／Mistral AIが大規模言語モデル「M...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -286,16 +286,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1791594545_4",
-          "title": "Google､業務用エージェント開発もAIで自動化 導入しやすく - 日本経済新聞",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwLTU1bzBtNXJsY296Zkk0MXQtTU1kT2NVWVVlcE5FNVhzeDBwUWxWNThKcUppdVR5Z1NiX0VUOTdlRFNWZFpreTYxbXRTTGNsaGt2RjRacWh2cHNDdGFMNzZiT2U3djZQb1hlUA?oc=5",
+          "id": "ai_1791678201_4",
+          "title": "社説＞日銀短観／ＡＩと価格転嫁が効いた |オピニオン - 神戸新聞",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xTkU2RVB4b2lieHppT1NLNU5YTXZtZmttV29SS2FBWGJDRkJvN0l5Rm9Gc2tjMmJtUk9PT25YaFNZT1FTalQ1SERINVBBUllEZHlBLU1NZzBmZ2pDNjlDb182MGZBM1dm?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-10 04:48",
-          "headline": "Google､業務用エージェント開発もAIで自動化 導入しやすく - 日本経済新...",
+          "published_at": "2026-10-11 05:10",
+          "headline": "社説＞日銀短観／ＡＩと価格転嫁が効いた |オピニオン - 神戸新聞",
           "summary": [
-            "【概要】Google､業務用エージェント開発もAIで自動化 導入しやすく - 日本経済新聞",
-            "Google､業務用エージェント開発もAIで自動化 導入しやすく 日本経済新聞...",
+            "【概要】社説＞日銀短観／ＡＩと価格転嫁が効いた |オピニオン - 神戸新聞",
+            "社説＞日銀短観／ＡＩと価格転嫁が効いた |オピニオン 神戸新聞...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -306,16 +306,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1791594545_5",
-          "title": "大学教授がAI使い著書に誤り 絶版 - Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAwRU9CWFlyLTBNWDJqeVRFcjBiQVhvbmJPbnVZOS1MQWpsazR1dFFSWlVPck1ZczVjUmU5Tm1XTmxwTUtuVjE4X3F4aGI1SEdY?oc=5",
+          "id": "ai_1791678201_5",
+          "title": "アンソロピックのAI、米警察に虚偽の情報提供 不正にビザ申請も - 日本経済新聞",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JN1dpczVxd2dSVHVWTkE4RmtfdlRqUkZFSkpNa2d0N0lZOExqZzRIWnF3MFNPOE9aUm8wX1lKRjVMQXpFaVRWdVd0UmZIZ0k0dGJ6RXJiQ2lLVUs1Z1JtRkZZNVViMTFhQzFyQg?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-09 18:44",
-          "headline": "大学教授がAI使い著書に誤り 絶版 - Yahoo!ニュース",
+          "published_at": "2026-10-10 18:10",
+          "headline": "アンソロピックのAI、米警察に虚偽の情報提供 不正にビザ申請も - 日本経済新聞",
           "summary": [
-            "【概要】大学教授がAI使い著書に誤り 絶版 - Yahoo!ニュース",
-            "大学教授がAI使い著書に誤り 絶版 Yahoo!ニュース...",
+            "【概要】アンソロピックのAI、米警察に虚偽の情報提供 不正にビザ申請も - 日本経済新聞",
+            "アンソロピックのAI、米警察に虚偽の情報提供 不正にビザ申請も 日本経済新聞...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
