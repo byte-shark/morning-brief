@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026年10月12日 09:42",
-  "updated_at_iso": "2026-10-12T09:42:00.307960+09:00",
+  "updated_at": "2026年10月13日 11:41",
+  "updated_at_iso": "2026-10-13T11:41:18.354560+09:00",
   "model_used": "mock-mode",
   "categories": [
     {
@@ -10,16 +10,16 @@
       "description": "Microsoft Azureの公式発表・最新クラウド動向",
       "articles": [
         {
-          "id": "azure_1791765720_1",
-          "title": "ヘッドウォータース、「AI Platform on Microsoft Azure」Specializationを更新 - ニコニコニュース",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAyZW1zSWJjeVMwSzlZQl8zOGR5cVRWS0R4dFBkbkdXRGFZMnJiLTNZODBHenF2VVhKWmtDM3VURG43aFRqMzMzcE11SXNCRTc4QnZkMzNhTVRWOHFZRGFHWFMyS1M3dlZIb2EwRzlaaklUWVpHcDFKY1YyUQ?oc=5",
+          "id": "azure_1791859279_1",
+          "title": "TmaxSoft、Sompo Japanの基幹系をMicrosoft Azureに再ホスティング OpenFrame7で移行完了 - 디지털투데이",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUkpMdkREQ3VZbk9nc0F6YUFfZkJvRkVBYnkwVUYzckJkRE1nTGxwLThDWjFMZWRvTGJpWGt2al8xWWtIVDdyLTNFa3VEanBDcDc3LVYyOUxQdUE0TDNxSEZjZ1FsWXB1Y0tvdVhXcWlpYXNZTzB1Nnc0dFVHTzR1T1ZRLTZkRTlncVZmY0dpbUlYbThnbGYyZU4tUkdMalJwdzBCcFRiSlJTY3N1aXZnQ2hsNnJEVDV0cnczRUtpN2JSWHY2UU52aw?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-10-09 18:21",
-          "headline": "ヘッドウォータース、「AI Platform on Microsoft Azur...",
+          "published_at": "2026-10-13 10:59",
+          "headline": "TmaxSoft、Sompo Japanの基幹系をMicrosoft Azure...",
           "summary": [
-            "【概要】ヘッドウォータース、「AI Platform on Microsoft Azure」Specializationを更新 - ニコニコニュース",
-            "ヘッドウォータース、「AI Platform on Microsoft Azure」Specializationを更新 ...",
+            "【概要】TmaxSoft、Sompo Japanの基幹系をMicrosoft Azureに再ホスティング OpenFrame7で移行完了 - 디지털투데이",
+            "TmaxSoft、Sompo Japanの基幹系をMicrosoft Azureに再ホスティング OpenFrame7で...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -30,16 +30,16 @@
           "importance": 3
         },
         {
-          "id": "azure_1791765720_2",
-          "title": "「Microsoft Dev Box」が2028年9月18日に終了へ ～移行先は「Windows 365」 - 窓の杜",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzTUZ5amNCOFJiT29GamRZQzZIVjYwc3BfUHM2dVNlSVVxZ2JzdGdSOS11WTRRVkhJWTZ4bWtQQ2tFa2lqd1ZMbVgtQTJJSGd5RlAtbDhSZkdySFN2NHZ1NTNRbEVPd3NP?oc=5",
+          "id": "azure_1791859279_2",
+          "title": "マイクロソフト【MSFT】：株価・株式情報 - Yahoo!ファイナンス",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAxRXBKdmdzSThNRTNZMHdKR2p2ZEo5UDRfUGlwSGNUQzBIcTM0YmxqcEphdFJlclVkMnJONWw0RXdNekJ1TFpNMjhQVV9lYVU?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-10-09 17:53",
-          "headline": "「Microsoft Dev Box」が2028年9月18日に終了へ ～移行先は...",
+          "published_at": "2026-10-13 08:02",
+          "headline": "マイクロソフト【MSFT】：株価・株式情報 - Yahoo!ファイナンス",
           "summary": [
-            "【概要】「Microsoft Dev Box」が2028年9月18日に終了へ ～移行先は「Windows 365」 - 窓の杜",
-            "「Microsoft Dev Box」が2028年9月18日に終了へ ～移行先は「Windows 365」 窓の杜...",
+            "【概要】マイクロソフト【MSFT】：株価・株式情報 - Yahoo!ファイナンス",
+            "マイクロソフト【MSFT】：株価・株式情報 Yahoo!ファイナンス...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -50,16 +50,16 @@
           "importance": 3
         },
         {
-          "id": "azure_1791765720_3",
-          "title": "ヘッドウォータース、AI Platform on Microsoft AzureのSpecializationを新たに更新した成果 - ニュースメディアVOIX",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ma2xxQmRQSkxwQUhNVjNOb0F5Z2wtMk1lR01BNjd4VFlUSUxvbUhoM0VJR1AwRlhWalhLcUtsMjZGb3VpYWRUTlBJbkx2YThoNzF0Yi1pZWxOcmxMQmFEWmdRdTBSa3B6bnJv?oc=5",
+          "id": "azure_1791859279_3",
+          "title": "Microsoftが新AIチップ「Maia 300」発表、ラック当たりの推論性能は前世代比で最大7倍に - XenoSpectrum",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQVFFjY2h2MkJWU0ItSzdyV0FPSjdoTXdKTXpJUzlnNnZNQVZucWQxZ1RuNEdYaXA4U3Vwd01CQy05N2YtN2NWWXBRUGdEeEs2S0h2NzEwNDU3T1BlZlZ1eWJBRFRqa1hRTk5Ydjhn?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-10-09 17:03",
-          "headline": "ヘッドウォータース、AI Platform on Microsoft Azure...",
+          "published_at": "2026-10-13 06:11",
+          "headline": "Microsoftが新AIチップ「Maia 300」発表、ラック当たりの推論性能...",
           "summary": [
-            "【概要】ヘッドウォータース、AI Platform on Microsoft AzureのSpecializationを新たに更新した成果 - ニュースメディアVOIX",
-            "ヘッドウォータース、AI Platform on Microsoft AzureのSpecializationを新たに更...",
+            "【概要】Microsoftが新AIチップ「Maia 300」発表、ラック当たりの推論性能は前世代比で最大7倍に - XenoSpectrum",
+            "Microsoftが新AIチップ「Maia 300」発表、ラック当たりの推論性能は前世代比で最大7倍に XenoSpec...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -70,16 +70,16 @@
           "importance": 3
         },
         {
-          "id": "azure_1791765720_4",
-          "title": "「Microsoft Playwright Workspaces」でE2Eテストの課題を解決 (1/3) - CodeZine",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pTjlVcWxSN0ZNN2lzeklLMzQwTHpIMmJndnVKc3RWN1JJSlRiVGRHWVAyczFWU0VBN0RuRlVLSVJ1eTcyR3RkNDdfZ2VGSWMxT2c?oc=5",
+          "id": "azure_1791859279_4",
+          "title": "米マイクロソフト、第3世代AI推論チップ「Maia 300」発表 Azureで複数ギガワット級に - ビジネス+IT",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiYmhHS1N1Yk95d0ZhNE1RZmxEQWpvT3ZIQ2ZFcEpWSVlyVktGRzdVVXJDQWNjdXc4M3NtVHpmQW1EOTlacC1FdkMtalcyd0VNVFNj?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-10-09 16:00",
-          "headline": "「Microsoft Playwright Workspaces」でE2Eテスト...",
+          "published_at": "2026-10-12 22:26",
+          "headline": "米マイクロソフト、第3世代AI推論チップ「Maia 300」発表 Azureで複...",
           "summary": [
-            "【概要】「Microsoft Playwright Workspaces」でE2Eテストの課題を解決 (1/3) - CodeZine",
-            "「Microsoft Playwright Workspaces」でE2Eテストの課題を解決 (1/3) CodeZin...",
+            "【概要】米マイクロソフト、第3世代AI推論チップ「Maia 300」発表 Azureで複数ギガワット級に - ビジネス+IT",
+            "米マイクロソフト、第3世代AI推論チップ「Maia 300」発表 Azureで複数ギガワット級に ビジネス+IT...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -90,16 +90,16 @@
           "importance": 3
         },
         {
-          "id": "azure_1791765720_5",
-          "title": "Azure Test Plansでテスト管理を始めよう - CodeZine",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mUlY2WGhRV0FRLXJwNklWYUZCbzdYRmY0TDlXcjZpcUNMdlQ4c0o0ODBjTlRaRU9vRUd5WGZsWjFuOUVHMWdWOUZpOEYwdjhUemc?oc=5",
+          "id": "azure_1791859279_5",
+          "title": "【ITソリューションのBIPROGY】Microsoft Azure移行の最高水準認定「Specialization」を更新！ 専門性と移行実績を継続証明 - DXマガジン",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE84a0s4bkNLRHJkSXptN2dzejRVT3RpNmtzSWpFcVBZcFlIYjRZWlZaeVljSmlfcVVjajdSLTQ1SkdBMjhST1RGbGhQVVY?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-10-09 16:00",
-          "headline": "Azure Test Plansでテスト管理を始めよう - CodeZine",
+          "published_at": "2026-10-12 22:17",
+          "headline": "【ITソリューションのBIPROGY】Microsoft Azure移行の最高水...",
           "summary": [
-            "【概要】Azure Test Plansでテスト管理を始めよう - CodeZine",
-            "Azure Test Plansでテスト管理を始めよう CodeZine...",
+            "【概要】【ITソリューションのBIPROGY】Microsoft Azure移行の最高水準認定「Specialization」を更新！ 専門性と移行実績を継続証明 - DXマガジン",
+            "【ITソリューションのBIPROGY】Microsoft Azure移行の最高水準認定「Specialization」を...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -118,32 +118,12 @@
       "description": "テスラの最新アップデート・EV・FSD・決算動向",
       "articles": [
         {
-          "id": "tesla_1791765721_1",
-          "title": "【蓄電関連】TGオクトパスエナジー：Tesla Powerwall 3を販売、独自延長で15年保証を提供 - みんなの広報宣伝部",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CUmFUbzRjVmxRcG4zbzY1MUhwNEx3Z2xvRlF4MnBURHVpRzVGNHdCTzRZLWcxLU10WTJ3cTJPUUJwUjlLX2E2Vlo2Qmk2ZzBiaXVXVFU3WFhKY3dDUWcxSWlrTW9pUE9QaDJ4Qk1nWFhyUQ?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-10-12 07:46",
-          "headline": "【蓄電関連】TGオクトパスエナジー：Tesla Powerwall 3を販売、独...",
-          "summary": [
-            "【概要】【蓄電関連】TGオクトパスエナジー：Tesla Powerwall 3を販売、独自延長で15年保証を提供 - みんなの広報宣伝部",
-            "【蓄電関連】TGオクトパスエナジー：Tesla Powerwall 3を販売、独自延長で15年保証を提供 みんなの広報宣...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "tesla_1791765721_2",
+          "id": "tesla_1791859279_1",
           "title": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vR2owRXJLX1dwYUtHY05wNjVKVmVrTHNXdm5yRGJ0NHJzSzZTaEgxWFo0WmNBOWUxV2tXcHljUWlYaG92bll2YUNIQzJlVE0?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-10-12 07:32",
+          "published_at": "2026-10-13 10:52",
           "headline": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
           "summary": [
             "【概要】テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
@@ -158,16 +138,16 @@
           "importance": 3
         },
         {
-          "id": "tesla_1791765721_3",
-          "title": "テスラの新型ロードスターは期待に応えるか - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVkF2VzZvV0g3NmhCWEwxNGotVVpwU2FudVNPbDdIeUV5eWo0QklaMW9YRnluRUktOVBDby1aZ0RqM2NfRjYwWVRmWVR1RFl6ckJMVTZ1MjYzNTI0Zmt6YXlqZkpvZDVFTGFQaWF6NnBVNzJjNzdYWHN2dm80OUgwM0pEOFh5eXY4RU8wWWlPb3llMzNwNDkwT0JxMW1XRmtyNmpVSTZKZmUwUjNXTzhyQ2Juek4zV1k?oc=5",
+          "id": "tesla_1791859279_2",
+          "title": "米EV市場、第3四半期は7.7％増 TeslaのモデルYが累計首位 - 디지털투데이",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRGZIOE85WERPMmlKdk1Cbm52ZDVCRkpqcnpHVFlTdTlrWXZJMnpfQVNiVlNMM1VWcUxoTy1MeExwVUYxNmxoa0xqcVdfMFIxQktTc3FYRjY3RWhvUmZ0aV9VUXNpZ1FZY3RVWkFFWmtTT213NGV3aHN6NHBoNnlaNS0zdmdwbmVuVWVEeG1lQjB4aUhsMWdJOGVmTV9qcnJrMHdYVFEwOA?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-10-12 07:25",
-          "headline": "テスラの新型ロードスターは期待に応えるか - WSJ",
+          "published_at": "2026-10-13 08:45",
+          "headline": "米EV市場、第3四半期は7.7％増 TeslaのモデルYが累計首位 - 디지털투...",
           "summary": [
-            "【概要】テスラの新型ロードスターは期待に応えるか - WSJ",
-            "テスラの新型ロードスターは期待に応えるか WSJ...",
+            "【概要】米EV市場、第3四半期は7.7％増 TeslaのモデルYが累計首位 - 디지털투데이",
+            "米EV市場、第3四半期は7.7％増 TeslaのモデルYが累計首位 디지털투데이...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -178,16 +158,16 @@
           "importance": 3
         },
         {
-          "id": "tesla_1791765721_4",
-          "title": "Teslaが電力の9割を買う太陽光施設が着工、蓄電池で日没後も供給へ - XenoSpectrum",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5mZ2VWYkxSbEVCcFBlTTVQUGVpVkg4b3VCS2FMbzc0NzRsT1BKTVR2MkctdEdQdHR2NmFtSV9ONG1iajc2TkdsR0RjbUl0LWd0OGV1SjFGb3dCQ1p2cGxRVjdBamVSSDl6TzY1SjA5bw?oc=5",
+          "id": "tesla_1791859279_3",
+          "title": "テスラにおけるギガキャストの基本的な考え方と方向性【後編】 - MONOist",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5JbjdPZUpsU0dCNGdoZlRPeHV0OGtJY3dHeVN4U1F6WFg4WWNMWVk4a0VJMC1Rb19LMS13RXFTclhSanQ5YTdXY3NqRTkzQzZ3QWNmLWFDQVluOWowNzlhYlZJUjBTaGxwYjEyU05EZw?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-10-11 11:40",
-          "headline": "Teslaが電力の9割を買う太陽光施設が着工、蓄電池で日没後も供給へ - Xen...",
+          "published_at": "2026-10-13 06:00",
+          "headline": "テスラにおけるギガキャストの基本的な考え方と方向性【後編】 - MONOist",
           "summary": [
-            "【概要】Teslaが電力の9割を買う太陽光施設が着工、蓄電池で日没後も供給へ - XenoSpectrum",
-            "Teslaが電力の9割を買う太陽光施設が着工、蓄電池で日没後も供給へ XenoSpectrum...",
+            "【概要】テスラにおけるギガキャストの基本的な考え方と方向性【後編】 - MONOist",
+            "テスラにおけるギガキャストの基本的な考え方と方向性【後編】 MONOist...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -198,16 +178,16 @@
           "importance": 3
         },
         {
-          "id": "tesla_1791765721_5",
-          "title": "Tesla’s next big clean energy source is rising in the Arizona desert",
-          "link": "https://electrek.co/2026/10/09/teslas-next-big-clean-energy-source-is-rising-in-the-arizona-desert/",
+          "id": "tesla_1791859279_4",
+          "title": "Tesla ordered to pay $162,000 for Model X fire after failed ‘vandalism’ defense",
+          "link": "https://electrek.co/2026/10/12/tesla-model-x-fire-montreal-court-vandalism-defense/",
           "source": "Electrek (Tesla)",
           "is_official": true,
-          "published_at": "2026-10-10 09:05",
-          "headline": "Tesla’s next big clean energy source is ...",
+          "published_at": "2026-10-13 03:57",
+          "headline": "Tesla ordered to pay $162,000 for Model ...",
           "summary": [
-            "【概要】Tesla’s next big clean energy source is rising in the Arizona desert",
-            "A 450-megawatt (MW) solar farm with a massive battery system...",
+            "【概要】Tesla ordered to pay $162,000 for Model X fire after failed ‘vandalism’ defense",
+            "Tesla told a Quebec court that car fires are “generally” cau...",
             "情報提供元: Electrek (Tesla)"
           ],
           "key_points": [
@@ -216,6 +196,26 @@
           ],
           "badge": "注目",
           "importance": 4
+        },
+        {
+          "id": "tesla_1791859279_5",
+          "title": "【随時更新】Tesla、$388付近で反落シグナル点灯--レンジ相場が継続 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1aLW5JS1cwb011R1lrZXdtbTZISDRzcHBQQUlzVThJVnNoMGtlZnRCRHphNVRiZWdGdFFybDVGQWNtWEg1QVAzYnFsX0VRX1NoTmZnTzF6NE1xRnhxOVU3WTVjaEFjMnBCbElQTG1YcW51OERnQndv?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-10-12 23:09",
+          "headline": "【随時更新】Tesla、$388付近で反落シグナル点灯--レンジ相場が継続 執筆...",
+          "summary": [
+            "【概要】【随時更新】Tesla、$388付近で反落シグナル点灯--レンジ相場が継続 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+            "【随時更新】Tesla、$388付近で反落シグナル点灯--レンジ相場が継続 執筆 Investing.com - FX ...",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
         }
       ]
     },
@@ -226,16 +226,16 @@
       "description": "OpenAI・Google・生成AIの公式発表・技術速報",
       "articles": [
         {
-          "id": "ai_1791765723_1",
-          "title": "教師が現場でスグ使える！ 生成AIのスゴ技！ AI画像生成で掲示物を作成！（教員養成セミナー） - Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kdE1qTVBndHl1SjdYeFlLNGJMNDNJLVB5cnNNM2lGb0wycWlwcFpaNDQ0b0lMdXNMamROMWlwZndfSTZZMWI2SDV1X1MyaTF1U0NKS2RFQXEyWEk2VnU5d2xndGpFM1lDWVZCZTBsWmU1UENOYlVXLVBiU3BPajg?oc=5",
+          "id": "ai_1791859281_1",
+          "title": "AI、ロボットの祭典開幕 8百社、社会課題解決競う（共同通信） - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jUDZZUUlWbFBtZ3FFdTU3OGNrem5TTHM1Qi1wSXhyc3hGUWRYa25EZ2ZMcEZNR0RZd21QM09UOUFNdGxRRndoc29OYUtySDdUdHB3S19vcTlJVnZDZlBpaVEtQjRjNjhEaEtPNWtaTWdxQjVvTU9EOWE4X0NrTU0?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-12 09:30",
-          "headline": "教師が現場でスグ使える！ 生成AIのスゴ技！ AI画像生成で掲示物を作成！（教員...",
+          "published_at": "2026-10-13 11:18",
+          "headline": "AI、ロボットの祭典開幕 8百社、社会課題解決競う（共同通信） - Yahoo!...",
           "summary": [
-            "【概要】教師が現場でスグ使える！ 生成AIのスゴ技！ AI画像生成で掲示物を作成！（教員養成セミナー） - Yahoo!ニュース",
-            "教師が現場でスグ使える！ 生成AIのスゴ技！ AI画像生成で掲示物を作成！（教員養成セミナー） Yahoo!ニュース...",
+            "【概要】AI、ロボットの祭典開幕 8百社、社会課題解決競う（共同通信） - Yahoo!ニュース",
+            "AI、ロボットの祭典開幕 8百社、社会課題解決競う（共同通信） Yahoo!ニュース...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -246,16 +246,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1791765723_2",
-          "title": "米アマゾン、ＡＩ新興デカートの買収協議 70億ドル規模＝ＷＳＪ - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sZHJpeVRsT3BWanIyd05sbUFsWnpMX1pDMjYwOFFOUWdwdVNRcjVrSUV2d1BVRTRUZndfSm9qcHJNWHo2Rmxpd0ZBa0pYYlhmMWp5YzdDTGc5bTJ6Zk5WQ3V6V1d3aU5YNXRWd1Vmam5lSEdMRkhnZDdSRQ?oc=5",
+          "id": "ai_1791859281_2",
+          "title": "AIペルソナを活用したCX支援サービスを提供開始 - 凸版印刷",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5pSHV5eFdDWFlQTl9WNmhJMjBsUlI0aGNzQ3htSjBrNUJrb0RqYUVUUEJzcGVadWhycDkwd1d1dnVEMzd4SW1fRUlNYUJNRWh2aEV2VzNlczAxVWVoNDJmLUJGV3UwSFd3c1M3SERDLWRtVFFIOThYNGNod2s?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-12 09:25",
-          "headline": "米アマゾン、ＡＩ新興デカートの買収協議 70億ドル規模＝ＷＳＪ - Reuter...",
+          "published_at": "2026-10-13 10:36",
+          "headline": "AIペルソナを活用したCX支援サービスを提供開始 - 凸版印刷",
           "summary": [
-            "【概要】米アマゾン、ＡＩ新興デカートの買収協議 70億ドル規模＝ＷＳＪ - Reuters",
-            "米アマゾン、ＡＩ新興デカートの買収協議 70億ドル規模＝ＷＳＪ Reuters...",
+            "【概要】AIペルソナを活用したCX支援サービスを提供開始 - 凸版印刷",
+            "AIペルソナを活用したCX支援サービスを提供開始 凸版印刷...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -266,16 +266,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1791765723_3",
-          "title": "中国AIモデル競争、ゲーム・スマホ・宅配大手も参入 - 株式会社エクサウィザーズ",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9adFpRVGhzTmstYmRObmVmTTJqb1B2RVJBNDcxM0cyTTBVdnh1QkNLcGJpUmYyU1BFamZ1dGs5MTdwZGxNUXA5cklNMTlGM2Qzemo1Wkg1OGFTOVlObGcyRzZhTVJVYTdw?oc=5",
+          "id": "ai_1791859281_3",
+          "title": "「AIの実力を目の当たりにしているのは世界で5000人だけ」経営陣の多くは「また聞き」レベル - 株式会社エクサウィザーズ",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE80UVBmT2tyQ2dVZms3VTFYUUIwTnBFTHR2d0otN1N2YVNXOFhLUlBoYlkzZF8taGRWLVBZUXNoOU9GVlVQcXZ1S1Zua2ZlbF9yT0lUdVhIRm1NdTVMZzZQdkEwQXpmQQ?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-12 09:17",
-          "headline": "中国AIモデル競争、ゲーム・スマホ・宅配大手も参入 - 株式会社エクサウィザーズ",
+          "published_at": "2026-10-13 10:14",
+          "headline": "「AIの実力を目の当たりにしているのは世界で5000人だけ」経営陣の多くは「また...",
           "summary": [
-            "【概要】中国AIモデル競争、ゲーム・スマホ・宅配大手も参入 - 株式会社エクサウィザーズ",
-            "中国AIモデル競争、ゲーム・スマホ・宅配大手も参入 株式会社エクサウィザーズ...",
+            "【概要】「AIの実力を目の当たりにしているのは世界で5000人だけ」経営陣の多くは「また聞き」レベル - 株式会社エクサウィザーズ",
+            "「AIの実力を目の当たりにしているのは世界で5000人だけ」経営陣の多くは「また聞き」レベル 株式会社エクサウィザーズ...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -286,16 +286,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1791765723_4",
-          "title": "AI需要のデータセンターに建設反対デモ 米最多のバージニア州で [アメリカ中間選挙][AIの時代] - 朝日新聞",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BLUcyZzJXbzEzTktGeXYzejlfbE15TU1KM2xNM2ZRaG5TR19WbTl5QWNCQjJsak4xVW1IeDVvQVZORDZ3NkhJM2xOUU5EQllHVTBWWGhVaXg3dEF2X2JrTUVOQVV1QVU?oc=5",
+          "id": "ai_1791859281_4",
+          "title": "中国ＡＩ開発企業、安全性試験の結果公表わずか3.6％＝調査 - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5TRFZFMXVmOGZEMFJnUUZ1bFZkQTFnVWIyMGJQQi1GMG5veXJ6bUZFeFhyUHpoTU9uMEFyNVNGOW5lbTVJM0JwTmNtY3FBckNmOTdWQUlVbVFqaTdqM1luZkhfTjRLUE9TUlNjVzFud2tpNWJNV2syNDN4NjZldw?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-12 07:00",
-          "headline": "AI需要のデータセンターに建設反対デモ 米最多のバージニア州で [アメリカ中間選...",
+          "published_at": "2026-10-13 10:10",
+          "headline": "中国ＡＩ開発企業、安全性試験の結果公表わずか3.6％＝調査 - Reuters",
           "summary": [
-            "【概要】AI需要のデータセンターに建設反対デモ 米最多のバージニア州で [アメリカ中間選挙][AIの時代] - 朝日新聞",
-            "AI需要のデータセンターに建設反対デモ 米最多のバージニア州で [アメリカ中間選挙][AIの時代] 朝日新聞...",
+            "【概要】中国ＡＩ開発企業、安全性試験の結果公表わずか3.6％＝調査 - Reuters",
+            "中国ＡＩ開発企業、安全性試験の結果公表わずか3.6％＝調査 Reuters...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -306,16 +306,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1791765723_5",
-          "title": "生成AIの安全性評価するシステム開発 - NHKニュース",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE10aU1oemVUcW1rUDduSmM3VUx6clkzbDM5a09Nb1NDck1rNDlGX3E2TjQ5QmZDVGJwSjlRVVgyblJEeWRIOF96c3RuYmw2TXB5UW9MVXFzVzNHNlcycEdV?oc=5",
+          "id": "ai_1791859281_5",
+          "title": "オムロン、フィジカルAI基盤構築へ米PCメーカー「オンロジック」買収 - 日本経済新聞",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94dUlabTJRWUZrM244TThOTWRVNkh1VURvbTZoSzZMNEhtRUUwSzl1QWp3QnBSdTdCaW1hVjdILUN3VGJaMHF2bk5SQVJXSXhwUTFiSlF3UWNaVGVLMzFuMmxNbW1mdjVnbTg3Qg?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-12 04:47",
-          "headline": "生成AIの安全性評価するシステム開発 - NHKニュース",
+          "published_at": "2026-10-13 06:30",
+          "headline": "オムロン、フィジカルAI基盤構築へ米PCメーカー「オンロジック」買収 - 日本経...",
           "summary": [
-            "【概要】生成AIの安全性評価するシステム開発 - NHKニュース",
-            "生成AIの安全性評価するシステム開発 NHKニュース...",
+            "【概要】オムロン、フィジカルAI基盤構築へ米PCメーカー「オンロジック」買収 - 日本経済新聞",
+            "オムロン、フィジカルAI基盤構築へ米PCメーカー「オンロジック」買収 日本経済新聞...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
