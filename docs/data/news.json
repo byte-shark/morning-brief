@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026年10月14日 09:31",
-  "updated_at_iso": "2026-10-14T09:31:11.927403+09:00",
+  "updated_at": "2026年10月15日 09:01",
+  "updated_at_iso": "2026-10-15T09:01:51.296194+09:00",
   "model_used": "mock-mode",
   "categories": [
     {
@@ -10,16 +10,16 @@
       "description": "Microsoft Azureの公式発表・最新クラウド動向",
       "articles": [
         {
-          "id": "azure_1791937872_1",
-          "title": "TmaxSoft、日本の損保ジャパンでメインフレームのクラウド移行を完了 - BigGo ファイナンス",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PbExJOUlqM0tCbFBWVU1MXzBaUGJtcUNBYUtwbFhZTDBTem44dnJGQmJuUjFLeTBTMEtwMlhkN3d6RHkxeW5DZ1VDMVB1NmNyUzgxcjFUS1ZsV0d1Mk91QVRPR2NFZTg2XzJibmlZVm5TdHhX?oc=5",
+          "id": "azure_1792022511_1",
+          "title": "国際的なサイバー犯罪を支えるビジネス網を解体 - Microsoft Source",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNY1ZOYk5zR0hiTEoyWGtlTmhFSlBhTG9sRUdIX2UzNVQxZ3ZiQ1U4ZnBkdUFucjF0WXFwemJKMFlPRGhzX1hyMVpzbTdTT2pBRDRRdHViMjR5WXg5REc5OVJ5a2x5dzBIOFdnYndzVHZpNjViTnhpNjNqc1FYUm56S1BYMGZDWC0zWk5icUFrMVF6aGdTaV9zeW9SX3FUZENYRS1OM19tXzQyU0hRVG5QM0RTSS03VEpxMjN3enZxcm9McUxnendtazhB?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-10-14 03:05",
-          "headline": "TmaxSoft、日本の損保ジャパンでメインフレームのクラウド移行を完了 - B...",
+          "published_at": "2026-10-14 22:00",
+          "headline": "国際的なサイバー犯罪を支えるビジネス網を解体 - Microsoft Sourc...",
           "summary": [
-            "【概要】TmaxSoft、日本の損保ジャパンでメインフレームのクラウド移行を完了 - BigGo ファイナンス",
-            "TmaxSoft、日本の損保ジャパンでメインフレームのクラウド移行を完了 BigGo ファイナンス...",
+            "【概要】国際的なサイバー犯罪を支えるビジネス網を解体 - Microsoft Source",
+            "国際的なサイバー犯罪を支えるビジネス網を解体 Microsoft Source...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -30,16 +30,16 @@
           "importance": 3
         },
         {
-          "id": "azure_1791937872_2",
-          "title": "市場の噂：マイクロソフト、Azureクラウド事業の経営陣を再編 - Moomoo",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWXdWdVc3UzI1UlVsZkFVcWxKcC1jTlZvWXJZVnpGaGR1SWtmc0hKWkFFOWdnVnM0cy1vbGhrZjZtOUFxS0RfZjgwd1hkRFhvMU0xZ3JNRzBvNUlVZDRCN1Ftb3hiZEpxdkl0ZTRhR1NRTDZCSVAwU1g3RDgzMTFHakc3MGhVMGJQVWtsNUdSTTdySkhHNVR2Q01QQkd3N29zUHBfWFNBR1VhODk2d0FWQldMYTQ?oc=5",
+          "id": "azure_1792022511_2",
+          "title": "米マイクロソフト、機密向け隔離環境の管理「Azure Enclave」をGA、認定は作業中 - ビジネス+IT",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40MHNwQ1ppNGJLYWhSN0lRb0tTcFo4RVZuSURWcXZzZ0E4cEdGb0tDOWlMQnpnMXN5eERzd1NYX2RLdjNhUE1TcDU4T1p4dU96WWdv?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-10-13 18:27",
-          "headline": "市場の噂：マイクロソフト、Azureクラウド事業の経営陣を再編 - Moomoo",
+          "published_at": "2026-10-14 10:27",
+          "headline": "米マイクロソフト、機密向け隔離環境の管理「Azure Enclave」をGA、認...",
           "summary": [
-            "【概要】市場の噂：マイクロソフト、Azureクラウド事業の経営陣を再編 - Moomoo",
-            "市場の噂：マイクロソフト、Azureクラウド事業の経営陣を再編 Moomoo...",
+            "【概要】米マイクロソフト、機密向け隔離環境の管理「Azure Enclave」をGA、認定は作業中 - ビジネス+IT",
+            "米マイクロソフト、機密向け隔離環境の管理「Azure Enclave」をGA、認定は作業中 ビジネス+IT...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -50,16 +50,16 @@
           "importance": 3
         },
         {
-          "id": "azure_1791937872_3",
-          "title": "Windows Server 2025 Datacenter Azure Editionの紹介｜Ｓｋｙ Tech Blog（スカイ テック ブログ） - Ｓｋｙ株式会社",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HTWtUS0RaaFF1TFR2d0tqQS05TzhkUGstYUFYM0ljanlhS1RoODI4TnVGWnVyMFR6bFB0dE1DVVJGSEp6cmJETUIyQTF0THJia1BhNWUyZmxkRzg?oc=5",
+          "id": "azure_1792022511_3",
+          "title": "クラウドAIの最新ニュース - パーク・プレイス、マイクロソフトのクラウドサービスを北米に拡大 - Simply Wall Street",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX2NNY3pHTi01Y0FGMlZ1OEJBX3FWMlpRaVV4WklfbTJ6ajNQOHU2NFRNQ0dycnZSWmR3Si1HdGFtS1NqTm52VUNLODdXanB1Z29xTTFsbUs0WkZzTHVxOUtJYzNON2J4bGo5VHk1dWN2NHBfSjRjb0JZTXJ4cWRFVDhHMVZmb05zY1JYWDMxMlrSAZYBQVVfeXFMTWdGQ3pKamRPUHlFOFoyQTVEb0dzR3lJUmh2QUtZZFM1Q05NakgwYk9FSDg1bkc0aDlPMFVfQ0lVN0lwVHNILUl1eDR4ZU9ZSTYxbHdQWF9zWUFkdEtVamIyaXJmT05ROFA2aGI2OEtBVXFoVk5UZFBtRFYwY1RKaXhhNFFuNVUwRXQ5M3AydmhrWW4yTnFn?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-10-13 16:38",
-          "headline": "Windows Server 2025 Datacenter Azure Edi...",
+          "published_at": "2026-10-14 06:28",
+          "headline": "クラウドAIの最新ニュース - パーク・プレイス、マイクロソフトのクラウドサービ...",
           "summary": [
-            "【概要】Windows Server 2025 Datacenter Azure Editionの紹介｜Ｓｋｙ Tech Blog（スカイ テック ブログ） - Ｓｋｙ株式会社",
-            "Windows Server 2025 Datacenter Azure Editionの紹介｜Ｓｋｙ Tech Blo...",
+            "【概要】クラウドAIの最新ニュース - パーク・プレイス、マイクロソフトのクラウドサービスを北米に拡大 - Simply Wall Street",
+            "クラウドAIの最新ニュース - パーク・プレイス、マイクロソフトのクラウドサービスを北米に拡大 Simply Wall ...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -70,7 +70,7 @@
           "importance": 3
         },
         {
-          "id": "azure_1791937872_4",
+          "id": "azure_1792022511_4",
           "title": "マイクロソフト、Azure Maia AI システムをマルチギガワット規模へ拡大 - Microsoft Source",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTXdfNEFOQTFTeXBMR0I4ZlA1VTkzRnJqbElTQ3piOG8wNFkxN1YwdUVXckFRMlFUOS1hZVdXRXF1RmpkVFdKTElrS0x2QjBwSkw2cmNaVUJTRk9oNkx4R21JbmZSS0N4d1AtZldzemVIZUpLZF8zVDJIcXp4cG9Wcm9xaFNtaEx6eGhkdE10dy1KLVNBTG1LNGFSNXduX09LZmVhRDVaam9xaE8yZGMwb0pDdnNNX05jOS1GMi10TGVTUQ?oc=5",
           "source": "Google News (Azure)",
@@ -90,7 +90,7 @@
           "importance": 3
         },
         {
-          "id": "azure_1791937872_5",
+          "id": "azure_1792022511_5",
           "title": "【ITソリューションのBIPROGY】Microsoft Azure移行の最高水準認定「Specialization」を更新！ 専門性と移行実績を継続証明 - DXマガジン",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE84a0s4bkNLRHJkSXptN2dzejRVT3RpNmtzSWpFcVBZcFlIYjRZWlZaeVljSmlfcVVjajdSLTQ1SkdBMjhST1RGbGhQVVY?oc=5",
           "source": "Google News (Azure)",
@@ -118,12 +118,92 @@
       "description": "テスラの最新アップデート・EV・FSD・決算動向",
       "articles": [
         {
-          "id": "tesla_1791937873_1",
+          "id": "tesla_1792022512_1",
+          "title": "編集者の視点「テスラFSDのEU承認、ドイツが支持表明」 - 日本経済新聞",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNalFqa0pWRFNxVjlFY093Z0pMd1liQVI0SnBFT0RvOHBTTlVobWwxZ2VPa3NoZWxDLWx0RzNyVjE1ZnhfRm1oSzh3Y2owSXAteUxaU0xaUzZUam1VQVoxOWhIZnNzLWk5S0hYdVNJazdkZzJzZlM0UlhLSEhkeWhOWjVvWVNDQ0E?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-10-15 05:00",
+          "headline": "編集者の視点「テスラFSDのEU承認、ドイツが支持表明」 - 日本経済新聞",
+          "summary": [
+            "【概要】編集者の視点「テスラFSDのEU承認、ドイツが支持表明」 - 日本経済新聞",
+            "編集者の視点「テスラFSDのEU承認、ドイツが支持表明」 日本経済新聞...",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "tesla_1792022512_2",
+          "title": "Tesla Powerwalls supply most of record 745 MW California grid dispatch",
+          "link": "https://electrek.co/2026/10/14/tesla-powerwall-sunrun-record-745-mw-california-grid-dispatch/",
+          "source": "Electrek (Tesla)",
+          "is_official": true,
+          "published_at": "2026-10-14 23:46",
+          "headline": "Tesla Powerwalls supply most of record 7...",
+          "summary": [
+            "【概要】Tesla Powerwalls supply most of record 745 MW California grid dispatch",
+            "Tesla Powerwalls did most of the heavy lifting as California...",
+            "情報提供元: Electrek (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 4
+        },
+        {
+          "id": "tesla_1792022512_3",
+          "title": "#テスラ、決算発表前に売り？ - Moomoo",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOGFPZGwtT21EZW9YMDhyWHM1ZkZpZkRHVzJ0VDd1SXhQVnp0VV9VUzBsdXJLMjVpVHZrdEFzc19VVlFZQ2wyYzdsdGhhTThsTE9jRHFQaEt0eUF4WWt0S1ZSU2Y1VGVCQ3VfbVhaU0V1a3ZPVXZGZ1JLb2I2VFN0aW41UmdUanc?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-10-14 23:04",
+          "headline": "#テスラ、決算発表前に売り？ - Moomoo",
+          "summary": [
+            "【概要】#テスラ、決算発表前に売り？ - Moomoo",
+            "#テスラ、決算発表前に売り？ Moomoo...",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "tesla_1792022512_4",
+          "title": "Polestar 3 frente a Tesla Model Y Performance: duelo de SUV eléctricos premium en 2026 - Highmotor",
+          "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOM2JTUlZhZU42dTYxdXFybUJBV1Z4MWQ5U1NncWljcVE0NzFqc3ZCS0E4MFlPRld0OTZHLTRDUkdzSUZPWkJhM2RUS1ZFaU9QSWJjTFJHOHpZM3l3N3RodGFyS29nYTQ1OW1JdDVQNXJYWXNpX3ZWRGpHNG9CTU41dTZxdDhLOGVKS2tNTHN0eWliRjVfUkctQ2d2QWFob3d2Wl9ldlVKeXBOLUhLQ3VOc0x6WUR2UXRFSlgzS2hIeDBZWnNHQU44MVdJMG9YVFMzTWZoX296cnUwakJVbzRhaXgycjhCTFFsU1UwTmJwQmlMR29kTVZUR2YzdzFPSzdrWU01THZyWmxmaWxUTmlRX0JIcnJ4b29iV1Npd185dlFvZTZEeTA1YTgxb09GdFJSYUlmdi1EaDQ?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-10-14 16:36",
+          "headline": "Polestar 3 frente a Tesla Model Y Perfor...",
+          "summary": [
+            "【概要】Polestar 3 frente a Tesla Model Y Performance: duelo de SUV eléctricos premium en 2026 - Highmotor",
+            "Polestar 3 frente a Tesla Model Y Performance: duelo de SUV ...",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "tesla_1792022512_5",
           "title": "テスラ 自動運転FSDをTAD（Tesla Assisted Driving）に名称変更 運転支援という意味を明確に - 自動運転ラボ",
           "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBPWUpNc3JkSmlDMDd2ZTVBZWFvWU5HOXZsY1h5X2VTVU1OeXdpVWtNczJpb0V5NEdiemFfaEZRTHFNbE12TWhMSA?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-10-14 07:03",
+          "published_at": "2026-10-14 16:00",
           "headline": "テスラ 自動運転FSDをTAD（Tesla Assisted Driving）に...",
           "summary": [
             "【概要】テスラ 自動運転FSDをTAD（Tesla Assisted Driving）に名称変更 運転支援という意味を明確に - 自動運転ラボ",
@@ -136,86 +216,6 @@
           ],
           "badge": "注目",
           "importance": 3
-        },
-        {
-          "id": "tesla_1791937873_2",
-          "title": "【西川和久の不定期コラム】9年前の「Tesla V100」がアツい。Qwen3.8-Flash-Nextが約80tok/s出る！ - PC Watch",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1DXzBmZGJySnZvcTJOcGVsVERNRmlROHN6VUJoc283d3hGdy1tZEg1VGtEN09zdE94RFNHa0NrLXlNallhZkJVUDBIeldwb1Q5ZVNWNUFISF9KaDUtTGxzeXlUSmhIOEQtdFpoeThTYzgweWc?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-10-14 06:07",
-          "headline": "【西川和久の不定期コラム】9年前の「Tesla V100」がアツい。Qwen3....",
-          "summary": [
-            "【概要】【西川和久の不定期コラム】9年前の「Tesla V100」がアツい。Qwen3.8-Flash-Nextが約80tok/s出る！ - PC Watch",
-            "【西川和久の不定期コラム】9年前の「Tesla V100」がアツい。Qwen3.8-Flash-Nextが約80tok/...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "tesla_1791937873_3",
-          "title": "EVs cost less than a year ago, but September brought a setback",
-          "link": "https://electrek.co/2026/10/13/evs-cost-less-than-a-year-ago-but-september-brought-a-setback/",
-          "source": "Electrek (Tesla)",
-          "is_official": true,
-          "published_at": "2026-10-14 04:55",
-          "headline": "EVs cost less than a year ago, but Septe...",
-          "summary": [
-            "【概要】EVs cost less than a year ago, but September brought a setback",
-            "New EVs still cost less than they did a year ago, but Septem...",
-            "情報提供元: Electrek (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 4
-        },
-        {
-          "id": "tesla_1791937873_4",
-          "title": "マスク氏、わずか4日で「1兆ドルクラブ」から転落…SpaceX株価下落が直撃 - BigGo ファイナンス",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lTDdkZnBzbGZYM0VwdGtpODI5Q1doU2JWYjFxOTlUdFVZeVZQbGxJTG1HVm1SZmtWeEZiUjZwdnZ3aE5zWnk0NUcyNlVTZzViaXFFbllBSG9SVldKZUVET1dIQWtQcFZQb0FFMjUxS0RuYURh?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-10-14 04:55",
-          "headline": "マスク氏、わずか4日で「1兆ドルクラブ」から転落…SpaceX株価下落が直撃 -...",
-          "summary": [
-            "【概要】マスク氏、わずか4日で「1兆ドルクラブ」から転落…SpaceX株価下落が直撃 - BigGo ファイナンス",
-            "マスク氏、わずか4日で「1兆ドルクラブ」から転落…SpaceX株価下落が直撃 BigGo ファイナンス...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "tesla_1791937873_5",
-          "title": "Tesla’s China business is flipping: sales down 12%, exports double",
-          "link": "https://electrek.co/2026/10/13/tesla-china-sales-down-exports-double-export-rebate-cut/",
-          "source": "Electrek (Tesla)",
-          "is_official": true,
-          "published_at": "2026-10-13 23:57",
-          "headline": "Tesla’s China business is flipping: sale...",
-          "summary": [
-            "【概要】Tesla’s China business is flipping: sales down 12%, exports double",
-            "Tesla sold 381,088 cars to Chinese buyers through the first ...",
-            "情報提供元: Electrek (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 4
         }
       ]
     },
@@ -226,16 +226,16 @@
       "description": "OpenAI・Google・生成AIの公式発表・技術速報",
       "articles": [
         {
-          "id": "ai_1791937874_1",
-          "title": "作った本人たちも、AIがここまで儲かるとは思っていなかった - 株式会社エクサウィザーズ",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hc1ZfUWQ4c3E4Z0N3enFDRC1XRXRmaXQxb055c0ZRNjd4RVFnUHB2M2V4YmZ4cElQVG1WZnpmQzBjYUQ2SDlNckFDTW5Ncl9VdkZ5TUhDMHI1eGtEQjQ5TEJOWUFnUQ?oc=5",
+          "id": "ai_1792022513_1",
+          "title": "「超知能」、高まる危機感 AI「自己改善」で制御不能も 開発減速、国際協調は難路 - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5GSTZBSWsxQkIwS2t5Z0djbkgtelREVmQzdlVPd1RaZi1kcjRSYy1NWFFTb29vakdGWkw4TzRlbXBtUV9WeU5Wd0k4dnczNFhQ?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-14 08:21",
-          "headline": "作った本人たちも、AIがここまで儲かるとは思っていなかった - 株式会社エクサウ...",
+          "published_at": "2026-10-15 08:16",
+          "headline": "「超知能」、高まる危機感 AI「自己改善」で制御不能も 開発減速、国際協調は難路...",
           "summary": [
-            "【概要】作った本人たちも、AIがここまで儲かるとは思っていなかった - 株式会社エクサウィザーズ",
-            "作った本人たちも、AIがここまで儲かるとは思っていなかった 株式会社エクサウィザーズ...",
+            "【概要】「超知能」、高まる危機感 AI「自己改善」で制御不能も 開発減速、国際協調は難路 - Yahoo!ニュース",
+            "「超知能」、高まる危機感 AI「自己改善」で制御不能も 開発減速、国際協調は難路 Yahoo!ニュース...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -246,16 +246,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1791937874_2",
-          "title": "アップル、スマートホーム端末発表 ＡＩ機能で家庭向け市場開拓 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9MeF9TcTdLSy1lQmh6Rkl1LVNTU0ZYT1RqVVcwZ0I5T0NZMENWWVlqYmhSOXV0eXI4bWxCQWFYWGkyc2dlU2UtaXQ4Z3QyQ3l5eFVtWmh2VUpZRllYY1pyQ3NZUzZPelN5T3ZpelBma3lQMDdnYThGVlVtMk5oQQ?oc=5",
+          "id": "ai_1792022513_2",
+          "title": "「超知能」、高まる危機感 ＡＩ「自己改善」で制御不能も―開発減速、国際協調は難路 - 時事ドットコム",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9sZVVhdE9tLTJDN05zb0tSM2hnYi1fOUhXR3JWWUxnZUE5MWI0bFNkaW1WNGYxVUVCcFV1amZrXzdIZlZfZDdHc2lWWGltV3ZpaFdsbzRvVUVsSE9FOXJXcFdMOA?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-14 07:33",
-          "headline": "アップル、スマートホーム端末発表 ＡＩ機能で家庭向け市場開拓 - Reuters",
+          "published_at": "2026-10-15 08:10",
+          "headline": "「超知能」、高まる危機感 ＡＩ「自己改善」で制御不能も―開発減速、国際協調は難路...",
           "summary": [
-            "【概要】アップル、スマートホーム端末発表 ＡＩ機能で家庭向け市場開拓 - Reuters",
-            "アップル、スマートホーム端末発表 ＡＩ機能で家庭向け市場開拓 Reuters...",
+            "【概要】「超知能」、高まる危機感 ＡＩ「自己改善」で制御不能も―開発減速、国際協調は難路 - 時事ドットコム",
+            "「超知能」、高まる危機感 ＡＩ「自己改善」で制御不能も―開発減速、国際協調は難路 時事ドットコム...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -266,16 +266,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1791937874_3",
-          "title": "AIガールフレンドチャットボット キャラをカスタマイズできるプライバシー設定付きのAI生成ポルノ画像サイト - Universidad de Córdoba (UCO)",
-          "link": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxNRGdJSzUtNlUwTG8yQWNaMFNtR1lUT084Q1pjUFpZTEJPSWhQVE8wSlVxX1lKaUR1aURxYTNGZkppQkFEQUNOTUVvSGJKcjJiejZ0SE11WV9mX2ltdFhncmd5YmNnWGxBeXpRcTN0WEs1SVpfTHRpNjhQV1dMQkg5R0t6ZGlhQ0ljRUwybGEtS2NQM0hNdTB5cjZKY1pScWVxdTluV1VTbTdHUXBoYlF2YTdKVU9KZE1VVy00ZDdTVk4tczlKbTd1ZW5HWFJXN2VmV05Tb201T3VDSHRSSGhxdjBiQU9qRmVZSE5hek9YNWNwaWJBbXhVRGRMT0FXbkRPd2dxOFc1RHV1VlpxQ1o3cEYtbUYwaDZmMXM3R2hXakZRY3VneTQ5cWhCSDlsVkJCdjhiWWFTc3hkdzBrRVlDdmE3blFBaXN4b0dJdjNCR2dNcWI3dmE3aTJsXzdscm52S1FCMzZ1M0ltaWVRNTUtSWgyV2h3Z0FmTjhpbjFIUGFaQ1F6aTFQbFNMUXB4V3J6VXoxVEdmLWJ2c2lCNzdYUGo4UTZqQnRiSGZ4T3E4RVZ5aFlRTnh4YUhsTjBJVzVxWjE1MnpubkVoQmlLdzlWeHFuczB6MDBadkE?oc=5",
+          "id": "ai_1792022513_3",
+          "title": "AI投資の効果は「手応え」頼み 売上で示せる企業はわずか - 株式会社エクサウィザーズ",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4yMERKa3Vtb3R5RDRmWV9jSnQ4R0JMeTdmV2d1Y0c1bjdqVF9NZkl3cEt6T1gyRUVLMW54alUxRVlhVjh3U3B5QlRSRFY5d1ktMEhfY2JCRktTNkNCUkduYzR6N1JKdnU2?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-14 07:29",
-          "headline": "AIガールフレンドチャットボット キャラをカスタマイズできるプライバシー設定付き...",
+          "published_at": "2026-10-15 07:33",
+          "headline": "AI投資の効果は「手応え」頼み 売上で示せる企業はわずか - 株式会社エクサウィ...",
           "summary": [
-            "【概要】AIガールフレンドチャットボット キャラをカスタマイズできるプライバシー設定付きのAI生成ポルノ画像サイト - Universidad de Córdoba (UCO)",
-            "AIガールフレンドチャットボット キャラをカスタマイズできるプライバシー設定付きのAI生成ポルノ画像サイト Univer...",
+            "【概要】AI投資の効果は「手応え」頼み 売上で示せる企業はわずか - 株式会社エクサウィザーズ",
+            "AI投資の効果は「手応え」頼み 売上で示せる企業はわずか 株式会社エクサウィザーズ...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -286,16 +286,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1791937874_4",
-          "title": "その暖炉、本物ですか？ AI生成の物件写真、米国不動産業界に波紋 [AIの時代] - 朝日新聞",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMR01nU3ZLcmg0TF9ySWFxWUlCd010MnBLS3gwcElZdkZMQlo5SlBYR0w0SmdESE1yQWFVUXUwN0ZjX0pIdFJKMVhyTHJDTmczMU5LVmxIVDN1djB5bU9vYzZGazI0Z3c?oc=5",
+          "id": "ai_1792022513_4",
+          "title": "みずほが数千人をAI開発者に転換 事務や営業、日本企業の働き方転機 - 日本経済新聞",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iTjYyNVA3RUc3Q0ZVSkRSMjcwWDZFVllCOXhmeEwxM2JVUXI5QVJZZWdXd1R1Qk9La0Ffc0k2UWJ4eUNKemVVUGJxXzEwSDg0TThNQkJQdUI3ejNIdnhPczVERGY5aHMtR29LSw?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-14 07:00",
-          "headline": "その暖炉、本物ですか？ AI生成の物件写真、米国不動産業界に波紋 [AIの時代]...",
+          "published_at": "2026-10-15 02:00",
+          "headline": "みずほが数千人をAI開発者に転換 事務や営業、日本企業の働き方転機 - 日本経済...",
           "summary": [
-            "【概要】その暖炉、本物ですか？ AI生成の物件写真、米国不動産業界に波紋 [AIの時代] - 朝日新聞",
-            "その暖炉、本物ですか？ AI生成の物件写真、米国不動産業界に波紋 [AIの時代] 朝日新聞...",
+            "【概要】みずほが数千人をAI開発者に転換 事務や営業、日本企業の働き方転機 - 日本経済新聞",
+            "みずほが数千人をAI開発者に転換 事務や営業、日本企業の働き方転機 日本経済新聞...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -306,24 +306,24 @@
           "importance": 3
         },
         {
-          "id": "ai_1791937874_5",
-          "title": "グーグル、最上位AI「Gemini 4 Argon」を世界で提供開始 API入力は100万トークン2ドル（ビジネス＋IT） - Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HbjhjU1hlWXlOU3ZhZmxJb09NUGN5dWVkNTM2T1E0NllxRU8tY1VBZ0VYNVdmZ0JtNzhKdXYycG9FRUZ4WldqMjFhQV9JZERpX2l2VjBQdlRJcHNqSllrX3Q4a0lJLW9UTVRzTTYyUk1oUy1Zck9Fa0ZjVE9KNzQ?oc=5",
-          "source": "Google News (AI)",
-          "is_official": false,
-          "published_at": "2026-10-14 05:50",
-          "headline": "グーグル、最上位AI「Gemini 4 Argon」を世界で提供開始 API入力...",
+          "id": "ai_1792022513_5",
+          "title": "Amp puts AI agents to work beyond code with OpenAI models",
+          "link": "https://openai.com/index/amp-beyond-coding",
+          "source": "OpenAI Official Blog",
+          "is_official": true,
+          "published_at": "2026-10-14 21:00",
+          "headline": "Amp puts AI agents to work beyond code w...",
           "summary": [
-            "【概要】グーグル、最上位AI「Gemini 4 Argon」を世界で提供開始 API入力は100万トークン2ドル（ビジネス＋IT） - Yahoo!ニュース",
-            "グーグル、最上位AI「Gemini 4 Argon」を世界で提供開始 API入力は100万トークン2ドル（ビジネス＋IT...",
-            "情報提供元: Google News (AI)"
+            "【概要】Amp puts AI agents to work beyond code with OpenAI models",
+            "See how Amp pushes the frontier of what agents can do with G...",
+            "情報提供元: OpenAI Official Blog"
           ],
           "key_points": [
             "最新の公式・主要発表",
             "詳細は元記事リンクから確認可能"
           ],
           "badge": "注目",
-          "importance": 3
+          "importance": 4
         }
       ]
     }
