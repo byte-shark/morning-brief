@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026年10月16日 08:46",
-  "updated_at_iso": "2026-10-16T08:46:39.211156+09:00",
+  "updated_at": "2026年10月17日 08:47",
+  "updated_at_iso": "2026-10-17T08:47:28.348327+09:00",
   "model_used": "mock-mode",
   "categories": [
     {
@@ -10,16 +10,16 @@
       "description": "Microsoft Azureの公式発表・最新クラウド動向",
       "articles": [
         {
-          "id": "azure_1792107999_1",
-          "title": "更新：市場情報：マイクロソフト、Azureクラウドレンタル部門で削減を検討 - Moomoo",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONF80cFgtM2JjOU9jMnFsNVd6VGRfUlF3RzFvcGRTQkNNNjQ1ZDlrNFJ4OUZId1VxN2RpcG5qWEI0ajZtejdlYnhjd09uY2wxQmJOYlpPSDlQb3Nhei14RmF2UDZJS0hQTkhfOE84TU1XQ1NNdnhlOUlFNTNuSFhGakYzZi1tcEhXRlhoQWhvdzNTcjVKaDQ4WjNXZHZBaTlaVjdKTk4wLWlNVnNyV004Sk43TzhsUlk?oc=5",
+          "id": "azure_1792194449_1",
+          "title": "人工知能エージェント日本企業と海外勢の比較 - pando.life",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBsbGNPcDBCVjR3M1R0bmhsaDBIUi1Zb3cyaXBwM3hvZlIyWjhjbDdrcmxyOGZMU2JBQUprRWNyRXBTeWtpdlFmNTRB?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-10-15 19:12",
-          "headline": "更新：市場情報：マイクロソフト、Azureクラウドレンタル部門で削減を検討 - ...",
+          "published_at": "2026-10-17 02:06",
+          "headline": "人工知能エージェント日本企業と海外勢の比較 - pando.life",
           "summary": [
-            "【概要】更新：市場情報：マイクロソフト、Azureクラウドレンタル部門で削減を検討 - Moomoo",
-            "更新：市場情報：マイクロソフト、Azureクラウドレンタル部門で削減を検討 Moomoo...",
+            "【概要】人工知能エージェント日本企業と海外勢の比較 - pando.life",
+            "人工知能エージェント日本企業と海外勢の比較 pando.life...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -30,16 +30,16 @@
           "importance": 3
         },
         {
-          "id": "azure_1792107999_2",
-          "title": "Azureの障害対応に4層の制御　定型処理への移行でAIエージェント費用を削減 - 財経新聞",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQeEN6Nkdpa1pxNU1aRkJYR0dSczRlZ3ZROWpBZUpHYWFIRnY5eUdxWWlPU05WVUFxa01GTGFlbG43d2VTMFJyRzZCX3VicjRZazJ6ZWtWelVONnQ0RDlrV0Q2WGE3RFpD0gFoQVVfeXFMUFB4Q3o2R2lrWnE1TVpGQlhHR1JzNGVndlE5akFlSkdhYUhGdjl5R3FZaU9TTlZVQXFrTUZMYWVsbjd3ZVMwUnJHNkJfdWJyNFlrMnpla1Z6VU42dDREOWtXRDZYYTdEWkM?oc=5",
+          "id": "azure_1792194449_2",
+          "title": "ゴールドマン・サックスとシティが揃ってマイクロソフトに強気：Azure成長率47%到達の可能性、AI投資収益率が新たな焦点に - BigGo ファイナンス",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zZTRUajF4MlFjdHpRWXBnaTJ6YXlLOGFXS0xsbTRyTGEtU0ZuamltcDYzVkF4OF90cS1LOWJTaDFmNlRiWm92U0s3RS1pYlNlM1Vibm52T0liSEs4emY2VnJPaHBmWnNoOTJlZTRxUjljaFho?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-10-15 17:10",
-          "headline": "Azureの障害対応に4層の制御　定型処理への移行でAIエージェント費用を削減 ...",
+          "published_at": "2026-10-16 22:05",
+          "headline": "ゴールドマン・サックスとシティが揃ってマイクロソフトに強気：Azure成長率47...",
           "summary": [
-            "【概要】Azureの障害対応に4層の制御　定型処理への移行でAIエージェント費用を削減 - 財経新聞",
-            "Azureの障害対応に4層の制御 定型処理への移行でAIエージェント費用を削減 財経新聞...",
+            "【概要】ゴールドマン・サックスとシティが揃ってマイクロソフトに強気：Azure成長率47%到達の可能性、AI投資収益率が新たな焦点に - BigGo ファイナンス",
+            "ゴールドマン・サックスとシティが揃ってマイクロソフトに強気：Azure成長率47%到達の可能性、AI投資収益率が新たな焦...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -50,16 +50,16 @@
           "importance": 3
         },
         {
-          "id": "azure_1792107999_3",
-          "title": "米マイクロソフト、機密向け隔離環境の管理「Azure Enclave」をGA、認定は作業中（ビジネス＋IT） - Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU0VidVAyOEJlZ1ZveldwakNfdV8wSGRwbER4U2t4d0UyTFgwNXJRM3ZMdXVyRUhZWFZiNURoMlhRX3hkaXFnYTlycE51WWRiZ0g2N0pxY05Od1c2b1Q2eWtvUnM1Wmd4YVRaYmRwRndfUDFBUEktWlBMTEdibE5DUDh0a19haExOZEVGaXJ3?oc=5",
+          "id": "azure_1792194449_3",
+          "title": "マイクロソフトが 10 月のセキュリティ情報公開、悪用の事実を確認済みの脆弱性が 1 件（ScanNetSecurity） - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKYllMRFVabURiUkVyLUlzOFE5Q0pMSk05TGhCTXZLaTNTN1pLajlFc1dmRGJ2V1NmZGJGV3JtaU1PYXFxempsSkNacmk4c21pWGNGWk42QWZYTDNSY0o2TDdzNHU3Q3V1akhod2N6enYyNkw1MDdsWGVKT19ZUHM?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-10-14 10:45",
-          "headline": "米マイクロソフト、機密向け隔離環境の管理「Azure Enclave」をGA、認...",
+          "published_at": "2026-10-16 08:00",
+          "headline": "マイクロソフトが 10 月のセキュリティ情報公開、悪用の事実を確認済みの脆弱性が...",
           "summary": [
-            "【概要】米マイクロソフト、機密向け隔離環境の管理「Azure Enclave」をGA、認定は作業中（ビジネス＋IT） - Yahoo!ニュース",
-            "米マイクロソフト、機密向け隔離環境の管理「Azure Enclave」をGA、認定は作業中（ビジネス＋IT） Yahoo...",
+            "【概要】マイクロソフトが 10 月のセキュリティ情報公開、悪用の事実を確認済みの脆弱性が 1 件（ScanNetSecurity） - Yahoo!ニュース",
+            "マイクロソフトが 10 月のセキュリティ情報公開、悪用の事実を確認済みの脆弱性が 1 件（ScanNetSecurity...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -70,7 +70,27 @@
           "importance": 3
         },
         {
-          "id": "azure_1792107999_4",
+          "id": "azure_1792194449_4",
+          "title": "生成AIで次世代工場デザインを共創｜川崎重工業 x 学生 - Microsoft",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5zMldlbE9vOFBpQ2g4aWJJMFV6VC1JWGFFaHNWdzI5RDBWXzl6SHpadXd1Qjl5a3BWN2N2WVRkYmFyeV9iTklVenJKMjBfWjVTUDBXdGFNaE1sQ0hWU2thOE9oREMtV0JpaGJlTU9EeEc5UlBDajUw?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-10-16 03:05",
+          "headline": "生成AIで次世代工場デザインを共創｜川崎重工業 x 学生 - Microsoft",
+          "summary": [
+            "【概要】生成AIで次世代工場デザインを共創｜川崎重工業 x 学生 - Microsoft",
+            "生成AIで次世代工場デザインを共創｜川崎重工業 x 学生 Microsoft...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1792194449_5",
           "title": "米マイクロソフト、機密向け隔離環境の管理「Azure Enclave」をGA、認定は作業中 - ビジネス+IT",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40MHNwQ1ppNGJLYWhSN0lRb0tTcFo4RVZuSURWcXZzZ0E4cEdGb0tDOWlMQnpnMXN5eERzd1NYX2RLdjNhUE1TcDU4T1p4dU96WWdv?oc=5",
           "source": "Google News (Azure)",
@@ -80,26 +100,6 @@
           "summary": [
             "【概要】米マイクロソフト、機密向け隔離環境の管理「Azure Enclave」をGA、認定は作業中 - ビジネス+IT",
             "米マイクロソフト、機密向け隔離環境の管理「Azure Enclave」をGA、認定は作業中 ビジネス+IT...",
-            "情報提供元: Google News (Azure)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "azure_1792107999_5",
-          "title": "マイクロソフト、Azure Maia AI システムをマルチギガワット規模へ拡大 - Microsoft Source",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTXdfNEFOQTFTeXBMR0I4ZlA1VTkzRnJqbElTQ3piOG8wNFkxN1YwdUVXckFRMlFUOS1hZVdXRXF1RmpkVFdKTElrS0x2QjBwSkw2cmNaVUJTRk9oNkx4R21JbmZSS0N4d1AtZldzemVIZUpLZF8zVDJIcXp4cG9Wcm9xaFNtaEx6eGhkdE10dy1KLVNBTG1LNGFSNXduX09LZmVhRDVaam9xaE8yZGMwb0pDdnNNX05jOS1GMi10TGVTUQ?oc=5",
-          "source": "Google News (Azure)",
-          "is_official": false,
-          "published_at": "2026-10-13 13:04",
-          "headline": "マイクロソフト、Azure Maia AI システムをマルチギガワット規模へ拡大...",
-          "summary": [
-            "【概要】マイクロソフト、Azure Maia AI システムをマルチギガワット規模へ拡大 - Microsoft Source",
-            "マイクロソフト、Azure Maia AI システムをマルチギガワット規模へ拡大 Microsoft Source...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -118,16 +118,16 @@
       "description": "テスラの最新アップデート・EV・FSD・決算動向",
       "articles": [
         {
-          "id": "tesla_1792108000_1",
-          "title": "Teslaの車内でメール返信もコーヒー注文も　音声モデル「Grok Voice 3.0」が提供開始 - リアルサウンド",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95blFuaWk0X0JrLWltUEJhMmFNcXJNMEQyTTBJMjVfa1JwOGVobmU3amdrNVkzWWhOSUt3Mk15bEdreVVwT25Tb293b254OEE2ZHE3NTVBTE8zc1lmYkdLcFgzQjhRd9IBZkFVX3lxTE95blFuaWk0X0JrLWltUEJhMmFNcXJNMEQyTTBJMjVfa1JwOGVobmU3amdrNVkzWWhOSUt3Mk15bEdreVVwT25Tb293b254OEE2ZHE3NTVBTE8zc1lmYkdLcFgzQjhRdw?oc=5",
+          "id": "tesla_1792194449_1",
+          "title": "テスラの空飛ぶロードスター、空気の力で車体浮上 株価は2%下落 - 日本経済新聞",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzcm54aFo4b1NGNG1NeVB1T3UwNmdvVkNIUlZFZExYUi0ycWtBdG1EZHNubmhieTJBVEFLRWhIUHhNaktyM2phVXpmdThQWjZFdzdMZzBQTHR3VGdGRFA4bXJtanV2NUJuaGRMdg?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-10-16 06:30",
-          "headline": "Teslaの車内でメール返信もコーヒー注文も　音声モデル「Grok Voice ...",
+          "published_at": "2026-10-17 06:20",
+          "headline": "テスラの空飛ぶロードスター、空気の力で車体浮上 株価は2%下落 - 日本経済新聞",
           "summary": [
-            "【概要】Teslaの車内でメール返信もコーヒー注文も　音声モデル「Grok Voice 3.0」が提供開始 - リアルサウンド",
-            "Teslaの車内でメール返信もコーヒー注文も 音声モデル「Grok Voice 3.0」が提供開始 リアルサウンド...",
+            "【概要】テスラの空飛ぶロードスター、空気の力で車体浮上 株価は2%下落 - 日本経済新聞",
+            "テスラの空飛ぶロードスター、空気の力で車体浮上 株価は2%下落 日本経済新聞...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -138,16 +138,16 @@
           "importance": 3
         },
         {
-          "id": "tesla_1792108000_2",
-          "title": "Company that put gas engines in Teslas goes bankrupt owing $37 million",
-          "link": "https://electrek.co/2026/10/15/obrist-hyperhybrid-gas-engine-tesla-bankruptcy/",
+          "id": "tesla_1792194449_2",
+          "title": "Tesla driver says he was asleep on FSD when he hit CHP car, 2 officers hurt",
+          "link": "https://electrek.co/2026/10/16/tesla-fsd-crash-chp-patrol-car-driver-asleep-fairfield/",
           "source": "Electrek (Tesla)",
           "is_official": true,
-          "published_at": "2026-10-16 06:26",
-          "headline": "Company that put gas engines in Teslas g...",
+          "published_at": "2026-10-17 02:14",
+          "headline": "Tesla driver says he was asleep on FSD w...",
           "summary": [
-            "【概要】Company that put gas engines in Teslas goes bankrupt owing $37 million",
-            "Obrist, the Austrian engineering firm famous for ripping bat...",
+            "【概要】Tesla driver says he was asleep on FSD when he hit CHP car, 2 officers hurt",
+            "Two California Highway Patrol officers are recovering from s...",
             "情報提供元: Electrek (Tesla)"
           ],
           "key_points": [
@@ -158,16 +158,16 @@
           "importance": 4
         },
         {
-          "id": "tesla_1792108000_3",
-          "title": "テスラ、日本で「チャデモ」充電可能に アダプターで対応口数12倍 - 日本経済新聞",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45a0ZBaGNoSHVuY0E3dFNqUWFBaWlJejZkQnJmZVlkb0NvbkloNGhkMDZGQkxHYmR2N2NORlhCeThscjhYa2pJTnlhOG43cWxUV0lhNy1ucDdpMUcyUnZzbS1kT3lmSC1LR2Y5dA?oc=5",
+          "id": "tesla_1792194449_3",
+          "title": "テスラの新型「ロードスター」が“飛んだ” - WIRED.jp",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05R0pkcWNoSVNYeDNydmV3TzJvUjloLS1Hbm5wb3V3TmNEdzdCVGliWHdLdjZma3pBdW9mX0tHOUJycjlrQ0laRkliV3pEREhrM0JIeFVYYXFBSjdpanc?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-10-16 05:00",
-          "headline": "テスラ、日本で「チャデモ」充電可能に アダプターで対応口数12倍 - 日本経済新...",
+          "published_at": "2026-10-16 17:00",
+          "headline": "テスラの新型「ロードスター」が“飛んだ” - WIRED.jp",
           "summary": [
-            "【概要】テスラ、日本で「チャデモ」充電可能に アダプターで対応口数12倍 - 日本経済新聞",
-            "テスラ、日本で「チャデモ」充電可能に アダプターで対応口数12倍 日本経済新聞...",
+            "【概要】テスラの新型「ロードスター」が“飛んだ” - WIRED.jp",
+            "テスラの新型「ロードスター」が“飛んだ” WIRED.jp...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -178,16 +178,16 @@
           "importance": 3
         },
         {
-          "id": "tesla_1792108000_4",
-          "title": "テスラがハロウィンモードを公開、2026.38.3アップデートで配信開始 - Pasquale Pillitteri",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdFdqeEtrME54VEQteWQ5anJCMWlCZFJjbG9NOGNPTkZqQzFZV3VqY0lOQXN3SUpUOGZuUUJsdlBqX00tVzhNc25QcFVQU1JuUngyN05NSmRjUEl5VHZGa2hvMElDS0VFb1JUSXVMX3E0cXFLVzRFS2ZiUldTc2MweQ?oc=5",
+          "id": "tesla_1792194449_4",
+          "title": "新型テスラ ロードスター、ついに登場！──GQ新着カー - GQ Japan",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NdDg1a3FTNW5qR1RzZ0ZMLXdRSWZkWWktOG8zTnhVY2swd0RxOUVyYWhFd2NFSjB5NFZxZ3FtcklTZFoyYkU4WHo4M2lQTFdwMzRIR1VUdU93d3VpM3EtQ3RwYkptUnllV2RZ?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-10-16 02:52",
-          "headline": "テスラがハロウィンモードを公開、2026.38.3アップデートで配信開始 - P...",
+          "published_at": "2026-10-16 16:06",
+          "headline": "新型テスラ ロードスター、ついに登場！──GQ新着カー - GQ Japan",
           "summary": [
-            "【概要】テスラがハロウィンモードを公開、2026.38.3アップデートで配信開始 - Pasquale Pillitteri",
-            "テスラがハロウィンモードを公開、2026.38.3アップデートで配信開始 Pasquale Pillitteri...",
+            "【概要】新型テスラ ロードスター、ついに登場！──GQ新着カー - GQ Japan",
+            "新型テスラ ロードスター、ついに登場！──GQ新着カー GQ Japan...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -198,24 +198,24 @@
           "importance": 3
         },
         {
-          "id": "tesla_1792108000_5",
-          "title": "Tesla remote operators keep crashing its ‘Robotaxis,’ data shows",
-          "link": "https://electrek.co/2026/10/15/tesla-remote-operators-crashing-robotaxis/",
-          "source": "Electrek (Tesla)",
-          "is_official": true,
-          "published_at": "2026-10-16 01:39",
-          "headline": "Tesla remote operators keep crashing its...",
+          "id": "tesla_1792194449_5",
+          "title": "まるでSFの世界、テスラが「空飛ぶ車」をお披露目 - CNN.co.jp",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDYm9wNmdkSEh6QnFnNGVreVVqV2xWU2ZfQzRiR0s2WVdOYXN1UUNlMDBZT0VpRmNLUWlfR3BXQzR6U09FVGxmb0lmS24xdkZRbEhneUZIWQ?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-10-16 14:06",
+          "headline": "まるでSFの世界、テスラが「空飛ぶ車」をお披露目 - CNN.co.jp",
           "summary": [
-            "【概要】Tesla remote operators keep crashing its ‘Robotaxis,’ data shows",
-            "Tesla’s latest crash reports to federal regulators add two m...",
-            "情報提供元: Electrek (Tesla)"
+            "【概要】まるでSFの世界、テスラが「空飛ぶ車」をお披露目 - CNN.co.jp",
+            "まるでSFの世界、テスラが「空飛ぶ車」をお披露目 CNN.co.jp...",
+            "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
             "最新の公式・主要発表",
             "詳細は元記事リンクから確認可能"
           ],
           "badge": "注目",
-          "importance": 4
+          "importance": 3
         }
       ]
     },
@@ -226,16 +226,16 @@
       "description": "OpenAI・Google・生成AIの公式発表・技術速報",
       "articles": [
         {
-          "id": "ai_1792108002_1",
-          "title": "グーグルＡＩ向けニュース提供、ＣＮＮやアクシオスなど新たに参加 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9EY0dXY0xsVFJza2RfSG5NS25COGZmZi1NUVJZT05OZVdFbUhjcjFTUGNQdkRhVW5rb0RVanVLdlZzdVFISzRVQXBPVV92cjNsdlRBVURhVXpPTkI1bE05OGhmQjY0TzF0RHd0QTl0cmFZaWJlRUdYMWloeWRYZw?oc=5",
+          "id": "ai_1792194451_1",
+          "title": "(株)ユビキタスＡＩ【3858】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LNUpnN0duS1V0QldLYnBYLUU0VjBNclVfUjBYeFc0VjhQalpBb3RHdnR1WkZmUE9DTkJUMS1jV2sxQldQeVJQanRFRXFkMlE5WWc?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-16 07:59",
-          "headline": "グーグルＡＩ向けニュース提供、ＣＮＮやアクシオスなど新たに参加 - Reuter...",
+          "published_at": "2026-10-17 05:54",
+          "headline": "(株)ユビキタスＡＩ【3858】：株価・株式情報（夜間PTS含む） - Yaho...",
           "summary": [
-            "【概要】グーグルＡＩ向けニュース提供、ＣＮＮやアクシオスなど新たに参加 - Reuters",
-            "グーグルＡＩ向けニュース提供、ＣＮＮやアクシオスなど新たに参加 Reuters...",
+            "【概要】(株)ユビキタスＡＩ【3858】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+            "(株)ユビキタスＡＩ【3858】：株価・株式情報（夜間PTS含む） Yahoo!ファイナンス...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -246,16 +246,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1792108002_2",
-          "title": "今日の株式見通し＝買い先行、大幅安の反動で ＡＩ開発への懸念は継続 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdnVxRFNRTTNRd2t5emVqN2xtOHRoeEpGU01GcExRdzZlT3BhTWs0RmstMEJ3ZlN5Q1RFYndlbHJzYWlHcXBNQ3RCMzVuOWJIU0lqMm9OOG5Ba2h6c0kzWnh0VjhublQ2ZFhMVEJkbm9laHZsMHBYRk9TZWJYa0NPMTc4aEtzZw?oc=5",
+          "id": "ai_1792194451_2",
+          "title": "「AI以外ありえない」サイバー攻撃、無差別に会員情報サイト狙う - 日本経済新聞",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzQ09qa2NvSDAyUmpSVVhNSjB4RmI4Q1lEcFRIRWJ6WUstRUNnaDEyOXBvRjBFanBaVHYybWVZaHZLTnM4TUMxOGt5dzVVSHBESXVjU2ZiVERzRHYwZmd1SkhZVzJrVTVtdFN2SQ?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-16 07:52",
-          "headline": "今日の株式見通し＝買い先行、大幅安の反動で ＡＩ開発への懸念は継続 - Reut...",
+          "published_at": "2026-10-17 05:00",
+          "headline": "「AI以外ありえない」サイバー攻撃、無差別に会員情報サイト狙う - 日本経済新聞",
           "summary": [
-            "【概要】今日の株式見通し＝買い先行、大幅安の反動で ＡＩ開発への懸念は継続 - Reuters",
-            "今日の株式見通し＝買い先行、大幅安の反動で ＡＩ開発への懸念は継続 Reuters...",
+            "【概要】「AI以外ありえない」サイバー攻撃、無差別に会員情報サイト狙う - 日本経済新聞",
+            "「AI以外ありえない」サイバー攻撃、無差別に会員情報サイト狙う 日本経済新聞...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -266,16 +266,36 @@
           "importance": 3
         },
         {
-          "id": "ai_1792108002_3",
-          "title": "NSFW対応の画像生成AI｜アニメキャラ生成マニア AI彼女 アプリ 類似 一覧 - Universidad de Córdoba (UCO)",
-          "link": "https://news.google.com/rss/articles/CBMimwRBVV95cUxNWEw3S1FpS0ZEMWdxbXhlVEdKbGVXWjgwTnZtY05DYUpHYjRYa1BBV2tkSU9fUlFBZEhkMUNDRFB2TXdxeDlLZVF5UUdoaFZvZWQ0aFJBQTZsN1g1dmxkczlnTExPLVNIWUROTVJINFRXcEtpZDk2b0lOak03a2ZMWW5VVGVZelhSYThKTkFkeXBlT0hBYmZwTVlXWW9jMUVEUTBydEZxRURHZnJDRU9STzJ2MHdndjFreVRtYV9CS3pWMjRrMkdhdkxWNWVVRXNvOThqOUhsYm5yMG53RC1NX1lCeF9mQXFDenV6U3N4aXpYNXQ0ZUNnVmx4LWNfZTdrNk04S0pSTmpCcmhWUjBMVXExNnNNR1ZOSFA1WHFnZDB0LWhuT0NFODdrTGdhMmp3Zmt6VEs2TDFfbWJjSzl6X2FnVGRiTUlEU3Y2LTJyRzB4YjFrUlRORnFIWkhfcllHQ0drNzJtS296emhHZWVWbkp4akJmUTF0V0ZMMVdURXBjTi1wdXhTOExMdTM3dGtLN3FRQzQyakhodlBKY3VaQzlfLTZHeEpta1hTQWhvU0pVSjhTUnhFZy1heXpVT0dnR29yNng5NWxtWThHWFYzMG1SaHdDOV81ZVo0UXBicmZYcWVxYXU5MzZudl96ekZyU3lwNGdqQmdoTFlWOWl5aVlmclI3dkF4blgzdmpfdVRKc1pGVFdiVXFWWQ?oc=5",
+          "id": "ai_1792194451_3",
+          "title": "How Itaú is building generative AI for its entire customer base",
+          "link": "https://openai.com/index/itau-generative-ai",
+          "source": "OpenAI Official Blog",
+          "is_official": true,
+          "published_at": "2026-10-17 04:00",
+          "headline": "How Itaú is building generative AI for i...",
+          "summary": [
+            "【概要】How Itaú is building generative AI for its entire customer base",
+            "With ia.i, a conversational interface, and the IARA governan...",
+            "情報提供元: OpenAI Official Blog"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 4
+        },
+        {
+          "id": "ai_1792194451_4",
+          "title": "AI彼女 アプリ 比較 ai - Universidad de Córdoba (UCO)",
+          "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNdXRnVUhneVNicEZwQ2RHU0RDMEV6UnNkVjhUZnRyVTlDczNmdXg3cWFKUnlxMENoWGlKXzVyRzdhZ084U1Mxc2ZRd1I4M2wtcUxLMXFGallwdi1xb1hPMXdkdW9LX0djR3B4YUg5bDNoNEQ1WE51d1hMVk5TRlFRWWxleTNJcHliTFZ3RXRoX0IwSmwzdUlubnJvYzVPV19ZZGFpbVM3elJqWkZvTzU5N05CZjZRRkNCMW1ya3czUml4QWxUSER4czc0cVlSa25GU3htVlZQYWFyaTFYWnUwTGpmbVBpYVVsWjdBVHoyMGRPd3pkOEJscldlS0FmTWVna3BMZ1RLQmNuYWxITHVEb0RZMWt6MjVZaThzeUxBT1gzdHNUTm1faktyYXNYU3NE?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-16 07:30",
-          "headline": "NSFW対応の画像生成AI｜アニメキャラ生成マニア AI彼女 アプリ 類似 一覧...",
+          "published_at": "2026-10-17 03:34",
+          "headline": "AI彼女 アプリ 比較 ai - Universidad de Córdoba ...",
           "summary": [
-            "【概要】NSFW対応の画像生成AI｜アニメキャラ生成マニア AI彼女 アプリ 類似 一覧 - Universidad de Córdoba (UCO)",
-            "NSFW対応の画像生成AI｜アニメキャラ生成マニア AI彼女 アプリ 類似 一覧 Universidad de Córd...",
+            "【概要】AI彼女 アプリ 比較 ai - Universidad de Córdoba (UCO)",
+            "AI彼女 アプリ 比較 ai Universidad de Córdoba (UCO)...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -286,36 +306,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1792108002_4",
-          "title": "米ＡＩ企業専門家、ディープフェイク精度向上で裁判の証拠判断困難と警告 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5LbU5EX0JDTmdSVnZaSlhxa1ZGbFMzTGkwSU5XSm1UWDUtTzViNVozUThEWnY1T2NmeHAwNmM2NVVkSC16UWsxdlFVSGxIQmp2NWFLbGxmM0F4SmM3eVpIc3dZVmxfcHFuRm42cVp6VUZUcGdQQVZUMWlwS1B0dw?oc=5",
+          "id": "ai_1792194451_5",
+          "title": "2026年のAI生成アダルトコンテンツツールの選び方 ai - Universidad de Córdoba (UCO)",
+          "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQTEZtLVMyeVFEbmJPNjZfeXZjRWxIcGNpZ0pPWjJKcVFSTXpOaEN0SEp4S0NtTUlyNUFNS0ZtTEo1OEJ3RUhGakZka05oTGdRZlh0V2NCcHNBMDZTZlhZZ2wzbWlNRUVnSUp0WTd2WmJHckpQR3VWUEdkOEhDS1pSWTlYOHBJbExKYnlIanB3TFVkd2d0enNHUF84S01jMGNFaXhJbUM4WkYwS0RPVFNRamNBa3dHVGl5UF85OUJ3anFNMUZHUTJDUlBHM0RuZEZjeFZoN2FBUEdKdF8zTjNDQ3NuMnlDeGRZVXFjZEM2UC1GZW5HSjdjU3VRVUVVd3RLVGpFYTlxcGEwQ1hHZzFVY1FoNmJGM3h5eHgtQWF0cjhhNklINTlIdnhRZFFZSHAwVFZoanVZenUwQVhFUGNwNHJyZC1tSUVBN3hXd1dfcHItZ255VUNyT1pTQUkyZ09YMHU0?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-16 07:23",
-          "headline": "米ＡＩ企業専門家、ディープフェイク精度向上で裁判の証拠判断困難と警告 - Reu...",
+          "published_at": "2026-10-17 03:34",
+          "headline": "2026年のAI生成アダルトコンテンツツールの選び方 ai - Universi...",
           "summary": [
-            "【概要】米ＡＩ企業専門家、ディープフェイク精度向上で裁判の証拠判断困難と警告 - Reuters",
-            "米ＡＩ企業専門家、ディープフェイク精度向上で裁判の証拠判断困難と警告 Reuters...",
-            "情報提供元: Google News (AI)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "ai_1792108002_5",
-          "title": "アングル：ＡＩ株売りに勢い、資金調達に懸念 クライマックスには距離 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1pVHlBc1RsZnlsdjg5UjdYdEFLU09PcTIyVklIXzNEemZkRVVPT2ljZHFtS1lrTi1SVWEzcEhtM0wxb182S0xFVlpteGxvcXhhN0Y4cVFGRHVPOHBiemRTcVJNTFcyckVsaENDZU1XWENEQnloc0o4RW1hVXZuUQ?oc=5",
-          "source": "Google News (AI)",
-          "is_official": false,
-          "published_at": "2026-10-16 07:10",
-          "headline": "アングル：ＡＩ株売りに勢い、資金調達に懸念 クライマックスには距離 - Reut...",
-          "summary": [
-            "【概要】アングル：ＡＩ株売りに勢い、資金調達に懸念 クライマックスには距離 - Reuters",
-            "アングル：ＡＩ株売りに勢い、資金調達に懸念 クライマックスには距離 Reuters...",
+            "【概要】2026年のAI生成アダルトコンテンツツールの選び方 ai - Universidad de Córdoba (UCO)",
+            "2026年のAI生成アダルトコンテンツツールの選び方 ai Universidad de Córdoba (UCO)...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
