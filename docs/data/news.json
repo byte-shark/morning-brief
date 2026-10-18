@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026年10月18日 08:19",
-  "updated_at_iso": "2026-10-18T08:19:51.849219+09:00",
+  "updated_at": "2026年10月19日 08:33",
+  "updated_at_iso": "2026-10-19T08:33:50.868016+09:00",
   "model_used": "mock-mode",
   "categories": [
     {
@@ -10,7 +10,7 @@
       "description": "Microsoft Azureの公式発表・最新クラウド動向",
       "articles": [
         {
-          "id": "azure_1792279192_1",
+          "id": "azure_1792366431_1",
           "title": "Microsoft AI無料講座と認定資格、Microsoft Learnガイド - Pasquale Pillitteri",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRWtKWjJXQmtfOHg5YlZMcGhnMzlGa3NLMzIyMVY5UlZSUjhlSkdzeTR0M0syWl9ESVpOc0hJOEl1SGtNUWdRdHhrM3VaTDVqX0UyY0Y5dVg4MEE4NGpLeWs3WEtwSWk1dXRnY21WWVhxUmJkTHdWeEdVaHdjSGhLenNtTlpnYzk2YmtfaHZNN1ZWQQ?oc=5",
           "source": "Google News (Azure)",
@@ -30,7 +30,27 @@
           "importance": 3
         },
         {
-          "id": "azure_1792279192_2",
+          "id": "azure_1792366431_2",
+          "title": "Beyont、「AIエージェントを禁止でも、野放しにもしないーCopilot活用を促進する『ガイドライン策定』の進め方」をテーマにセミナーを開催（10/21）｜Infoseekニュース - Infoseek",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiVE1ES1dPVnRLS2doMl9ZQjZHY1hJX0xLVUp2MWtiTnV5ekV5cGYzQXJURW1ic1VuZExjdHl5a0Jfa2ktcHZBZzRZUHZ0Y3J0ZThKMWdZUXZTQkViWE1MTjA4dTFia1d6Zll1Nnl3aVNqUQ?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-10-18 03:10",
+          "headline": "Beyont、「AIエージェントを禁止でも、野放しにもしないーCopilot活用...",
+          "summary": [
+            "【概要】Beyont、「AIエージェントを禁止でも、野放しにもしないーCopilot活用を促進する『ガイドライン策定』の進め方」をテーマにセミナーを開催（10/21）｜Infoseekニュース - Infoseek",
+            "Beyont、「AIエージェントを禁止でも、野放しにもしないーCopilot活用を促進する『ガイドライン策定』の進め方」...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1792366431_3",
           "title": "小林 治郎 (KOBAYASHI Jiro) - Microsoft Source",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51NTJ1WEY5dG9FQ0xaYlQxaDU5ZUlkQUpVbGRFcnFTVmpBTGEwQVFIalhlNnhCdjFCRlFhbDY1UTZJZHR3U0hPOUwyWnhxcnhvU1B6Tm5SemtfMU9YcEJoZWRkMmNoS1kzZ3huRTBiRmFhcVl3bTdYZQ?oc=5",
           "source": "Google News (Azure)",
@@ -50,7 +70,7 @@
           "importance": 3
         },
         {
-          "id": "azure_1792279192_3",
+          "id": "azure_1792366431_4",
           "title": "ゴールドマン・サックスとシティが揃ってマイクロソフトに強気：Azure成長率47%到達の可能性、AI投資収益率が新たな焦点に - BigGo ファイナンス",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zZTRUajF4MlFjdHpRWXBnaTJ6YXlLOGFXS0xsbTRyTGEtU0ZuamltcDYzVkF4OF90cS1LOWJTaDFmNlRiWm92U0s3RS1pYlNlM1Vibm52T0liSEs4emY2VnJPaHBmWnNoOTJlZTRxUjljaFho?oc=5",
           "source": "Google News (Azure)",
@@ -70,36 +90,16 @@
           "importance": 3
         },
         {
-          "id": "azure_1792279192_4",
-          "title": "マイクロソフトが 10 月のセキュリティ情報公開、悪用の事実を確認済みの脆弱性が 1 件（ScanNetSecurity） - Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKYllMRFVabURiUkVyLUlzOFE5Q0pMSk05TGhCTXZLaTNTN1pLajlFc1dmRGJ2V1NmZGJGV3JtaU1PYXFxempsSkNacmk4c21pWGNGWk42QWZYTDNSY0o2TDdzNHU3Q3V1akhod2N6enYyNkw1MDdsWGVKT19ZUHM?oc=5",
+          "id": "azure_1792366431_5",
+          "title": "マイクロソフトが 10 月のセキュリティ情報公開、悪用の事実を確認済みの脆弱性が 1 件 - Excite エキサイト",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KQzJHVVdRQkJiQWo4RlBRQzllWF85QU5RUWY0MHp5eXBGRnNEVk1NYUljNW9QcWFnRlZPY2Zlbkx4QU84MDN1R0k2bFVjT0VqLXZ3cHI1M3hWYWNwNWc2NGpucXlxNEtnUXJv?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-10-16 08:00",
+          "published_at": "2026-10-16 09:18",
           "headline": "マイクロソフトが 10 月のセキュリティ情報公開、悪用の事実を確認済みの脆弱性が...",
           "summary": [
-            "【概要】マイクロソフトが 10 月のセキュリティ情報公開、悪用の事実を確認済みの脆弱性が 1 件（ScanNetSecurity） - Yahoo!ニュース",
-            "マイクロソフトが 10 月のセキュリティ情報公開、悪用の事実を確認済みの脆弱性が 1 件（ScanNetSecurity...",
-            "情報提供元: Google News (Azure)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "azure_1792279192_5",
-          "title": "Microsoft、10月の月例更新で脆弱性1413件に対応 悪用確認済みの脆弱性は：セキュリティニュースアラート - ITmedia",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QaE5RVkxXdHNZOXlPbVJaSnVrbmFpV2ZZTjE0RnZJTTk2TFg1NDdvTjNfRFJOM21Wc0FFTUtXUzgxOW0za1A3ZVgzVkd5ZU1JVjc5cDI0LXVyY2dnREc0REI2QTRyUTRFWDZIaWtDSkVVTGZV?oc=5",
-          "source": "Google News (Azure)",
-          "is_official": false,
-          "published_at": "2026-10-16 07:00",
-          "headline": "Microsoft、10月の月例更新で脆弱性1413件に対応 悪用確認済みの脆弱...",
-          "summary": [
-            "【概要】Microsoft、10月の月例更新で脆弱性1413件に対応 悪用確認済みの脆弱性は：セキュリティニュースアラート - ITmedia",
-            "Microsoft、10月の月例更新で脆弱性1413件に対応 悪用確認済みの脆弱性は：セキュリティニュースアラート IT...",
+            "【概要】マイクロソフトが 10 月のセキュリティ情報公開、悪用の事実を確認済みの脆弱性が 1 件 - Excite エキサイト",
+            "マイクロソフトが 10 月のセキュリティ情報公開、悪用の事実を確認済みの脆弱性が 1 件 Excite エキサイト...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -118,16 +118,16 @@
       "description": "テスラの最新アップデート・EV・FSD・決算動向",
       "articles": [
         {
-          "id": "tesla_1792279193_1",
-          "title": "テスラ（TSLA）の株価は、売上高ベースに比べて割高で取引されている - Simply Wall Street",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPS1l5WEV2c1hrZ0c4WU0zUXFOVmZSaWdaWXRvYXRlai1zdU03eWpjaF9VX0U0el9JVTctYnJTNzFZZVJBSzBrLWZUMW1IU0NwczlldHdMOWk3eHNuMFZ4SmI3RUV6blJZR0QxUFJtSjdhSlRGUDEzZUdnNFRGUHRmNFhtLWVSa3RTa0hrcXgzY9IBlAFBVV95cUxOSEJaTFcxMHoxUzdiYVk3VzljdWduaklyQXpMZlk0bTNESkhqOUE3UXI5STVzQ3YxM3QwVXlXakZSdDBrSWdlQ1llTHhYTnJwYXRaRmRFWU56X081V1pFN2M5Y2FTNlk2RnBFd0J6aWF1cDdiNHNJZWt5ZkdSN1JxcDZCOWctemJRSWVETW1WQlc0OVIt?oc=5",
+          "id": "tesla_1792366432_1",
+          "title": "Tesla Roadsterの予約金だけで3億5,000万ウォン…車両納車は「未知数」 - BigGo ファイナンス",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0tdnU4WUthN3IyTWx3NEJ0NjRWb1VoemVVMjJ6QlZBMUlfZVpwWjRha0pMdlFUcWVUMkgySU9QLVpDbkc3X3l1T1Z5MndNRTdZWWN5VDR5QUtsbTFJeUgtTlhQRF9aNHdQWWU3aEhnR1pNREJS?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-10-18 05:57",
-          "headline": "テスラ（TSLA）の株価は、売上高ベースに比べて割高で取引されている - Sim...",
+          "published_at": "2026-10-19 07:25",
+          "headline": "Tesla Roadsterの予約金だけで3億5,000万ウォン…車両納車は「未...",
           "summary": [
-            "【概要】テスラ（TSLA）の株価は、売上高ベースに比べて割高で取引されている - Simply Wall Street",
-            "テスラ（TSLA）の株価は、売上高ベースに比べて割高で取引されている Simply Wall Street...",
+            "【概要】Tesla Roadsterの予約金だけで3億5,000万ウォン…車両納車は「未知数」 - BigGo ファイナンス",
+            "Tesla Roadsterの予約金だけで3億5,000万ウォン…車両納車は「未知数」 BigGo ファイナンス...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -138,47 +138,7 @@
           "importance": 3
         },
         {
-          "id": "tesla_1792279193_2",
-          "title": "テスラ新型ロードスターが空中フリップでデモ成功 - X",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDV0g1enl3OEpIRDJmMkI0NFhQWmpxdlJGVk1qdy00V05uYUpvMkZ4Rmt0MGRLaDk3QUh4bm00UTlOQ0VPZ3hOMDRycnVhUGJzYVl5N1RZNA?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-10-18 00:39",
-          "headline": "テスラ新型ロードスターが空中フリップでデモ成功 - X",
-          "summary": [
-            "【概要】テスラ新型ロードスターが空中フリップでデモ成功 - X",
-            "テスラ新型ロードスターが空中フリップでデモ成功 X...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "tesla_1792279193_3",
-          "title": "新型『テスラ・ロードスター』ついに正式発表！ ロケット技術で空も飛ぶ イーロン・マスクCEOは2028年生産開始を約束 - Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rd2tjZkFKZThleFZueXBkODNzYWN2VTU4UzdSNEN1bFM4aFA2V3dfa1phT3Y0NkZjU3dLbGZIZ1dKUDBLRE9MbjBvdk5LQVE5UGdJdzRYcnNUalpJbnhybkZmUURXZmJBMTRKZ1ZrTzU5empoNFVITEVMdTdhbDA?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-10-17 11:45",
-          "headline": "新型『テスラ・ロードスター』ついに正式発表！ ロケット技術で空も飛ぶ イーロン・...",
-          "summary": [
-            "【概要】新型『テスラ・ロードスター』ついに正式発表！ ロケット技術で空も飛ぶ イーロン・マスクCEOは2028年生産開始を約束 - Yahoo!ニュース",
-            "新型『テスラ・ロードスター』ついに正式発表！ ロケット技術で空も飛ぶ イーロン・マスクCEOは2028年生産開始を約束 ...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "tesla_1792279193_4",
+          "id": "tesla_1792366432_2",
           "title": "Tesla driver says he was asleep on FSD when he hit CHP car, 2 officers hurt",
           "link": "https://electrek.co/2026/10/16/tesla-fsd-crash-chp-patrol-car-driver-asleep-fairfield/",
           "source": "Electrek (Tesla)",
@@ -198,7 +158,7 @@
           "importance": 4
         },
         {
-          "id": "tesla_1792279193_5",
+          "id": "tesla_1792366432_3",
           "title": "テスラの新型「ロードスター」が“飛んだ” - WIRED.jp",
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05R0pkcWNoSVNYeDNydmV3TzJvUjloLS1Hbm5wb3V3TmNEdzdCVGliWHdLdjZma3pBdW9mX0tHOUJycjlrQ0laRkliV3pEREhrM0JIeFVYYXFBSjdpanc?oc=5",
           "source": "Google News (Tesla)",
@@ -208,6 +168,46 @@
           "summary": [
             "【概要】テスラの新型「ロードスター」が“飛んだ” - WIRED.jp",
             "テスラの新型「ロードスター」が“飛んだ” WIRED.jp...",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "tesla_1792366432_4",
+          "title": "まるでSFの世界、テスラが「空飛ぶ車」をお披露目 - CNN.co.jp",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDYm9wNmdkSEh6QnFnNGVreVVqV2xWU2ZfQzRiR0s2WVdOYXN1UUNlMDBZT0VpRmNLUWlfR3BXQzR6U09FVGxmb0lmS24xdkZRbEhneUZIWQ?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-10-16 14:06",
+          "headline": "まるでSFの世界、テスラが「空飛ぶ車」をお披露目 - CNN.co.jp",
+          "summary": [
+            "【概要】まるでSFの世界、テスラが「空飛ぶ車」をお披露目 - CNN.co.jp",
+            "まるでSFの世界、テスラが「空飛ぶ車」をお披露目 CNN.co.jp...",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "tesla_1792366432_5",
+          "title": "テスラの新型「ロードスター」、空中旋回を披露 28年生産開始 | ロイター - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1tYkxVcXhWODBOaWQ1SlY4OG5SbVpIVmJzZ09rVjI0SWVTQ2pxbWRvUjhXZWVmYnF5aHg0N0ladkR1YS1Gd0hPc3hWUDlfbzFKd1RPSVFGUjBXbU4zQnBUSnViZUJHUlJwMTNXYmlsdm9Hd2tQc25pd3VCQmZidw?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-10-16 13:22",
+          "headline": "テスラの新型「ロードスター」、空中旋回を披露 28年生産開始 | ロイター - ...",
+          "summary": [
+            "【概要】テスラの新型「ロードスター」、空中旋回を披露 28年生産開始 | ロイター - Reuters",
+            "テスラの新型「ロードスター」、空中旋回を披露 28年生産開始 | ロイター Reuters...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -226,16 +226,16 @@
       "description": "OpenAI・Google・生成AIの公式発表・技術速報",
       "articles": [
         {
-          "id": "ai_1792279194_1",
-          "title": "中国、AIの海外普及は推進・核心技術の流出は制限 輸出規制で新戦略 - 株式会社エクサウィザーズ",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xTUtsQjQxNFo3MGlWNkxSVU9jSVZmblZxR0NDRFRLY0hOcGEtaWNhS3kwdFRZdDV6enowbllhcjY4NkdkMWF2WmxfdHNTOWxIZGw1MTNKczZiNmNTRUFTNFJRNHFxZw?oc=5",
+          "id": "ai_1792366433_1",
+          "title": "米アンソロピック、ＡＩの安全性確保に向けた法案を議員に提案＝報道 - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5TRFdmRkNkTmszc0RQMEdKa25nbnkwUlNpbHpMd1pNQ3VleGN5VDhnSlV4WE1Ed3FHb1JrRVg3elNvMTJWcG1XdVE1T3QyZ1kzQU9QRGNOM3dPdDFZZHRmTVB6N2w1ZUl5UXBCUlV2bU5Pekd6NnhscGJ4SXFqZw?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-18 07:54",
-          "headline": "中国、AIの海外普及は推進・核心技術の流出は制限 輸出規制で新戦略 - 株式会社...",
+          "published_at": "2026-10-19 08:00",
+          "headline": "米アンソロピック、ＡＩの安全性確保に向けた法案を議員に提案＝報道 - Reute...",
           "summary": [
-            "【概要】中国、AIの海外普及は推進・核心技術の流出は制限 輸出規制で新戦略 - 株式会社エクサウィザーズ",
-            "中国、AIの海外普及は推進・核心技術の流出は制限 輸出規制で新戦略 株式会社エクサウィザーズ...",
+            "【概要】米アンソロピック、ＡＩの安全性確保に向けた法案を議員に提案＝報道 - Reuters",
+            "米アンソロピック、ＡＩの安全性確保に向けた法案を議員に提案＝報道 Reuters...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -246,16 +246,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1792279194_2",
-          "title": "AIは思考実験をできるのか―アインシュタインの科学的想像力から考えるAI研究（佐藤仁） - エキスパート - Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV1hMLXpLMF93YTBtY25ZUnprd29CeXNZZG1wcGtpdFFLckpyWHp3bjcta1RCdnZSLVNwZzhVOU9iYlJ6aFlFYVVxUHN4UjUwMVIxWWc1c1pQVjlRN0hrT1FDT25zX2RXb1hKVTQ3X1hiQXI3R0R1emFMc1ZVS1p1WW1RbmNYOUlS?oc=5",
+          "id": "ai_1792366433_2",
+          "title": "AIと育つ子どもたち。α世代が描く、生活者とAIの未来 @メ環研フォーラム2026 レポートvol.3｜The H Magazine - www.hakuhodo.co.jp",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhU3NGY2lHaGxBSlNsWWJIcXV1cnFYV0VObUx2N25FTFVTSHZvN0V5aEN6LXc2ZjI3dFN5dW1saEFDR1NUQzJkWWZuVXVZbDAzbWp0SWh3?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-18 06:01",
-          "headline": "AIは思考実験をできるのか―アインシュタインの科学的想像力から考えるAI研究（佐...",
+          "published_at": "2026-10-19 07:04",
+          "headline": "AIと育つ子どもたち。α世代が描く、生活者とAIの未来 @メ環研フォーラム202...",
           "summary": [
-            "【概要】AIは思考実験をできるのか―アインシュタインの科学的想像力から考えるAI研究（佐藤仁） - エキスパート - Yahoo!ニュース",
-            "AIは思考実験をできるのか―アインシュタインの科学的想像力から考えるAI研究（佐藤仁） - エキスパート Yahoo!ニ...",
+            "【概要】AIと育つ子どもたち。α世代が描く、生活者とAIの未来 @メ環研フォーラム2026 レポートvol.3｜The H Magazine - www.hakuhodo.co.jp",
+            "AIと育つ子どもたち。α世代が描く、生活者とAIの未来 @メ環研フォーラム2026 レポートvol.3｜The H Ma...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -266,16 +266,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1792279194_3",
-          "title": "北朝鮮がAIを導入した新型の超高速魚雷システムの発射実験 北朝鮮メディア報道 - TBS NEWS DIG",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5IVzFXeDU3cTBBQ1FTLVhXaHlhMGVGZ1AwVl82NzRsM25xaV91MHRBQnhMc2RLUFczdXQwb2dka0MxM1RnbVBZOE5aelJtRXFYbjFhLXl1OA?oc=5",
+          "id": "ai_1792366433_3",
+          "title": "AI活用で見えた「想定外の壁」--ツール選びより重要だったもの - ZDNET Japan",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14eUVPZ2ZtRmlwWWhIcTNHS3Y2YldWc0ZBdGVDLVFzWlVielNVbU8tRVRoYjlRbElZNXdHSG1DVVYtN3lHdVdmbGw3V3EtVDhLTlRv?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-18 05:24",
-          "headline": "北朝鮮がAIを導入した新型の超高速魚雷システムの発射実験 北朝鮮メディア報道 -...",
+          "published_at": "2026-10-19 07:00",
+          "headline": "AI活用で見えた「想定外の壁」--ツール選びより重要だったもの - ZDNET ...",
           "summary": [
-            "【概要】北朝鮮がAIを導入した新型の超高速魚雷システムの発射実験 北朝鮮メディア報道 - TBS NEWS DIG",
-            "北朝鮮がAIを導入した新型の超高速魚雷システムの発射実験 北朝鮮メディア報道 TBS NEWS DIG...",
+            "【概要】AI活用で見えた「想定外の壁」--ツール選びより重要だったもの - ZDNET Japan",
+            "AI活用で見えた「想定外の壁」--ツール選びより重要だったもの ZDNET Japan...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -286,16 +286,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1792279194_4",
-          "title": "社説：米ＡＩ自主規制 企業任せでは安全を守れない - 読売新聞",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tRm1TRHViQjZPQVlXLUFPN2dPTERvMUwwSEw5eVJfb0xqNU90d0d1ZXlkUUtXRFlFbTg4RjEwYWVYMVZaUGM3bDdSdGxJS2hEYjdkX24xQjFETWRTVFBSc2RZdzJrc0k?oc=5",
+          "id": "ai_1792366433_4",
+          "title": "【単独】エンジニア不要…シスメックス子会社の製造現場発「不良解析AI」爆誕の裏側 - ビジネス+IT",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tOGNsbzZOS3YxSFhZSG1GNUxZbDVYR21JdnVoenFSXzZyakZWanMyUDlLTWVNYmFNMGQwcTc1VU1jMzNMR1pYcUJ2WGkwZTE2MGhFUHNFeG8tdw?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-18 05:00",
-          "headline": "社説：米ＡＩ自主規制 企業任せでは安全を守れない - 読売新聞",
+          "published_at": "2026-10-19 06:50",
+          "headline": "【単独】エンジニア不要…シスメックス子会社の製造現場発「不良解析AI」爆誕の裏側...",
           "summary": [
-            "【概要】社説：米ＡＩ自主規制 企業任せでは安全を守れない - 読売新聞",
-            "社説：米ＡＩ自主規制 企業任せでは安全を守れない 読売新聞...",
+            "【概要】【単独】エンジニア不要…シスメックス子会社の製造現場発「不良解析AI」爆誕の裏側 - ビジネス+IT",
+            "【単独】エンジニア不要…シスメックス子会社の製造現場発「不良解析AI」爆誕の裏側 ビジネス+IT...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -306,16 +306,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1792279194_5",
-          "title": "無料の画像から動画へのAI生成ツール - Universidad de Córdoba (UCO)",
-          "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQek1uUlpmUGxWRUdUTng3ZUdOb0I1am43dFJlVVRuUW1UX0lhS0ZjZXkzeTFpUTdxVmtESjZoOVl0TnhSQ3RHWGNyWkwtdUtBN05mc040dFVVMWI3Tm0tZWt2Sm4tS3ROMWd4dC1EeGRwanM5T0xBZUEwYmNLY2VaOU1EckJVRmdTVUJMZUkzc2w3RU9ZNEoteHFycXZEN2pBQUtGaGtMSHpIMXZ3VzB0dTFiYmZ6NXFRTXhLbHd3NmVqVTRrQm5lVFFuNGRHWUthRFNpNDNrUWpfVE5oM1hvYS1DRVNzRVlHTkJDMm9ENk0xWld1V2tTOU93cmRWSnFfZ0p3cko5YmRUZmdjQ2FDbjkxQjJ6R1ZVdFYyTHhB?oc=5",
+          "id": "ai_1792366433_5",
+          "title": "英AIデータセンター計画でマイクロソフト撤退 英新興に打撃 - 日本経済新聞",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vcmNZOS0xVUVSSVlfSWtoanVDZEh4ZkVtd3ducXlhcDVyYTM3cnExZFFrM0p2UllUWWxqVUlHcFU3MkdpX3BmZC1uWlhKbjBHX3FXZWVJUVJzYnRjQmZqcFNET2ZnTHpiQ2IySQ?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-18 02:53",
-          "headline": "無料の画像から動画へのAI生成ツール - Universidad de Córd...",
+          "published_at": "2026-10-19 03:48",
+          "headline": "英AIデータセンター計画でマイクロソフト撤退 英新興に打撃 - 日本経済新聞",
           "summary": [
-            "【概要】無料の画像から動画へのAI生成ツール - Universidad de Córdoba (UCO)",
-            "無料の画像から動画へのAI生成ツール Universidad de Córdoba (UCO)...",
+            "【概要】英AIデータセンター計画でマイクロソフト撤退 英新興に打撃 - 日本経済新聞",
+            "英AIデータセンター計画でマイクロソフト撤退 英新興に打撃 日本経済新聞...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
