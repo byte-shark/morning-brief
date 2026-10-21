@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026年10月20日 09:33",
-  "updated_at_iso": "2026-10-20T09:33:17.587405+09:00",
+  "updated_at": "2026年10月21日 09:03",
+  "updated_at_iso": "2026-10-21T09:03:18.746667+09:00",
   "model_used": "mock-mode",
   "categories": [
     {
@@ -10,16 +10,16 @@
       "description": "Microsoft Azureの公式発表・最新クラウド動向",
       "articles": [
         {
-          "id": "azure_1792456398_1",
-          "title": "QSTPとMicrosoftが提携、AzureとAIでカタールのスタートアップを支援 - ニュースと統計 - IndexBox",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPN3U1RWNuRlJ2ZFRSTmVCQWhiZ2pvSkRlWWFiUjhXSWlJTzczNThlMG9BWVY1THdSOFhFWEs2LTdlMTZfQk5aY2NSRm4tREFKRVYyTG14Vi1xeFVEaXJjbC1NdEotR3JsbjdIaGtNaDRPU2c5V0ZLYUxTU1Q2RUhHMTF2OEpkMmY0aThOUGtlUnFIei1HMlFZeWJTYmg?oc=5",
+          "id": "azure_1792540999_1",
+          "title": "BMO キャピタル、Azure成長を背景にマイクロソフト株の目標株価を引き上げ 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5WWmJkOS14Z3ZVZnh0NzlydXZxMHhxRXFEbHZtal9FWG51cU4zU3NVLUkteU9zTHp4X2NFNzlsTE9tQm5IZDNVZUlZWl8yTXF4clVuZHk0ZGJ5WVJGU2pNUHIyMnl0SHVhRTUwMGFMeHk2QkZH?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-10-20 02:50",
-          "headline": "QSTPとMicrosoftが提携、AzureとAIでカタールのスタートアップを...",
+          "published_at": "2026-10-20 19:21",
+          "headline": "BMO キャピタル、Azure成長を背景にマイクロソフト株の目標株価を引き上げ ...",
           "summary": [
-            "【概要】QSTPとMicrosoftが提携、AzureとAIでカタールのスタートアップを支援 - ニュースと統計 - IndexBox",
-            "QSTPとMicrosoftが提携、AzureとAIでカタールのスタートアップを支援 - ニュースと統計 IndexBo...",
+            "【概要】BMO キャピタル、Azure成長を背景にマイクロソフト株の目標株価を引き上げ 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+            "BMO キャピタル、Azure成長を背景にマイクロソフト株の目標株価を引き上げ 執筆 Investing.com - F...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -30,16 +30,16 @@
           "importance": 3
         },
         {
-          "id": "azure_1792456398_2",
-          "title": "Microsoft Pulls Out Of UK Data Center Deal With Nscale - TIKR.com",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUWRyMTZBYmwzSXQxY1VhMWJQX1BfdURERk9zNmV1YW5SVUgxLVc3T3lZVFktejhoTUJ2Sm5GQUZKV3QzV0RSdDUwQ3UzY3dFeXN4aTFpMGNzaUxsSTd5ZU9oRndaR21rSkthcG5OUzN0Q1pqcEdJOGhaMVhzUS1meVJMb2dya2U1NU9jeHU0SQ?oc=5",
+          "id": "azure_1792540999_2",
+          "title": "Microsoft Copilotの生成効率を大幅向上！日本マイクロソフトが進める自社設計チップ「Maia」の最新戦略 - DXマガジン",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LUzNuUGQzNHJwelVaS00yNWFLV1J5aUJ2R2V1bFRGOHFqQlM3NVo0U0laMWpNMmxYLTEwUGNtOUZwYThoOURUaGZTWC1JMkE?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-10-19 23:06",
-          "headline": "Microsoft Pulls Out Of UK Data Center De...",
+          "published_at": "2026-10-20 17:52",
+          "headline": "Microsoft Copilotの生成効率を大幅向上！日本マイクロソフトが進め...",
           "summary": [
-            "【概要】Microsoft Pulls Out Of UK Data Center Deal With Nscale - TIKR.com",
-            "Microsoft Pulls Out Of UK Data Center Deal With Nscale TIKR....",
+            "【概要】Microsoft Copilotの生成効率を大幅向上！日本マイクロソフトが進める自社設計チップ「Maia」の最新戦略 - DXマガジン",
+            "Microsoft Copilotの生成効率を大幅向上！日本マイクロソフトが進める自社設計チップ「Maia」の最新戦略 ...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -50,16 +50,16 @@
           "importance": 3
         },
         {
-          "id": "azure_1792456398_3",
-          "title": "AWS Transform、Azure Functions用のコードをAWS Lambda用に変換など、Microsoft AzureからAWSへの移行に対応 - Publickey",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUHlkTjZTbFdHYnBjamtBdWJjeS11ekw4bnJNcnV5Q0V0R3BWS1lSbHowYk9JdUgxdk1kMmhTM0tsNVlJbGRySmJFcVpvQWxQRGxJSTYxbmxPLW1UTXc2cmZRbjM0bFMyVDdqelRnS0E2SlVEN2lHRldKZDNaZUt6UjFjOV9fcnZBa05Nc3ZJSXVjUkxMMGN5X2sxVQ?oc=5",
+          "id": "azure_1792540999_3",
+          "title": "エージェント型インサイダーのセキュリティを確保する - Microsoft Source",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN0ZYM2lfREVYS01KbkdTSFdlQ2x4ajc1NHhrOWtXSGJybzJfeWxpd0t0ZXVCRENhX2U1ZzBEeTRZcGR4ek51NG9iZ2JEZnRMdzJualVnaXh1Z0tCOTljZEN5RkxFQzh2aXpGSklnYlluYUF3S2JRbndmTFU3UnRVQUxwRHJPQUxYc0ZPUnZ3?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-10-19 22:49",
-          "headline": "AWS Transform、Azure Functions用のコードをAWS L...",
+          "published_at": "2026-10-20 17:50",
+          "headline": "エージェント型インサイダーのセキュリティを確保する - Microsoft So...",
           "summary": [
-            "【概要】AWS Transform、Azure Functions用のコードをAWS Lambda用に変換など、Microsoft AzureからAWSへの移行に対応 - Publickey",
-            "AWS Transform、Azure Functions用のコードをAWS Lambda用に変換など、Microsof...",
+            "【概要】エージェント型インサイダーのセキュリティを確保する - Microsoft Source",
+            "エージェント型インサイダーのセキュリティを確保する Microsoft Source...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -70,16 +70,36 @@
           "importance": 3
         },
         {
-          "id": "azure_1792456398_4",
-          "title": "Securing the agentic insider",
-          "link": "https://blogs.microsoft.com/blog/2026/10/19/securing-the-agentic-insider/",
+          "id": "azure_1792540999_4",
+          "title": "マイクロソフトが「Sovereign Cloud」を強化--「ソブリンは特別なクラウドではない」 - ZDNET Japan",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3bDNFb2RCeXJWV3NOaGphdzV5cV9VX2VGYjBTNi04OXFwRWNfR0FsOFNZZzVWQlNLZ1p2MVJpY1dRRzRhYjJqUVZpWXo0cnRvYlZv?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-10-20 17:30",
+          "headline": "マイクロソフトが「Sovereign Cloud」を強化--「ソブリンは特別なク...",
+          "summary": [
+            "【概要】マイクロソフトが「Sovereign Cloud」を強化--「ソブリンは特別なクラウドではない」 - ZDNET Japan",
+            "マイクロソフトが「Sovereign Cloud」を強化--「ソブリンは特別なクラウドではない」 ZDNET Japan...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1792540999_5",
+          "title": "Advancing digital sovereignty with greater control and choice",
+          "link": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/",
           "source": "Microsoft Official Blog",
           "is_official": true,
-          "published_at": "2026-10-19 22:00",
-          "headline": "Securing the agentic insider",
+          "published_at": "2026-10-20 17:20",
+          "headline": "Advancing digital sovereignty with great...",
           "summary": [
-            "【概要】Securing the agentic insider",
-            "In the last few months, concerns have arisen about AI safety...",
+            "【概要】Advancing digital sovereignty with greater control and choice",
+            "Across my conversations with leaders in government, critical...",
             "情報提供元: Microsoft Official Blog"
           ],
           "key_points": [
@@ -88,26 +108,6 @@
           ],
           "badge": "注目",
           "importance": 4
-        },
-        {
-          "id": "azure_1792456398_5",
-          "title": "ビットコインマイニング関連企業Nscale、電力供給の遅延が2030年代にまで及び、MicrosoftのAI契約を失う - CoinDesk",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQmczRkMxaGZZS3phYWsyMlIwZkJzVFZEcVRPUjhORWV2UnZ3dTZhdUFPQlR2am5DZ3h0Vi05YUxoT2RNYUJFMmhMMmlhNjhMQjVHQ0FrT0l6SGtfRVNONDVOeloxdHkxeEVHcEFCWEEyU1M2dTh2VVRIbGhnNnMyckdzSU0wckw3T3huYWVmeHNlcnV6T2VMWWpOV0puX2I2TF9ISWxvbi1rOFNSMGJzSmpHZnZwWFNMS1l4cl9YbjZRcTR1Z1cxLVNNVnh5ems?oc=5",
-          "source": "Google News (Azure)",
-          "is_official": false,
-          "published_at": "2026-10-19 20:25",
-          "headline": "ビットコインマイニング関連企業Nscale、電力供給の遅延が2030年代にまで及...",
-          "summary": [
-            "【概要】ビットコインマイニング関連企業Nscale、電力供給の遅延が2030年代にまで及び、MicrosoftのAI契約を失う - CoinDesk",
-            "ビットコインマイニング関連企業Nscale、電力供給の遅延が2030年代にまで及び、MicrosoftのAI契約を失う ...",
-            "情報提供元: Google News (Azure)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
         }
       ]
     },
@@ -118,36 +118,16 @@
       "description": "テスラの最新アップデート・EV・FSD・決算動向",
       "articles": [
         {
-          "id": "tesla_1792456399_1",
-          "title": "Flying, flipping Tesla Roadster delivered on style, THESE EVs deliver on substance",
-          "link": "https://electrek.co/2026/10/19/flying-flipping-tesla-roadster-delivered-on-style-these-evs-deliver-on-substance/",
-          "source": "Electrek (Tesla)",
-          "is_official": true,
-          "published_at": "2026-10-20 07:57",
-          "headline": "Flying, flipping Tesla Roadster delivere...",
-          "summary": [
-            "【概要】Flying, flipping Tesla Roadster delivered on style, THESE EVs deliver on substance",
-            "If last week’s headlines proved anything at all, it’s that t...",
-            "情報提供元: Electrek (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 4
-        },
-        {
-          "id": "tesla_1792456399_2",
-          "title": "“テスラ超え”狙う――チューリング「完全自動運転」までの道 「GPUより速いチップ」使った開発のウラ側 - ITmedia",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tX0JpVC1LVEYwV015TjR6eElmWlktczBzVl8xU0psbzZHVFRGaVphbHhTR1lzczBFYi1qcWRjUUpFdklfR2JpSnFRVTdSSVpfS0lrMlNVM2l6ai01UGQwTGxzX3Blc0h0di1lQWtWeVptQQ?oc=5",
+          "id": "tesla_1792541000_1",
+          "title": "マスク氏、スペースXとテスラが合併を協議する委員会設置と表明 - TBS NEWS DIG",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5TSXFVUFFBVXlCU00tR0VmSU5VTUt3VmwyNlhHdkRUaTZqQWRnUkNtdHpuRllJYzVyUzBYdm1NYlkxTHFNekd4Nl9UODFLLTJvS2psYmdHZ011QWlZakV4blZXbkZTQ1RfTG45U20wWmZBdmc4?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-10-20 07:00",
-          "headline": "“テスラ超え”狙う――チューリング「完全自動運転」までの道 「GPUより速いチッ...",
+          "published_at": "2026-10-21 07:41",
+          "headline": "マスク氏、スペースXとテスラが合併を協議する委員会設置と表明 - TBS NEW...",
           "summary": [
-            "【概要】“テスラ超え”狙う――チューリング「完全自動運転」までの道 「GPUより速いチップ」使った開発のウラ側 - ITmedia",
-            "“テスラ超え”狙う――チューリング「完全自動運転」までの道 「GPUより速いチップ」使った開発のウラ側 ITmedia...",
+            "【概要】マスク氏、スペースXとテスラが合併を協議する委員会設置と表明 - TBS NEWS DIG",
+            "マスク氏、スペースXとテスラが合併を協議する委員会設置と表明 TBS NEWS DIG...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -158,12 +138,52 @@
           "importance": 3
         },
         {
-          "id": "tesla_1792456399_3",
+          "id": "tesla_1792541000_2",
+          "title": "マスクCEO、SpaceXとTeslaが合併協議で特別委員会を設置と明かす - ITmedia",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBam10S3FuNTM5U0ZkaFVBZFc1Z0ljc1hIeGN0XzNtTXFjTlMzcjFVWUVLTWw0TzczcGdJekdCQ29TcjhudWhhcHlNeTNESzUxTXRKdF84WHE3VmsyaG5ud2w1WkFkVzlLQ0E?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-10-21 07:39",
+          "headline": "マスクCEO、SpaceXとTeslaが合併協議で特別委員会を設置と明かす - ...",
+          "summary": [
+            "【概要】マスクCEO、SpaceXとTeslaが合併協議で特別委員会を設置と明かす - ITmedia",
+            "マスクCEO、SpaceXとTeslaが合併協議で特別委員会を設置と明かす ITmedia...",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "tesla_1792541000_3",
+          "title": "スペースXとテスラ統合協議 イーロン・マスク氏が委員会設置を表明 - 日本経済新聞",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54MEFBelBsbEMwS2gwd3o2eWpRVW5acy1EWWUyZUhNNnNOdXZkczJER28xSjdxTi11ZW9reUZEQkxnby0tNnI1bkhpVTNDc2ZsYTdraHdsNzAzMEVrcVBCVm1mV05iRk41TkRaRw?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-10-21 06:47",
+          "headline": "スペースXとテスラ統合協議 イーロン・マスク氏が委員会設置を表明 - 日本経済新...",
+          "summary": [
+            "【概要】スペースXとテスラ統合協議 イーロン・マスク氏が委員会設置を表明 - 日本経済新聞",
+            "スペースXとテスラ統合協議 イーロン・マスク氏が委員会設置を表明 日本経済新聞...",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "tesla_1792541000_4",
           "title": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vR2owRXJLX1dwYUtHY05wNjVKVmVrTHNXdm5yRGJ0NHJzSzZTaEgxWFo0WmNBOWUxV2tXcHljUWlYaG92bll2YUNIQzJlVE0?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-10-20 06:34",
+          "published_at": "2026-10-21 06:44",
           "headline": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
           "summary": [
             "【概要】テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
@@ -178,44 +198,24 @@
           "importance": 3
         },
         {
-          "id": "tesla_1792456399_4",
-          "title": "テスラ、圧縮空気で空飛ぶロードスター 強烈なダウンフォース生む特許読解 - 日経クロステック",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OM2sxbXl0U0RfSFBVSjV6TUhtZkpxSlgwbVplS01qcjhzRFhaVzIxVW42OW9XemkwOWw5aFJDM0RqWW9Nd3VieWY4VlV2LVFqaEZLNjd5dThkbi0tVF9FWEZqdVVQRlNPUnp6Vw?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-10-20 05:00",
-          "headline": "テスラ、圧縮空気で空飛ぶロードスター 強烈なダウンフォース生む特許読解 - 日経...",
+          "id": "tesla_1792541000_5",
+          "title": "Tesla (TSLA) Q3 2026 earnings preview: flat revenue, falling profits",
+          "link": "https://electrek.co/2026/10/20/tesla-tsla-q3-2026-earnings-preview/",
+          "source": "Electrek (Tesla)",
+          "is_official": true,
+          "published_at": "2026-10-21 05:13",
+          "headline": "Tesla (TSLA) Q3 2026 earnings preview: f...",
           "summary": [
-            "【概要】テスラ、圧縮空気で空飛ぶロードスター 強烈なダウンフォース生む特許読解 - 日経クロステック",
-            "テスラ、圧縮空気で空飛ぶロードスター 強烈なダウンフォース生む特許読解 日経クロステック...",
-            "情報提供元: Google News (Tesla)"
+            "【概要】Tesla (TSLA) Q3 2026 earnings preview: flat revenue, falling profits",
+            "Tesla reports its third-quarter 2026 financial results tomor...",
+            "情報提供元: Electrek (Tesla)"
           ],
           "key_points": [
             "最新の公式・主要発表",
             "詳細は元記事リンクから確認可能"
           ],
           "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "tesla_1792456399_5",
-          "title": "10月19日のTesla Inc (TSLA) 値動きは3.53%上昇：値動きの背後にある事実 - TradingKey",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNS0ZUaG00ME1vMTRWRVhCMklTdXRMWkNlTFFRNzNTVmVNRlZHU0tQUDVSNHdlRGlzczJ1Vy1QamJQQlM5OXJpM0paMnZRSkhkNlk2MmZicnZSanBVdHdQWUJkUl9vcE9ZRm0wdXc0dmpCSDRtaVRRY1d0d1pKbVgtWEFSRE5wTTRrU1dNTEdodw?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-10-20 00:16",
-          "headline": "10月19日のTesla Inc (TSLA) 値動きは3.53%上昇：値動きの...",
-          "summary": [
-            "【概要】10月19日のTesla Inc (TSLA) 値動きは3.53%上昇：値動きの背後にある事実 - TradingKey",
-            "10月19日のTesla Inc (TSLA) 値動きは3.53%上昇：値動きの背後にある事実 TradingKey...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
+          "importance": 4
         }
       ]
     },
@@ -226,16 +226,16 @@
       "description": "OpenAI・Google・生成AIの公式発表・技術速報",
       "articles": [
         {
-          "id": "ai_1792456400_1",
-          "title": "AIで日本語の壁は下がったのか〜攻撃用AIの地下市場で売られているもの - Halcyon Anti-Ransomware Platform",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hSHB6NkNBdXk2WEZZOUpTaVFIQTlRUjRYeGtsUG1aMDVwMndCZFptOUNxNng4NjRMbF9UNFR5N21XNzdDNmpsYS13S2FrMk94TFZpX295VGtkdXNQY0laSlBPeTRHcVd0Zlc4?oc=5",
+          "id": "ai_1792541001_1",
+          "title": "韓国ＡＩ企業、上場初日に公開価格32％下回る 巨額投資懸念再燃 - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWjAzSmhXbW0wSzdtX1VEMFpTQi01MWwyc0E2Nkh1LVI2T2F4X09xUmVWVmdCYjFBcl9XR2pnODA0d055X01fb3lqZXNVendZN0haa2lQaS0xTEFmRjVSWXlwXzFOVk9Zb0R3Y0wzNUVNRWhXV0h5c0ZXaHlIcGM3aHV5cmljdw?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-20 08:10",
-          "headline": "AIで日本語の壁は下がったのか〜攻撃用AIの地下市場で売られているもの - Ha...",
+          "published_at": "2026-10-21 08:05",
+          "headline": "韓国ＡＩ企業、上場初日に公開価格32％下回る 巨額投資懸念再燃 - Reuter...",
           "summary": [
-            "【概要】AIで日本語の壁は下がったのか〜攻撃用AIの地下市場で売られているもの - Halcyon Anti-Ransomware Platform",
-            "AIで日本語の壁は下がったのか〜攻撃用AIの地下市場で売られているもの Halcyon Anti-Ransomware ...",
+            "【概要】韓国ＡＩ企業、上場初日に公開価格32％下回る 巨額投資懸念再燃 - Reuters",
+            "韓国ＡＩ企業、上場初日に公開価格32％下回る 巨額投資懸念再燃 Reuters...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -246,16 +246,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1792456400_2",
-          "title": "エヌスケール、アンソロピック向けＡＩ計算能力追加提供を協議＝関係者 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1tOF9kT1Y3ZEk3V2RhMTh1RlJvVWdYaU51ekUwWW0zWkpEdC1hdC1tbDVJcVNMZXZwVWZIM2hUaHhHS2U3OHNNTzFXV3pJcjRIOUlqX0h5Wi1FRVQwamJnLVY5X09MNUlxdlRPRzhhMlVFLXZqM2JaazA1STJydw?oc=5",
+          "id": "ai_1792541001_2",
+          "title": "「AIが使えない」のは背景が分からないから、意味付けを自動化する国産基盤の真価：製造マネジメント インタビュー（1/2 ページ） - MONOist",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50Wkt0SFhQTTJVYjhTUHFpSm4zTWg0ZDJ0ZG9tTFlBRDdodWdKZjdkQVVJZy1DZlpIN3hLQ1BNV1dsa1IzWmhIbThyd2FlSzNCT2dRQzh3eExuaFZ3bU9OR2h4MVU1TGdmOFVBb0RDYw?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-20 07:38",
-          "headline": "エヌスケール、アンソロピック向けＡＩ計算能力追加提供を協議＝関係者 - Reut...",
+          "published_at": "2026-10-21 08:00",
+          "headline": "「AIが使えない」のは背景が分からないから、意味付けを自動化する国産基盤の真価：...",
           "summary": [
-            "【概要】エヌスケール、アンソロピック向けＡＩ計算能力追加提供を協議＝関係者 - Reuters",
-            "エヌスケール、アンソロピック向けＡＩ計算能力追加提供を協議＝関係者 Reuters...",
+            "【概要】「AIが使えない」のは背景が分からないから、意味付けを自動化する国産基盤の真価：製造マネジメント インタビュー（1/2 ページ） - MONOist",
+            "「AIが使えない」のは背景が分からないから、意味付けを自動化する国産基盤の真価：製造マネジメント インタビュー（1/2 ...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -266,16 +266,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1792456400_3",
-          "title": "不正アクセス 「中国系AIの使用確認」 情報セキュリティー会社 | NHKニュース | ＡＩ・ネット・ＩＴ、サイバー攻撃、中国 - NHKニュース",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SbzJjU0tGQ2dUa3ZtcG91b01ZOW9kdnlrXzNZbE9kdGE3blU3WGlpMGhHdF84bU96Zk9kYm82R2hMY19YdVdqS2FRQ1pUUnlhNk9wRHlTcmpfMGdGRzJj?oc=5",
+          "id": "ai_1792541001_3",
+          "title": "(株)ユビキタスＡＩ【3858】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LNUpnN0duS1V0QldLYnBYLUU0VjBNclVfUjBYeFc0VjhQalpBb3RHdnR1WkZmUE9DTkJUMS1jV2sxQldQeVJQanRFRXFkMlE5WWc?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-20 05:01",
-          "headline": "不正アクセス 「中国系AIの使用確認」 情報セキュリティー会社 | NHKニュー...",
+          "published_at": "2026-10-21 07:19",
+          "headline": "(株)ユビキタスＡＩ【3858】：株価・株式情報（夜間PTS含む） - Yaho...",
           "summary": [
-            "【概要】不正アクセス 「中国系AIの使用確認」 情報セキュリティー会社 | NHKニュース | ＡＩ・ネット・ＩＴ、サイバー攻撃、中国 - NHKニュース",
-            "不正アクセス 「中国系AIの使用確認」 情報セキュリティー会社 | NHKニュース | ＡＩ・ネット・ＩＴ、サイバー攻撃...",
+            "【概要】(株)ユビキタスＡＩ【3858】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+            "(株)ユビキタスＡＩ【3858】：株価・株式情報（夜間PTS含む） Yahoo!ファイナンス...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -286,16 +286,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1792456400_4",
-          "title": "サイバー攻撃受け情報漏えい、中国語のＡＩエージェント悪用か…国内８０社への攻撃巡り痕跡 - 読売新聞",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1MZGpyMVV6RVg4VlZXLVRPdE15LWdaUkxBRVBsUzlmc2RxcUxmYXAxYWl5a1Q4RURvNVJrZzN2SGlDVE9vd18tbVF0WVBNSHpJTkxSb0NhODI5WWlZQ3l3RzEwb3BtZw?oc=5",
+          "id": "ai_1792541001_4",
+          "title": "中国、データ利活用進める国有企業設立 AI開発の競争力高める狙い [AIの時代] - 朝日新聞",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zcDlFN3F5b0Iwb0RaR1loREFfbTlpQWtPRTdWdUpGX3JCX3F1SU1PTVRtaGZiNXZPOVNLUXVBb05uSEFFXzZXTEZXYTZXYnpkc1BKOWNIaTFLM2gxNUZjZGNla1l2Xzg?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-20 05:00",
-          "headline": "サイバー攻撃受け情報漏えい、中国語のＡＩエージェント悪用か…国内８０社への攻撃巡...",
+          "published_at": "2026-10-21 07:00",
+          "headline": "中国、データ利活用進める国有企業設立 AI開発の競争力高める狙い [AIの時代]...",
           "summary": [
-            "【概要】サイバー攻撃受け情報漏えい、中国語のＡＩエージェント悪用か…国内８０社への攻撃巡り痕跡 - 読売新聞",
-            "サイバー攻撃受け情報漏えい、中国語のＡＩエージェント悪用か…国内８０社への攻撃巡り痕跡 読売新聞...",
+            "【概要】中国、データ利活用進める国有企業設立 AI開発の競争力高める狙い [AIの時代] - 朝日新聞",
+            "中国、データ利活用進める国有企業設立 AI開発の競争力高める狙い [AIの時代] 朝日新聞...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -306,16 +306,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1792456400_5",
-          "title": "GMO系、日本企業狙う不正アクセスの攻撃元にAIツール「ARTEX」確認 標的は約20社 - ビジネス+IT",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IUmd1RE9Hbnk5Y0ozcUtSQUJnaUFvVkZMR2ZFVWJSaXBxc0I4ZUZNei15eXlIZUdacExubVJZemxuOUJPc09aVlkzSUNyLXhvQVU4?oc=5",
+          "id": "ai_1792541001_5",
+          "title": "「来週から週休3日」AI活用迫る劇薬 ゲーム開発人員30分の1に - 日本経済新聞",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pZmtlQzZncS1LZ1VDb3BSQXNObFZVVDNmVFlTSk15dzE4eExaMm9jdlhUQ1k3TmV5SzM1aWNXUjRkb3FuTUtVdDlsQXhuUW1TNnZ1WUVSYzhvV3EwZ2g0cHNpVWxrY3VVcGFaYw?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-20 03:18",
-          "headline": "GMO系、日本企業狙う不正アクセスの攻撃元にAIツール「ARTEX」確認 標的は...",
+          "published_at": "2026-10-21 05:00",
+          "headline": "「来週から週休3日」AI活用迫る劇薬 ゲーム開発人員30分の1に - 日本経済新...",
           "summary": [
-            "【概要】GMO系、日本企業狙う不正アクセスの攻撃元にAIツール「ARTEX」確認 標的は約20社 - ビジネス+IT",
-            "GMO系、日本企業狙う不正アクセスの攻撃元にAIツール「ARTEX」確認 標的は約20社 ビジネス+IT...",
+            "【概要】「来週から週休3日」AI活用迫る劇薬 ゲーム開発人員30分の1に - 日本経済新聞",
+            "「来週から週休3日」AI活用迫る劇薬 ゲーム開発人員30分の1に 日本経済新聞...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
