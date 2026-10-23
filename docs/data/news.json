@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026年10月22日 09:08",
-  "updated_at_iso": "2026-10-22T09:08:42.846917+09:00",
+  "updated_at": "2026年10月23日 09:05",
+  "updated_at_iso": "2026-10-23T09:05:35.226315+09:00",
   "model_used": "mock-mode",
   "categories": [
     {
@@ -10,7 +10,27 @@
       "description": "Microsoft Azureの公式発表・最新クラウド動向",
       "articles": [
         {
-          "id": "azure_1792627723_1",
+          "id": "azure_1792713936_1",
+          "title": "GS Neotek、「Security Lens」にNaver Cloud対応を追加…韓国公共セキュリティ市場を狙い撃ち - BigGo ファイナンス",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PTXBVR3pFNHk3UVdiQ3kteTZ6VnF3MXNsMXF0aVFKeXpKYXlMMHppdHFCU0VKNzFTRTNOaTJ3dnN1ZG9rSk5kcEkydm8yUUJDODgwek1nbkZGb1o5TnFUU05yRFkyblJ2NnNTS2k4VTBQRlc5?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-10-22 10:35",
+          "headline": "GS Neotek、「Security Lens」にNaver Cloud対応を...",
+          "summary": [
+            "【概要】GS Neotek、「Security Lens」にNaver Cloud対応を追加…韓国公共セキュリティ市場を狙い撃ち - BigGo ファイナンス",
+            "GS Neotek、「Security Lens」にNaver Cloud対応を追加…韓国公共セキュリティ市場を狙い撃ち...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1792713936_2",
           "title": "より強固なコントロールと幅広い選択肢で、デジタル主権を推進 - Microsoft Source",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZDZ6ZEZKeEs3cTdBb0VqQ2M1UnVrc2ttbW81bGdYVk5wVFphSXVnc2xHUTNubzdabWdQNmljSy0zV0taeXIxM1ViREZiNE5CNnd6QjRkeDR4eDBVeUF5Mi1vNEJhUzdvZXFxamZ4TU1xeTZmWE00OTlCbXBNU2M1NlhjSzJtUGZuRmRnVnZYSVNpVlFlZ1ZMNUVoTS1GSnZTSlZ6SXpCVHNRdGF6TVZCRFFnN3lHZjM5bVE?oc=5",
           "source": "Google News (Azure)",
@@ -30,7 +50,7 @@
           "importance": 3
         },
         {
-          "id": "azure_1792627723_2",
+          "id": "azure_1792713936_3",
           "title": "Microsoftが数百のAIモデルをオンプレミスで実行可能に、ソブリンAI向け - 日経クロステック",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zMnc2S3JmX1hQMnFnNG1vZ1E2SDN0M2p1WWppSnJrd2J0YWl5aklSSkpsT1F2ZzA2ZnQ3eDZaNjVCZG13ZjhtRzRLc1gtVE45ZjR0cG5TUTV1MTF3?oc=5",
           "source": "Google News (Azure)",
@@ -50,7 +70,7 @@
           "importance": 3
         },
         {
-          "id": "azure_1792627723_3",
+          "id": "azure_1792713936_4",
           "title": "マイクロソフトが「Sovereign Cloud」を強化--「ソブリンは特別なクラウドではない」 - ZDNET Japan",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3bDNFb2RCeXJWV3NOaGphdzV5cV9VX2VGYjBTNi04OXFwRWNfR0FsOFNZZzVWQlNLZ1p2MVJpY1dRRzRhYjJqUVZpWXo0cnRvYlZv?oc=5",
           "source": "Google News (Azure)",
@@ -70,7 +90,7 @@
           "importance": 3
         },
         {
-          "id": "azure_1792627723_4",
+          "id": "azure_1792713936_5",
           "title": "Advancing digital sovereignty with greater control and choice",
           "link": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/",
           "source": "Microsoft Official Blog",
@@ -88,26 +108,6 @@
           ],
           "badge": "注目",
           "importance": 4
-        },
-        {
-          "id": "azure_1792627723_5",
-          "title": "【Microsoft決算（2027年度第1四半期）】決算後に+35%、52週高値圏で迎える決算、Azureの「金額」初開示で加速を証明できるか（Microsoft） - ブルーモ証券",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PVkp6bkppSUd2cWNIeW9SNFNWLWczZ2ozOVl5UGJZNk90Q0phdHBaZ29fbTBwRk9KNWFEek1ybm5XSHJocWl0a2F0WjhyYlcyd0p6S19XZ2M5aXhqWEV4Y0JWaw?oc=5",
-          "source": "Google News (Azure)",
-          "is_official": false,
-          "published_at": "2026-10-19 23:06",
-          "headline": "【Microsoft決算（2027年度第1四半期）】決算後に+35%、52週高値...",
-          "summary": [
-            "【概要】【Microsoft決算（2027年度第1四半期）】決算後に+35%、52週高値圏で迎える決算、Azureの「金額」初開示で加速を証明できるか（Microsoft） - ブルーモ証券",
-            "【Microsoft決算（2027年度第1四半期）】決算後に+35%、52週高値圏で迎える決算、Azureの「金額」初開...",
-            "情報提供元: Google News (Azure)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
         }
       ]
     },
@@ -118,16 +118,16 @@
       "description": "テスラの最新アップデート・EV・FSD・決算動向",
       "articles": [
         {
-          "id": "tesla_1792627724_1",
-          "title": "Tesla決算、営業益56％減 FSD契約は67％増の174万件 SpaceX合併は「昨日すべて話した」とマスク氏 - ITmedia",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DMTNyczk0WExvTFJqMjhnZ3dhSkVnMHRtQzFNYmx6SklEdF9Qb3RWV1NuZDNLZjBfbjJuUWFfTklYeTRXeTJESmV4dERZODRDNTNwbU5pQ2luNnd5VEZfclNaNmRGS0xVNEE?oc=5",
+          "id": "tesla_1792713936_1",
+          "title": "テスラ スクールゾーンでロボタクシーが暴走 連邦調査沙汰に - 自動運転ラボ",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0tUmZzbUNZOTVHWlVjZ1M2WWFVc3BZNlcyN3RudzZfMjJzUmpMQ1BPLS1BUDBYYnhNZXdadlRDcC1FeDVQWnVQUA?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-10-22 09:02",
-          "headline": "Tesla決算、営業益56％減 FSD契約は67％増の174万件 SpaceX合...",
+          "published_at": "2026-10-23 08:44",
+          "headline": "テスラ スクールゾーンでロボタクシーが暴走 連邦調査沙汰に - 自動運転ラボ",
           "summary": [
-            "【概要】Tesla決算、営業益56％減 FSD契約は67％増の174万件 SpaceX合併は「昨日すべて話した」とマスク氏 - ITmedia",
-            "Tesla決算、営業益56％減 FSD契約は67％増の174万件 SpaceX合併は「昨日すべて話した」とマスク氏 IT...",
+            "【概要】テスラ スクールゾーンでロボタクシーが暴走 連邦調査沙汰に - 自動運転ラボ",
+            "テスラ スクールゾーンでロボタクシーが暴走 連邦調査沙汰に 自動運転ラボ...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -138,16 +138,16 @@
           "importance": 3
         },
         {
-          "id": "tesla_1792627724_2",
-          "title": "スペースＸとテスラ、統合議論 時価総額計５５０兆円 - 時事ドットコム",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1tZ0dSR1l4Q1oyWmpDeGNud3k0d2Jqc1BzRDRuOXlJZHEzekRITG5acUtPWDVCZzFHTlFJbFlMT2liT3N0UmZ4Mk1vanJSUTFkeFRQWXhtOEF2RS1wR2h0djVRbw?oc=5",
+          "id": "tesla_1792713936_2",
+          "title": "テスラとの統合はマスク氏の承認必要、スペースＸが表明 - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxYnJ0a0lna0JyMUxoa0tEeFVOSE1UWnZYQVdhdHg5dFF4Q3d5RUF1LVJ4Nmh3M1lRZzB3UmduUmR4SHR3OVllMnZhUFhLMWJRQlhxb3c3REVVeTlnSE0wOVZrdXBOMEU3VGJDTUtzci16SnNyUmhOYkljODV6UQ?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-10-22 08:04",
-          "headline": "スペースＸとテスラ、統合議論 時価総額計５５０兆円 - 時事ドットコム",
+          "published_at": "2026-10-23 08:39",
+          "headline": "テスラとの統合はマスク氏の承認必要、スペースＸが表明 - Reuters",
           "summary": [
-            "【概要】スペースＸとテスラ、統合議論 時価総額計５５０兆円 - 時事ドットコム",
-            "スペースＸとテスラ、統合議論 時価総額計５５０兆円 時事ドットコム...",
+            "【概要】テスラとの統合はマスク氏の承認必要、スペースＸが表明 - Reuters",
+            "テスラとの統合はマスク氏の承認必要、スペースＸが表明 Reuters...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -158,36 +158,16 @@
           "importance": 3
         },
         {
-          "id": "tesla_1792627724_3",
-          "title": "米テスラ、第3四半期はフリーキャッシュフロー黒字 ＡＩ支出が予想下回る - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5zWXVocDdON3hqTmItcTVYWWtlNDdLc2o0dlpTMW9UNlV3VVVrODBtZEhIUEZoUEI3djhIb2VYWFpFdk5vc1J3bTZmUEM2QmRJbE9KUERhOGRXY255OFFvNEU1Q0RJY3VEVUtlV3JRazVHR2F3SU8zSGVnakdxUQ?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-10-22 07:46",
-          "headline": "米テスラ、第3四半期はフリーキャッシュフロー黒字 ＡＩ支出が予想下回る - Re...",
-          "summary": [
-            "【概要】米テスラ、第3四半期はフリーキャッシュフロー黒字 ＡＩ支出が予想下回る - Reuters",
-            "米テスラ、第3四半期はフリーキャッシュフロー黒字 ＡＩ支出が予想下回る Reuters...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "tesla_1792627724_4",
-          "title": "Tesla wants to sell you a useless car with no steering wheel this year",
-          "link": "https://electrek.co/2026/10/21/tesla-wants-to-sell-you-a-useless-car-with-no-steering-wheel-this-year/",
+          "id": "tesla_1792713936_3",
+          "title": "Tesla skipped the most important shareholder question on its earnings call",
+          "link": "https://electrek.co/2026/10/22/tesla-skipped-hw3-shareholder-question-earnings-call/",
           "source": "Electrek (Tesla)",
           "is_official": true,
-          "published_at": "2026-10-22 07:32",
-          "headline": "Tesla wants to sell you a useless car wi...",
+          "published_at": "2026-10-23 06:23",
+          "headline": "Tesla skipped the most important shareho...",
           "summary": [
-            "【概要】Tesla wants to sell you a useless car with no steering wheel this year",
-            "Tesla said today it will sell Cybercab to consumers by the e...",
+            "【概要】Tesla skipped the most important shareholder question on its earnings call",
+            "Tesla skipped one of its top shareholder questions on its Q3...",
             "情報提供元: Electrek (Tesla)"
           ],
           "key_points": [
@@ -198,24 +178,44 @@
           "importance": 4
         },
         {
-          "id": "tesla_1792627724_5",
-          "title": "Tesla pushes unsupervised FSD to Q2 2027, and only inside Robotaxi zones",
-          "link": "https://electrek.co/2026/10/21/tesla-unsupervised-fsd-q2-2027-robotaxi-fleet/",
-          "source": "Electrek (Tesla)",
-          "is_official": true,
-          "published_at": "2026-10-22 07:18",
-          "headline": "Tesla pushes unsupervised FSD to Q2 2027...",
+          "id": "tesla_1792713936_4",
+          "title": "〈EVからAIへシフト〉テスラとスペースXが統合協議､空飛ぶクルマで見せた革新性と｢マスク帝国｣の今後 - 東洋経済オンライン",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SOEoyU2xLcjZIZjZ0ZGwza1hocFZhWjQ4VkUzUGN1OFg5TkI1N3M3MHJlMGs3ZTZNQVZmWmowNXYxZUg5b2NISV9ucnFBaTM5NjI0QXB6cktrM2pQaWdB?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-10-23 06:00",
+          "headline": "〈EVからAIへシフト〉テスラとスペースXが統合協議､空飛ぶクルマで見せた革新性...",
           "summary": [
-            "【概要】Tesla pushes unsupervised FSD to Q2 2027, and only inside Robotaxi zones",
-            "Tesla now says unsupervised “Full Self-Driving” in customer-...",
-            "情報提供元: Electrek (Tesla)"
+            "【概要】〈EVからAIへシフト〉テスラとスペースXが統合協議､空飛ぶクルマで見せた革新性と｢マスク帝国｣の今後 - 東洋経済オンライン",
+            "〈EVからAIへシフト〉テスラとスペースXが統合協議､空飛ぶクルマで見せた革新性と｢マスク帝国｣の今後 東洋経済オンライ...",
+            "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
             "最新の公式・主要発表",
             "詳細は元記事リンクから確認可能"
           ],
           "badge": "注目",
-          "importance": 4
+          "importance": 3
+        },
+        {
+          "id": "tesla_1792713936_5",
+          "title": "10月22日のTesla Inc (TSLA) 終値は3.08%下落：投資家が知っておくべき情報 - TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSDF3RDVFRTZvS0lyUFBBRVp2RFJBd1dJNDBES1dhXzJTUG5UVmtmOEV0ZkMzT1Z1YTZlVGtiQXROSXZ3LVlVMXB6TnNWY1d2WEE3LW9yVVFYbk96TGhuVVFvSUd4V19qaUxuZXlJbW9SRklIYzZNb2wzdUZEcHRlaE53blhia2xQMnNqRGdHbw?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-10-23 05:16",
+          "headline": "10月22日のTesla Inc (TSLA) 終値は3.08%下落：投資家が知...",
+          "summary": [
+            "【概要】10月22日のTesla Inc (TSLA) 終値は3.08%下落：投資家が知っておくべき情報 - TradingKey",
+            "10月22日のTesla Inc (TSLA) 終値は3.08%下落：投資家が知っておくべき情報 TradingKey...",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
         }
       ]
     },
@@ -226,16 +226,16 @@
       "description": "OpenAI・Google・生成AIの公式発表・技術速報",
       "articles": [
         {
-          "id": "ai_1792627725_1",
-          "title": "AI彼女 おすすめ AI彼女 リアル おすすめ - 北陸地方整備局",
-          "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNdlVJM3VoSjkwb0E0eHNKNmd5TzNPV2Q0ZHpya1FwV1YxZFJIVTNPb25KVkxYNlNLa2phdWtzZVlDQjJjUnZLV0tYRWptQThEMExqOTJPX2ExeWdoTVNTaWZYWXNUZFRXNUItZ29RWklNSEFEY1FXMXNmY2Z3bUc1bkRzOWJ4MXp3VUpqRzBpU1BsVlFvRU1LX3M5M3M3SzlOdGhrZnBBNWEwV1EwZnA0Vkt5bTdmMzlWbUIxYk1FSVdRZG1DdU9wRFFkZUxvNGFqX2ZTdm9wbk9tYmhaUEs5WFNQX2x2OW15UUJWbHpuMEtPQWtxRU5pVU5uUjNzZksxNWlmRXRfVy1GaE8ydE5hUUYzd1JDdzRKR0lXbHVxcTRvSEdpTFlUMXZWSElBaTkxNzg4a20xempDZ3JHWUtN?oc=5",
+          "id": "ai_1792713938_1",
+          "title": "18+ AIチャットボット（成人向けAI） キャラカスタマイズ可能でプライバシー保護機能付きのAI生成ポルノ画像サイト - 北陸地方整備局",
+          "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxNamcyYTl4dU11ZFk1WWdhcVgza1N3ZWNXWEc4dVRLTzNFRlVxb1FqM1gxSy1hQVRQZmVwVUdQYWhTejRHOU1tRlVOVnEza1FrdG1TMzVwQjhuRHY4R0ZqWkN2TEFuSkc5NFF3eU9Xc3NPNjdVWHgxOHlEdGp2eWptWlU1VnlWblhJYTNTVjBXM3JtZkRwYm1MVkg3ZDZTRWlQZ0hVZ0VzMU5RaDZlYnVuWkxzeXhGVjNoQ2pNcnBSQmF1aEdVTDB6QlJ3ZE82UkxhOUl0NTBaOXAtVFQxQ190NmxtODEydTlJTXZGc3ZpT3lXSy14RVBqQUZqcEhDNWY4VE04ZGFnRUxUWGhsSGd0UWlrMnU1TXJBb085bWMyVU5Bb0xIQ0ExeDRhM1dsWE56aWI4T3ptV0lZRnJTY0xlZDBXLUI4ZUpxNVBhMExGN2ZQWjNDZTNDbnZkemFIT09fMmYyNTlHdlFfcDVYM0t6eUp0RXRlaGM0ZGo5TThpWU5td2VoNWl6ZXFYRHNtOGhrc245MFdURVJ3T0dh?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-22 09:00",
-          "headline": "AI彼女 おすすめ AI彼女 リアル おすすめ - 北陸地方整備局",
+          "published_at": "2026-10-23 06:40",
+          "headline": "18+ AIチャットボット（成人向けAI） キャラカスタマイズ可能でプライバシー...",
           "summary": [
-            "【概要】AI彼女 おすすめ AI彼女 リアル おすすめ - 北陸地方整備局",
-            "AI彼女 おすすめ AI彼女 リアル おすすめ 北陸地方整備局...",
+            "【概要】18+ AIチャットボット（成人向けAI） キャラカスタマイズ可能でプライバシー保護機能付きのAI生成ポルノ画像サイト - 北陸地方整備局",
+            "18+ AIチャットボット（成人向けAI） キャラカスタマイズ可能でプライバシー保護機能付きのAI生成ポルノ画像サイト ...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -246,16 +246,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1792627725_2",
-          "title": "PHPの脆弱性 米OpenAIのAIで発見 - Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1PbUtOcnZIdG1TbVBsU25tZlNCeFBVeXJBNjQ0UTMwZjJLejhaS0ZqWUg2UEdoVExJRy12bEgtcHFBVjZNQ3pPT3dfbE9rVGYx?oc=5",
+          "id": "ai_1792713938_2",
+          "title": "ＡＩ外部評価機関、オープンＡＩのシステムに脆弱性特定 監視回避に悪用の恐れ - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBSaktXVXNvSG12X01QZmRHNWtiQmJFUC1OcUUtR1ZRdGRKZlRtYVhPUjE3dzI2VXlqQVo1UEM1OFVfM2pOVFFXcG9mTVByd2l5blRWdFZjTmJybnI2Ri0wa1hRTWx3SWQyX3poMm9PVzBPZnlMSkk4Vk01UHcxZw?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-22 07:32",
-          "headline": "PHPの脆弱性 米OpenAIのAIで発見 - Yahoo!ニュース",
+          "published_at": "2026-10-23 06:25",
+          "headline": "ＡＩ外部評価機関、オープンＡＩのシステムに脆弱性特定 監視回避に悪用の恐れ - ...",
           "summary": [
-            "【概要】PHPの脆弱性 米OpenAIのAIで発見 - Yahoo!ニュース",
-            "PHPの脆弱性 米OpenAIのAIで発見 Yahoo!ニュース...",
+            "【概要】ＡＩ外部評価機関、オープンＡＩのシステムに脆弱性特定 監視回避に悪用の恐れ - Reuters",
+            "ＡＩ外部評価機関、オープンＡＩのシステムに脆弱性特定 監視回避に悪用の恐れ Reuters...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -266,16 +266,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1792627725_3",
-          "title": "米国株式市場＝ナスダック主導で上昇、決算受けＡＩ投資心理改善 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSHR3VTg3U0dpTk9jT240WjZqOTY5TUxhRFk0Ykx4Sm1PQ3hadUZFMzYxUk5nWE1JTlhHdzlWdGNSdlJsQl9DX2ZLbDVzSHcyZ2Q5WU9GeDFldjdJb2VRcEF0dXhlUnlZeVFHR25oVWxpeXdic1FxLVM5b0FoQ1JZS1ZYZ0Y5Zw?oc=5",
+          "id": "ai_1792713938_3",
+          "title": "米国株式市場＝Ｓ＆Ｐ・ナスダック急落、ＡＩ投資巡る懸念再燃 - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRXZMbU5DRXVrcU9IS3hrQ1Q1R3dxenk4MnlEZTlScDFXWi0xeTJlNEcwdWlyYTdQejg1X0ljNGhZQXlQUm1fR0xwSHZNX2JqdlFCb3BfWXdjaXp6MnphNjFJb3E5U2pKeE5qNGZtZnRfTVFNenZQMEU0ZTJ3WHlBRmN0UUo3Zw?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-22 06:24",
-          "headline": "米国株式市場＝ナスダック主導で上昇、決算受けＡＩ投資心理改善 - Reuters",
+          "published_at": "2026-10-23 06:24",
+          "headline": "米国株式市場＝Ｓ＆Ｐ・ナスダック急落、ＡＩ投資巡る懸念再燃 - Reuters",
           "summary": [
-            "【概要】米国株式市場＝ナスダック主導で上昇、決算受けＡＩ投資心理改善 - Reuters",
-            "米国株式市場＝ナスダック主導で上昇、決算受けＡＩ投資心理改善 Reuters...",
+            "【概要】米国株式市場＝Ｓ＆Ｐ・ナスダック急落、ＡＩ投資巡る懸念再燃 - Reuters",
+            "米国株式市場＝Ｓ＆Ｐ・ナスダック急落、ＡＩ投資巡る懸念再燃 Reuters...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -286,16 +286,36 @@
           "importance": 3
         },
         {
-          "id": "ai_1792627725_4",
-          "title": "Broad access through consistent standards",
-          "link": "https://openai.com/index/broad-access-through-consistent-standards",
+          "id": "ai_1792713938_4",
+          "title": "AI暴走、それは秘密の「掲示板」から始まった 不正侵入事件の真相 [AIの時代] - 朝日新聞",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4emhybFJBa1BNT3VqeW1oMHk4SWcyQWlJVWRqa2hHX29WX1c2NmZLZFo5N2cwdVJxYy1WcW4zdlpqWmV6RXdHRjBNUUJaTkdfQU1iMWYwcXRFc095WkU0WktzR1g3UjA?oc=5",
+          "source": "Google News (AI)",
+          "is_official": false,
+          "published_at": "2026-10-23 06:00",
+          "headline": "AI暴走、それは秘密の「掲示板」から始まった 不正侵入事件の真相 [AIの時代]...",
+          "summary": [
+            "【概要】AI暴走、それは秘密の「掲示板」から始まった 不正侵入事件の真相 [AIの時代] - 朝日新聞",
+            "AI暴走、それは秘密の「掲示板」から始まった 不正侵入事件の真相 [AIの時代] 朝日新聞...",
+            "情報提供元: Google News (AI)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "ai_1792713938_5",
+          "title": "Build more responsive apps with the Decisions API",
+          "link": "https://openai.com/index/decisions-api",
           "source": "OpenAI Official Blog",
           "is_official": true,
-          "published_at": "2026-10-22 06:00",
-          "headline": "Broad access through consistent standard...",
+          "published_at": "2026-10-23 04:00",
+          "headline": "Build more responsive apps with the Deci...",
           "summary": [
-            "【概要】Broad access through consistent standards",
-            "How OpenAI works with distribution partners to uphold consis...",
+            "【概要】Build more responsive apps with the Decisions API",
+            "Fast, focused, low-cost decisions for any application....",
             "情報提供元: OpenAI Official Blog"
           ],
           "key_points": [
@@ -304,26 +324,6 @@
           ],
           "badge": "注目",
           "importance": 4
-        },
-        {
-          "id": "ai_1792627725_5",
-          "title": "「ＰＨＰ」の脆弱性、米オープンＡＩのＡＩで発見…米グーグル傘下企業も独自に発見と主張 - 読売新聞",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xVzhrdVlXdkR1Y0tHQ1RfS1pSaDJrSERvcGZ4TE5uUTdDOVJ1SlY4LV9tMkZhN2UxdF9kN3AyUm1nSDJqemx4V3BNdWlTelhweFlFVVZ1VDN4Y2N6WWUzYnZScUo?oc=5",
-          "source": "Google News (AI)",
-          "is_official": false,
-          "published_at": "2026-10-22 05:37",
-          "headline": "「ＰＨＰ」の脆弱性、米オープンＡＩのＡＩで発見…米グーグル傘下企業も独自に発見と...",
-          "summary": [
-            "【概要】「ＰＨＰ」の脆弱性、米オープンＡＩのＡＩで発見…米グーグル傘下企業も独自に発見と主張 - 読売新聞",
-            "「ＰＨＰ」の脆弱性、米オープンＡＩのＡＩで発見…米グーグル傘下企業も独自に発見と主張 読売新聞...",
-            "情報提供元: Google News (AI)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
         }
       ]
     }
