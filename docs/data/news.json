@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026年10月24日 08:57",
-  "updated_at_iso": "2026-10-24T08:57:07.959786+09:00",
+  "updated_at": "2026年10月25日 08:33",
+  "updated_at_iso": "2026-10-25T08:33:53.516148+09:00",
   "model_used": "mock-mode",
   "categories": [
     {
@@ -10,16 +10,16 @@
       "description": "Microsoft Azureの公式発表・最新クラウド動向",
       "articles": [
         {
-          "id": "azure_1792799828_1",
-          "title": "AWS・Azure・Google Cloud 三つ巴の進化 - 日経クロステック",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQazVhaHI0WUJDZ3R4S1JRZ3N6a3pCWjM3VTJIdFVocndlWWlfUU1VaEEwWEh6WWl2a1NjZV9Qd3dUOE5ZU0NvQ0RsVmltRlc4aEMxTXhrcXFCdzczUmZ4RzlKSWVVTVprM3UwNzZLc3V2RWZmeUZ6Y25FNk5STG1ZMTFYZUxFQ1NDbjN4SjJTeGpOamNDdGF2SHNMMjkzNjdyMWVFbWRNUENJakJ1WTlVLTFxd3pmSXFWV1JlOXdZWHFDMGlGeEZZYmlYUW5PaUh0WTM4UkVn?oc=5",
+          "id": "azure_1792884834_1",
+          "title": "Azure Application Gatewayで不具合の報告、?x=.jsで403を回避 - Pasquale Pillitteri",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdUprODRBR1JPcnpQVVMwTkE1Wk9veW52eTVpOEFYSVUxdUVmalJSMXpBdDdNaXZpVnIyVFNZOUM5Zmpna0RicHZTaHQzbk1pNW53ZFIzejExTXpmZzduaDhTRjJMTVJWd0szeTdCVnFacWlvU29DdU5kWWZrT0dTWXdxUG5tTHFzT2c?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-10-22 20:54",
-          "headline": "AWS・Azure・Google Cloud 三つ巴の進化 - 日経クロステック",
+          "published_at": "2026-10-25 03:09",
+          "headline": "Azure Application Gatewayで不具合の報告、?x=.jsで...",
           "summary": [
-            "【概要】AWS・Azure・Google Cloud 三つ巴の進化 - 日経クロステック",
-            "AWS・Azure・Google Cloud 三つ巴の進化 日経クロステック...",
+            "【概要】Azure Application Gatewayで不具合の報告、?x=.jsで403を回避 - Pasquale Pillitteri",
+            "Azure Application Gatewayで不具合の報告、?x=.jsで403を回避 Pasquale Pill...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -30,7 +30,67 @@
           "importance": 3
         },
         {
-          "id": "azure_1792799828_2",
+          "id": "azure_1792884834_2",
+          "title": "クラウド移行で3強激突 - 日経クロステック",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd2dkaUpxQVpub1FYUGlNZUZNbkNRaDhPQ1hlSDlrblRhbkxIbmtiR1VQclBkUTBHZ2hMTDJvQmlZRE5oU2pTNFhqbW04SW5QNGNNU1JNamRTMXFkRV91N2FxQnVKajN1MXg2SmdpdUxHV0pLOUZNUDRyeFlkX3BFQ1gwVzFTdkJPdHExSUk4dlo5dW1CNEJfUHlwbmZmb0JaQXFxU2c5WVF2SXlhUXAzUldJaVRKdw?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-10-24 16:36",
+          "headline": "クラウド移行で3強激突 - 日経クロステック",
+          "summary": [
+            "【概要】クラウド移行で3強激突 - 日経クロステック",
+            "クラウド移行で3強激突 日経クロステック...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1792884834_3",
+          "title": "マイクロソフト、10月28日に決算発表：Azureの成長ペースと500億ドル超の設備投資に注目 - BigGo ファイナンス",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrMWlvTENIcnRQVS1GalZtUUNGRzNWLVJPZGNGUEFoZGQwckFkY2pxblBOWkFreUhJdVAwMGk0OXFmVVRvUWNsLWxHUTFaSGo2UU1kM0RhNURiRGJRZVoxTHRweTJPcTdQN0N0Vnh2TVltMWoz?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-10-24 03:20",
+          "headline": "マイクロソフト、10月28日に決算発表：Azureの成長ペースと500億ドル超の...",
+          "summary": [
+            "【概要】マイクロソフト、10月28日に決算発表：Azureの成長ペースと500億ドル超の設備投資に注目 - BigGo ファイナンス",
+            "マイクロソフト、10月28日に決算発表：Azureの成長ペースと500億ドル超の設備投資に注目 BigGo ファイナンス...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1792884834_4",
+          "title": "情報漏えいやセキュリティ対策も安心！三菱総研DCSがKDDIのクラウドでつくる新しいデータ管理 - DXマガジン",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93VTEyX0YtQURNaEZmT0lZRkhIakRRbzhkWHMxa2RNbFJqQjhEM3JGV3I0NWwzOU1oT0NSRXpzRXlTakNXVUJySkdqZ29NUkE?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-10-22 17:53",
+          "headline": "情報漏えいやセキュリティ対策も安心！三菱総研DCSがKDDIのクラウドでつくる新...",
+          "summary": [
+            "【概要】情報漏えいやセキュリティ対策も安心！三菱総研DCSがKDDIのクラウドでつくる新しいデータ管理 - DXマガジン",
+            "情報漏えいやセキュリティ対策も安心！三菱総研DCSがKDDIのクラウドでつくる新しいデータ管理 DXマガジン...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1792884834_5",
           "title": "Microsoftが数百のAIモデルをオンプレミスで実行可能に、ソブリンAI向け - 日経クロステック Active",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HUE5hbkdpWDlPMEJzWlRWSWJFcjlaRkFJQ0JyMkVrYkoxdUttYVNRdjBFckMzdW02TXc1U2tha1l0aGpyREkxZU9XTjZ3enJOd2stY2gtZnpwaUxHMGpWY0g0R0VlZnZDeGc?oc=5",
           "source": "Google News (Azure)",
@@ -40,66 +100,6 @@
           "summary": [
             "【概要】Microsoftが数百のAIモデルをオンプレミスで実行可能に、ソブリンAI向け - 日経クロステック Active",
             "Microsoftが数百のAIモデルをオンプレミスで実行可能に、ソブリンAI向け 日経クロステック Active...",
-            "情報提供元: Google News (Azure)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "azure_1792799828_3",
-          "title": "GS Neotek、「Security Lens」にNaver Cloud対応を追加…韓国公共セキュリティ市場を狙い撃ち - BigGo ファイナンス",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PTXBVR3pFNHk3UVdiQ3kteTZ6VnF3MXNsMXF0aVFKeXpKYXlMMHppdHFCU0VKNzFTRTNOaTJ3dnN1ZG9rSk5kcEkydm8yUUJDODgwek1nbkZGb1o5TnFUU05yRFkyblJ2NnNTS2k4VTBQRlc5?oc=5",
-          "source": "Google News (Azure)",
-          "is_official": false,
-          "published_at": "2026-10-22 10:35",
-          "headline": "GS Neotek、「Security Lens」にNaver Cloud対応を...",
-          "summary": [
-            "【概要】GS Neotek、「Security Lens」にNaver Cloud対応を追加…韓国公共セキュリティ市場を狙い撃ち - BigGo ファイナンス",
-            "GS Neotek、「Security Lens」にNaver Cloud対応を追加…韓国公共セキュリティ市場を狙い撃ち...",
-            "情報提供元: Google News (Azure)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "azure_1792799828_4",
-          "title": "データ主権とコストの壁を打ち破る、デル・テクノロジーズとNTTドコモビジネスの「止めないAI基盤」とは - ITmedia",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Ja2lhQWFOLWllN0NLWjR4aERLT1I3RElNYnhBazV6SFVoQnBpVzRPOXBVM0RIRDBIMWZWNVlXelNoNEpGeDBCMmhMVk51clhoUlpoblB0Q2FrbS1nMHozY09EVTItcnRYQVhkdUwtTDg4V01m?oc=5",
-          "source": "Google News (Azure)",
-          "is_official": false,
-          "published_at": "2026-10-22 10:00",
-          "headline": "データ主権とコストの壁を打ち破る、デル・テクノロジーズとNTTドコモビジネスの「...",
-          "summary": [
-            "【概要】データ主権とコストの壁を打ち破る、デル・テクノロジーズとNTTドコモビジネスの「止めないAI基盤」とは - ITmedia",
-            "データ主権とコストの壁を打ち破る、デル・テクノロジーズとNTTドコモビジネスの「止めないAI基盤」とは ITmedia...",
-            "情報提供元: Google News (Azure)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "azure_1792799828_5",
-          "title": "より強固なコントロールと幅広い選択肢で、デジタル主権を推進 - Microsoft Source",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZDZ6ZEZKeEs3cTdBb0VqQ2M1UnVrc2ttbW81bGdYVk5wVFphSXVnc2xHUTNubzdabWdQNmljSy0zV0taeXIxM1ViREZiNE5CNnd6QjRkeDR4eDBVeUF5Mi1vNEJhUzdvZXFxamZ4TU1xeTZmWE00OTlCbXBNU2M1NlhjSzJtUGZuRmRnVnZYSVNpVlFlZ1ZMNUVoTS1GSnZTSlZ6SXpCVHNRdGF6TVZCRFFnN3lHZjM5bVE?oc=5",
-          "source": "Google News (Azure)",
-          "is_official": false,
-          "published_at": "2026-10-21 14:20",
-          "headline": "より強固なコントロールと幅広い選択肢で、デジタル主権を推進 - Microsof...",
-          "summary": [
-            "【概要】より強固なコントロールと幅広い選択肢で、デジタル主権を推進 - Microsoft Source",
-            "より強固なコントロールと幅広い選択肢で、デジタル主権を推進 Microsoft Source...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -118,7 +118,87 @@
       "description": "テスラの最新アップデート・EV・FSD・決算動向",
       "articles": [
         {
-          "id": "tesla_1792799829_1",
+          "id": "tesla_1792884834_1",
+          "title": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vR2owRXJLX1dwYUtHY05wNjVKVmVrTHNXdm5yRGJ0NHJzSzZTaEgxWFo0WmNBOWUxV2tXcHljUWlYaG92bll2YUNIQzJlVE0?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-10-25 07:37",
+          "headline": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
+          "summary": [
+            "【概要】テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
+            "テスラ【TSLA】：株価・株式情報 Yahoo!ファイナンス...",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "tesla_1792884834_2",
+          "title": "テスラのロボタクシー 「8倍・300台超」 全米制覇に向け加速 Cybercabが1ヶ月でに急増 - 自動運転ラボ",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5SN2tIQUJIa2I3dGZBd3RQRVBlSy1hdy13NHlHR3dlS3FXR1kxWHhUVFQ4dDBwbGZzSXFlajVaeHZnU3NhQ2JyQg?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-10-25 07:04",
+          "headline": "テスラのロボタクシー 「8倍・300台超」 全米制覇に向け加速 Cybercab...",
+          "summary": [
+            "【概要】テスラのロボタクシー 「8倍・300台超」 全米制覇に向け加速 Cybercabが1ヶ月でに急増 - 自動運転ラボ",
+            "テスラのロボタクシー 「8倍・300台超」 全米制覇に向け加速 Cybercabが1ヶ月でに急増 自動運転ラボ...",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "tesla_1792884834_3",
+          "title": "テスラの新型「ロードスター」はなぜ飛べるのか？ その仕組みを物理学で読み解く - WIRED.jp",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkelBjZ09iTEhFVlNqbUdZNko1Rlc2dm1QX3d0Q3JLNm4wZndVRUY1VFM3TlN5YVNYUF9vYlQ4MDU4TDd3bVRFWkxHNko4NXRnY240RFJuRnFNQ3VzVm9DYjNhbjhGdnp5SXRMdnY3RQ?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-10-24 18:00",
+          "headline": "テスラの新型「ロードスター」はなぜ飛べるのか？ その仕組みを物理学で読み解く -...",
+          "summary": [
+            "【概要】テスラの新型「ロードスター」はなぜ飛べるのか？ その仕組みを物理学で読み解く - WIRED.jp",
+            "テスラの新型「ロードスター」はなぜ飛べるのか？ その仕組みを物理学で読み解く WIRED.jp...",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "tesla_1792884834_4",
+          "title": "テスラ、人型ロボ「Optimus」生産開始 一方で純利益は43％減 その要因とは - CNET Japan",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuc0xPN1U1TEhteS1QYVdOemdkMzJoOTMtTlNvNU9WalBoRVJmZ2VlbEx4TnljUjdZbXYwY3RJVzI0UkM5S3RWRW85QnlTTnpMeWc?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-10-24 16:30",
+          "headline": "テスラ、人型ロボ「Optimus」生産開始 一方で純利益は43％減 その要因とは...",
+          "summary": [
+            "【概要】テスラ、人型ロボ「Optimus」生産開始 一方で純利益は43％減 その要因とは - CNET Japan",
+            "テスラ、人型ロボ「Optimus」生産開始 一方で純利益は43％減 その要因とは CNET Japan...",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "tesla_1792884834_5",
           "title": "Tesla cancels Cybertruck in Australia and NZ after 7 years of deposits",
           "link": "https://electrek.co/2026/10/23/tesla-cancels-cybertruck-australia-new-zealand/",
           "source": "Electrek (Tesla)",
@@ -136,86 +216,6 @@
           ],
           "badge": "注目",
           "importance": 4
-        },
-        {
-          "id": "tesla_1792799829_2",
-          "title": "テスラ 、『Model 3』と『Model Y』を改良…V2L・急速充電アダプターを2027年発売へ 1枚目の写真・画像 - レスポンス（Response.jp）",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjc0VLLVk2Qk10emtFMk9yVmdRaE1QNi1FTldoWDN6Q3pJTV9ZRkdoWTA2bmNaMHF3OTlTaEZjN01fdzZqSlQ4MFVXRFhfMEpBX1ZEaENGRzBCR21sa2RxYjM4cnZ2T1pmS3Bweg?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-10-23 23:27",
-          "headline": "テスラ 、『Model 3』と『Model Y』を改良…V2L・急速充電アダプタ...",
-          "summary": [
-            "【概要】テスラ 、『Model 3』と『Model Y』を改良…V2L・急速充電アダプターを2027年発売へ 1枚目の写真・画像 - レスポンス（Response.jp）",
-            "テスラ 、『Model 3』と『Model Y』を改良…V2L・急速充電アダプターを2027年発売へ 1枚目の写真・画像...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "tesla_1792799829_3",
-          "title": "Tesla’s $10B solar factory could get 35 years of tax breaks in Texas",
-          "link": "https://electrek.co/2026/10/23/tesla-solar-factory-texas-35-years-tax-breaks-fort-bend/",
-          "source": "Electrek (Tesla)",
-          "is_official": true,
-          "published_at": "2026-10-23 23:25",
-          "headline": "Tesla’s $10B solar factory could get 35 ...",
-          "summary": [
-            "【概要】Tesla’s $10B solar factory could get 35 years of tax breaks in Texas",
-            "Tesla’s proposed $10 billion “Project Crystal Sun” solar fac...",
-            "情報提供元: Electrek (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 4
-        },
-        {
-          "id": "tesla_1792799829_4",
-          "title": "Tesla: Valuation Is a Sticking Point in Merger Talks With SpaceX | モーニングスター - Morningstar",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY3JQaW55aTlMQzlDbEd4aHdya3RMQ0FpcmpoUGJxSzBXRE9OaFY4b2luc2tfampTanJZZm55MTJ0YXR4UnEwNW8tOUlGdXFOcFZXVnlNSFhUeFhlNVdORExMZnRsYnRZNVVhbVliWlpWaWVMQ3BUSDZnbUtXR2NMN2pnQXZfbHV4cmZPOV91LWE5UVU5RXBPWXB4Y2o5X01K?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-10-23 19:11",
-          "headline": "Tesla: Valuation Is a Sticking Point in ...",
-          "summary": [
-            "【概要】Tesla: Valuation Is a Sticking Point in Merger Talks With SpaceX | モーニングスター - Morningstar",
-            "Tesla: Valuation Is a Sticking Point in Merger Talks With Sp...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "tesla_1792799829_5",
-          "title": "新しいテスラ モデル3＆モデルY登場！ CHAdeMOアダプターで急速充電の利便性大幅向上へ - Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sM0I5S3E0QlBiaS1Tbmp0U3lLOXZ0S1NlQUVUejZtbkhBcEE4V21ZbUJHSFhaaTZ1Y205b3ZYRFBzSUdCMjBtMk9sNmJWR0hXTy1lMEQ4b1BPckkyUjR1RXdSWkhLb3NJT1RuZU1MU0JSdWpoVDhHTXpDLU9QU1k?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-10-23 16:01",
-          "headline": "新しいテスラ モデル3＆モデルY登場！ CHAdeMOアダプターで急速充電の利便...",
-          "summary": [
-            "【概要】新しいテスラ モデル3＆モデルY登場！ CHAdeMOアダプターで急速充電の利便性大幅向上へ - Yahoo!ニュース",
-            "新しいテスラ モデル3＆モデルY登場！ CHAdeMOアダプターで急速充電の利便性大幅向上へ Yahoo!ニュース...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
         }
       ]
     },
@@ -226,16 +226,16 @@
       "description": "OpenAI・Google・生成AIの公式発表・技術速報",
       "articles": [
         {
-          "id": "ai_1792799830_1",
-          "title": "‍‍‍生成 ai 画像 生成 - 小豆島町",
-          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNeDNuUElBTjgzZDR0dzJNUGtoNmd4N0w0UFRfaGpCOXIxR1IyRktGVmtXeFZjQ2hCV0RVcTFNeUJWcHlDQ2paVjBFREctS2VhYmZsWmxpSmZpcDYwbjBQRUNwS3NmSEtIdVNlYWdPYjBLZlVPR3pWMTdTYlE0TFhhdWNXWndHSk8tV2VlZ0ZBbkZtTTBHeG9ZdGdNYzRMMjQ4d1B1S3hjdnItN3dRTzBVN0c3YWt2VENtS1VEeW14MzVGY1l4eTRsLXRYaXFMaEdWdHQzNzctNkE2enk5YmxySEZlekxGeU5JZDVzd0ptVnhlSDZJOWZEcnRsQnZpN2lEcmM5dUF4VXotZ3JQLUtoZ0tmQ2NNcjU5R2lmQ1NsRVdRemI3Zkx4VU12QW8wRUFkeDgyX2VZaXJoel80Z0lrZkE5MTZNaUpKeFZBTU0zR1dTU0RhRzREM1NuTEJSdVRUQlE?oc=5",
+          "id": "ai_1792884836_1",
+          "title": "‍‍‍AI彼女 画像 送ってくれる ai - 小豆島町",
+          "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOc05tdXIteV9uYW41Nlo3TVFUdm81MmRrbW1LN2d0ckJjaWlQV3dyNjYyUGhCQ3NzbkhOUUxjV1lqUkFrV1I3N1RXT3B5NGY1Z0llSlpXTUFtNkJsR3VuNWVwZnFiZEV3RWpJUjVVUHFXeXotOTV5ZnAtWkxxeDVaSjRhYzFuWTV4aHBVbTk0bzhGYjBfeTZPeFZUaS1vSE5kMkR0SDFvN3hYZEVuRG9ieXZIOUpwU2NmSzkxQW1Uazc1UWg3LWh1UXRHRjgwdnY4Rk1weUtqQkhPcE40ZjFDb0FQS2ZqQWlMb1R4T0p2QU1LTWFkWkxNY2VhUU56R0F1alljeFhrVnBvcWt0RUN0Z3FpYW8wY0U4NUVKUXFRM1lDdXpTTGZFU0R6aGhyNlMycVBlN01GcW5ScS1Md1VIOU13SkdxZmtHLUE3SjJfVE5ES2NJOS15Z19NRnB6Zw?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-24 07:09",
-          "headline": "‍‍‍生成 ai 画像 生成 - 小豆島町",
+          "published_at": "2026-10-25 07:30",
+          "headline": "‍‍‍AI彼女 画像 送ってくれる ai - 小豆島町",
           "summary": [
-            "【概要】‍‍‍生成 ai 画像 生成 - 小豆島町",
-            "‍‍‍生成 ai 画像 生成 小豆島町...",
+            "【概要】‍‍‍AI彼女 画像 送ってくれる ai - 小豆島町",
+            "‍‍‍AI彼女 画像 送ってくれる ai 小豆島町...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -246,16 +246,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1792799830_2",
-          "title": "‍‍‍画像 生成 ai - 小豆島町",
-          "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOUFpzaWNaLXowVTZrS1Z1VUEwUXNfWlZKek55TkJyaElfMjROUmM1cVQxcDNKY2ZoZnpGX05RQUtmZVQ2YXgxZXVCREdURFlWVjU2NTNNUDBxZWplUW12M0tLaldQTzNXcnVBc0lGUF9XbV90a0luU0VmZDFLcktGcGE5alo2VDBPNmlyNk5aSmMxcXQtUXFVYnNWRlk3TFhMcGY5N0dhaHdfUWktcFYwcEhYdEk3V0lWamJud3dXVmxWS1diTlhPX3RRVDR5c0tQZURlYk0talZmci1yc0Y5NHVDU3QzQlZ5Y2FEal9tZDctWTE0dWpaUklYSUttQUM3WVFaMGtLc1AwTGtkNnlTZjE4Y2NRNVZfN0ZzeC1LV0psczhHcFNtalc5MmZPTDJ2MlBYMHI2OGp5QTJVZWJhQ1dTb19keHcxYW0xX1dRdXU?oc=5",
+          "id": "ai_1792884836_2",
+          "title": "‍‍‍AI彼女 画像生成 おすすめ 初心者 ai - 小豆島町",
+          "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOWHA0X2ctV1pVWWhjZXZucDlQTXRiZnIzcmdya09lN2RIY2hON3Jpa3h1dmRDcEdTVWJGU2RtajFmV1d0SDJWOEs4OElEXzFYSGZySmpna05MVnIzQnU0OGNYWVBOODZKbjdnRGhYMlBCSnhlQlBVM3VWd0dSbXRhWUhpSERvUlUxczIzNGU0NUx3UHlsc3JsR3pxQ1FTNENENnpVaS1yM0JGZXpDLWQySnl1Q1lkLWVKVWVyZHI4a1Qxd3NJOW5zcmhieFIzcEVmQ0tVc2w4Z1dxTVhsM0RKb2ZIVDdDOTQwV2lnQ3Z2S1NJNHYydndfV1NQVklhNGsyaEJEUjQzY0pKZUxhUnBsaDduUlR6dGJ3TDFlOVBZM3F0dzBxNWVDWHdJVUJvVTJycUdXeTY5X2pnNGR4QXFIRFRfTnlsSXRocXhRQUZ5YThrX3J3dERfeGgwMk41TlB0b1pQUkMta0NXSWhCUWpjMGtWRQ?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-24 07:08",
-          "headline": "‍‍‍画像 生成 ai - 小豆島町",
+          "published_at": "2026-10-25 07:30",
+          "headline": "‍‍‍AI彼女 画像生成 おすすめ 初心者 ai - 小豆島町",
           "summary": [
-            "【概要】‍‍‍画像 生成 ai - 小豆島町",
-            "‍‍‍画像 生成 ai 小豆島町...",
+            "【概要】‍‍‍AI彼女 画像生成 おすすめ 初心者 ai - 小豆島町",
+            "‍‍‍AI彼女 画像生成 おすすめ 初心者 ai 小豆島町...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -266,16 +266,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1792799830_3",
-          "title": "‍‍‍AI Porn Tools購入ガイド：最高のアダルトAIツールの選び方 - 小豆島町",
-          "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPdDN5Zjd4S2RIcFZMQUlKWlRUaXBxQnB5S2pmaW1ieXNCTHIydjBoR2lDWXBGcGM0S19HN2JjUnRlZWNDQmVsR0VrbWxURXZqZjJQbW9MV0laaHF2TXNISEFSRmEzUGNNQWdBdFlCVGFqdEZkNjhZYU14Yk1uSkt4WVhHaS1CQkJNZTIyOHhQb0RwWFJrUEI2SGhzNV9NeHVpRTVJZ24xa3g1SGVMdTlzaVBQbFNmTU9fUHVMT0FoeUFXWlprdXQyN3RBcUxRTm1ycENVbHlNSGk4cEFwcWhIanpzakhlVzJiQk9ySnk4TnNXUlFFQy05SW1YajZWa0hTSnFNUktORUJDU1F6bXZSWERBRzZJMDdoLTduWTU1UFhLbVR0UUZCcG5tT0tmN2ZVUXlzOW5FbzlpVC03MXVPR04xMkYzTnRVc2JhWVV0VHhNU2w3RngzN2VlS0p4MkZvcWNEbnZiR1NVOUtEOEIyTU14d2ZwT1NaeVNpN0k0amlwVkk?oc=5",
+          "id": "ai_1792884836_3",
+          "title": "MUFGのAI PoCを再建したオントロジー×ナレッジグラフ活用 非IT部門が2万件の知見をデータ化 - EnterpriseZine",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IMmcwbmczQXVvSmFuYWNlbk0tVlZ2VGFad2c0b1M0VXZSNlE2bTdRMjdBU1A1T2Y0OFQ4MFY0NktiZURKUU9CRFdMZ0tTTVh5VHdIbi1wek1kdw?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-24 07:08",
-          "headline": "‍‍‍AI Porn Tools購入ガイド：最高のアダルトAIツールの選び方 -...",
+          "published_at": "2026-10-25 07:21",
+          "headline": "MUFGのAI PoCを再建したオントロジー×ナレッジグラフ活用 非IT部門が2...",
           "summary": [
-            "【概要】‍‍‍AI Porn Tools購入ガイド：最高のアダルトAIツールの選び方 - 小豆島町",
-            "‍‍‍AI Porn Tools購入ガイド：最高のアダルトAIツールの選び方 小豆島町...",
+            "【概要】MUFGのAI PoCを再建したオントロジー×ナレッジグラフ活用 非IT部門が2万件の知見をデータ化 - EnterpriseZine",
+            "MUFGのAI PoCを再建したオントロジー×ナレッジグラフ活用 非IT部門が2万件の知見をデータ化 Enterpris...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -286,16 +286,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1792799830_4",
-          "title": "‍‍‍AIイラスト・AI画像生成サイト｜無料で自動生成 - 小豆島町",
-          "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNV3hoTTFuN282SkF5NWY4d3BuR3B2QWZDeFdFejdWMU9sNmNLalA0U1AwLXJoWDlzMmZ2M3g2R013Mnp1Uzhibk1BWDhVNFVUVjM0NTZGWXo1TTEwdVNqUWFEdi13SXFLOVlwMGE4b19RUW5vcVIyZzRyUm5Pd3A1X1VmRGt1ckpTNmRsa21aNEYyc2lKX1RvTUI5dUJRbEpaTlVHOG1mbFpqbXdwTTBGcnVIVVdDbU0zSTNoQ0haenVMQVlhaXBuUkJqLVppN011Mi1FX29JYVAzaHZZUUxfY0pjM2VZQW00MVBQMUJXd2ZuaENzRm1KU2l4NFU5OTZQZFFENGlHaU9DMVFjUGUxdXVGR25Pd1ZtdUd6YUtIa04tLXRlcHhmeUdUOXZkdUtYdVZtdkFMcVJ6MThIX21hbkhQa0pER045VUVEaEg0ZVNZSlI2dHVlcGlzQmh4T2VXTTNMR2lKcE5KQkJxOXNIazdTRWctam1rVldHeWZuUXo4OGVpdm9ucg?oc=5",
+          "id": "ai_1792884836_4",
+          "title": "‍‍‍生成 ai ai - FC東京オフィシャルホームページ",
+          "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNSEwyenMtYW96Q1B6RWNSbDB6TkFpQ08xUjNNYzZiWVN1dXdUYWpLQ01PTEdHajVycmd5VmlkYjB6elRlNlRUYk1vLXQ4OHFXN04yZGVnUVNicGNJWkx0Mk53MmJLTEdzRmlYRDExdGJZTmNucHl6VC1WQXFISmVpV1lFOWNaWU1fd001R1J6X2NBY1pmUm5kWHJjeTJrYnBRaU1VNEw1MHdpcjRzalJBSUZrODVEQkJhajktQUJXMm1md0UxbXZLd3FaWS1sdWk3X25yQWxvMmlpdGZJdjlrVHNvdEY0UndLcGtuOTN5aVZiV2lELTRybDZCQlJaN2xMS2g0UXVLS0dBb2I5aXppbkV2UWxUdWg0bnhfcUZyMHQ?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-24 07:04",
-          "headline": "‍‍‍AIイラスト・AI画像生成サイト｜無料で自動生成 - 小豆島町",
+          "published_at": "2026-10-25 06:53",
+          "headline": "‍‍‍生成 ai ai - FC東京オフィシャルホームページ",
           "summary": [
-            "【概要】‍‍‍AIイラスト・AI画像生成サイト｜無料で自動生成 - 小豆島町",
-            "‍‍‍AIイラスト・AI画像生成サイト｜無料で自動生成 小豆島町...",
+            "【概要】‍‍‍生成 ai ai - FC東京オフィシャルホームページ",
+            "‍‍‍生成 ai ai FC東京オフィシャルホームページ...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -306,16 +306,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1792799830_5",
-          "title": "‍‍‍18+ AI購入ガイド：適切なアダルトAI画像ツールの選び方 - 小豆島町",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQOTVpMWhDMjhxemk1VW5sQ0p4RWM4Rk50c2dHWTRfeVRLdVNSYlhpTWpwWUVEdUJaMGF4dW1HM1gxcG56MG10c0JmS3Z6TElJWGRfUDhCbFhjekRsa1dSYlRaZ283M3NSdzFmemEwS1J5WnN2eWVTWnNoUGdLaWlvamZoV3p3cUxReGNibkRXbERpbFM1cGQ3RFBrSThURzMycVM3OFVXS2dlNXhKclhXa0RiV3FXQkl4VXQxSHl0a3M2eTFob3lGcHNpUEJOdmtsYTJSUGRQZjR4X1JNeENYZlZ2MU1UbWx2WEt3MEVQMjJZLUFMUENNRFZoMDVRNER1RThnRFUxaFNNcmM4bEdtQWlHT0ptOWpKTHl5SFlkZ3otcXgzdmtnWUF6VUtTcDF0MWcwWVR6blpnSVFnSUFtT3lhS3daUjdqREdZRnhJSUsyZTJBZ21MdUoyTWtNbll5S08xaEQ1NEpadkpRMDUyYi1EeHhMeFRKc1lqSzItcWM1VmtWelE?oc=5",
+          "id": "ai_1792884836_5",
+          "title": "‍‍‍購入ガイド：リアルなAIサービスの比較・選択方法 ai - FC東京オフィシャルホームページ",
+          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPSENBTVpiVjRGNnZEQUFmYjFDcUlQaFNsTjdtTVBFem5WSGFOcWY5enhCbkNkczd6alphTmVQY3FobUJaYkRGcHphb2NsZ1JnUEhmbjEwUHNOLUp3eS1teEhtNHRjak9KelEyMjJYaVFhdkV4eER1S1k0S1VuNVdYQkhsWXRGekJVWm5sX3RTZVZVR2xocDRqbUp4TEYzcE05QjYxYWh1el9IRHYyQ3BCRUtYVnlPMHE5OVRGVFhzVWdwSHJicmlvMzA4MDBGSUhCTDZxc2w1cFJjYVBFWktNd3lIdXdEUTh4Y0J1QUFFOG9ORDlyOFZZTzlvNzRaOGVfUEtoSnZFSGxqM25laFlpX3ZQWV9MS1dhdDNfS0ozMUJERktOSkdhc2tKWXk3Z2Mtdk9TME03V3UwTkR1Y0xJUmRqQVlnU21HajBJV1EyMVh2ZmpX?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-24 07:02",
-          "headline": "‍‍‍18+ AI購入ガイド：適切なアダルトAI画像ツールの選び方 - 小豆島町",
+          "published_at": "2026-10-25 06:52",
+          "headline": "‍‍‍購入ガイド：リアルなAIサービスの比較・選択方法 ai - FC東京オフィ...",
           "summary": [
-            "【概要】‍‍‍18+ AI購入ガイド：適切なアダルトAI画像ツールの選び方 - 小豆島町",
-            "‍‍‍18+ AI購入ガイド：適切なアダルトAI画像ツールの選び方 小豆島町...",
+            "【概要】‍‍‍購入ガイド：リアルなAIサービスの比較・選択方法 ai - FC東京オフィシャルホームページ",
+            "‍‍‍購入ガイド：リアルなAIサービスの比較・選択方法 ai FC東京オフィシャルホームページ...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
