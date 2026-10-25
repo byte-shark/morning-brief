@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026年10月25日 08:33",
-  "updated_at_iso": "2026-10-25T08:33:53.516148+09:00",
+  "updated_at": "2026年10月26日 08:29",
+  "updated_at_iso": "2026-10-26T08:29:16.160155+09:00",
   "model_used": "mock-mode",
   "categories": [
     {
@@ -10,7 +10,7 @@
       "description": "Microsoft Azureの公式発表・最新クラウド動向",
       "articles": [
         {
-          "id": "azure_1792884834_1",
+          "id": "azure_1792970956_1",
           "title": "Azure Application Gatewayで不具合の報告、?x=.jsで403を回避 - Pasquale Pillitteri",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdUprODRBR1JPcnpQVVMwTkE1Wk9veW52eTVpOEFYSVUxdUVmalJSMXpBdDdNaXZpVnIyVFNZOUM5Zmpna0RicHZTaHQzbk1pNW53ZFIzejExTXpmZzduaDhTRjJMTVJWd0szeTdCVnFacWlvU29DdU5kWWZrT0dTWXdxUG5tTHFzT2c?oc=5",
           "source": "Google News (Azure)",
@@ -30,12 +30,12 @@
           "importance": 3
         },
         {
-          "id": "azure_1792884834_2",
+          "id": "azure_1792970956_2",
           "title": "クラウド移行で3強激突 - 日経クロステック",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd2dkaUpxQVpub1FYUGlNZUZNbkNRaDhPQ1hlSDlrblRhbkxIbmtiR1VQclBkUTBHZ2hMTDJvQmlZRE5oU2pTNFhqbW04SW5QNGNNU1JNamRTMXFkRV91N2FxQnVKajN1MXg2SmdpdUxHV0pLOUZNUDRyeFlkX3BFQ1gwVzFTdkJPdHExSUk4dlo5dW1CNEJfUHlwbmZmb0JaQXFxU2c5WVF2SXlhUXAzUldJaVRKdw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYnB1REpiTzNzbXdXcFRtOTU3bUZ4bDdyMnRLOUZ6ajNodDFyMURuTWM1VzhzRVFHUW5oVkVsUmt4TDBJbWRqaHEzUy15Z3RPSXduT2tEZFVDMVZYbEgtR3dNTVdaTFUxWEd3SWw2dHhsU2hCeHZESDcyZFdTUS1uTEExaXdLWUlvWnl6MC01MEg5RUtVRTNaWTRid3ZGdGNiWnFNOHFHOFRlR2p6eUZYX0dQVDJkNzktM1RhYU83X2pscEV1?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-10-24 16:36",
+          "published_at": "2026-10-24 19:45",
           "headline": "クラウド移行で3強激突 - 日経クロステック",
           "summary": [
             "【概要】クラウド移行で3強激突 - 日経クロステック",
@@ -50,7 +50,27 @@
           "importance": 3
         },
         {
-          "id": "azure_1792884834_3",
+          "id": "azure_1792970956_3",
+          "title": "【完全解説】メガテック決算の分水嶺：グーグル、マイクロソフト、アマゾンの株価を動かす「ハードル」と「シナリオ」 - ブルーモ証券",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5Z3YwbVZJSi1UVjEybGVQb2R4Um9Dd2RiMFVCRXFFNXUyQ3RuS0FlVzJsSW5pejhjNEhrNEpKRGdUZG9NdGdULXd1QWd2S2tubEtIXzZCM2ZJRjF2cU5QT0hTRy1vVG5Nd0VrNQ?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-10-24 19:39",
+          "headline": "【完全解説】メガテック決算の分水嶺：グーグル、マイクロソフト、アマゾンの株価を動...",
+          "summary": [
+            "【概要】【完全解説】メガテック決算の分水嶺：グーグル、マイクロソフト、アマゾンの株価を動かす「ハードル」と「シナリオ」 - ブルーモ証券",
+            "【完全解説】メガテック決算の分水嶺：グーグル、マイクロソフト、アマゾンの株価を動かす「ハードル」と「シナリオ」 ブルーモ...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1792970956_4",
           "title": "マイクロソフト、10月28日に決算発表：Azureの成長ペースと500億ドル超の設備投資に注目 - BigGo ファイナンス",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrMWlvTENIcnRQVS1GalZtUUNGRzNWLVJPZGNGUEFoZGQwckFkY2pxblBOWkFreUhJdVAwMGk0OXFmVVRvUWNsLWxHUTFaSGo2UU1kM0RhNURiRGJRZVoxTHRweTJPcTdQN0N0Vnh2TVltMWoz?oc=5",
           "source": "Google News (Azure)",
@@ -70,36 +90,16 @@
           "importance": 3
         },
         {
-          "id": "azure_1792884834_4",
-          "title": "情報漏えいやセキュリティ対策も安心！三菱総研DCSがKDDIのクラウドでつくる新しいデータ管理 - DXマガジン",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93VTEyX0YtQURNaEZmT0lZRkhIakRRbzhkWHMxa2RNbFJqQjhEM3JGV3I0NWwzOU1oT0NSRXpzRXlTakNXVUJySkdqZ29NUkE?oc=5",
+          "id": "azure_1792970956_5",
+          "title": "「Microsoft Top Partner Engineer Award」初受賞メンバーにインタビュー - ASCII.jp",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sYnEzMGhTdVRyczVkSUVVSnFPMVRyWkdNM2doVlRZeGEzVWJuNGwwRFNVN24xS0VLMHljTGpWN1lkRkFkTDdqMEhPaGVVSmNjWHRzTw?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-10-22 17:53",
-          "headline": "情報漏えいやセキュリティ対策も安心！三菱総研DCSがKDDIのクラウドでつくる新...",
+          "published_at": "2026-10-23 14:00",
+          "headline": "「Microsoft Top Partner Engineer Award」初受...",
           "summary": [
-            "【概要】情報漏えいやセキュリティ対策も安心！三菱総研DCSがKDDIのクラウドでつくる新しいデータ管理 - DXマガジン",
-            "情報漏えいやセキュリティ対策も安心！三菱総研DCSがKDDIのクラウドでつくる新しいデータ管理 DXマガジン...",
-            "情報提供元: Google News (Azure)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "azure_1792884834_5",
-          "title": "Microsoftが数百のAIモデルをオンプレミスで実行可能に、ソブリンAI向け - 日経クロステック Active",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HUE5hbkdpWDlPMEJzWlRWSWJFcjlaRkFJQ0JyMkVrYkoxdUttYVNRdjBFckMzdW02TXc1U2tha1l0aGpyREkxZU9XTjZ3enJOd2stY2gtZnpwaUxHMGpWY0g0R0VlZnZDeGc?oc=5",
-          "source": "Google News (Azure)",
-          "is_official": false,
-          "published_at": "2026-10-22 12:00",
-          "headline": "Microsoftが数百のAIモデルをオンプレミスで実行可能に、ソブリンAI向け...",
-          "summary": [
-            "【概要】Microsoftが数百のAIモデルをオンプレミスで実行可能に、ソブリンAI向け - 日経クロステック Active",
-            "Microsoftが数百のAIモデルをオンプレミスで実行可能に、ソブリンAI向け 日経クロステック Active...",
+            "【概要】「Microsoft Top Partner Engineer Award」初受賞メンバーにインタビュー - ASCII.jp",
+            "「Microsoft Top Partner Engineer Award」初受賞メンバーにインタビュー ASCII.j...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -118,12 +118,52 @@
       "description": "テスラの最新アップデート・EV・FSD・決算動向",
       "articles": [
         {
-          "id": "tesla_1792884834_1",
+          "id": "tesla_1792970957_1",
+          "title": "テスラ「サイバーキャブ」の衝撃 車の稼働率10倍へ、収益構造が激変 - 日経クロステック",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vUkpZUHRHNS13RHl2a1ZvSDE2QllyeWVyS1BHb293MzFQdUdHakFVeC0tWVV1RU0zOTZlVVNBRnZiNzNmOENOdmdqSEdBZ0Y5RHo2N01GZy16aHdqVjZzWml5c3g3ekVDMU5meQ?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-10-26 05:00",
+          "headline": "テスラ「サイバーキャブ」の衝撃 車の稼働率10倍へ、収益構造が激変 - 日経クロ...",
+          "summary": [
+            "【概要】テスラ「サイバーキャブ」の衝撃 車の稼働率10倍へ、収益構造が激変 - 日経クロステック",
+            "テスラ「サイバーキャブ」の衝撃 車の稼働率10倍へ、収益構造が激変 日経クロステック...",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "tesla_1792970957_2",
+          "title": "スペースXとテスラの統合、複雑怪奇で評価は困難 - ダイヤモンド・オンライン",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9JYlRUWFlad0VCSkNFNGd2dVR0TVlISGxHMGpxdG45QmZhdTJHU3lQb0hNUENZZVp5WEZidy1pUjFKeVM2RW1JYm1FUUI?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-10-26 04:05",
+          "headline": "スペースXとテスラの統合、複雑怪奇で評価は困難 - ダイヤモンド・オンライン",
+          "summary": [
+            "【概要】スペースXとテスラの統合、複雑怪奇で評価は困難 - ダイヤモンド・オンライン",
+            "スペースXとテスラの統合、複雑怪奇で評価は困難 ダイヤモンド・オンライン...",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "tesla_1792970957_3",
           "title": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vR2owRXJLX1dwYUtHY05wNjVKVmVrTHNXdm5yRGJ0NHJzSzZTaEgxWFo0WmNBOWUxV2tXcHljUWlYaG92bll2YUNIQzJlVE0?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-10-25 07:37",
+          "published_at": "2026-10-26 01:49",
           "headline": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
           "summary": [
             "【概要】テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
@@ -138,16 +178,16 @@
           "importance": 3
         },
         {
-          "id": "tesla_1792884834_2",
-          "title": "テスラのロボタクシー 「8倍・300台超」 全米制覇に向け加速 Cybercabが1ヶ月でに急増 - 自動運転ラボ",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5SN2tIQUJIa2I3dGZBd3RQRVBlSy1hdy13NHlHR3dlS3FXR1kxWHhUVFQ4dDBwbGZzSXFlajVaeHZnU3NhQ2JyQg?oc=5",
+          "id": "tesla_1792970957_4",
+          "title": "「5年でバッテリーが使い物にならなくなる」は本当か テスラ「モデル3」5年目点検で分かったこと - ITmedia",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRb0EzWEI5VjZUZkw4TGlGRXpQd05ucE8wUGxfeE9MbzFMT2FzV1d3ZmpISnJObVVCS3F0eVZRNnBqcl9zZUxWeXcwYVNVdV9JWVAxOWVaeFVvcjFVZURFOWF5WjZDQVdSNkE?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-10-25 07:04",
-          "headline": "テスラのロボタクシー 「8倍・300台超」 全米制覇に向け加速 Cybercab...",
+          "published_at": "2026-10-25 20:37",
+          "headline": "「5年でバッテリーが使い物にならなくなる」は本当か テスラ「モデル3」5年目点検...",
           "summary": [
-            "【概要】テスラのロボタクシー 「8倍・300台超」 全米制覇に向け加速 Cybercabが1ヶ月でに急増 - 自動運転ラボ",
-            "テスラのロボタクシー 「8倍・300台超」 全米制覇に向け加速 Cybercabが1ヶ月でに急増 自動運転ラボ...",
+            "【概要】「5年でバッテリーが使い物にならなくなる」は本当か テスラ「モデル3」5年目点検で分かったこと - ITmedia",
+            "「5年でバッテリーが使い物にならなくなる」は本当か テスラ「モデル3」5年目点検で分かったこと ITmedia...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -158,47 +198,7 @@
           "importance": 3
         },
         {
-          "id": "tesla_1792884834_3",
-          "title": "テスラの新型「ロードスター」はなぜ飛べるのか？ その仕組みを物理学で読み解く - WIRED.jp",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkelBjZ09iTEhFVlNqbUdZNko1Rlc2dm1QX3d0Q3JLNm4wZndVRUY1VFM3TlN5YVNYUF9vYlQ4MDU4TDd3bVRFWkxHNko4NXRnY240RFJuRnFNQ3VzVm9DYjNhbjhGdnp5SXRMdnY3RQ?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-10-24 18:00",
-          "headline": "テスラの新型「ロードスター」はなぜ飛べるのか？ その仕組みを物理学で読み解く -...",
-          "summary": [
-            "【概要】テスラの新型「ロードスター」はなぜ飛べるのか？ その仕組みを物理学で読み解く - WIRED.jp",
-            "テスラの新型「ロードスター」はなぜ飛べるのか？ その仕組みを物理学で読み解く WIRED.jp...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "tesla_1792884834_4",
-          "title": "テスラ、人型ロボ「Optimus」生産開始 一方で純利益は43％減 その要因とは - CNET Japan",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuc0xPN1U1TEhteS1QYVdOemdkMzJoOTMtTlNvNU9WalBoRVJmZ2VlbEx4TnljUjdZbXYwY3RJVzI0UkM5S3RWRW85QnlTTnpMeWc?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-10-24 16:30",
-          "headline": "テスラ、人型ロボ「Optimus」生産開始 一方で純利益は43％減 その要因とは...",
-          "summary": [
-            "【概要】テスラ、人型ロボ「Optimus」生産開始 一方で純利益は43％減 その要因とは - CNET Japan",
-            "テスラ、人型ロボ「Optimus」生産開始 一方で純利益は43％減 その要因とは CNET Japan...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "tesla_1792884834_5",
+          "id": "tesla_1792970957_5",
           "title": "Tesla cancels Cybertruck in Australia and NZ after 7 years of deposits",
           "link": "https://electrek.co/2026/10/23/tesla-cancels-cybertruck-australia-new-zealand/",
           "source": "Electrek (Tesla)",
@@ -226,16 +226,16 @@
       "description": "OpenAI・Google・生成AIの公式発表・技術速報",
       "articles": [
         {
-          "id": "ai_1792884836_1",
-          "title": "‍‍‍AI彼女 画像 送ってくれる ai - 小豆島町",
-          "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOc05tdXIteV9uYW41Nlo3TVFUdm81MmRrbW1LN2d0ckJjaWlQV3dyNjYyUGhCQ3NzbkhOUUxjV1lqUkFrV1I3N1RXT3B5NGY1Z0llSlpXTUFtNkJsR3VuNWVwZnFiZEV3RWpJUjVVUHFXeXotOTV5ZnAtWkxxeDVaSjRhYzFuWTV4aHBVbTk0bzhGYjBfeTZPeFZUaS1vSE5kMkR0SDFvN3hYZEVuRG9ieXZIOUpwU2NmSzkxQW1Uazc1UWg3LWh1UXRHRjgwdnY4Rk1weUtqQkhPcE40ZjFDb0FQS2ZqQWlMb1R4T0p2QU1LTWFkWkxNY2VhUU56R0F1alljeFhrVnBvcWt0RUN0Z3FpYW8wY0U4NUVKUXFRM1lDdXpTTGZFU0R6aGhyNlMycVBlN01GcW5ScS1Md1VIOU13SkdxZmtHLUE3SjJfVE5ES2NJOS15Z19NRnB6Zw?oc=5",
+          "id": "ai_1792970958_1",
+          "title": "イスラエル総選挙 AI動画で投票影響も（ABEMA TIMES） - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05eEZnOEVqR1o1ZHVIWlhicFBMVGNDdmp5WXZGWUdGeUc1b0dGcElNbEUxU1RHUEhSTmUzcXVKZWJTdWMyblV2SDd1ZkJ6SzFtdGc2bG9pZW1VUUZxUXR3MUxySGhYbG1HR3R3b090SWthcEJCVmhycXBhSURNeVk?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-25 07:30",
-          "headline": "‍‍‍AI彼女 画像 送ってくれる ai - 小豆島町",
+          "published_at": "2026-10-26 07:47",
+          "headline": "イスラエル総選挙 AI動画で投票影響も（ABEMA TIMES） - Yahoo...",
           "summary": [
-            "【概要】‍‍‍AI彼女 画像 送ってくれる ai - 小豆島町",
-            "‍‍‍AI彼女 画像 送ってくれる ai 小豆島町...",
+            "【概要】イスラエル総選挙 AI動画で投票影響も（ABEMA TIMES） - Yahoo!ニュース",
+            "イスラエル総選挙 AI動画で投票影響も（ABEMA TIMES） Yahoo!ニュース...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -246,16 +246,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1792884836_2",
-          "title": "‍‍‍AI彼女 画像生成 おすすめ 初心者 ai - 小豆島町",
-          "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOWHA0X2ctV1pVWWhjZXZucDlQTXRiZnIzcmdya09lN2RIY2hON3Jpa3h1dmRDcEdTVWJGU2RtajFmV1d0SDJWOEs4OElEXzFYSGZySmpna05MVnIzQnU0OGNYWVBOODZKbjdnRGhYMlBCSnhlQlBVM3VWd0dSbXRhWUhpSERvUlUxczIzNGU0NUx3UHlsc3JsR3pxQ1FTNENENnpVaS1yM0JGZXpDLWQySnl1Q1lkLWVKVWVyZHI4a1Qxd3NJOW5zcmhieFIzcEVmQ0tVc2w4Z1dxTVhsM0RKb2ZIVDdDOTQwV2lnQ3Z2S1NJNHYydndfV1NQVklhNGsyaEJEUjQzY0pKZUxhUnBsaDduUlR6dGJ3TDFlOVBZM3F0dzBxNWVDWHdJVUJvVTJycUdXeTY5X2pnNGR4QXFIRFRfTnlsSXRocXhRQUZ5YThrX3J3dERfeGgwMk41TlB0b1pQUkMta0NXSWhCUWpjMGtWRQ?oc=5",
+          "id": "ai_1792970958_2",
+          "title": "‍‍‍NSFW AI生成ツール：成人向けコンテンツ作成AIトップ5 - FC東京オフィシャルホームページ",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNQWkwVDNvT0JMNEl6M2NXQ050WFl2YmVsWk5wVmZKNlczUklpUlRLNUdxbXNlU2lwcHdqVzhMSDJIZ3lRdkxwZENra0tQelIzdlJiYTg2SkVITFIwMy1kSGxIdDRvaVpJbU9zNVU5eDJjb3BzeWdKSUt2Y3VGeU02eU00Wk42MDY4ZlhzY2M1dldyMlpBY3lUVUhmeldTMGFyTFVOc2tITTFSRllfQ2tZenBReDE3RWxMeHRTMDhLVFk5Z3NXWGE2Vi1MLWJkMTVhMndmWVJCNHF3aE4ycE1YejUySU1rQ1FZZzJ1MFZoNHZyRUMxUHVad0lPaE90c3RUbjVpZWtnY3JleXFUTlE?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-25 07:30",
-          "headline": "‍‍‍AI彼女 画像生成 おすすめ 初心者 ai - 小豆島町",
+          "published_at": "2026-10-26 06:44",
+          "headline": "‍‍‍NSFW AI生成ツール：成人向けコンテンツ作成AIトップ5 - FC東京...",
           "summary": [
-            "【概要】‍‍‍AI彼女 画像生成 おすすめ 初心者 ai - 小豆島町",
-            "‍‍‍AI彼女 画像生成 おすすめ 初心者 ai 小豆島町...",
+            "【概要】‍‍‍NSFW AI生成ツール：成人向けコンテンツ作成AIトップ5 - FC東京オフィシャルホームページ",
+            "‍‍‍NSFW AI生成ツール：成人向けコンテンツ作成AIトップ5 FC東京オフィシャルホームページ...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -266,16 +266,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1792884836_3",
-          "title": "MUFGのAI PoCを再建したオントロジー×ナレッジグラフ活用 非IT部門が2万件の知見をデータ化 - EnterpriseZine",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IMmcwbmczQXVvSmFuYWNlbk0tVlZ2VGFad2c0b1M0VXZSNlE2bTdRMjdBU1A1T2Y0OFQ4MFY0NktiZURKUU9CRFdMZ0tTTVh5VHdIbi1wek1kdw?oc=5",
+          "id": "ai_1792970958_3",
+          "title": "「note AIアシスタント（β）」「note」のユーザー専属編集者／創作支援機能 - 窓の杜",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5UbnpXYUlfaXZOckxYSG9OY3V5dkYybHRTVVp1dGNVV0dyVWFUS1k2dzNzTktwU094TUQyWm1hSV82M3lFOUE2eG5Oa3ZDcG5vNjNiUUlqYXhMbjl2Qk1EQjh1X1pqQkRiZEFN?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-25 07:21",
-          "headline": "MUFGのAI PoCを再建したオントロジー×ナレッジグラフ活用 非IT部門が2...",
+          "published_at": "2026-10-26 06:05",
+          "headline": "「note AIアシスタント（β）」「note」のユーザー専属編集者／創作支援機...",
           "summary": [
-            "【概要】MUFGのAI PoCを再建したオントロジー×ナレッジグラフ活用 非IT部門が2万件の知見をデータ化 - EnterpriseZine",
-            "MUFGのAI PoCを再建したオントロジー×ナレッジグラフ活用 非IT部門が2万件の知見をデータ化 Enterpris...",
+            "【概要】「note AIアシスタント（β）」「note」のユーザー専属編集者／創作支援機能 - 窓の杜",
+            "「note AIアシスタント（β）」「note」のユーザー専属編集者／創作支援機能 窓の杜...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -286,16 +286,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1792884836_4",
-          "title": "‍‍‍生成 ai ai - FC東京オフィシャルホームページ",
-          "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNSEwyenMtYW96Q1B6RWNSbDB6TkFpQ08xUjNNYzZiWVN1dXdUYWpLQ01PTEdHajVycmd5VmlkYjB6elRlNlRUYk1vLXQ4OHFXN04yZGVnUVNicGNJWkx0Mk53MmJLTEdzRmlYRDExdGJZTmNucHl6VC1WQXFISmVpV1lFOWNaWU1fd001R1J6X2NBY1pmUm5kWHJjeTJrYnBRaU1VNEw1MHdpcjRzalJBSUZrODVEQkJhajktQUJXMm1md0UxbXZLd3FaWS1sdWk3X25yQWxvMmlpdGZJdjlrVHNvdEY0UndLcGtuOTN5aVZiV2lELTRybDZCQlJaN2xMS2g0UXVLS0dBb2I5aXppbkV2UWxUdWg0bnhfcUZyMHQ?oc=5",
+          "id": "ai_1792970958_4",
+          "title": "‍‍‍NSFW AIツール一覧 — 無料動画・画像・チャット生成 ai - 小豆島町",
+          "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPSC05QUVJYXhJQ3hFUnZUanpNYVlGaTdrbHlnQ09HVDRUaHNXUjRwVVYydjloVFROdzhFQ25CTnJtTy1sWVE1Y1ZrRUJDTElRbmR5dUozSDR0aG04bW1MMTQ2RW02MXNsbEJMRm5Jc3Fzd0duMm5GR0VTaV9RZGdNTEV4N081U3FiTHJkc0oyb3hHczY3bml4QUNjR3RsU0dVYWhEaXBCRFFBN0k1X1hpZUFpTzJnSU5JMGZvTTd2a3hrRXNKaUNPem5OQURrcmdDZXN2UVA1SWUwVDJxS2h5OTctY051cUoxblFIdm56aEtac2NxR1BGTDUzcmtfRUhmTmRoTWttQWpISEo5MFI3a1FIMXB6V0hFNElfUzV1b1E1N3p4QjlDc2lMN3dhRS1LWGxmNk1JY3h1VVR0aGNTNWZncGpzT3FZdzBaeVAxTUNXVlR4UTZtQW01OHBfbWoxWWFkVTZxWXhxTXIzUGhsMElLbFl1OE5yOEtDcUNlYkthck5zelVUMXN6RkhQbEU?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-25 06:53",
-          "headline": "‍‍‍生成 ai ai - FC東京オフィシャルホームページ",
+          "published_at": "2026-10-26 04:35",
+          "headline": "‍‍‍NSFW AIツール一覧 — 無料動画・画像・チャット生成 ai - 小豆...",
           "summary": [
-            "【概要】‍‍‍生成 ai ai - FC東京オフィシャルホームページ",
-            "‍‍‍生成 ai ai FC東京オフィシャルホームページ...",
+            "【概要】‍‍‍NSFW AIツール一覧 — 無料動画・画像・チャット生成 ai - 小豆島町",
+            "‍‍‍NSFW AIツール一覧 — 無料動画・画像・チャット生成 ai 小豆島町...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -306,16 +306,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1792884836_5",
-          "title": "‍‍‍購入ガイド：リアルなAIサービスの比較・選択方法 ai - FC東京オフィシャルホームページ",
-          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPSENBTVpiVjRGNnZEQUFmYjFDcUlQaFNsTjdtTVBFem5WSGFOcWY5enhCbkNkczd6alphTmVQY3FobUJaYkRGcHphb2NsZ1JnUEhmbjEwUHNOLUp3eS1teEhtNHRjak9KelEyMjJYaVFhdkV4eER1S1k0S1VuNVdYQkhsWXRGekJVWm5sX3RTZVZVR2xocDRqbUp4TEYzcE05QjYxYWh1el9IRHYyQ3BCRUtYVnlPMHE5OVRGVFhzVWdwSHJicmlvMzA4MDBGSUhCTDZxc2w1cFJjYVBFWktNd3lIdXdEUTh4Y0J1QUFFOG9ORDlyOFZZTzlvNzRaOGVfUEtoSnZFSGxqM25laFlpX3ZQWV9MS1dhdDNfS0ozMUJERktOSkdhc2tKWXk3Z2Mtdk9TME03V3UwTkR1Y0xJUmRqQVlnU21HajBJV1EyMVh2ZmpX?oc=5",
+          "id": "ai_1792970958_5",
+          "title": "暴走するAI その正体と攻防 - 日本経済新聞",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wdnp1Y3R4QU1OTTgyU2l3anh0RXZWMEN4bWNGQUIwanA4OW9uay1kaEZrMnpBX3pZMVIyUzFiTjlJbDVIMWRoZDE0MjYxQWxoLWtPd2g4RS1jUQ?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-25 06:52",
-          "headline": "‍‍‍購入ガイド：リアルなAIサービスの比較・選択方法 ai - FC東京オフィ...",
+          "published_at": "2026-10-26 01:23",
+          "headline": "暴走するAI その正体と攻防 - 日本経済新聞",
           "summary": [
-            "【概要】‍‍‍購入ガイド：リアルなAIサービスの比較・選択方法 ai - FC東京オフィシャルホームページ",
-            "‍‍‍購入ガイド：リアルなAIサービスの比較・選択方法 ai FC東京オフィシャルホームページ...",
+            "【概要】暴走するAI その正体と攻防 - 日本経済新聞",
+            "暴走するAI その正体と攻防 日本経済新聞...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
