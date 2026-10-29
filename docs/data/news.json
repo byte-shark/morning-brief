@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026年10月28日 09:40",
-  "updated_at_iso": "2026-10-28T09:40:47.624613+09:00",
+  "updated_at": "2026年10月29日 10:10",
+  "updated_at_iso": "2026-10-29T10:10:06.490741+09:00",
   "model_used": "mock-mode",
   "categories": [
     {
@@ -10,36 +10,16 @@
       "description": "Microsoft Azureの公式発表・最新クラウド動向",
       "articles": [
         {
-          "id": "azure_1793148048_1",
-          "title": "The platform approach to becoming Frontier",
-          "link": "https://blogs.microsoft.com/blog/2026/10/27/the-platform-approach-to-becoming-frontier/",
-          "source": "Microsoft Official Blog",
-          "is_official": true,
-          "published_at": "2026-10-28 01:01",
-          "headline": "The platform approach to becoming Fronti...",
-          "summary": [
-            "【概要】The platform approach to becoming Frontier",
-            "Last year at Ignite, we introduced the concept of Frontier T...",
-            "情報提供元: Microsoft Official Blog"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 4
-        },
-        {
-          "id": "azure_1793148048_2",
-          "title": "自社サーバーからクラウドまでまとめて管理！マイクロソフトが届ける安心のデータ運用基盤 - DXマガジン",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5uWnNaeUFUUGllQ1BRU2NURE5hUnNqV3J3NkUwV1F2M0ZWaDB2T2lIbHlRVUFqbGhXRDNodWRyR2NiZzhQUU40YVFvVks?oc=5",
+          "id": "azure_1793236207_1",
+          "title": "Microsoft、7～9月期は19％増収 Azureは48％増、AI需要が成長けん引（ITmedia NEWS） - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLW8xOUZDU0ZCX3B1NHRleno0YVBRemNtOGJOaEtwRzdDeUxmMHF5SjVVMGFSR2M2YmlXUXdKVUYxT3otbkF1bTh2cjZnal9sV01RRUJZQmpiYnlIazdYY2R0TmFPTGcyR25va0l0SDVwYV9lajJHX0dtQVNHcEIzSzc3SXFvc0FX?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-10-27 22:04",
-          "headline": "自社サーバーからクラウドまでまとめて管理！マイクロソフトが届ける安心のデータ運用...",
+          "published_at": "2026-10-29 08:59",
+          "headline": "Microsoft、7～9月期は19％増収 Azureは48％増、AI需要が成長...",
           "summary": [
-            "【概要】自社サーバーからクラウドまでまとめて管理！マイクロソフトが届ける安心のデータ運用基盤 - DXマガジン",
-            "自社サーバーからクラウドまでまとめて管理！マイクロソフトが届ける安心のデータ運用基盤 DXマガジン...",
+            "【概要】Microsoft、7～9月期は19％増収 Azureは48％増、AI需要が成長けん引（ITmedia NEWS） - Yahoo!ニュース",
+            "Microsoft、7～9月期は19％増収 Azureは48％増、AI需要が成長けん引（ITmedia NEWS） Ya...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -50,16 +30,16 @@
           "importance": 3
         },
         {
-          "id": "azure_1793148048_3",
-          "title": "レイモンド・ジェームズ、Azure好調でマイクロソフト株の目標株価を引き上げ 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BZmowblFUdDhhd0hsaUpZcDhWZ0RvNnlub3BqbExxSmNFUTFPb01YcFpSTGdDd1JpQlFoMWNkRThlY3pWSFltM0FGTjFBWXVzbUFIVjFxNTdnaDRkR2VvcDN2SWdsdGVma0VoNlVydWJkYllE?oc=5",
+          "id": "azure_1793236207_2",
+          "title": "Microsoft、7～9月期は19％増収 Azureは48％増、AI需要が成長けん引 - ITmedia",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9feklFUWNWb2I2eHMtSzA0dnZhaGhLekRBaDdaUHhmdXotUm1KczZCdFFOb1ZxQVhaemdBM0VmVmcweWZ2d0NtdlllN0pHWnh5ZV83MFJGbU94UzltNU5yNWFyMFZ0XzZIZ0E?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-10-27 19:59",
-          "headline": "レイモンド・ジェームズ、Azure好調でマイクロソフト株の目標株価を引き上げ 執...",
+          "published_at": "2026-10-29 08:19",
+          "headline": "Microsoft、7～9月期は19％増収 Azureは48％増、AI需要が成長...",
           "summary": [
-            "【概要】レイモンド・ジェームズ、Azure好調でマイクロソフト株の目標株価を引き上げ 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-            "レイモンド・ジェームズ、Azure好調でマイクロソフト株の目標株価を引き上げ 執筆 Investing.com - FX...",
+            "【概要】Microsoft、7～9月期は19％増収 Azureは48％増、AI需要が成長けん引 - ITmedia",
+            "Microsoft、7～9月期は19％増収 Azureは48％増、AI需要が成長けん引 ITmedia...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -70,16 +50,16 @@
           "importance": 3
         },
         {
-          "id": "azure_1793148048_4",
-          "title": "Azureコラム 第14回「AVD for Azure Local with Nerdio」 - 株式会社NTTデータ先端技術",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43X3Q3MVlqbUx4Si1wWWRTVHB4dzZhd1VZcnpYWjg3b1pCWFd6V18yaXFGRE9TTUhRMkxHdFIzbXdtLWVGSjlUSkh4aDBVUnlIemFlN3hQZ25McklSV0dmUUtuNWJ6Z28?oc=5",
+          "id": "azure_1793236207_3",
+          "title": "マイクロソフト、10四半期連続で過去最高売上高 Azure成長率は48%に加速 - BigGo ファイナンス",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBxcjA2amQ2UGdCR1NEYWVqZlJTNG14LXE2ZDcwcml6S3JZaVpwZEt6eGxuZVhmTUpPM0RaM2piZmJ2YjNJUGZPZDlJcWVqTGx0emxZMnFodFd3S1BNVlVlVFpDQXBOU1FiQnZ6bW1ZdVJDU2FC?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-10-27 17:34",
-          "headline": "Azureコラム 第14回「AVD for Azure Local with N...",
+          "published_at": "2026-10-29 06:55",
+          "headline": "マイクロソフト、10四半期連続で過去最高売上高 Azure成長率は48%に加速 ...",
           "summary": [
-            "【概要】Azureコラム 第14回「AVD for Azure Local with Nerdio」 - 株式会社NTTデータ先端技術",
-            "Azureコラム 第14回「AVD for Azure Local with Nerdio」 株式会社NTTデータ先端技...",
+            "【概要】マイクロソフト、10四半期連続で過去最高売上高 Azure成長率は48%に加速 - BigGo ファイナンス",
+            "マイクロソフト、10四半期連続で過去最高売上高 Azure成長率は48%に加速 BigGo ファイナンス...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -90,16 +70,36 @@
           "importance": 3
         },
         {
-          "id": "azure_1793148048_5",
-          "title": "SHIFT、Microsoft Cloud Partner ProgramにおいてMicrosoft Azure関連ソリューションパートナー認定3種を取得 - Infoseek",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9EN2huQmtxVlRVdU5FOTY5SjlRRFBHazVvVEJoM3IydU9nOWlWeGtsMFNZWGh2VFBvX093cl8zTk1oc1JTTGtsYkdqNzB3RW16YUQ3YnhFSHo2U0w5b3RRRlVfRnhINDdiNE1YMThLNkxHZw?oc=5",
+          "id": "azure_1793236207_4",
+          "title": "Microsoft、売上高19％増、Azure売上高48％増 - Unite.AI",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcm1XUWU2T1V0aklXUWlIdVpnUFJyVVJnM05POFhYX1dpMTloOFJZN05ZbXVjdFoxWGo0WXc1aVZoY2xLSVFYTnRuaHlUbXRiQmQ5RERBdTVISjZsWmYwR1M3UjNZM0dVemRlak5nVUxXb1RGSTdHd1ZTQXRWbGgtcWxBYlYya2RFQlVXZg?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-10-27 16:45",
-          "headline": "SHIFT、Microsoft Cloud Partner Programにおい...",
+          "published_at": "2026-10-29 06:46",
+          "headline": "Microsoft、売上高19％増、Azure売上高48％増 - Unite.A...",
           "summary": [
-            "【概要】SHIFT、Microsoft Cloud Partner ProgramにおいてMicrosoft Azure関連ソリューションパートナー認定3種を取得 - Infoseek",
-            "SHIFT、Microsoft Cloud Partner ProgramにおいてMicrosoft Azure関連ソリ...",
+            "【概要】Microsoft、売上高19％増、Azure売上高48％増 - Unite.AI",
+            "Microsoft、売上高19％増、Azure売上高48％増 Unite.AI...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1793236207_5",
+          "title": "Microsoft、1Q売上高が市場予想超え Azureは48％増 - 디지털투데이",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMEtZOE5OOEdpdzNQYnpLZml0WmFrZjVvSzAyZTlabURPamlTQmItUHl5c295NEZmWkxaa1cybVFiT1BiY1JOY0dLbWhGa3VFZEkyNml0a3hMOGdhWTl3Y2VFaEJsS2xBdEZtbGVLWWxuRkZoT1ViZ2J6bDNOdVppYkRRT21ueUItcXFnSGhjX09mM1lXYmpXNWtNQVVjMkZ6Slg4aQ?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-10-29 05:52",
+          "headline": "Microsoft、1Q売上高が市場予想超え Azureは48％増 - 디지털투...",
+          "summary": [
+            "【概要】Microsoft、1Q売上高が市場予想超え Azureは48％増 - 디지털투데이",
+            "Microsoft、1Q売上高が市場予想超え Azureは48％増 디지털투데이...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -118,12 +118,32 @@
       "description": "テスラの最新アップデート・EV・FSD・決算動向",
       "articles": [
         {
-          "id": "tesla_1793148048_1",
+          "id": "tesla_1793236208_1",
+          "title": "【59箇所】テスラ、「スーパーチャージャーの投票(2026年Q4)」を開始〜前回は天橋立の宮津が当選 - touchlab.jp",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHNk9Dc1lDN2lLOElKOFBKcktKWUhOMHFzT01xbmtUWDBLRTNWaG9Sb0tPcVRjNUltWmpiV2dDZXpVd1U1RWlIbFBZdHdnNlRzclZJdjZHNUdWQnBITTRrSjNnV2pubFJ0ckV4cEVB?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-10-29 09:51",
+          "headline": "【59箇所】テスラ、「スーパーチャージャーの投票(2026年Q4)」を開始〜前回...",
+          "summary": [
+            "【概要】【59箇所】テスラ、「スーパーチャージャーの投票(2026年Q4)」を開始〜前回は天橋立の宮津が当選 - touchlab.jp",
+            "【59箇所】テスラ、「スーパーチャージャーの投票(2026年Q4)」を開始〜前回は天橋立の宮津が当選 touchlab....",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "tesla_1793236208_2",
           "title": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vR2owRXJLX1dwYUtHY05wNjVKVmVrTHNXdm5yRGJ0NHJzSzZTaEgxWFo0WmNBOWUxV2tXcHljUWlYaG92bll2YUNIQzJlVE0?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-10-28 09:36",
+          "published_at": "2026-10-29 09:48",
           "headline": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
           "summary": [
             "【概要】テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
@@ -138,16 +158,16 @@
           "importance": 3
         },
         {
-          "id": "tesla_1793148048_2",
-          "title": "［テスラ：Q3 2026 決算まとめ］車は作るそばから売れ、テスラはロボットに賭ける - Business Insider Japan",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaTllNmhrVHlqZkZ4by1fdWlFc1hFS1Z5MTRldzR3ZER2cExsS0ZHQmhBN3ZoUGJuWW1vMW5aT3phd3hWTmwyZl9KWWlQWGlpaVpqQ0pNSEpxSGFkLXE2a1p1RmI3UkEyZkpBZFFTLWpPR0JxSXFjeDJKS25IXzVBNkNBNjRjajlaX01TU21YdFpQTGxGTjUtSg?oc=5",
+          "id": "tesla_1793236208_3",
+          "title": "テスラ ハンドルなし「サイバーキャブ」、年内にも一般顧客向けにも販売開始へ 450万円の格安で - 自動運転ラボ",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5EYVRBRXV6dUhXMHY3eDU0aHJvdmYxSG9JTmVaSzVKb2JUSkxyRTJwSzU2MFZBR2pVNUlsYzZfZ1RuamJzWlVfYg?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-10-28 06:20",
-          "headline": "［テスラ：Q3 2026 決算まとめ］車は作るそばから売れ、テスラはロボットに賭...",
+          "published_at": "2026-10-29 07:05",
+          "headline": "テスラ ハンドルなし「サイバーキャブ」、年内にも一般顧客向けにも販売開始へ 45...",
           "summary": [
-            "【概要】［テスラ：Q3 2026 決算まとめ］車は作るそばから売れ、テスラはロボットに賭ける - Business Insider Japan",
-            "［テスラ：Q3 2026 決算まとめ］車は作るそばから売れ、テスラはロボットに賭ける Business Insider ...",
+            "【概要】テスラ ハンドルなし「サイバーキャブ」、年内にも一般顧客向けにも販売開始へ 450万円の格安で - 自動運転ラボ",
+            "テスラ ハンドルなし「サイバーキャブ」、年内にも一般顧客向けにも販売開始へ 450万円の格安で 自動運転ラボ...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -158,16 +178,16 @@
           "importance": 3
         },
         {
-          "id": "tesla_1793148048_3",
-          "title": "テスラ最大の競合、NVIDIAに車メーカーが殺到 E2E自動運転の基盤争い - 日経クロステック",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81cjZfVHVTYWt0TGVaRnBVQlg2eXh1S19nenl4ZmlWQW9nekxOeEtYc1BjelBpN1E5UU04ek04Nmd1dlB5THgyclBjYWdNY1RYRkZ2dzR6c1hpdkszcEdlWkk3WVItRkRzUGZDVQ?oc=5",
+          "id": "tesla_1793236208_4",
+          "title": "モメンタ日本へ急接近、テスラに迫れるか 中国E2E自動運転トップの技術力 - 日経クロステック",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TUk94M3daMDNRT042Y25WOTZTckJBbFpFV2EzNnhac0liUkRheTZwVjdnb3ZkU2hCX0E5Yk9WTlV6bVpJT0dodXhkb0VIdWpIcHVsX25ianMzUHlLVWx1UVQ1Z0FrOWZxX2Q5dg?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-10-28 05:00",
-          "headline": "テスラ最大の競合、NVIDIAに車メーカーが殺到 E2E自動運転の基盤争い - ...",
+          "published_at": "2026-10-29 05:00",
+          "headline": "モメンタ日本へ急接近、テスラに迫れるか 中国E2E自動運転トップの技術力 - 日...",
           "summary": [
-            "【概要】テスラ最大の競合、NVIDIAに車メーカーが殺到 E2E自動運転の基盤争い - 日経クロステック",
-            "テスラ最大の競合、NVIDIAに車メーカーが殺到 E2E自動運転の基盤争い 日経クロステック...",
+            "【概要】モメンタ日本へ急接近、テスラに迫れるか 中国E2E自動運転トップの技術力 - 日経クロステック",
+            "モメンタ日本へ急接近、テスラに迫れるか 中国E2E自動運転トップの技術力 日経クロステック...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -178,36 +198,16 @@
           "importance": 3
         },
         {
-          "id": "tesla_1793148048_4",
-          "title": "Korean police book 80 Tesla drivers over illegal FSD unlock devices",
-          "link": "https://electrek.co/2026/10/27/tesla-fsd-south-korea-police-80-illegal-unlock-devices/",
+          "id": "tesla_1793236208_5",
+          "title": "Tesla’s rocket-shaped Robotaxi map in Houston is partly ‘fake’",
+          "link": "https://electrek.co/2026/10/28/tesla-robotaxi-houston-rocket-service-area-fake/",
           "source": "Electrek (Tesla)",
           "is_official": true,
-          "published_at": "2026-10-28 00:43",
-          "headline": "Korean police book 80 Tesla drivers over...",
+          "published_at": "2026-10-29 00:18",
+          "headline": "Tesla’s rocket-shaped Robotaxi map in Ho...",
           "summary": [
-            "【概要】Korean police book 80 Tesla drivers over illegal FSD unlock devices",
-            "Seoul police have booked 80 people for using aftermarket dev...",
-            "情報提供元: Electrek (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 4
-        },
-        {
-          "id": "tesla_1793148048_5",
-          "title": "Musk declares Tesla Robotaxi win over Waymo, but Waymo still drives 7x more",
-          "link": "https://electrek.co/2026/10/27/musk-robotaxi-victory-waymo-austin-miles/",
-          "source": "Electrek (Tesla)",
-          "is_official": true,
-          "published_at": "2026-10-27 23:21",
-          "headline": "Musk declares Tesla Robotaxi win over Wa...",
-          "summary": [
-            "【概要】Musk declares Tesla Robotaxi win over Waymo, but Waymo still drives 7x more",
-            "Elon Musk says Tesla’s Robotaxi race against Waymo “was neve...",
+            "【概要】Tesla’s rocket-shaped Robotaxi map in Houston is partly ‘fake’",
+            "Tesla’s new rocket-shaped Robotaxi service area in Houston i...",
             "情報提供元: Electrek (Tesla)"
           ],
           "key_points": [
@@ -226,16 +226,16 @@
       "description": "OpenAI・Google・生成AIの公式発表・技術速報",
       "articles": [
         {
-          "id": "ai_1793148050_1",
-          "title": "半導体やAI関連株のリバウンドを見極め／オープニングコメント - 株探",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80UnI4S2hfQ0tZS0Y4aW1GTURuYTNpcVFoNkcyVExyUnQ0bHdRdzdNQmZJNnRpbVpNZjRfOURqT1d2NFBONkVIQW9oYzl6ZkpRLUEycHVaazJMZTRVQ1RHTA?oc=5",
+          "id": "ai_1793236209_1",
+          "title": "12月18日 3女子大学合同シンポジウム開催「生成AI時代に女子大はどこへ？」 | - 大妻女子大学",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vb091ZzBFaUk1M0s3TURMZmZuQm1UMmJtMmhfMTF0Wmh4T1NmTUFfRFh1WVFxQVV2UVlqQVRWZFVEZkNpNzFfSm1VNjN0ODZCMzF0WklyU2VPazJra0hwQQ?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-28 08:44",
-          "headline": "半導体やAI関連株のリバウンドを見極め／オープニングコメント - 株探",
+          "published_at": "2026-10-29 10:07",
+          "headline": "12月18日 3女子大学合同シンポジウム開催「生成AI時代に女子大はどこへ？」 ...",
           "summary": [
-            "【概要】半導体やAI関連株のリバウンドを見極め／オープニングコメント - 株探",
-            "半導体やAI関連株のリバウンドを見極め／オープニングコメント 株探...",
+            "【概要】12月18日 3女子大学合同シンポジウム開催「生成AI時代に女子大はどこへ？」 | - 大妻女子大学",
+            "12月18日 3女子大学合同シンポジウム開催「生成AI時代に女子大はどこへ？」 | 大妻女子大学...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -246,16 +246,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1793148050_2",
-          "title": "デジタル空間でAIが自律的に試行を回す AWSの「フィジカルAI自律R＆D基盤」とは：人工知能ニュース - MONOist",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90U0lsNE10MFJ4YzM3Zm5OQmk2cVhRLW5IUHNVbFBDOW1RbXhyWU9rQXJlLS1uclV0N3dXUDdnUndsWVZ6TzV0MFdOQmgxM3M3alYtVjhwU2RSam1zTThKUmxjaVl5ZXJ6bTVDOHVEMA?oc=5",
+          "id": "ai_1793236209_2",
+          "title": "AIに理解されるブランドをどうつくるか―オントロジーで実装する、ブランド起点のAIO戦略とは―～2026年11月26日（木）開催「マーケティング・フォーラム（株式会社宣伝会議主催）」に当社社員が登壇します - www.daiko.co.jp",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80RUZvU1hGX2NEa1lYcnN6WTlTdk1kUjVKeml5Q29MalU2MDVfWTVscXRQc3NHcmJ6Qi1VcmRaZVp1ZzFSV1I4MmJLX1djVC1tXzd0Sm85TDNYaXVhUGZzbElxX1FVSVFz?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-28 07:15",
-          "headline": "デジタル空間でAIが自律的に試行を回す AWSの「フィジカルAI自律R＆D基盤」...",
+          "published_at": "2026-10-29 10:05",
+          "headline": "AIに理解されるブランドをどうつくるか―オントロジーで実装する、ブランド起点のA...",
           "summary": [
-            "【概要】デジタル空間でAIが自律的に試行を回す AWSの「フィジカルAI自律R＆D基盤」とは：人工知能ニュース - MONOist",
-            "デジタル空間でAIが自律的に試行を回す AWSの「フィジカルAI自律R＆D基盤」とは：人工知能ニュース MONOist...",
+            "【概要】AIに理解されるブランドをどうつくるか―オントロジーで実装する、ブランド起点のAIO戦略とは―～2026年11月26日（木）開催「マーケティング・フォーラム（株式会社宣伝会議主催）」に当社社員が登壇します - www.daiko.co.jp",
+            "AIに理解されるブランドをどうつくるか―オントロジーで実装する、ブランド起点のAIO戦略とは―～2026年11月26日（...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -266,16 +266,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1793148050_3",
-          "title": "アップル「Siri AI」日本語対応で本領発揮、「使えない」と言われ続けたiPhone音声アシスタントはどこまで進化したか - Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IblFvcEVNVjJzbUVDMHdodGZwY1RRZlQzUF92amFNblRROTZsX0xEYVRIalV6b3JyNUJQWWtqcEJYbm1jZGJtcHVrdkZURzZkcmp6UnpOenBUcGZBMkF1VWRiQVdhNzc3czdndk1jUExXQUZiWkdmX2pSVWM1TDQ?oc=5",
+          "id": "ai_1793236209_3",
+          "title": "Absolute、「FirmGuard」買収でプラットフォーム拡大 AI時代のファームウェア基盤を確立へ - EnterpriseZine",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zQmU3djlZdWtpUEhBZm0wTkJQc2dDWE52ZWx5QjlLSjVGTkFjZXFiWF9UOXFhLTVqUEVrOXE2VFFES25ab09kRXRQZ0dOeVpzcGt1MUxqYlRCdw?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-28 05:00",
-          "headline": "アップル「Siri AI」日本語対応で本領発揮、「使えない」と言われ続けたiPh...",
+          "published_at": "2026-10-29 10:00",
+          "headline": "Absolute、「FirmGuard」買収でプラットフォーム拡大 AI時代のフ...",
           "summary": [
-            "【概要】アップル「Siri AI」日本語対応で本領発揮、「使えない」と言われ続けたiPhone音声アシスタントはどこまで進化したか - Yahoo!ニュース",
-            "アップル「Siri AI」日本語対応で本領発揮、「使えない」と言われ続けたiPhone音声アシスタントはどこまで進化した...",
+            "【概要】Absolute、「FirmGuard」買収でプラットフォーム拡大 AI時代のファームウェア基盤を確立へ - EnterpriseZine",
+            "Absolute、「FirmGuard」買収でプラットフォーム拡大 AI時代のファームウェア基盤を確立へ Enterpr...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -286,16 +286,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1793148050_4",
-          "title": "巨額投資相次ぐ、フィジカルAI向け学習データ収集 有用性に懸念も - 日経ビジネス電子版",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xWjZob3FTRzRLaXZVQTh0aVoxVlpZeUFuMU9RWFZHaWtscEtzR1gzdDh3VTBxaW5jS0wxWUJoNW84ZllNQmVZRV9NeEJXUkxNNDB4QWdSVFNDM2o1UzU4dlZR?oc=5",
+          "id": "ai_1793236209_4",
+          "title": "AIパートナー とは AI彼女 アプリ 課金 日本語 - Vantage Data Centers",
+          "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxOWnRkMzFsZ0Z4TEdTRzhURWdSakdVVHZzNGxBRXpXZmo1LXZUUU9JWFlVMk9jWkhMd0pPalI3aXJidXVLNHk3aFlpeVNRbnVibFJWdXFVZGY2VmRLWlpaUUlRVWVDOEZidmk2MW1wSXRpZ1FNV1VRT1hqUXJvRTBvN3lDVmpDeGlTZndiQVVXTm1RWXVLUGVLc2Zkbk42S2xyT2dNNm4yUU1yRWNja0JEcnE0eldtRDRrTDBWVzNwZHlfRHA1UFRCdmNyejIzb0g5QS1EV3N1amNpVmlZZkY0RVI1a2tqRnZzOFJMMTgwdWQwZHB4N0R1R1dnVENoRTQwN01QcVFIQmt0bkdQczRtWVphMHdPQWdPMTFYcnFiRU1PTzI4SzhQUzh0REVyeXBTWEhuTUxYLXBaMWRZaHh4VWpOTmJzdFk3TXlOUHZ1N2JVME5feTh5S2lOZUhPbEN4X012ZXhNdEZBbGdXdnFZVVBNTDRFU2lsc3ozR3h2VThwdnQ0Nks5Z2NLbw?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-28 05:00",
-          "headline": "巨額投資相次ぐ、フィジカルAI向け学習データ収集 有用性に懸念も - 日経ビジネ...",
+          "published_at": "2026-10-29 09:27",
+          "headline": "AIパートナー とは AI彼女 アプリ 課金 日本語 - Vantage Dat...",
           "summary": [
-            "【概要】巨額投資相次ぐ、フィジカルAI向け学習データ収集 有用性に懸念も - 日経ビジネス電子版",
-            "巨額投資相次ぐ、フィジカルAI向け学習データ収集 有用性に懸念も 日経ビジネス電子版...",
+            "【概要】AIパートナー とは AI彼女 アプリ 課金 日本語 - Vantage Data Centers",
+            "AIパートナー とは AI彼女 アプリ 課金 日本語 Vantage Data Centers...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -306,16 +306,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1793148050_5",
-          "title": "ケイデンス、設計向けAIモデル群「Maestro」発表 Nemotron採用、品質最大30％向上 ｜Seizo Trend - ビジネス+IT",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1MUHJOMFc5YzRicFkxT3pGS2U3RnRVNlQ0dzhsaHlmMmV4bzV3MDFQcFphSWZ5akJtb1hsdkdOdjZXZTluczFzQVAtbVdKcHc?oc=5",
+          "id": "ai_1793236209_5",
+          "title": "米エクスペディア、AI予約機能を搭載 外部モデルのアクセスは拒まず - 日本経済新聞",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jSldXWW13dm5jUVUxdVFoUUFoZWVzdWo0Sm83TU1adUxRNjlJeG1xNGRraWc5VkhVVU90b0lhSVU4VVcwMVlJS2k4Q1hrajhnWk84N2pZS0FOYVZxY3dZYWd3VEp3SVBfZEhzUw?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-28 03:18",
-          "headline": "ケイデンス、設計向けAIモデル群「Maestro」発表 Nemotron採用、品...",
+          "published_at": "2026-10-29 09:17",
+          "headline": "米エクスペディア、AI予約機能を搭載 外部モデルのアクセスは拒まず - 日本経済...",
           "summary": [
-            "【概要】ケイデンス、設計向けAIモデル群「Maestro」発表 Nemotron採用、品質最大30％向上 ｜Seizo Trend - ビジネス+IT",
-            "ケイデンス、設計向けAIモデル群「Maestro」発表 Nemotron採用、品質最大30％向上 ｜Seizo Tren...",
+            "【概要】米エクスペディア、AI予約機能を搭載 外部モデルのアクセスは拒まず - 日本経済新聞",
+            "米エクスペディア、AI予約機能を搭載 外部モデルのアクセスは拒まず 日本経済新聞...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
