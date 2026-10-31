@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026年10月30日 10:17",
-  "updated_at_iso": "2026-10-30T10:17:13.447819+09:00",
+  "updated_at": "2026年10月31日 09:58",
+  "updated_at_iso": "2026-10-31T09:58:51.316335+09:00",
   "model_used": "mock-mode",
   "categories": [
     {
@@ -10,7 +10,87 @@
       "description": "Microsoft Azureの公式発表・最新クラウド動向",
       "articles": [
         {
-          "id": "azure_1793323034_1",
+          "id": "azure_1793408332_1",
+          "title": "ARI、Microsoft の「Digital & App Innovation（Azure）ソリューションパートナー」に認定 - ニコニコニュース",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01Rk9SQXdIVlNGYS10aXNraWE5T0djZmJCTExDXzZhM3NoUTNvQkpQNGFtenZkRjF3QldaSDE3T3cwUDRqNnpjbndvOXZWRWZVN3Q2NV83UU5wcmdwZkc0SE1WOF9kRU5kdXlSdTZENXozaFpORjhDekFXYw?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-10-31 05:18",
+          "headline": "ARI、Microsoft の「Digital & App Innovation...",
+          "summary": [
+            "【概要】ARI、Microsoft の「Digital & App Innovation（Azure）ソリューションパートナー」に認定 - ニコニコニュース",
+            "ARI、Microsoft の「Digital & App Innovation（Azure）ソリューションパートナー」...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1793408332_2",
+          "title": "Microsoft Q3 2026 決算：Azure の成長が48%に達し、売上高は19%増加 - KuCoin",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMDJwM3RXVjc5clFJOFBGcUxsNUpBMWJLQW5xdkZKUEFtOFljOU9GTlRQbWJQVXdNd3ZLX0Z6cG5wT2pWVXYweVdWMTV3TWJXckFaWjBBZzFGY3FhU0o4SEtiMC11eVV6RFpHSk9QODZ1VjI3TEVQa3hMdFIwRUVHOEFnSk5mRXNaR0FJOFA1OFh3ZTM2QjFoYUhkaWhMcjhBbnhTbkhiLWstQmxxMjdhZnFOdmlPN1UxaHd4aw?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-10-30 19:13",
+          "headline": "Microsoft Q3 2026 決算：Azure の成長が48%に達し、売上...",
+          "summary": [
+            "【概要】Microsoft Q3 2026 決算：Azure の成長が48%に達し、売上高は19%増加 - KuCoin",
+            "Microsoft Q3 2026 決算：Azure の成長が48%に達し、売上高は19%増加 KuCoin...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1793408332_3",
+          "title": "ＡＲアドバンストテクノロジ[5578]：ARI、Microsoft の「Digital & App Innovation（Azure）ソリューションパートナー」に認定 2026年10月30日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObi0tajVjdU1YWkhFQ2c5VTk1dE1rVnhTM2lGekRTT2RDeXJabEpQY2M5WWpIVjQxYzBtU0ZtQ1lUdnZhTnNuTWlTWnFGc1EyUnFDRWh1dmh4X25kMmJhQldZOGtPc3N6ano0MU5PVDRpLWdUVzZxbWc3WmRBREZxUXk1cnhRcl94M1lUbjZCWlZHY2U3SnYwSld0bkN6TFZlMWdxWmtHNmhWUmtKdEVVaXNNdnNvVnhCWkRyZVUwbjRFQ3R5ODNWY1Rjclo?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-10-30 16:00",
+          "headline": "ＡＲアドバンストテクノロジ[5578]：ARI、Microsoft の「Digi...",
+          "summary": [
+            "【概要】ＡＲアドバンストテクノロジ[5578]：ARI、Microsoft の「Digital & App Innovation（Azure）ソリューションパートナー」に認定 2026年10月30日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+            "ＡＲアドバンストテクノロジ[5578]：ARI、Microsoft の「Digital & App Innovation...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1793408332_4",
+          "title": "Microsoft Earnings: Azure Accelerates, but Investment Returns Remain the Test | モーニングスター - Morningstar",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaG5SeDZhVTR4eHN2UHh3dTIxNm9PVnZHVEF6U3BNUTM0eFpLMVFuel8xUklWa0tpZ25FZ3REam9DeXBDMnBkdUtPdEFBcWN2Q3BOX3A2WWYyY21nOGM1RVROUlBTbmFaSEk1SkNjcDRzLVpKbmIzVFZjSEtYb2lObkRYS3M0NzFQakJwQlBnV2lFU3BBNTZIMWc2aVFIMlozbEZXUEhzUjNBcFZ2?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-10-30 12:16",
+          "headline": "Microsoft Earnings: Azure Accelerates, b...",
+          "summary": [
+            "【概要】Microsoft Earnings: Azure Accelerates, but Investment Returns Remain the Test | モーニングスター - Morningstar",
+            "Microsoft Earnings: Azure Accelerates, but Investment Return...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1793408332_5",
           "title": "Azure OpenAI Serviceとは？できることやChatGPTとの違い、メリットをわかりやすく解説 - AIsmiley",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jMWtfNlMyZGVuMzEzYTZuQWZOSG93LVcwZzFRT1BlSGNSSGthQUxkWVQ1ZXYzVmNVaXAwQ0JIMGk3dEJGaWN0YndkNTFsT0hRMnlsUGJ0bUdNMWdHcmFDQzcxY0pMM0FoRXdTMA?oc=5",
           "source": "Google News (Azure)",
@@ -20,86 +100,6 @@
           "summary": [
             "【概要】Azure OpenAI Serviceとは？できることやChatGPTとの違い、メリットをわかりやすく解説 - AIsmiley",
             "Azure OpenAI Serviceとは？できることやChatGPTとの違い、メリットをわかりやすく解説 AIsmi...",
-            "情報提供元: Google News (Azure)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "azure_1793323034_2",
-          "title": "Microsoft、ついにAzureの売上を公開――3か月で332億ドル - Korben",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vTHpydmc4NDRUX2hMZnduMUxGa2w0TzZyYmJNM1h3Qm0tMURjMHprVTc5c2pDUXlFSjdKYTFvX2U0eW5ySzNMdTZyLVNGVjE2czFET0RpNVNEcVFESUtaNVNPZE0zYy1Bc0x6YnhrVXFiZktkUHhSLWdXVQ?oc=5",
-          "source": "Google News (Azure)",
-          "is_official": false,
-          "published_at": "2026-10-29 22:25",
-          "headline": "Microsoft、ついにAzureの売上を公開――3か月で332億ドル - K...",
-          "summary": [
-            "【概要】Microsoft、ついにAzureの売上を公開――3か月で332億ドル - Korben",
-            "Microsoft、ついにAzureの売上を公開――3か月で332億ドル Korben...",
-            "情報提供元: Google News (Azure)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "azure_1793323034_3",
-          "title": "マイクロソフトのAI投資は単なる現金の消耗ではない――Azureがその理由を示す - Moomoo",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNek5WeGtPY1RCbFZjYW1zVHFCOHFXQk4wWU95enhiZEVPNW96alYtYS1XMlhaMTFPYjlydTdXRkFOWUVOUmlXMF96NlNUTUp1NDh5Q1FGM3d1MzhDNU5NWnhrTW9IWElnQ0RfSzNoVHJuNEE3QmdTcFZuc096cnhXTnB5UGZmd0NPc003YU05V3dmX0F3Y244eDAzUnE0Sm1aMDJUSmRn?oc=5",
-          "source": "Google News (Azure)",
-          "is_official": false,
-          "published_at": "2026-10-29 17:12",
-          "headline": "マイクロソフトのAI投資は単なる現金の消耗ではない――Azureがその理由を示す...",
-          "summary": [
-            "【概要】マイクロソフトのAI投資は単なる現金の消耗ではない――Azureがその理由を示す - Moomoo",
-            "マイクロソフトのAI投資は単なる現金の消耗ではない――Azureがその理由を示す Moomoo...",
-            "情報提供元: Google News (Azure)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "azure_1793323034_4",
-          "title": "Microsoft、7～9月期は19％増収 Azureは48％増、AI需要が成長けん引 (ITmedia NEWS) - Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc1ppeUVxRWl4dElZd2RKbWtwQzRORHBvTUZZOWlmV0ZWeUw3MmdqaHlwQW1JUi10bHFNaG1NSUtSU3NBRDN3SlowOWVtaEtXV0luTjF0VnQ4Qk1FOFZCdjh1bWRkdkJfRk5ldjlIdXZBaTd5NW5YNklDZjd0Sl90c2ctMVR0S3d2SUdhTGdB?oc=5",
-          "source": "Google News (Azure)",
-          "is_official": false,
-          "published_at": "2026-10-29 08:51",
-          "headline": "Microsoft、7～9月期は19％増収 Azureは48％増、AI需要が成長...",
-          "summary": [
-            "【概要】Microsoft、7～9月期は19％増収 Azureは48％増、AI需要が成長けん引 (ITmedia NEWS) - Yahoo!ニュース",
-            "Microsoft、7～9月期は19％増収 Azureは48％増、AI需要が成長けん引 (ITmedia NEWS) Y...",
-            "情報提供元: Google News (Azure)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "azure_1793323034_5",
-          "title": "Microsoft、7～9月期は19％増収 Azureは48％増、AI需要が成長けん引 - ITmedia",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9feklFUWNWb2I2eHMtSzA0dnZhaGhLekRBaDdaUHhmdXotUm1KczZCdFFOb1ZxQVhaemdBM0VmVmcweWZ2d0NtdlllN0pHWnh5ZV83MFJGbU94UzltNU5yNWFyMFZ0XzZIZ0E?oc=5",
-          "source": "Google News (Azure)",
-          "is_official": false,
-          "published_at": "2026-10-29 08:19",
-          "headline": "Microsoft、7～9月期は19％増収 Azureは48％増、AI需要が成長...",
-          "summary": [
-            "【概要】Microsoft、7～9月期は19％増収 Azureは48％増、AI需要が成長けん引 - ITmedia",
-            "Microsoft、7～9月期は19％増収 Azureは48％増、AI需要が成長けん引 ITmedia...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -118,16 +118,16 @@
       "description": "テスラの最新アップデート・EV・FSD・決算動向",
       "articles": [
         {
-          "id": "tesla_1793323034_1",
-          "title": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vR2owRXJLX1dwYUtHY05wNjVKVmVrTHNXdm5yRGJ0NHJzSzZTaEgxWFo0WmNBOWUxV2tXcHljUWlYaG92bll2YUNIQzJlVE0?oc=5",
+          "id": "tesla_1793408332_1",
+          "title": "China power crunch hits Apple, Tesla suppliers - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuUTRiS1hkTWY5SnA3M0pCeC0yakp5bXlLaERHTkllSVNEZF9wcmxQRXFNWG5MY1MxUDMwTXd5bmozcVFWa3JEcGREUmRaVklLenAteDItdjA4dG8?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-10-30 07:02",
-          "headline": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
+          "published_at": "2026-10-31 07:50",
+          "headline": "China power crunch hits Apple, Tesla sup...",
           "summary": [
-            "【概要】テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
-            "テスラ【TSLA】：株価・株式情報 Yahoo!ファイナンス...",
+            "【概要】China power crunch hits Apple, Tesla suppliers - Reuters",
+            "China power crunch hits Apple, Tesla suppliers Reuters...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -138,12 +138,52 @@
           "importance": 3
         },
         {
-          "id": "tesla_1793323034_2",
+          "id": "tesla_1793408332_2",
+          "title": "テスラのロケット型Robotaxiのヒューストンにおけるマップは一部「偽物」 - Moomoo",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObVlpcFVPVE1Rdjkyc0ZHUkh5SXluaFBic0lTeVA4OWpjZ25KQ2JUN1hVVnVyM0FaOWZHbzFmT1JOX2ZDV3BkeHhVYnBIZFZFeV9wWGtZQjFoTmNmWkVCeTlqUGZjLUh3UG0xcEJUWGhfbEJFM1A2TkFGdUxocWJjTmk1NjlYWm9SLTZvcUtRdnl2d2E5elVPVUFCTEE5ak5kNWpWUmg2STM1clFZMzgzSld3?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-10-31 01:14",
+          "headline": "テスラのロケット型Robotaxiのヒューストンにおけるマップは一部「偽物」 -...",
+          "summary": [
+            "【概要】テスラのロケット型Robotaxiのヒューストンにおけるマップは一部「偽物」 - Moomoo",
+            "テスラのロケット型Robotaxiのヒューストンにおけるマップは一部「偽物」 Moomoo...",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "tesla_1793408332_3",
+          "title": "テスラがおっきなモバイルバッテリーに。 日本向け給電アダプター登場 - Gizmodo",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSSlVpTmliYlk5OTRlWXBMWnY3NmtiTkMxdWtVd0wweHMxYUN6bGhXTER1eUlQUEg1QzJMd2VBcEpReHBPTER1TUVZeUFRM1IzYjh1cV9kZXowM2NTUm5IS0o4WERMZ2ZnZ2ZfTQ?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-10-30 20:30",
+          "headline": "テスラがおっきなモバイルバッテリーに。 日本向け給電アダプター登場 - Gizm...",
+          "summary": [
+            "【概要】テスラがおっきなモバイルバッテリーに。 日本向け給電アダプター登場 - Gizmodo",
+            "テスラがおっきなモバイルバッテリーに。 日本向け給電アダプター登場 Gizmodo...",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "tesla_1793408332_4",
           "title": "テスラ ついに個人の車がロボタクシーに 2027年4〜6月期に開始へ - 自動運転ラボ",
           "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBHa0hwS3d2ZUpUS09Zc0FJRzZiRWdIbUZ4dTJJMjhfUkVQaUlWYzlFdHQ5RXF6ZXJ2a2tfLUZKSk9yb2dpWmpTUQ?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-10-30 07:01",
+          "published_at": "2026-10-30 16:00",
           "headline": "テスラ ついに個人の車がロボタクシーに 2027年4〜6月期に開始へ - 自動運...",
           "summary": [
             "【概要】テスラ ついに個人の車がロボタクシーに 2027年4〜6月期に開始へ - 自動運転ラボ",
@@ -158,56 +198,16 @@
           "importance": 3
         },
         {
-          "id": "tesla_1793323034_3",
-          "title": "テスラ「空飛ぶクルマ」で見えてきた未来。東京一極集中は終わり、タワマン価格は大幅に下がるかもしれない - Business Insider Japan",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUnRoWktmYlJocUcteFN6a3JtRGRPdlhPMktkRzZOMnY4SEFtQUE1Smc0LVdDTzhoY0xvOFdPMlNBV20tT0JGQzdMbk9mRkhyT09scUthQVhGbTl0b3RjMVQ5V0N4cEdWY1NNZWhGM19jbjBmQVZnODVHQ3lJSDhpcm5tcUtjSVU?oc=5",
+          "id": "tesla_1793408332_5",
+          "title": "家族の会話が自然に弾む。テスラの「静かさ」の本当の価値に、別の車に乗って気づいた話【 YouTuber KenのEVライフ：其の8】 - carview!",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYjZEc2h2MWc0QmdpS2tPSWs4ejNfZjg2dEJzcE16ZlFBcGRtMHI2ZW9YdDlWSkdfZW5kdXFXQ25NcHFJb1N1SmNYV2hNM2h5RXVxU21oWUdjT2tBOVVyQlJmYkQ2Qm9xeldNTk5OcnhHMzJDMDFMTUIxR2xTX29kOU5fNFZaU0kx?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-10-30 06:30",
-          "headline": "テスラ「空飛ぶクルマ」で見えてきた未来。東京一極集中は終わり、タワマン価格は大幅...",
+          "published_at": "2026-10-30 11:40",
+          "headline": "家族の会話が自然に弾む。テスラの「静かさ」の本当の価値に、別の車に乗って気づいた...",
           "summary": [
-            "【概要】テスラ「空飛ぶクルマ」で見えてきた未来。東京一極集中は終わり、タワマン価格は大幅に下がるかもしれない - Business Insider Japan",
-            "テスラ「空飛ぶクルマ」で見えてきた未来。東京一極集中は終わり、タワマン価格は大幅に下がるかもしれない Business ...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "tesla_1793323034_4",
-          "title": "Ex-Tesla Autopilot head calls vision-only a ‘weird religious stance’",
-          "link": "https://electrek.co/2026/10/29/ex-tesla-autopilot-head-vision-only-weird-religious-stance/",
-          "source": "Electrek (Tesla)",
-          "is_official": true,
-          "published_at": "2026-10-30 01:10",
-          "headline": "Ex-Tesla Autopilot head calls vision-onl...",
-          "summary": [
-            "【概要】Ex-Tesla Autopilot head calls vision-only a ‘weird religious stance’",
-            "GM Chief Product Officer Sterling Anderson, who ran Tesla’s ...",
-            "情報提供元: Electrek (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 4
-        },
-        {
-          "id": "tesla_1793323034_5",
-          "title": "次のSpaceXやTeslaをどう築くか｜a16z - BigGo ファイナンス",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zMEZUODBnT3BIcklBRWpTSTVFNExQV3dPYmVVM0tnem9YLXYxVk1lOHhmeGlFSFR1bWZVcDJwSnAtQjNvTlVLekdhU2pRMVMwdEMxbHF4ZzZJTGkzWUE?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-10-30 00:53",
-          "headline": "次のSpaceXやTeslaをどう築くか｜a16z - BigGo ファイナンス",
-          "summary": [
-            "【概要】次のSpaceXやTeslaをどう築くか｜a16z - BigGo ファイナンス",
-            "次のSpaceXやTeslaをどう築くか｜a16z BigGo ファイナンス...",
+            "【概要】家族の会話が自然に弾む。テスラの「静かさ」の本当の価値に、別の車に乗って気づいた話【 YouTuber KenのEVライフ：其の8】 - carview!",
+            "家族の会話が自然に弾む。テスラの「静かさ」の本当の価値に、別の車に乗って気づいた話【 YouTuber KenのEVライ...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -226,16 +226,16 @@
       "description": "OpenAI・Google・生成AIの公式発表・技術速報",
       "articles": [
         {
-          "id": "ai_1793323036_1",
-          "title": "大広・大広WEDO・レッジの3社、生成AI時代の新たな創造性を探究する「GENEX Creative Series」を共同展開～11月17日に第1回イベントを開催。パロニムを迎え、AIとブランド表現の可能性を議論 - 大広",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PQkp1a0ZBUmJoMjJ2MjJuLUIyR3o1T3lyUnlwNHpOeGEwaUN2ZVdQLXNyOXhCMHpxcUlkcFBIWWxCVGdmSjVSNzJlaUdOUHBQdjFXRkI2cDg5TEFMVEdrazN3ZDlVM3JQ?oc=5",
+          "id": "ai_1793408334_1",
+          "title": "教皇：人命に関わる決定をAIに委ねてはならない - Vatican News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeTlsbVJuTEIydTdSRXd5b3NJd0hHLU94UUxQUEs2MWJMak9VS1I2dDhLWmhDNTB5M2dhUWdiSlFKeHNBeEtoNk9mMUt4U25qdE5LcE83V2Nib0tYSkx2MDhFUU9DU2tNaXVUamxXTXRUWnZfX0tsU3dLdEV3bXZ4ZkwxeEp5czNoc3RNZTNOZWtNTnpNYUtxdkVVd1U1LVZtM3l2dXgxd2VORzQ?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-30 10:02",
-          "headline": "大広・大広WEDO・レッジの3社、生成AI時代の新たな創造性を探究する「GENE...",
+          "published_at": "2026-10-31 09:46",
+          "headline": "教皇：人命に関わる決定をAIに委ねてはならない - Vatican News",
           "summary": [
-            "【概要】大広・大広WEDO・レッジの3社、生成AI時代の新たな創造性を探究する「GENEX Creative Series」を共同展開～11月17日に第1回イベントを開催。パロニムを迎え、AIとブランド表現の可能性を議論 - 大広",
-            "大広・大広WEDO・レッジの3社、生成AI時代の新たな創造性を探究する「GENEX Creative Series」を共...",
+            "【概要】教皇：人命に関わる決定をAIに委ねてはならない - Vatican News",
+            "教皇：人命に関わる決定をAIに委ねてはならない Vatican News...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -246,16 +246,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1793323036_2",
-          "title": "ロッテ／マクロミルに見るAI-ReadyなITインフラの姿 AIエージェントが変革する基盤移行と運用 - EnterpriseZine",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QWktPa0xfSmU3eWdMTXhPOGlreGVLYkV6VDNKUm0xNkRFMDRnSXFyQUpGaG8zMVZPS2xhLWx5VXpocVlwWVFjZ3A0YldoWV9JMDhxNy1DOUdUZw?oc=5",
+          "id": "ai_1793408334_2",
+          "title": "児童の絵にAI使用と中傷 公開中止 - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE52dFQwNHVaTmczY29XbGdqNEJwRVByaTZ2X3VwX2xGOG0yTEgteGg0QkRlZ0pSV2drTmZ5cW4xemJHdUNlWHNtdm9XSEZYUHl3?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-30 08:00",
-          "headline": "ロッテ／マクロミルに見るAI-ReadyなITインフラの姿 AIエージェントが変...",
+          "published_at": "2026-10-31 08:54",
+          "headline": "児童の絵にAI使用と中傷 公開中止 - Yahoo!ニュース",
           "summary": [
-            "【概要】ロッテ／マクロミルに見るAI-ReadyなITインフラの姿 AIエージェントが変革する基盤移行と運用 - EnterpriseZine",
-            "ロッテ／マクロミルに見るAI-ReadyなITインフラの姿 AIエージェントが変革する基盤移行と運用 Enterpris...",
+            "【概要】児童の絵にAI使用と中傷 公開中止 - Yahoo!ニュース",
+            "児童の絵にAI使用と中傷 公開中止 Yahoo!ニュース...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -266,16 +266,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1793323036_3",
-          "title": "物理ソルバーからMODSIM、AIへ SIMULIAが描く次世代の設計／シミュレーション - MONOist",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54QnBaWkdfU0xPdDBIUUNCdmtJbXZLSzg2VVBMaHIwS095a3dYdWJXTTdGRWpTQkZTNHd4QTJRVF9RLU9LQnl4akRLb1pwVnVsc1pETTdheUhpN3BNTGh0eUJsa2FiSkk5dGVSX28wWQ?oc=5",
+          "id": "ai_1793408334_3",
+          "title": "AIハッキングとPHP脆弱性が変えるサイバー防衛市場（茂木春輝） - トウシル",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BaGZFSkNWaXRyYXJ0X1FuVnExVXRNdjBWUHF2TXlmRVh3RTIyZVAyUHB3R1oteXJ3enlJZFdQdVZocXdyUmRYVVV1dXJLSWlWdzZxZEJwQl9wZw?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-30 07:00",
-          "headline": "物理ソルバーからMODSIM、AIへ SIMULIAが描く次世代の設計／シミュレ...",
+          "published_at": "2026-10-31 08:00",
+          "headline": "AIハッキングとPHP脆弱性が変えるサイバー防衛市場（茂木春輝） - トウシル",
           "summary": [
-            "【概要】物理ソルバーからMODSIM、AIへ SIMULIAが描く次世代の設計／シミュレーション - MONOist",
-            "物理ソルバーからMODSIM、AIへ SIMULIAが描く次世代の設計／シミュレーション MONOist...",
+            "【概要】AIハッキングとPHP脆弱性が変えるサイバー防衛市場（茂木春輝） - トウシル",
+            "AIハッキングとPHP脆弱性が変えるサイバー防衛市場（茂木春輝） トウシル...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -286,16 +286,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1793323036_4",
-          "title": "米国株式市場＝反落、アルファベット決算受けＡＩ投資に警戒 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTWdIMW42eTZMalZka0g5Y19sRlEtMld4RkNHYWxCaG5nYXhNMC13VGJkd3JtR0pBUS1BbXlIS1dGNmZaa01BUHY1ZnNNendUUnVVNlNpNDgzTGV0Y0hUWTY0OS1wOEx4RmJWdFFUN3Q5R294NzNNbW9WX3JwUzNhdU1EbnY5dw?oc=5",
+          "id": "ai_1793408334_4",
+          "title": "小学生の絵に「AIくさい」 中傷相次ぎしょうゆコンクール公開中止 [福島県] - 朝日新聞",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1DMWl2Z1EyUnFBX1BvMEpldEVsSjZ3YklPeENZbThkYkpwaGZudXpEbkxrS0VPd0I1UDJGTFh1Vk1KcXhCZUY3SlNtX0h5ZGdXRFdmLXBhcVVtd2tlX1pvbUVpdkFsX1E?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-30 06:16",
-          "headline": "米国株式市場＝反落、アルファベット決算受けＡＩ投資に警戒 - Reuters",
+          "published_at": "2026-10-31 07:00",
+          "headline": "小学生の絵に「AIくさい」 中傷相次ぎしょうゆコンクール公開中止 [福島県] -...",
           "summary": [
-            "【概要】米国株式市場＝反落、アルファベット決算受けＡＩ投資に警戒 - Reuters",
-            "米国株式市場＝反落、アルファベット決算受けＡＩ投資に警戒 Reuters...",
+            "【概要】小学生の絵に「AIくさい」 中傷相次ぎしょうゆコンクール公開中止 [福島県] - 朝日新聞",
+            "小学生の絵に「AIくさい」 中傷相次ぎしょうゆコンクール公開中止 [福島県] 朝日新聞...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -306,16 +306,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1793323036_5",
-          "title": "中国の台頭、コアウィーブ・ショック…「AIバブルは崩壊したのか」専門家の“株価回復”のカギを分析（デイリー新潮） - Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83VzR5dVBmbTNKdjFvY3I2ZjVDSHlOMXNEY0txOVRHbzJpSVVQbk9fNExwd1I4eE5rRFNaR2hscEdpWFh0WVBPcnVjMGtEWjNhNHRETkM4NE1WVE1zX2VHS2RuQzVxSU44QUh3dTMzVTZyeFlvcTExRmFOUVRFTW8?oc=5",
+          "id": "ai_1793408334_5",
+          "title": "AI予算、企業の3割で枯渇 アクセンチュア「無駄に利用」 - 日本経済新聞",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Nb2NMVHA4R01NTUNBd2loTkVSR2tDSklmcXZvOWFjZEJ2bUVweGY4ZTlleDViZ2x1OTduQmt0LXIyNldmNFk1TTJ4UmZ3MnhwTExuN3BxNDhsX0duSGZIeWxIMlg0QWx5QXJocQ?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-10-30 06:03",
-          "headline": "中国の台頭、コアウィーブ・ショック…「AIバブルは崩壊したのか」専門家の“株価回...",
+          "published_at": "2026-10-31 05:00",
+          "headline": "AI予算、企業の3割で枯渇 アクセンチュア「無駄に利用」 - 日本経済新聞",
           "summary": [
-            "【概要】中国の台頭、コアウィーブ・ショック…「AIバブルは崩壊したのか」専門家の“株価回復”のカギを分析（デイリー新潮） - Yahoo!ニュース",
-            "中国の台頭、コアウィーブ・ショック…「AIバブルは崩壊したのか」専門家の“株価回復”のカギを分析（デイリー新潮） Yah...",
+            "【概要】AI予算、企業の3割で枯渇 アクセンチュア「無駄に利用」 - 日本経済新聞",
+            "AI予算、企業の3割で枯渇 アクセンチュア「無駄に利用」 日本経済新聞...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
