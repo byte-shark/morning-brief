@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026年11月01日 09:19",
-  "updated_at_iso": "2026-11-01T09:19:36.715735+09:00",
+  "updated_at": "2026年11月02日 09:58",
+  "updated_at_iso": "2026-11-02T09:58:53.745437+09:00",
   "model_used": "mock-mode",
   "categories": [
     {
@@ -10,7 +10,27 @@
       "description": "Microsoft Azureの公式発表・最新クラウド動向",
       "articles": [
         {
-          "id": "azure_1793492377_1",
+          "id": "azure_1793581134_1",
+          "title": "米Microsoftはなぜ最大6万人に早期退職を打診するのか？　決算資料から読み解く巨額AI投資の“台所事情”：Windowsフロントライン（1/3 ページ） - ITmedia PC USER - ITmedia",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lRkU4VWZqM0lLZEJiZTdiS243QlR1NUNBRHNDZV9ZY1U5aE1rTEVNcDU3TFR6ell2SGFmTmJPcVVnVmFoTjM1WW1BV2d3Z2QzODN3LXItWGotSUNWVjNKRXNhWGVXbDUx0gFoQVVfeXFMT2VGRThVZmozSUtkQmJlN2JLbjdCVHU1Q0FEc0NlX1ljVTloTWtMRU1wNTdMVHp6WXZIYWZOYk9xVWdWYWhOMzVZbUFXZ3dnZDM4M3ctci1Yai1JQ1ZWM0pFc2FYZVdsNTE?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-11-02 06:00",
+          "headline": "米Microsoftはなぜ最大6万人に早期退職を打診するのか？　決算資料から読み...",
+          "summary": [
+            "【概要】米Microsoftはなぜ最大6万人に早期退職を打診するのか？　決算資料から読み解く巨額AI投資の“台所事情”：Windowsフロントライン（1/3 ページ） - ITmedia PC USER - ITmedia",
+            "米Microsoftはなぜ最大6万人に早期退職を打診するのか？ 決算資料から読み解く巨額AI投資の“台所事情”：Wind...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1793581134_2",
           "title": "米マイクロソフト、Azure売上48％増の332億ドル　FCFは市場予想を約100億ドル上回る - 財経新聞",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1LU1NOcTVCMWNrdGo5QkR4cGZlcXp2Z2JfaG5pN2h2TUtqVmxkNjBqUkYxcWZMem4zQWxEZXo1YkV5c2lwYlF6T3g1akNhZjRaZnBmZ3ktRy00VGM2UFVDeFB3VW4yUnla0gFoQVVfeXFMTUtTU05xNUIxY2t0ajlCRHhwZmVxenZnYl9obmk3aHZNS2pWbGQ2MGpSRjFxZkx6bjNBbERlejViRXlzaXBiUXpPeDVqQ2FmNFpmcGZneS1HLTRUYzZQVUN4UHdVbjJSeVo?oc=5",
           "source": "Google News (Azure)",
@@ -30,16 +50,16 @@
           "importance": 3
         },
         {
-          "id": "azure_1793492377_2",
-          "title": "ＡＲアドバンストテクノロジ[5578]：ARI、Microsoft の「Digital & App Innovation（Azure）ソリューションパートナー」に認定 2026年10月30日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObi0tajVjdU1YWkhFQ2c5VTk1dE1rVnhTM2lGekRTT2RDeXJabEpQY2M5WWpIVjQxYzBtU0ZtQ1lUdnZhTnNuTWlTWnFGc1EyUnFDRWh1dmh4X25kMmJhQldZOGtPc3N6ano0MU5PVDRpLWdUVzZxbWc3WmRBREZxUXk1cnhRcl94M1lUbjZCWlZHY2U3SnYwSld0bkN6TFZlMWdxWmtHNmhWUmtKdEVVaXNNdnNvVnhCWkRyZVUwbjRFQ3R5ODNWY1Rjclo?oc=5",
+          "id": "azure_1793581134_3",
+          "title": "ARI、Microsoft の「Digital & App Innovation（Azure）ソリューションパートナー」に認定 - ニコニコニュース",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Pb1gzSTJpZXJUQTNVdVhuMWxsUllmak9fVDVzaWV3MWxmN05aRHpyazljVXdFcXJDcmxnek13ejRpT01sQmZQMkpGMVVMcExET2p5emF3WUJrWEVCNXhBWTgzM3FsNVlJV0w3QjNfdWl3YnFFT2c?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-10-30 16:00",
-          "headline": "ＡＲアドバンストテクノロジ[5578]：ARI、Microsoft の「Digi...",
+          "published_at": "2026-10-31 05:18",
+          "headline": "ARI、Microsoft の「Digital & App Innovation...",
           "summary": [
-            "【概要】ＡＲアドバンストテクノロジ[5578]：ARI、Microsoft の「Digital & App Innovation（Azure）ソリューションパートナー」に認定 2026年10月30日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-            "ＡＲアドバンストテクノロジ[5578]：ARI、Microsoft の「Digital & App Innovation...",
+            "【概要】ARI、Microsoft の「Digital & App Innovation（Azure）ソリューションパートナー」に認定 - ニコニコニュース",
+            "ARI、Microsoft の「Digital & App Innovation（Azure）ソリューションパートナー」...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -50,7 +70,27 @@
           "importance": 3
         },
         {
-          "id": "azure_1793492377_3",
+          "id": "azure_1793581134_4",
+          "title": "Microsoft、Azureの強力な成長とプラスのフリーキャッシュフローによりクラウド競合を上回る - KuCoin",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTXJiRldtTjl0Y0p4Nk9SaXlpdmJ3LVlWZV9jX0NheXZPalJDSVhvZGdqS1Q0ZkVhOGtGV1ZBWEVnVm9sd05LbmRrQWFYQXNOeU1Genk3SkxJX3lLV3FEQl9MbzlyOVdfM2h3cWQ0R2Z5UVg5bmVfTTNOOUNJVXNDTXoxNE43dENEQ3lnQXVSMmo1MEZsbnAtbzhjRU54NXJoTFdzWUNpcmVRMVpqY0JGT2FoXzVQLUtmeFg1UW53?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-10-31 03:25",
+          "headline": "Microsoft、Azureの強力な成長とプラスのフリーキャッシュフローにより...",
+          "summary": [
+            "【概要】Microsoft、Azureの強力な成長とプラスのフリーキャッシュフローによりクラウド競合を上回る - KuCoin",
+            "Microsoft、Azureの強力な成長とプラスのフリーキャッシュフローによりクラウド競合を上回る KuCoin...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1793581134_5",
           "title": "Microsoft Earnings: Azure Accelerates, but Investment Returns Remain the Test | モーニングスター - Morningstar",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaG5SeDZhVTR4eHN2UHh3dTIxNm9PVnZHVEF6U3BNUTM0eFpLMVFuel8xUklWa0tpZ25FZ3REam9DeXBDMnBkdUtPdEFBcWN2Q3BOX3A2WWYyY21nOGM1RVROUlBTbmFaSEk1SkNjcDRzLVpKbmIzVFZjSEtYb2lObkRYS3M0NzFQakJwQlBnV2lFU3BBNTZIMWc2aVFIMlozbEZXUEhzUjNBcFZ2?oc=5",
           "source": "Google News (Azure)",
@@ -60,46 +100,6 @@
           "summary": [
             "【概要】Microsoft Earnings: Azure Accelerates, but Investment Returns Remain the Test | モーニングスター - Morningstar",
             "Microsoft Earnings: Azure Accelerates, but Investment Return...",
-            "情報提供元: Google News (Azure)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "azure_1793492377_4",
-          "title": "Azure OpenAI Serviceとは？できることやChatGPTとの違い、メリットをわかりやすく解説 - AIsmiley",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jMWtfNlMyZGVuMzEzYTZuQWZOSG93LVcwZzFRT1BlSGNSSGthQUxkWVQ1ZXYzVmNVaXAwQ0JIMGk3dEJGaWN0YndkNTFsT0hRMnlsUGJ0bUdNMWdHcmFDQzcxY0pMM0FoRXdTMA?oc=5",
-          "source": "Google News (Azure)",
-          "is_official": false,
-          "published_at": "2026-10-29 16:00",
-          "headline": "Azure OpenAI Serviceとは？できることやChatGPTとの違い...",
-          "summary": [
-            "【概要】Azure OpenAI Serviceとは？できることやChatGPTとの違い、メリットをわかりやすく解説 - AIsmiley",
-            "Azure OpenAI Serviceとは？できることやChatGPTとの違い、メリットをわかりやすく解説 AIsmi...",
-            "情報提供元: Google News (Azure)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "azure_1793492377_5",
-          "title": "学びの未来を形づくる教育者たち - Microsoft Source",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUUF1NER4UU43NXN4LXhSajJGYnBpZG9uaDlsU3dGVDd4VmZhMk14UFd5Q1VaSVZBZDdXZTZuNmZzcEZPMTdHdWNyWTF4VFI3dDM5blYxaWJNOWdNUUdfWkc1Y1RMdG1WTGRqZVpMRkxQcTdrRkQtWnJXbGZtY0dIQUV2N1FmUzc3YU10TGx5WTNBLWI1VldvN1gtQVpVUDlHQjhlWFctUi1hQQ?oc=5",
-          "source": "Google News (Azure)",
-          "is_official": false,
-          "published_at": "2026-10-29 12:57",
-          "headline": "学びの未来を形づくる教育者たち - Microsoft Source",
-          "summary": [
-            "【概要】学びの未来を形づくる教育者たち - Microsoft Source",
-            "学びの未来を形づくる教育者たち Microsoft Source...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -118,52 +118,12 @@
       "description": "テスラの最新アップデート・EV・FSD・決算動向",
       "articles": [
         {
-          "id": "tesla_1793492377_1",
-          "title": "“テスラ超え”狙う――チューリング「完全自動運転」までの道 「GPUより速いチップ」使った開発のウラ側 - Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10TjlpVWlWV19yb2l6dEZxRkphd0NuRE1penkyU19EMGtrbnB2NU9VZWtod08tcklTVVZ3dHN4bEpwSnNIVnlneWFfZnREc2RVYnV6bXAyeTdaZEdaRTF4d0QyUEhoZUNacy1zN3dvWGpnWVRiNzA2dFJ1MUdZUEk?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-11-01 08:02",
-          "headline": "“テスラ超え”狙う――チューリング「完全自動運転」までの道 「GPUより速いチッ...",
-          "summary": [
-            "【概要】“テスラ超え”狙う――チューリング「完全自動運転」までの道 「GPUより速いチップ」使った開発のウラ側 - Yahoo!ニュース",
-            "“テスラ超え”狙う――チューリング「完全自動運転」までの道 「GPUより速いチップ」使った開発のウラ側 Yahoo!ニュ...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "tesla_1793492377_2",
-          "title": "なぜイーロン・マスクは数カ月で10万基のGPUを並べられたのか…電力と資本が決めるAI競争の新しい条件 - ビジネスジャーナル",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRTTZuMHo4OG9hVlhSM0xUUXRPTF95Q3VNUjlYY2tHOUlaZzdYWUg3RjVLZ0J2X2ZjRTBMWHRjMl9DS0RLYTNMTGZQNzZvTjJ4bmh3MTl5ZDhqMVU?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-11-01 06:00",
-          "headline": "なぜイーロン・マスクは数カ月で10万基のGPUを並べられたのか…電力と資本が決め...",
-          "summary": [
-            "【概要】なぜイーロン・マスクは数カ月で10万基のGPUを並べられたのか…電力と資本が決めるAI競争の新しい条件 - ビジネスジャーナル",
-            "なぜイーロン・マスクは数カ月で10万基のGPUを並べられたのか…電力と資本が決めるAI競争の新しい条件 ビジネスジャーナ...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "tesla_1793492377_3",
+          "id": "tesla_1793581134_1",
           "title": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vR2owRXJLX1dwYUtHY05wNjVKVmVrTHNXdm5yRGJ0NHJzSzZTaEgxWFo0WmNBOWUxV2tXcHljUWlYaG92bll2YUNIQzJlVE0?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-11-01 01:23",
+          "published_at": "2026-11-02 08:50",
           "headline": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
           "summary": [
             "【概要】テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
@@ -178,16 +138,16 @@
           "importance": 3
         },
         {
-          "id": "tesla_1793492377_4",
-          "title": "テスラとスペースXの異常な評価額を支える「利益倍率」の正体 - Forbes JAPAN",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pV3F0UkVaNE1lYjd1Ujk5bTZQd3BERkEtRG54MTlCWlJxbzhhOFNWeVJPVk84YWpwMXEySlRTOFpic2hKZi1mblNUNFJjZUI0WkNyem9qSU1Pdw?oc=5",
+          "id": "tesla_1793581134_2",
+          "title": "Musk to get no salary unless Tesla hits milestones - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xOHFlNTl6OVdaZkgzUDFhSzJVaU9QNUNyU0prN2VCZDBEd1BrdEpHaklkajh4dEZ6ZE14eFlWa2V4TTVJZGU2MU9WaldJeHpwdFJTZkZBNXlSS2dsQWV0ag?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-10-31 16:00",
-          "headline": "テスラとスペースXの異常な評価額を支える「利益倍率」の正体 - Forbes J...",
+          "published_at": "2026-11-02 07:34",
+          "headline": "Musk to get no salary unless Tesla hits ...",
           "summary": [
-            "【概要】テスラとスペースXの異常な評価額を支える「利益倍率」の正体 - Forbes JAPAN",
-            "テスラとスペースXの異常な評価額を支える「利益倍率」の正体 Forbes JAPAN...",
+            "【概要】Musk to get no salary unless Tesla hits milestones - Reuters",
+            "Musk to get no salary unless Tesla hits milestones Reuters...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -198,16 +158,56 @@
           "importance": 3
         },
         {
-          "id": "tesla_1793492377_5",
-          "title": "テスラ ついに個人の車がロボタクシーに 2027年4〜6月期に開始へ - 自動運転ラボ",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBHa0hwS3d2ZUpUS09Zc0FJRzZiRWdIbUZ4dTJJMjhfUkVQaUlWYzlFdHQ5RXF6ZXJ2a2tfLUZKSk9yb2dpWmpTUQ?oc=5",
+          "id": "tesla_1793581134_3",
+          "title": "自動運転車レベル テスラだけで3種類 日本で買う前に知るべき「レベルの実態」 - 自動運転ラボ",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8zWmFUUmNsU01zZnVrYVFabmEycmlaV0JnbzVCa2R3R2hYTjNxV2s2dmdOdGY1TXMzYWNBSDlfN0NGOGpTYWFNSQ?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-10-30 16:00",
-          "headline": "テスラ ついに個人の車がロボタクシーに 2027年4〜6月期に開始へ - 自動運...",
+          "published_at": "2026-11-02 07:04",
+          "headline": "自動運転車レベル テスラだけで3種類 日本で買う前に知るべき「レベルの実態」 -...",
           "summary": [
-            "【概要】テスラ ついに個人の車がロボタクシーに 2027年4〜6月期に開始へ - 自動運転ラボ",
-            "テスラ ついに個人の車がロボタクシーに 2027年4〜6月期に開始へ 自動運転ラボ...",
+            "【概要】自動運転車レベル テスラだけで3種類 日本で買う前に知るべき「レベルの実態」 - 自動運転ラボ",
+            "自動運転車レベル テスラだけで3種類 日本で買う前に知るべき「レベルの実態」 自動運転ラボ...",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "tesla_1793581134_4",
+          "title": "【補助金】テスラの納車予定が12月へ〜今注文して「127万円」に間に合うか - Touch Lab",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CNm9WZDVtaTVXdTNkUjRQYjVfTjRrVzhxS0lWbDhtX09kbFZkYVBjYWtscF9PT0xqdmx5QzZodkprSUxwWTkwWEhEZlY4M0VXa05sQ3NZUlpZcThuMUVsQXQ1LXVKWnpUanlnOFBmTEdzZw?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-11-01 22:41",
+          "headline": "【補助金】テスラの納車予定が12月へ〜今注文して「127万円」に間に合うか - ...",
+          "summary": [
+            "【概要】【補助金】テスラの納車予定が12月へ〜今注文して「127万円」に間に合うか - Touch Lab",
+            "【補助金】テスラの納車予定が12月へ〜今注文して「127万円」に間に合うか Touch Lab...",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "tesla_1793581134_5",
+          "title": "テスラ 株価[TSLA/Tesla]最新ニュース 日経会社情報DIGITAL - 日本経済新聞",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LYnBVdHViRTU3UEQtbHliblFCdGZidWoxZF9NUzA1cjF4U25kclRwN2NzQ1R3eWhyeGhaTzJORjJ0MXEwV2xYWXJqRDN5RWg1YkJVLTV3?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-10-30 19:59",
+          "headline": "テスラ 株価[TSLA/Tesla]最新ニュース 日経会社情報DIGITAL -...",
+          "summary": [
+            "【概要】テスラ 株価[TSLA/Tesla]最新ニュース 日経会社情報DIGITAL - 日本経済新聞",
+            "テスラ 株価[TSLA/Tesla]最新ニュース 日経会社情報DIGITAL 日本経済新聞...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -226,16 +226,16 @@
       "description": "OpenAI・Google・生成AIの公式発表・技術速報",
       "articles": [
         {
-          "id": "ai_1793492379_1",
-          "title": "来2027年も大相場間違いなし！｢フィジカルAI｣厳選10銘柄 - 四季報オンライン",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBiakpBSHRRdkM3YXBPcFl0dTF2UzJiX1Q3SlFkTjdOUGJqUUdaLWN6V2NoN3JWVmEzN1hrNGEwdDVZamoxNERjWlVJSnU2a3gtdWgxMi1oZw?oc=5",
+          "id": "ai_1793581136_1",
+          "title": "第34回 AIITフォーラム：『はじめて学ぶ生成AI』申込受付開始 - 共同通信PRワイヤー",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9STlJCZUZrY0NrU0l0bndPSzRQb0lEcjBWeE1ITzN3Qm9KZjdnNTdtT09GNUVjWGZXdHRLd2p5bXdEeVlSZlpXX2NyX1RpVTh0MjJMdUlkRjduLUE?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-01 07:00",
-          "headline": "来2027年も大相場間違いなし！｢フィジカルAI｣厳選10銘柄 - 四季報オンラ...",
+          "published_at": "2026-11-02 09:00",
+          "headline": "第34回 AIITフォーラム：『はじめて学ぶ生成AI』申込受付開始 - 共同通信...",
           "summary": [
-            "【概要】来2027年も大相場間違いなし！｢フィジカルAI｣厳選10銘柄 - 四季報オンライン",
-            "来2027年も大相場間違いなし！｢フィジカルAI｣厳選10銘柄 四季報オンライン...",
+            "【概要】第34回 AIITフォーラム：『はじめて学ぶ生成AI』申込受付開始 - 共同通信PRワイヤー",
+            "第34回 AIITフォーラム：『はじめて学ぶ生成AI』申込受付開始 共同通信PRワイヤー...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -246,16 +246,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1793492379_2",
-          "title": "米国中間選挙で広がる生成AIの偽動画―候補者の発言が作り替えられ、本物の映像まで信用できなくなる危険 - Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTnlpck52RmFVSExIdFRKQjZJbzZKSjl2Mjc0aHFuM3B5RzlJdUNBYm5ubHJGcURjMmE0ZjNDQnpQa191NlQxbmcxWGp0WGpCQk8wZlAtVkJXYWU5UTZJcFZ4Q1FKY1hGWF9Hd1ZOYWZlQXhmTHcydW1mQ2JZYkRUQzZUXzZ2bTZo?oc=5",
+          "id": "ai_1793581136_2",
+          "title": "前場に注目すべき3つのポイント～半導体やAI関連株の売り一巡後の底堅さを見極め～ - 株探",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90eEZMSGZJcXE0Yno0Smk5SGpfVmJkSHB6Nk5CSmJTUkRzdHpMZ0pTeExZRHlFLUhGTlp4MlJWV2QwQ2tpOXRwRUdvRFBsVlotNWVLeVRFMk03X1p2Qjl6aQ?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-01 06:04",
-          "headline": "米国中間選挙で広がる生成AIの偽動画―候補者の発言が作り替えられ、本物の映像まで...",
+          "published_at": "2026-11-02 08:52",
+          "headline": "前場に注目すべき3つのポイント～半導体やAI関連株の売り一巡後の底堅さを見極め～...",
           "summary": [
-            "【概要】米国中間選挙で広がる生成AIの偽動画―候補者の発言が作り替えられ、本物の映像まで信用できなくなる危険 - Yahoo!ニュース",
-            "米国中間選挙で広がる生成AIの偽動画―候補者の発言が作り替えられ、本物の映像まで信用できなくなる危険 Yahoo!ニュー...",
+            "【概要】前場に注目すべき3つのポイント～半導体やAI関連株の売り一巡後の底堅さを見極め～ - 株探",
+            "前場に注目すべき3つのポイント～半導体やAI関連株の売り一巡後の底堅さを見極め～ 株探...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -266,16 +266,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1793492379_3",
-          "title": "AIはかつてない速さで深刻な脆弱性を発見することができます。防御側は追いつくことができるでしょうか？ - IBM",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXOHNoN2tsZ3hab2NPM0xiV1RKR2J5ekZIZkNadnVsUF9FZ1laZUdxN0ZhaHlaYmsteXB4T1J6T0ljcVlOS0hRaGktN0VmbDBncnRLV241YjFUVzVkdnpZdk5lLXE1Vjg5eFdNLUZVOGNDQXJp?oc=5",
+          "id": "ai_1793581136_3",
+          "title": "AI悪用とインサイダーの脅威にどう挑む？--マイクロソフトが示すAIエージェントの安全活用 - ZDNET Japan",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KSjZkRk9FTU1ILXVsdVVBRTJneHAzN0RlN3dwczNXSTBNRXI2aldwcU9wdWFPQWVyZ1lJaHlXTG5QTGZuSVBIcmdNaldpYW5MdUZz?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-01 05:20",
-          "headline": "AIはかつてない速さで深刻な脆弱性を発見することができます。防御側は追いつくこと...",
+          "published_at": "2026-11-02 07:30",
+          "headline": "AI悪用とインサイダーの脅威にどう挑む？--マイクロソフトが示すAIエージェント...",
           "summary": [
-            "【概要】AIはかつてない速さで深刻な脆弱性を発見することができます。防御側は追いつくことができるでしょうか？ - IBM",
-            "AIはかつてない速さで深刻な脆弱性を発見することができます。防御側は追いつくことができるでしょうか？ IBM...",
+            "【概要】AI悪用とインサイダーの脅威にどう挑む？--マイクロソフトが示すAIエージェントの安全活用 - ZDNET Japan",
+            "AI悪用とインサイダーの脅威にどう挑む？--マイクロソフトが示すAIエージェントの安全活用 ZDNET Japan...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -286,16 +286,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1793492379_4",
-          "title": "「AIを使える職員に仕事が集中」--政府の生成AI調査に負担増の声も - CNET Japan",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3bXMwdmxtWEpwTjUyZTVLdzExZFZ0a1RnRlo4YkJTR2VEcUwwcWdYOU1NNzNUV3pYWmQxSTNtWVRSMTlZbkZGMW42azJQNV91SlE?oc=5",
+          "id": "ai_1793581136_4",
+          "title": "「ＡＩ規制派」民主党優勢、米テック業界は共和党に巨額資金…トランプ政権のＡＩ政策「転換点」可能性で - 読売新聞",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5DZjVZQWljWDRvV0ZuSEV1MUQ3a0hKSHdFbkJxbkdTd081RmJ6V3ZFRmxOSE93VHdVbDVXcDhmQjZkT0VSWmktNS1WZmY4VzdwbC1JdWU4N002bkt0cWR0cjRn?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-01 05:10",
-          "headline": "「AIを使える職員に仕事が集中」--政府の生成AI調査に負担増の声も - CNE...",
+          "published_at": "2026-11-02 05:00",
+          "headline": "「ＡＩ規制派」民主党優勢、米テック業界は共和党に巨額資金…トランプ政権のＡＩ政策...",
           "summary": [
-            "【概要】「AIを使える職員に仕事が集中」--政府の生成AI調査に負担増の声も - CNET Japan",
-            "「AIを使える職員に仕事が集中」--政府の生成AI調査に負担増の声も CNET Japan...",
+            "【概要】「ＡＩ規制派」民主党優勢、米テック業界は共和党に巨額資金…トランプ政権のＡＩ政策「転換点」可能性で - 読売新聞",
+            "「ＡＩ規制派」民主党優勢、米テック業界は共和党に巨額資金…トランプ政権のＡＩ政策「転換点」可能性で 読売新聞...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -306,16 +306,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1793492379_5",
-          "title": "エージェント型AIを安心して拡張：Smart Model RouterとAgent Sandboxの紹介 - Oracle Blogs",
-          "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOanduODB4VDlxQmJ5dWZsRUpUYW1jQVNrS0FqQ1dvY1VDczB5WGxPODliamFJRnlMREdDa2ZwYmhiVU1EbVNiWV92bzJzYUhGaWpEYkJZQlJkS0ZxMk5DaDZKVVZMTlJoU3dOWXo0QUJfcUtjMnNZRFhLZ1ZueU1SUUwwbkNoeTVwRk1ZZWtLZUEteWlqOUlneFNVREdEQ3A3X0hPUTNzZlJnUGd4MEFsVF90cnozazBnWDRpVnE3WjIxSWRuOTlJbHJVVEUwQVdvWGg5QXFSOVNoU1g0aGJ5UDlGcVBONnNuVURiQVdCY2sxU2NjdllSYUR2Y2Vfc3ZGcVp1U29qaHpvNFVnLTI0SVI5RE40OXdESEZxaVlPOFhMUGRDZUJTRG5fTkg4TWxGaTl4bm4weVQ4d2Y4SXNOQ1NBTS0ybl9ZVVlxSjVoTkFrNTJKTktZ?oc=5",
+          "id": "ai_1793581136_5",
+          "title": "あえて文章を生成しない判断特化型AI、選択肢や確率を回答 再利用に強み - 日経クロステック",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UQWtfTkZGRFl3cmNOek45NWd2aThrU20xU1FBT1hkaUxEbzMwc2FmZ2Vka1NQWkp5dXktQXJkOE1BNjJnVjZIWEZZTlFKYmhna2N5MG4taDFYLS0xTmpCR3M5cUg2VWF3UEQwUGhB?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-01 02:36",
-          "headline": "エージェント型AIを安心して拡張：Smart Model RouterとAgen...",
+          "published_at": "2026-11-02 05:00",
+          "headline": "あえて文章を生成しない判断特化型AI、選択肢や確率を回答 再利用に強み - 日経...",
           "summary": [
-            "【概要】エージェント型AIを安心して拡張：Smart Model RouterとAgent Sandboxの紹介 - Oracle Blogs",
-            "エージェント型AIを安心して拡張：Smart Model RouterとAgent Sandboxの紹介 Oracle ...",
+            "【概要】あえて文章を生成しない判断特化型AI、選択肢や確率を回答 再利用に強み - 日経クロステック",
+            "あえて文章を生成しない判断特化型AI、選択肢や確率を回答 再利用に強み 日経クロステック...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
