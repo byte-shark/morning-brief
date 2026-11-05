@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026年11月04日 10:35",
-  "updated_at_iso": "2026-11-04T10:35:55.854529+09:00",
+  "updated_at": "2026年11月05日 10:43",
+  "updated_at_iso": "2026-11-05T10:43:20.041469+09:00",
   "model_used": "mock-mode",
   "categories": [
     {
@@ -10,16 +10,16 @@
       "description": "Microsoft Azureの公式発表・最新クラウド動向",
       "articles": [
         {
-          "id": "azure_1793756156_1",
-          "title": "LangChain、LangSmith BYOCのベータ版をAzureとGoogle Cloudで提供開始 - Unite.AI",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMzFnNUFDUzYwSjRTeWMtOXBOZFZydUNVREM1cVFoRFYzbUhWcFpwN0hMNmZtaGJJX0dBU1ZCQkM0ckpXVFFVWnlVSlltYUFDMWRfX1JkUHVBN3ozeFBnU3ZhRE9KcFdWeU5VZFE1YjA2TzNKeC1RYkNQQkhQVjRuNVNmci1MVEd0dVBselhIMnk?oc=5",
+          "id": "azure_1793843000_1",
+          "title": "ニューコミュニケーター、EU域内のAzureデータセンターでサービス提供を開始 - PR TIMES",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40TGFxYUMyNXUwaW8yU2MxT2pkSzBvVFBPRWVxOXFheldWU1l1M2xaT1Mtb2xaZEJnYXpCRVUtenVNOXR5T3huZnh5a0laSU5pNXF6RUtza3FvV1R0dENYYlhwYk9ybFBRdVE?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-11-04 07:32",
-          "headline": "LangChain、LangSmith BYOCのベータ版をAzureとGoog...",
+          "published_at": "2026-11-05 10:00",
+          "headline": "ニューコミュニケーター、EU域内のAzureデータセンターでサービス提供を開始 ...",
           "summary": [
-            "【概要】LangChain、LangSmith BYOCのベータ版をAzureとGoogle Cloudで提供開始 - Unite.AI",
-            "LangChain、LangSmith BYOCのベータ版をAzureとGoogle Cloudで提供開始 Unite....",
+            "【概要】ニューコミュニケーター、EU域内のAzureデータセンターでサービス提供を開始 - PR TIMES",
+            "ニューコミュニケーター、EU域内のAzureデータセンターでサービス提供を開始 PR TIMES...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -30,7 +30,67 @@
           "importance": 3
         },
         {
-          "id": "azure_1793756156_2",
+          "id": "azure_1793843000_2",
+          "title": "「Microsoft 365 Copilot向け支援サービス」を刷新 - Infoseek",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9scnpDYlJDMDdId1ZaUV9XWGVSOUViVmhJeDJzVE1KVGxEZGQwZW1ZMkpJT1FUa3lnaVh4Ml84NklONV9iQ1FjVDJSNlhWcnZ2VTNzSmFpQVpDQkJCRUZ0SjV3SF9PNHZJV0I2d196MURPUQ?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-11-05 01:40",
+          "headline": "「Microsoft 365 Copilot向け支援サービス」を刷新 - Inf...",
+          "summary": [
+            "【概要】「Microsoft 365 Copilot向け支援サービス」を刷新 - Infoseek",
+            "「Microsoft 365 Copilot向け支援サービス」を刷新 Infoseek...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1793843000_3",
+          "title": "Azure MCP Server SSRF: CVE-2026-26118 がトークンを漏洩させる仕組み - OrcaRouter",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xWXZYQVhVU1R6d3RNYWJkbjJWMVhDbWh6WjUzSGdwd0NMU2IyYzZiUFF4b244anNlUFpDbktlR0l2Q1ZWNmZwUzJRNnhDeXNzeHpLZ0owZW90aFA4akR2cEJpWUJLNDdMbWtrVXV6NzREMjdX?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-11-04 20:09",
+          "headline": "Azure MCP Server SSRF: CVE-2026-26118 がト...",
+          "summary": [
+            "【概要】Azure MCP Server SSRF: CVE-2026-26118 がトークンを漏洩させる仕組み - OrcaRouter",
+            "Azure MCP Server SSRF: CVE-2026-26118 がトークンを漏洩させる仕組み OrcaRou...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1793843000_4",
+          "title": "【Q&Aで解説】Windows Server 2016のEOSに「Azure Arc」で備えるアプローチとは？ - ITmedia",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QNHlhOU9FRlhqV0p2dkRQX0ttRUtnT1ZRN3lod1k3R0pwa3NVX1E2eEJ5TFJWaTVzTmU5LXVjb3JFeDQ3R09Yd0NKU01YZzVPZHRuUVhTSFpCcUg2TWE2TnNscE53aldhdFluR2RvbzltZw?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-11-04 10:00",
+          "headline": "【Q&Aで解説】Windows Server 2016のEOSに「Azure A...",
+          "summary": [
+            "【概要】【Q&Aで解説】Windows Server 2016のEOSに「Azure Arc」で備えるアプローチとは？ - ITmedia",
+            "【Q&Aで解説】Windows Server 2016のEOSに「Azure Arc」で備えるアプローチとは？ ITme...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1793843000_5",
           "title": "GitHubが従来比180倍のスループット性能向上を実現へ、来年初頭に。AIエージェント時代に対応。GitHub Universe 2026 - Publickey",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE40ZnB5bVR2QnVfUVd3eHpGQXZUaHdPbXc5ck9VRUlFMmpPS1MzWGpoWDZVNWp1YS0zeXBXQ21STmw3VElUcW1WTUpRdEdEeGdldG55bnNxMEhmWnJRdDhjLVhyeG1velZGRHItWFZROEJVNG9FWHZYb0NR?oc=5",
           "source": "Google News (Azure)",
@@ -40,66 +100,6 @@
           "summary": [
             "【概要】GitHubが従来比180倍のスループット性能向上を実現へ、来年初頭に。AIエージェント時代に対応。GitHub Universe 2026 - Publickey",
             "GitHubが従来比180倍のスループット性能向上を実現へ、来年初頭に。AIエージェント時代に対応。GitHub Uni...",
-            "情報提供元: Google News (Azure)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "azure_1793756156_3",
-          "title": "潤沢なキャッシュフローにもかかわらず、マイクロソフトはAI開発の資金調達のため債券市場を活用する。 - internationalfinance.com",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ2t5ZWFQcmpkSzk4a3ZvY0hURjJtRWd5U2RCZWFUd0I5WE5jdWNCMC1IeFBOZ0xrWnA2OEthVDU2MGM3U04xNXpaTDVNV0VjMzJ3T3l5UXVKUzl1ellFdFVjLUVDYm56Q0xyekRNVHBZX0hNTmF1SXVseng3WkUydTlBcU1XcC13cUFud2VWa2dobFUyM1hscmJUYXBaaDRGSWwwMl9GSTRhOF9MN3ZlcjZYRkxaRlZfZFlfTw?oc=5",
-          "source": "Google News (Azure)",
-          "is_official": false,
-          "published_at": "2026-11-02 11:00",
-          "headline": "潤沢なキャッシュフローにもかかわらず、マイクロソフトはAI開発の資金調達のため債...",
-          "summary": [
-            "【概要】潤沢なキャッシュフローにもかかわらず、マイクロソフトはAI開発の資金調達のため債券市場を活用する。 - internationalfinance.com",
-            "潤沢なキャッシュフローにもかかわらず、マイクロソフトはAI開発の資金調達のため債券市場を活用する。 internatio...",
-            "情報提供元: Google News (Azure)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "azure_1793756156_4",
-          "title": "AWS・Azure・Google Cloud 三つ巴の進化 - 日経クロステック",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOelE2M2ZaS3cyODJWOFF0akw2eFVMOHk3X1Z6THhGa0Z6N0U3Rkd4TzQ3V0VqV3lEMnJkV1g4T1lDVkxzeXlfbGM2cFNUUG90ZXlaTGdDLXVqajducmdLd1JSb0E4ODRHajFjdGVrc2tsWGd0MW45TWFMbTZsakxBR3VxRU5qSlhvMUpoTEdYeHNVY2NzR1VHcExVb0N3QmtrZ0czYnpuc2ExdmNFVHN1Zk1kNDFvem95NlZBaVdDMHBQNV9vYmMwMDBqQ0d6a2g4WlBqX2tHa0Q?oc=5",
-          "source": "Google News (Azure)",
-          "is_official": false,
-          "published_at": "2026-11-02 07:15",
-          "headline": "AWS・Azure・Google Cloud 三つ巴の進化 - 日経クロステック",
-          "summary": [
-            "【概要】AWS・Azure・Google Cloud 三つ巴の進化 - 日経クロステック",
-            "AWS・Azure・Google Cloud 三つ巴の進化 日経クロステック...",
-            "情報提供元: Google News (Azure)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "azure_1793756156_5",
-          "title": "米Microsoftはなぜ最大6万人に早期退職を打診するのか？　決算資料から読み解く巨額AI投資の“台所事情”：Windowsフロントライン（1/3 ページ） - ITmedia PC USER - ITmedia",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lRkU4VWZqM0lLZEJiZTdiS243QlR1NUNBRHNDZV9ZY1U5aE1rTEVNcDU3TFR6ell2SGFmTmJPcVVnVmFoTjM1WW1BV2d3Z2QzODN3LXItWGotSUNWVjNKRXNhWGVXbDUx0gFoQVVfeXFMT2VGRThVZmozSUtkQmJlN2JLbjdCVHU1Q0FEc0NlX1ljVTloTWtMRU1wNTdMVHp6WXZIYWZOYk9xVWdWYWhOMzVZbUFXZ3dnZDM4M3ctci1Yai1JQ1ZWM0pFc2FYZVdsNTE?oc=5",
-          "source": "Google News (Azure)",
-          "is_official": false,
-          "published_at": "2026-11-02 06:00",
-          "headline": "米Microsoftはなぜ最大6万人に早期退職を打診するのか？　決算資料から読み...",
-          "summary": [
-            "【概要】米Microsoftはなぜ最大6万人に早期退職を打診するのか？　決算資料から読み解く巨額AI投資の“台所事情”：Windowsフロントライン（1/3 ページ） - ITmedia PC USER - ITmedia",
-            "米Microsoftはなぜ最大6万人に早期退職を打診するのか？ 決算資料から読み解く巨額AI投資の“台所事情”：Wind...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -118,16 +118,16 @@
       "description": "テスラの最新アップデート・EV・FSD・決算動向",
       "articles": [
         {
-          "id": "tesla_1793756157_1",
-          "title": "テスラとスペースXの株価、一時1.8%下落－米中間選挙の開票結果受け - Bloomberg.com",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTmwyb1d1T3Y4SnYzRFRqenpXZDJjajRYV1VyV0laZEU3bWxjM3JUZ0FqWXhBNzgxOG5HZkxXTURyVUhwejdZYkZhVmRQc2x2WmJfR1lQN0EySUZYeUtIQjloamkzVXVrSHUzeGNpSWxmY05pd1otMWhVZmFua2F3OHNlXzVfZ1g3M3ZPVVlHRQ?oc=5",
+          "id": "tesla_1793843001_1",
+          "title": "【3拠点目】テスラ、ベルリンにエンジニアリングセンターを開設〜人材確保と開発加速を目指す - Touch Lab",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SMU1fYVdObU55R1pyeldVVE43eUxLNXRRd1hiTlZqbWlteEo2Yi10UUNOUFhBMzdlMDVpS2ktUldOMkhDcmk1eC14OENCQlAzMjUyal9hVUZtWnE3VGVKOTdEc2tidHJfcXFOMw?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-11-04 10:26",
-          "headline": "テスラとスペースXの株価、一時1.8%下落－米中間選挙の開票結果受け - Blo...",
+          "published_at": "2026-11-05 10:15",
+          "headline": "【3拠点目】テスラ、ベルリンにエンジニアリングセンターを開設〜人材確保と開発加速...",
           "summary": [
-            "【概要】テスラとスペースXの株価、一時1.8%下落－米中間選挙の開票結果受け - Bloomberg.com",
-            "テスラとスペースXの株価、一時1.8%下落－米中間選挙の開票結果受け Bloomberg.com...",
+            "【概要】【3拠点目】テスラ、ベルリンにエンジニアリングセンターを開設〜人材確保と開発加速を目指す - Touch Lab",
+            "【3拠点目】テスラ、ベルリンにエンジニアリングセンターを開設〜人材確保と開発加速を目指す Touch Lab...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -138,16 +138,16 @@
           "importance": 3
         },
         {
-          "id": "tesla_1793756157_2",
-          "title": "SpaceXとTeslaが合併なら韓国投資家だけ22%課税…米国株主は税負担ゼロ - BigGo ファイナンス",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LZUFaSzFPM1VJN2Uyb09uVGdraHUzZ0VsTTB3MmFyYjk1cUthVTBDbDdqbHlScFRJeHI0UXhfSm91Mi1odEMyVnR4SXF5OHZtYTBqTmgweHhkNE5VaW0zd3FmTjhSZU1BVGlDU3NZU0V4QlRf?oc=5",
+          "id": "tesla_1793843001_2",
+          "title": "韓国の中古EV取引が54%急増…Tesla「モデルY」、Kia「Sorento」の牙城に挑戦状 - BigGo ファイナンス",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kbGg5dnRpLS1LWVdtalBYVjdydkRkcFhlNHN5RlJDc1I5bXFHM3JDYk51eGF2T2t3eHFCS0thZm5xRzNkWmwyWmZvMWFoZnU2VzZDSDhWQzlaNVBVQjBZcEd4MkJBcGtCQ3Z5d2lzY0l5S25J?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-11-04 09:56",
-          "headline": "SpaceXとTeslaが合併なら韓国投資家だけ22%課税…米国株主は税負担ゼロ...",
+          "published_at": "2026-11-05 09:26",
+          "headline": "韓国の中古EV取引が54%急増…Tesla「モデルY」、Kia「Sorento」...",
           "summary": [
-            "【概要】SpaceXとTeslaが合併なら韓国投資家だけ22%課税…米国株主は税負担ゼロ - BigGo ファイナンス",
-            "SpaceXとTeslaが合併なら韓国投資家だけ22%課税…米国株主は税負担ゼロ BigGo ファイナンス...",
+            "【概要】韓国の中古EV取引が54%急増…Tesla「モデルY」、Kia「Sorento」の牙城に挑戦状 - BigGo ファイナンス",
+            "韓国の中古EV取引が54%急増…Tesla「モデルY」、Kia「Sorento」の牙城に挑戦状 BigGo ファイナンス...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -158,16 +158,16 @@
           "importance": 3
         },
         {
-          "id": "tesla_1793756157_3",
-          "title": "Tesla says \"quite likely\" to hit Model 3 goal - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IVG9GaU0yOVd4WmNXaFg5TnhURnVHZlJHRE05SHpiRzRQMHd6cklVUjFjZjZlUEIyRUNhYXhpQVNEUEtabUt3ZGI4bm04LUdmODRQd0FXQzhKeU0?oc=5",
+          "id": "tesla_1793843001_3",
+          "title": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vR2owRXJLX1dwYUtHY05wNjVKVmVrTHNXdm5yRGJ0NHJzSzZTaEgxWFo0WmNBOWUxV2tXcHljUWlYaG92bll2YUNIQzJlVE0?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-11-04 08:15",
-          "headline": "Tesla says \"quite likely\" to hit Model 3...",
+          "published_at": "2026-11-05 09:24",
+          "headline": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
           "summary": [
-            "【概要】Tesla says \"quite likely\" to hit Model 3 goal - Reuters",
-            "Tesla says \"quite likely\" to hit Model 3 goal Reuters...",
+            "【概要】テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
+            "テスラ【TSLA】：株価・株式情報 Yahoo!ファイナンス...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -178,16 +178,16 @@
           "importance": 3
         },
         {
-          "id": "tesla_1793756157_4",
-          "title": "AmazonやTeslaなど6社、トークン化株式計画に異議（NADA NEWS） - Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55cUxibmpmSk11VU8tN1JqajVnQTNRT2gxUFFnSndtd2htRnJUMFNUa0NoMjJxcUNKQ2p0cHJ1aFY4SEFhSl9ZOFcwX1JNZ0Q2OUJ1dzUwclhWZm15NjYtMnUta2JxemdmcEdYdXpQbmhkbkdlV1FyOWxrclVpQ28?oc=5",
+          "id": "tesla_1793843001_4",
+          "title": "テスラが9年越しに公開した新型ロードスター､｢空飛ぶスーパーカー｣は本当に市販できるのか 2ページ目 | ビジネス - 東洋経済オンライン",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JNG5UNEZDcGhTQmF6dE5PcjE0djlPSUxqS3NPbVY1MXJzMjJ6MWktUFlQNWhib1UyVU1NaUpkYkJSOFpxRFdTMzJteDBrV21lbEhrSWc2VWRvMkk?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-11-04 06:30",
-          "headline": "AmazonやTeslaなど6社、トークン化株式計画に異議（NADA NEWS）...",
+          "published_at": "2026-11-05 05:30",
+          "headline": "テスラが9年越しに公開した新型ロードスター､｢空飛ぶスーパーカー｣は本当に市販で...",
           "summary": [
-            "【概要】AmazonやTeslaなど6社、トークン化株式計画に異議（NADA NEWS） - Yahoo!ニュース",
-            "AmazonやTeslaなど6社、トークン化株式計画に異議（NADA NEWS） Yahoo!ニュース...",
+            "【概要】テスラが9年越しに公開した新型ロードスター､｢空飛ぶスーパーカー｣は本当に市販できるのか 2ページ目 | ビジネス - 東洋経済オンライン",
+            "テスラが9年越しに公開した新型ロードスター､｢空飛ぶスーパーカー｣は本当に市販できるのか 2ページ目 | ビジネス 東洋...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -198,16 +198,16 @@
           "importance": 3
         },
         {
-          "id": "tesla_1793756157_5",
-          "title": "成長の岐路に立つテスラ、今こそ問い直すマスク氏の「徹底した当事者意識」という経営手法 - JBpress",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zOFlpSEEyWGtjY2FlYjZrMEZqOHkxUGYxSGQ4TWJCWU11X3k4NDJERUk4TjZmdjdSd3JyS0xBcUJ1aFRHdlRENEVPWTZidmRESW81QTZR?oc=5",
+          "id": "tesla_1793843001_5",
+          "title": "11月4日のTesla Inc (TSLA) 値動きは3.48%下落：主な推進要因が明らかにされました - TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONFZTdi0xOXRmZjQ3d3JYN01wcUNjdjV0WjhUd0QxY0dSanIzeWQ3cnFNTHFHeXJEWXRKRmVQR3RGdWVDcTRrbDFuNXhCWVhmd2Y2aV9vN2JwSGQ4Vy1IbEtJYXp3clZjeXdvRnM0YlFlaGczT1JVME16UXI1Zzh6N3Z6ajBBcmgxVEptZlo3Yw?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-11-04 06:00",
-          "headline": "成長の岐路に立つテスラ、今こそ問い直すマスク氏の「徹底した当事者意識」という経営...",
+          "published_at": "2026-11-05 01:17",
+          "headline": "11月4日のTesla Inc (TSLA) 値動きは3.48%下落：主な推進要...",
           "summary": [
-            "【概要】成長の岐路に立つテスラ、今こそ問い直すマスク氏の「徹底した当事者意識」という経営手法 - JBpress",
-            "成長の岐路に立つテスラ、今こそ問い直すマスク氏の「徹底した当事者意識」という経営手法 JBpress...",
+            "【概要】11月4日のTesla Inc (TSLA) 値動きは3.48%下落：主な推進要因が明らかにされました - TradingKey",
+            "11月4日のTesla Inc (TSLA) 値動きは3.48%下落：主な推進要因が明らかにされました TradingK...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -226,16 +226,16 @@
       "description": "OpenAI・Google・生成AIの公式発表・技術速報",
       "articles": [
         {
-          "id": "ai_1793756158_1",
-          "title": "キャリアを急ぐ若手が陥る、AI時代の落とし穴 - パーソル総合研究所",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9FbXBlUzhUeTNUVXJkaTIxRms2c2ZqNXFLN24zQlZDS3VRSW5JSUQ0QWVvZ24ySWJFeVc1U1RRNlJuTjRreHVsUnAwR19UU0VIMjVEeGxTV202WlpGV0dCWjVpbkRjdXQ0WGtFQnlCaTN1enNTOEpiM0hB?oc=5",
+          "id": "ai_1793843002_1",
+          "title": "AIは管理職を幸せにするのか―問われる組織のAI最適化 - パーソル総合研究所",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE42OURQWUZrYmROS1RMS2ppUzlacTdnSUIxejVia2loSVNiSy0zUHFoSHp2QzYyS1paZ3U3T19OUTNwNVhNNnB3aTBieTVJX1J1UU05WDgtZFlFeVdIQlViU0MwTm5SQlBFejJRbm5MendLX0M1cXJYbGNB?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-04 09:56",
-          "headline": "キャリアを急ぐ若手が陥る、AI時代の落とし穴 - パーソル総合研究所",
+          "published_at": "2026-11-05 10:00",
+          "headline": "AIは管理職を幸せにするのか―問われる組織のAI最適化 - パーソル総合研究所",
           "summary": [
-            "【概要】キャリアを急ぐ若手が陥る、AI時代の落とし穴 - パーソル総合研究所",
-            "キャリアを急ぐ若手が陥る、AI時代の落とし穴 パーソル総合研究所...",
+            "【概要】AIは管理職を幸せにするのか―問われる組織のAI最適化 - パーソル総合研究所",
+            "AIは管理職を幸せにするのか―問われる組織のAI最適化 パーソル総合研究所...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -246,16 +246,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1793756158_2",
-          "title": "生成AI活用により本番インシデントは242％増──ソニーグループが考えるAI時代の「統制と自由」 (1/3)|DeveloperZine - CodeZine",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1VeXlyd3ZSQVUzNEw3NjVOeFVUZWFsNGFvN09IQzlIWDRONU5aQzNheFdPTDdsLU91Y0FjZFJEY245VDZ5Y2ZEaEVLX2xrWm1GMkE?oc=5",
+          "id": "ai_1793843002_2",
+          "title": "AIは専門職の仕事を変えるのか？薬剤師の現場から考えるヒトの仕事 - マイナビキャリアリサーチLab",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ibmM0Q29uRFhNbUdzNENybXowX3NJVmtWOHo1ak1ubUxLYmVUdWRkdndJWENkWW9uZlVDQkdsT204R2o4UEI0Z1pZbW1LR3E2WmZzWWlmYVFpRkh0RnJ3SVdpRGNKMHlj?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-04 09:00",
-          "headline": "生成AI活用により本番インシデントは242％増──ソニーグループが考えるAI時代...",
+          "published_at": "2026-11-05 10:00",
+          "headline": "AIは専門職の仕事を変えるのか？薬剤師の現場から考えるヒトの仕事 - マイナビキ...",
           "summary": [
-            "【概要】生成AI活用により本番インシデントは242％増──ソニーグループが考えるAI時代の「統制と自由」 (1/3)|DeveloperZine - CodeZine",
-            "生成AI活用により本番インシデントは242％増──ソニーグループが考えるAI時代の「統制と自由」 (1/3)|Devel...",
+            "【概要】AIは専門職の仕事を変えるのか？薬剤師の現場から考えるヒトの仕事 - マイナビキャリアリサーチLab",
+            "AIは専門職の仕事を変えるのか？薬剤師の現場から考えるヒトの仕事 マイナビキャリアリサーチLab...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -266,16 +266,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1793756158_3",
-          "title": "メタ、社債で150億ドル調達 ＡＩインフラ投資に充当 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5XeURGaExxYnlzRVplM0xueW03QTZRSGRoMG5QSE0zYXJfRXVpTS1weDMweUo5V19VbXptQVpyVXNseDZZSlhJT3gydUs3eGxCNkJ5TXYtLXFXRms3MWRHNXNvaGZBQkxoSUU4RzAwUGx3MnNYWFgwVlJXd2gzUQ?oc=5",
+          "id": "ai_1793843002_3",
+          "title": "「AI時代、データエンジニアが最もアツい職種だ」──データ界隈LT祭で41人が語った、データの仕事の手応え - EnterpriseZine",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TV18wcV9ORFJBLWVxOGF4MzNqXzE1MDc2dGNfSlh6TDc5SzNwUldVaVBaQjFnMEFyTGdGVWswVUJCVW91aFN2RXEwc08xT0xMN1hXRlpaM294UQ?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-04 08:56",
-          "headline": "メタ、社債で150億ドル調達 ＡＩインフラ投資に充当 - Reuters",
+          "published_at": "2026-11-05 10:00",
+          "headline": "「AI時代、データエンジニアが最もアツい職種だ」──データ界隈LT祭で41人が語...",
           "summary": [
-            "【概要】メタ、社債で150億ドル調達 ＡＩインフラ投資に充当 - Reuters",
-            "メタ、社債で150億ドル調達 ＡＩインフラ投資に充当 Reuters...",
+            "【概要】「AI時代、データエンジニアが最もアツい職種だ」──データ界隈LT祭で41人が語った、データの仕事の手応え - EnterpriseZine",
+            "「AI時代、データエンジニアが最もアツい職種だ」──データ界隈LT祭で41人が語った、データの仕事の手応え Enterp...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -286,16 +286,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1793756158_4",
-          "title": "AIが別のAIの「頭脳」を直接修正 MITが新たなAI改良手法を実証 - 株式会社エクサウィザーズ",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBNTDFJSmNsSVdpR1l3T1hZZXJoRzZZTUFYYTJBejktdkpUQW1fb3RfMTJ3X05pSC1nQmV2dVBuS2tnYzBQa3ZFbmFIUDBpMU0xazFDMWplRkdidnJOaXFqZWVqQmhjdw?oc=5",
+          "id": "ai_1793843002_4",
+          "title": "iシェアーズ AI グローバル・イノベーション アクティブ【408A】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84dXppanVrNENHYmJBZVFMVTktQUhybk1LYzVXNXBmM2RSbXJsa1lOenBUZW1PRTVwQS00Nmp1akY5QmEya29Yak1pVWYzUjNzUUE?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-04 07:49",
-          "headline": "AIが別のAIの「頭脳」を直接修正 MITが新たなAI改良手法を実証 - 株式会...",
+          "published_at": "2026-11-05 09:16",
+          "headline": "iシェアーズ AI グローバル・イノベーション アクティブ【408A】：株価・株...",
           "summary": [
-            "【概要】AIが別のAIの「頭脳」を直接修正 MITが新たなAI改良手法を実証 - 株式会社エクサウィザーズ",
-            "AIが別のAIの「頭脳」を直接修正 MITが新たなAI改良手法を実証 株式会社エクサウィザーズ...",
+            "【概要】iシェアーズ AI グローバル・イノベーション アクティブ【408A】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+            "iシェアーズ AI グローバル・イノベーション アクティブ【408A】：株価・株式情報（夜間PTS含む） Yahoo!フ...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -306,16 +306,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1793756158_5",
-          "title": "AIは「収奪的イノベーション」か 産業革命では100年間賃金低下 [AIの時代] - 朝日新聞",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxS2RWNU5fYjNRUjZlci1sSkRNS2VPdzJYLVItT3ZTWFFJSnB5aHN2dUl5Q3JSOW9RREFXaVp1OTI2Mi1kajBJTVB4dXhVamlZcFZudGViX1JBYm9TamsyTVE1Mm5xRlk?oc=5",
+          "id": "ai_1793843002_5",
+          "title": "6つのAIに同じ写真を送って「週刊プロレスっぽくして」とお願いしたらこうなった - ロケットニュース24",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1nSDJ1akFNSU1HWFRidDI5YU52OUFDc3pEV3drTGc5TkJwcTBRaWQ2SWQ4b2hYNWNmVFFBZV9PbWV3a2RvTzdIRUtTUDV5bThPb0hodWl4b9IBXEFVX3lxTE1vSzVsTGU1Rk9BaHo0UEFZaGlFeTJQRE9RMm1qVFdaNmN3ZXlmcDlUUnRrUjZGMVkxVkJ5WS13R3Z1NGdHbklnQUZZOTBXRkVEUWF0V3FESDF0Z1I5?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-04 06:00",
-          "headline": "AIは「収奪的イノベーション」か 産業革命では100年間賃金低下 [AIの時代]...",
+          "published_at": "2026-11-05 09:00",
+          "headline": "6つのAIに同じ写真を送って「週刊プロレスっぽくして」とお願いしたらこうなった ...",
           "summary": [
-            "【概要】AIは「収奪的イノベーション」か 産業革命では100年間賃金低下 [AIの時代] - 朝日新聞",
-            "AIは「収奪的イノベーション」か 産業革命では100年間賃金低下 [AIの時代] 朝日新聞...",
+            "【概要】6つのAIに同じ写真を送って「週刊プロレスっぽくして」とお願いしたらこうなった - ロケットニュース24",
+            "6つのAIに同じ写真を送って「週刊プロレスっぽくして」とお願いしたらこうなった ロケットニュース24...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
