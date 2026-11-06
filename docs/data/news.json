@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026年11月05日 10:43",
-  "updated_at_iso": "2026-11-05T10:43:20.041469+09:00",
+  "updated_at": "2026年11月06日 10:44",
+  "updated_at_iso": "2026-11-06T10:44:32.702083+09:00",
   "model_used": "mock-mode",
   "categories": [
     {
@@ -10,16 +10,16 @@
       "description": "Microsoft Azureの公式発表・最新クラウド動向",
       "articles": [
         {
-          "id": "azure_1793843000_1",
-          "title": "ニューコミュニケーター、EU域内のAzureデータセンターでサービス提供を開始 - PR TIMES",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40TGFxYUMyNXUwaW8yU2MxT2pkSzBvVFBPRWVxOXFheldWU1l1M2xaT1Mtb2xaZEJnYXpCRVUtenVNOXR5T3huZnh5a0laSU5pNXF6RUtza3FvV1R0dENYYlhwYk9ybFBRdVE?oc=5",
+          "id": "azure_1793929473_1",
+          "title": "UiPathとMicrosoftの協力による日本企業向けレガシーアプリケーションのモダナイゼーション支援 - ニュースメディアVOIX",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SY2hMdjJzQk1yNXFtUkN6Z3M0SS1Yem9BUXZXSjNtRVdiY3hoaGZ4ZDdBXzJFSk5PMUJpaF9sZWRsWnJuSndpdGVnS3ZnaFdjQUVkcFNtd0Z1Q21zaGVFemg5MXVOci1YNnV0S3lUOEdLNDQxVHcxRw?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-11-05 10:00",
-          "headline": "ニューコミュニケーター、EU域内のAzureデータセンターでサービス提供を開始 ...",
+          "published_at": "2026-11-05 22:07",
+          "headline": "UiPathとMicrosoftの協力による日本企業向けレガシーアプリケーション...",
           "summary": [
-            "【概要】ニューコミュニケーター、EU域内のAzureデータセンターでサービス提供を開始 - PR TIMES",
-            "ニューコミュニケーター、EU域内のAzureデータセンターでサービス提供を開始 PR TIMES...",
+            "【概要】UiPathとMicrosoftの協力による日本企業向けレガシーアプリケーションのモダナイゼーション支援 - ニュースメディアVOIX",
+            "UiPathとMicrosoftの協力による日本企業向けレガシーアプリケーションのモダナイゼーション支援 ニュースメディ...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -30,16 +30,16 @@
           "importance": 3
         },
         {
-          "id": "azure_1793843000_2",
-          "title": "「Microsoft 365 Copilot向け支援サービス」を刷新 - Infoseek",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9scnpDYlJDMDdId1ZaUV9XWGVSOUViVmhJeDJzVE1KVGxEZGQwZW1ZMkpJT1FUa3lnaVh4Ml84NklONV9iQ1FjVDJSNlhWcnZ2VTNzSmFpQVpDQkJCRUZ0SjV3SF9PNHZJV0I2d196MURPUQ?oc=5",
+          "id": "azure_1793929473_2",
+          "title": "Microsoftを装うサポート詐欺、広告経由で80組織の利用者に偽警告 PIXMがAzure上の詐欺サイトと電話番号管理基盤を分析 - 合同会社ロケットボーイズ",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd3NMZGlpSTBxLWtSSHZoZ1hBUVE5dU1OMWIwWGN2YmlDTXBXZG9zcGJpcW9PczJhMDJqUEVGelEtblN4SGtwNVFFdUZUWHh6UHdZOVFqdU5NdGdwam0wQXRaUTRabFlYc3Jxb3VnNk1xUFNFN25aM01BWC1JZG9ITlN3dEpyVjdtMWZXU2I2a3BqaEpFaVlnc3MxWDFWN2VCUjN4aDdB?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-11-05 01:40",
-          "headline": "「Microsoft 365 Copilot向け支援サービス」を刷新 - Inf...",
+          "published_at": "2026-11-05 15:00",
+          "headline": "Microsoftを装うサポート詐欺、広告経由で80組織の利用者に偽警告 PIX...",
           "summary": [
-            "【概要】「Microsoft 365 Copilot向け支援サービス」を刷新 - Infoseek",
-            "「Microsoft 365 Copilot向け支援サービス」を刷新 Infoseek...",
+            "【概要】Microsoftを装うサポート詐欺、広告経由で80組織の利用者に偽警告 PIXMがAzure上の詐欺サイトと電話番号管理基盤を分析 - 合同会社ロケットボーイズ",
+            "Microsoftを装うサポート詐欺、広告経由で80組織の利用者に偽警告 PIXMがAzure上の詐欺サイトと電話番号管...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -50,16 +50,16 @@
           "importance": 3
         },
         {
-          "id": "azure_1793843000_3",
-          "title": "Azure MCP Server SSRF: CVE-2026-26118 がトークンを漏洩させる仕組み - OrcaRouter",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xWXZYQVhVU1R6d3RNYWJkbjJWMVhDbWh6WjUzSGdwd0NMU2IyYzZiUFF4b244anNlUFpDbktlR0l2Q1ZWNmZwUzJRNnhDeXNzeHpLZ0owZW90aFA4akR2cEJpWUJLNDdMbWtrVXV6NzREMjdX?oc=5",
+          "id": "azure_1793929473_3",
+          "title": "マイクロソフト株価予想：株価が1日で7%急騰し最高値更新、Azureの成長がMSFTを600ドルに押し上げる可能性 - TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQWQ0dEFheWRzVWNyTDNweHpRSVB4bW5Ma3p2QzJfWWJKcnNsb1FoZkVXbWdLNnp0T3UzU242dVVDaDh5YXZJWVFTc0JQMXdkWGFNdkhSM3QwcEhUU0o2dkNRSXdsbWVLZ0JGYUdpcy1XTU1FWmRIdTl0blFJc1lfSU9XQWk5UEpKZ3k5U0FncE5Ja25rV3lFSzF3SWU1aUhnd19taDRCSXc5cmw0Wm9maEhZa2FHd3laYlctZS1VcWJzYkVlNWpEOF9Tem5vOUVVSThn?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-11-04 20:09",
-          "headline": "Azure MCP Server SSRF: CVE-2026-26118 がト...",
+          "published_at": "2026-11-05 00:44",
+          "headline": "マイクロソフト株価予想：株価が1日で7%急騰し最高値更新、Azureの成長がMS...",
           "summary": [
-            "【概要】Azure MCP Server SSRF: CVE-2026-26118 がトークンを漏洩させる仕組み - OrcaRouter",
-            "Azure MCP Server SSRF: CVE-2026-26118 がトークンを漏洩させる仕組み OrcaRou...",
+            "【概要】マイクロソフト株価予想：株価が1日で7%急騰し最高値更新、Azureの成長がMSFTを600ドルに押し上げる可能性 - TradingKey",
+            "マイクロソフト株価予想：株価が1日で7%急騰し最高値更新、Azureの成長がMSFTを600ドルに押し上げる可能性 Tr...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -70,7 +70,7 @@
           "importance": 3
         },
         {
-          "id": "azure_1793843000_4",
+          "id": "azure_1793929473_4",
           "title": "【Q&Aで解説】Windows Server 2016のEOSに「Azure Arc」で備えるアプローチとは？ - ITmedia",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QNHlhOU9FRlhqV0p2dkRQX0ttRUtnT1ZRN3lod1k3R0pwa3NVX1E2eEJ5TFJWaTVzTmU5LXVjb3JFeDQ3R09Yd0NKU01YZzVPZHRuUVhTSFpCcUg2TWE2TnNscE53aldhdFluR2RvbzltZw?oc=5",
           "source": "Google News (Azure)",
@@ -90,7 +90,7 @@
           "importance": 3
         },
         {
-          "id": "azure_1793843000_5",
+          "id": "azure_1793929473_5",
           "title": "GitHubが従来比180倍のスループット性能向上を実現へ、来年初頭に。AIエージェント時代に対応。GitHub Universe 2026 - Publickey",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE40ZnB5bVR2QnVfUVd3eHpGQXZUaHdPbXc5ck9VRUlFMmpPS1MzWGpoWDZVNWp1YS0zeXBXQ21STmw3VElUcW1WTUpRdEdEeGdldG55bnNxMEhmWnJRdDhjLVhyeG1velZGRHItWFZROEJVNG9FWHZYb0NR?oc=5",
           "source": "Google News (Azure)",
@@ -118,52 +118,12 @@
       "description": "テスラの最新アップデート・EV・FSD・決算動向",
       "articles": [
         {
-          "id": "tesla_1793843001_1",
-          "title": "【3拠点目】テスラ、ベルリンにエンジニアリングセンターを開設〜人材確保と開発加速を目指す - Touch Lab",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SMU1fYVdObU55R1pyeldVVE43eUxLNXRRd1hiTlZqbWlteEo2Yi10UUNOUFhBMzdlMDVpS2ktUldOMkhDcmk1eC14OENCQlAzMjUyal9hVUZtWnE3VGVKOTdEc2tidHJfcXFOMw?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-11-05 10:15",
-          "headline": "【3拠点目】テスラ、ベルリンにエンジニアリングセンターを開設〜人材確保と開発加速...",
-          "summary": [
-            "【概要】【3拠点目】テスラ、ベルリンにエンジニアリングセンターを開設〜人材確保と開発加速を目指す - Touch Lab",
-            "【3拠点目】テスラ、ベルリンにエンジニアリングセンターを開設〜人材確保と開発加速を目指す Touch Lab...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "tesla_1793843001_2",
-          "title": "韓国の中古EV取引が54%急増…Tesla「モデルY」、Kia「Sorento」の牙城に挑戦状 - BigGo ファイナンス",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kbGg5dnRpLS1LWVdtalBYVjdydkRkcFhlNHN5RlJDc1I5bXFHM3JDYk51eGF2T2t3eHFCS0thZm5xRzNkWmwyWmZvMWFoZnU2VzZDSDhWQzlaNVBVQjBZcEd4MkJBcGtCQ3Z5d2lzY0l5S25J?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-11-05 09:26",
-          "headline": "韓国の中古EV取引が54%急増…Tesla「モデルY」、Kia「Sorento」...",
-          "summary": [
-            "【概要】韓国の中古EV取引が54%急増…Tesla「モデルY」、Kia「Sorento」の牙城に挑戦状 - BigGo ファイナンス",
-            "韓国の中古EV取引が54%急増…Tesla「モデルY」、Kia「Sorento」の牙城に挑戦状 BigGo ファイナンス...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "tesla_1793843001_3",
+          "id": "tesla_1793929473_1",
           "title": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vR2owRXJLX1dwYUtHY05wNjVKVmVrTHNXdm5yRGJ0NHJzSzZTaEgxWFo0WmNBOWUxV2tXcHljUWlYaG92bll2YUNIQzJlVE0?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-11-05 09:24",
+          "published_at": "2026-11-06 06:28",
           "headline": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
           "summary": [
             "【概要】テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
@@ -178,16 +138,16 @@
           "importance": 3
         },
         {
-          "id": "tesla_1793843001_4",
-          "title": "テスラが9年越しに公開した新型ロードスター､｢空飛ぶスーパーカー｣は本当に市販できるのか 2ページ目 | ビジネス - 東洋経済オンライン",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JNG5UNEZDcGhTQmF6dE5PcjE0djlPSUxqS3NPbVY1MXJzMjJ6MWktUFlQNWhib1UyVU1NaUpkYkJSOFpxRFdTMzJteDBrV21lbEhrSWc2VWRvMkk?oc=5",
+          "id": "tesla_1793929473_2",
+          "title": "Teslaのロボタク､Waymoに先行する街 乗車で知る課題 - 日本経済新聞",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVDRoeXNWV3lwZlgxUEZWMktuVW0xcXBrbnQ1MlNsYk0xUHFWMENORkJaVHhnSXZKc0I0UnZDMXRCbHgxQ1piWEhIdGFxVUl6ZVhBV0F6b1NNbXlXWGxLU3gzZzA1WUdieEJJN2h6bTNDcnR1OVBRZ0pDaE9vejk0clczVUYtZUdqVTIxQzFoaWZPRVV3VTdiek5oN0lpWmRueXZCYw?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-11-05 05:30",
-          "headline": "テスラが9年越しに公開した新型ロードスター､｢空飛ぶスーパーカー｣は本当に市販で...",
+          "published_at": "2026-11-06 05:00",
+          "headline": "Teslaのロボタク､Waymoに先行する街 乗車で知る課題 - 日本経済新聞",
           "summary": [
-            "【概要】テスラが9年越しに公開した新型ロードスター､｢空飛ぶスーパーカー｣は本当に市販できるのか 2ページ目 | ビジネス - 東洋経済オンライン",
-            "テスラが9年越しに公開した新型ロードスター､｢空飛ぶスーパーカー｣は本当に市販できるのか 2ページ目 | ビジネス 東洋...",
+            "【概要】Teslaのロボタク､Waymoに先行する街 乗車で知る課題 - 日本経済新聞",
+            "Teslaのロボタク､Waymoに先行する街 乗車で知る課題 日本経済新聞...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -198,16 +158,56 @@
           "importance": 3
         },
         {
-          "id": "tesla_1793843001_5",
-          "title": "11月4日のTesla Inc (TSLA) 値動きは3.48%下落：主な推進要因が明らかにされました - TradingKey",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONFZTdi0xOXRmZjQ3d3JYN01wcUNjdjV0WjhUd0QxY0dSanIzeWQ3cnFNTHFHeXJEWXRKRmVQR3RGdWVDcTRrbDFuNXhCWVhmd2Y2aV9vN2JwSGQ4Vy1IbEtJYXp3clZjeXdvRnM0YlFlaGczT1JVME16UXI1Zzh6N3Z6ajBBcmgxVEptZlo3Yw?oc=5",
+          "id": "tesla_1793929473_3",
+          "title": "Tesla wants its sworn Cybercab answers to NHTSA kept entirely secret",
+          "link": "https://electrek.co/2026/11/05/tesla-cybercab-nhtsa-sworn-answers-confidential/",
+          "source": "Electrek (Tesla)",
+          "is_official": true,
+          "published_at": "2026-11-06 03:32",
+          "headline": "Tesla wants its sworn Cybercab answers t...",
+          "summary": [
+            "【概要】Tesla wants its sworn Cybercab answers to NHTSA kept entirely secret",
+            "Tesla has answered NHTSA’s Special Order demanding it prove,...",
+            "情報提供元: Electrek (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 4
+        },
+        {
+          "id": "tesla_1793929473_4",
+          "title": "テスラ株が本日急落している理由とは - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93WUFEaC1FNTNXcDhUQU1lYmpJZGVjME9QdEptejBvdFREblNJYlJKWWwtY2xDeUU5eHQ3Qzhqa1dUckc0Q2VlTUZGYU84cGcya0xGanMzbVJIUUhDcHktQzhxNnhBQzdsSnhhRVduU0dONmc4aFVR?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-11-05 01:17",
-          "headline": "11月4日のTesla Inc (TSLA) 値動きは3.48%下落：主な推進要...",
+          "published_at": "2026-11-06 00:34",
+          "headline": "テスラ株が本日急落している理由とは - Investing.com - FX |...",
           "summary": [
-            "【概要】11月4日のTesla Inc (TSLA) 値動きは3.48%下落：主な推進要因が明らかにされました - TradingKey",
-            "11月4日のTesla Inc (TSLA) 値動きは3.48%下落：主な推進要因が明らかにされました TradingK...",
+            "【概要】テスラ株が本日急落している理由とは - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+            "テスラ株が本日急落している理由とは Investing.com - FX | 株式市場 | ファイナンス | 金融ニュー...",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "tesla_1793929473_5",
+          "title": "マスク氏率いるテスラ、スペースX株再び急落－民主勝利の影響を警戒 - Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xUnFlaGt3eUV4RU1xLUF5SmFfRjZQUEE1LTJpNC1ocHZzbzhhdFdZVFNwdEdaZF9TVHd4Z205TzdOTG9VQjNBTkFIdWhFbE9BVnR2eGVGQjU0UUE2blhaNWN1MXdpVnRtZ0xKalRnT3RVWkllTVRF?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-11-06 00:21",
+          "headline": "マスク氏率いるテスラ、スペースX株再び急落－民主勝利の影響を警戒 - Bloom...",
+          "summary": [
+            "【概要】マスク氏率いるテスラ、スペースX株再び急落－民主勝利の影響を警戒 - Bloomberg.com",
+            "マスク氏率いるテスラ、スペースX株再び急落－民主勝利の影響を警戒 Bloomberg.com...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -226,16 +226,16 @@
       "description": "OpenAI・Google・生成AIの公式発表・技術速報",
       "articles": [
         {
-          "id": "ai_1793843002_1",
-          "title": "AIは管理職を幸せにするのか―問われる組織のAI最適化 - パーソル総合研究所",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE42OURQWUZrYmROS1RMS2ppUzlacTdnSUIxejVia2loSVNiSy0zUHFoSHp2QzYyS1paZ3U3T19OUTNwNVhNNnB3aTBieTVJX1J1UU05WDgtZFlFeVdIQlViU0MwTm5SQlBFejJRbm5MendLX0M1cXJYbGNB?oc=5",
+          "id": "ai_1793929474_1",
+          "title": "CFOの「助けて」にAIが回答する魔法の世界をめざす - NTT Data",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qVktlRjAwVjJ5SlozN251SG15QmxLQ1ZvTU84aGZ0a2JaeHNxOUJIa1lPOWVkVktzWFlrWHlDLUlzSVpfNGxwYTd4N1c2LVdubGpxQm91Q3NCV0JJazdqSnIxZVRzYkFXMzhn?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-05 10:00",
-          "headline": "AIは管理職を幸せにするのか―問われる組織のAI最適化 - パーソル総合研究所",
+          "published_at": "2026-11-06 10:01",
+          "headline": "CFOの「助けて」にAIが回答する魔法の世界をめざす - NTT Data",
           "summary": [
-            "【概要】AIは管理職を幸せにするのか―問われる組織のAI最適化 - パーソル総合研究所",
-            "AIは管理職を幸せにするのか―問われる組織のAI最適化 パーソル総合研究所...",
+            "【概要】CFOの「助けて」にAIが回答する魔法の世界をめざす - NTT Data",
+            "CFOの「助けて」にAIが回答する魔法の世界をめざす NTT Data...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -246,16 +246,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1793843002_2",
-          "title": "AIは専門職の仕事を変えるのか？薬剤師の現場から考えるヒトの仕事 - マイナビキャリアリサーチLab",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ibmM0Q29uRFhNbUdzNENybXowX3NJVmtWOHo1ak1ubUxLYmVUdWRkdndJWENkWW9uZlVDQkdsT204R2o4UEI0Z1pZbW1LR3E2WmZzWWlmYVFpRkh0RnJ3SVdpRGNKMHlj?oc=5",
+          "id": "ai_1793929474_2",
+          "title": "日経平均が一時4千円下落 AI投資に懸念 NYダウも下落 - 朝日新聞",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIQ3pra0w4Y3pHVFlOY2FhZy1EWmVkUGttQzlZMWVLb013aHBfVWZtZ0V3ZFhXdGpKZHl4UGQ4aHdoQ25UTjlUQ0Z0RHBnS1ZjajBjQS1sV19tcE9ha091NGdjVFRyR2s?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-05 10:00",
-          "headline": "AIは専門職の仕事を変えるのか？薬剤師の現場から考えるヒトの仕事 - マイナビキ...",
+          "published_at": "2026-11-06 09:53",
+          "headline": "日経平均が一時4千円下落 AI投資に懸念 NYダウも下落 - 朝日新聞",
           "summary": [
-            "【概要】AIは専門職の仕事を変えるのか？薬剤師の現場から考えるヒトの仕事 - マイナビキャリアリサーチLab",
-            "AIは専門職の仕事を変えるのか？薬剤師の現場から考えるヒトの仕事 マイナビキャリアリサーチLab...",
+            "【概要】日経平均が一時4千円下落 AI投資に懸念 NYダウも下落 - 朝日新聞",
+            "日経平均が一時4千円下落 AI投資に懸念 NYダウも下落 朝日新聞...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -266,16 +266,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1793843002_3",
-          "title": "「AI時代、データエンジニアが最もアツい職種だ」──データ界隈LT祭で41人が語った、データの仕事の手応え - EnterpriseZine",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TV18wcV9ORFJBLWVxOGF4MzNqXzE1MDc2dGNfSlh6TDc5SzNwUldVaVBaQjFnMEFyTGdGVWswVUJCVW91aFN2RXEwc08xT0xMN1hXRlpaM294UQ?oc=5",
+          "id": "ai_1793929474_3",
+          "title": "「NVIDIA GB300 Grace Blackwell Ultra Desktop Superchip」搭載AIスーパーコンピューターを導入 - 国立大学法人 岡山大学",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1UUJKdVkwZjVvdDJOZE92MXBRM2tKMUVPVkg2LUVyQy1Jc1ZGMk5DbXhycXZHQXJKOVpaQVNPZU5pTUJPbXFPN2Jyd241SDFpUGRGeWFnYl9ZLWhaTEJ4c1pqOA?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-05 10:00",
-          "headline": "「AI時代、データエンジニアが最もアツい職種だ」──データ界隈LT祭で41人が語...",
+          "published_at": "2026-11-06 09:36",
+          "headline": "「NVIDIA GB300 Grace Blackwell Ultra Desk...",
           "summary": [
-            "【概要】「AI時代、データエンジニアが最もアツい職種だ」──データ界隈LT祭で41人が語った、データの仕事の手応え - EnterpriseZine",
-            "「AI時代、データエンジニアが最もアツい職種だ」──データ界隈LT祭で41人が語った、データの仕事の手応え Enterp...",
+            "【概要】「NVIDIA GB300 Grace Blackwell Ultra Desktop Superchip」搭載AIスーパーコンピューターを導入 - 国立大学法人 岡山大学",
+            "「NVIDIA GB300 Grace Blackwell Ultra Desktop Superchip」搭載AIスー...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -286,16 +286,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1793843002_4",
-          "title": "iシェアーズ AI グローバル・イノベーション アクティブ【408A】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84dXppanVrNENHYmJBZVFMVTktQUhybk1LYzVXNXBmM2RSbXJsa1lOenBUZW1PRTVwQS00Nmp1akY5QmEya29Yak1pVWYzUjNzUUE?oc=5",
+          "id": "ai_1793929474_4",
+          "title": "データとAIによる産業・業務変革の未来 FDE（Forward Deployed Engineer）の視点から考える「業務実装」 - PwC",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ1lRLTdmNXNpdnBHTTRabVp3MEthVmhwOWlCNWlaYkRvaHRhRWF4OHJqOEhZYXA5QzJGenRmMlFGY2hqRlYwVG9SMnhEX0hLekE5dUN1VGoyUFNjUlF2RTJFMUZCNnUtZWtyTW1RZEoxYWh6eWdBSFZDN0tNYjVvVWhxa2VHWURkRW82bHBhQmZLYkFHeHNPOUVmbThOckdnaUE?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-05 09:16",
-          "headline": "iシェアーズ AI グローバル・イノベーション アクティブ【408A】：株価・株...",
+          "published_at": "2026-11-06 09:29",
+          "headline": "データとAIによる産業・業務変革の未来 FDE（Forward Deployed...",
           "summary": [
-            "【概要】iシェアーズ AI グローバル・イノベーション アクティブ【408A】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-            "iシェアーズ AI グローバル・イノベーション アクティブ【408A】：株価・株式情報（夜間PTS含む） Yahoo!フ...",
+            "【概要】データとAIによる産業・業務変革の未来 FDE（Forward Deployed Engineer）の視点から考える「業務実装」 - PwC",
+            "データとAIによる産業・業務変革の未来 FDE（Forward Deployed Engineer）の視点から考える「業...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -306,16 +306,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1793843002_5",
-          "title": "6つのAIに同じ写真を送って「週刊プロレスっぽくして」とお願いしたらこうなった - ロケットニュース24",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1nSDJ1akFNSU1HWFRidDI5YU52OUFDc3pEV3drTGc5TkJwcTBRaWQ2SWQ4b2hYNWNmVFFBZV9PbWV3a2RvTzdIRUtTUDV5bThPb0hodWl4b9IBXEFVX3lxTE1vSzVsTGU1Rk9BaHo0UEFZaGlFeTJQRE9RMm1qVFdaNmN3ZXlmcDlUUnRrUjZGMVkxVkJ5WS13R3Z1NGdHbklnQUZZOTBXRkVEUWF0V3FESDF0Z1I5?oc=5",
+          "id": "ai_1793929474_5",
+          "title": "米国株式市場＝ナスダック19カ月ぶり大幅安、調整入り確認 ＡＩ規制を懸念 - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRk1sZ2I1eFBLa2x6TkI5anVLc2p4czVGQTgteGhsUVowS1VvQU9tekdRLUZ4dWpZR1FueFZCd0NzVjhtS3FoN1k0M2ktMmRvSkpicm40MFA1Vm4wdUZVRmFjTk1xZXFMYktkNHRjUVJOaVdUbWtkX3R6SndTSFN4cFgyVG5zQQ?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-05 09:00",
-          "headline": "6つのAIに同じ写真を送って「週刊プロレスっぽくして」とお願いしたらこうなった ...",
+          "published_at": "2026-11-06 08:44",
+          "headline": "米国株式市場＝ナスダック19カ月ぶり大幅安、調整入り確認 ＡＩ規制を懸念 - R...",
           "summary": [
-            "【概要】6つのAIに同じ写真を送って「週刊プロレスっぽくして」とお願いしたらこうなった - ロケットニュース24",
-            "6つのAIに同じ写真を送って「週刊プロレスっぽくして」とお願いしたらこうなった ロケットニュース24...",
+            "【概要】米国株式市場＝ナスダック19カ月ぶり大幅安、調整入り確認 ＡＩ規制を懸念 - Reuters",
+            "米国株式市場＝ナスダック19カ月ぶり大幅安、調整入り確認 ＡＩ規制を懸念 Reuters...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
