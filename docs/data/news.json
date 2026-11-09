@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026年11月08日 09:52",
-  "updated_at_iso": "2026-11-08T09:52:25.089949+09:00",
+  "updated_at": "2026年11月09日 10:09",
+  "updated_at_iso": "2026-11-09T10:09:28.996203+09:00",
   "model_used": "mock-mode",
   "categories": [
     {
@@ -10,7 +10,27 @@
       "description": "Microsoft Azureの公式発表・最新クラウド動向",
       "articles": [
         {
-          "id": "azure_1794099145_1",
+          "id": "azure_1794186569_1",
+          "title": "UiPath、レガシーシステムのモダナイゼーションに向けたソリューション開発でMicrosoftと協業（クラウド Watch） - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPclEtZnk1cm82bHNWVTluSnhyTFlHampxTTZMUDlhYW5oWHVzMlc4YWpxV0g1VU5wQWQ0M0RqRTBScS1oMjdEa3pMX011WmZ4dm10V255YW55TzFzWFo0Z0lGYzJ5Z1lkem11bDBDRC1Vb00wSTFlOEl6cUNjdVk?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-11-09 08:13",
+          "headline": "UiPath、レガシーシステムのモダナイゼーションに向けたソリューション開発でM...",
+          "summary": [
+            "【概要】UiPath、レガシーシステムのモダナイゼーションに向けたソリューション開発でMicrosoftと協業（クラウド Watch） - Yahoo!ニュース",
+            "UiPath、レガシーシステムのモダナイゼーションに向けたソリューション開発でMicrosoftと協業（クラウド Wat...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1794186569_2",
           "title": "Microsoft、OracleのAI計算資源から撤退へ 旧世代NVIDIA GPUが要件に合わず契約更新を見送りと報道 - XenoSpectrum",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1WRjVkcEN0Ymd4bEJHODBkamE2MXhaQ3k0YkZiRFhnNDZVZ3VRMl9OTV92SWNkVUpUOEM1V3RLRWZ0eW5saDBOT3RKRjRWaVlxUlpYcTNWa1g5QXVOZVlLeDYzMF9JMnVxZUliMGZUNS1OdUZBZ0Mw?oc=5",
           "source": "Google News (Azure)",
@@ -30,76 +50,56 @@
           "importance": 3
         },
         {
-          "id": "azure_1794099145_2",
-          "title": "ニューコミュニケーター、EU域内のAzureデータセンターでサービス提供を開始 - Excite エキサイト",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBiY0ZVb2VtNl9qNE4zNlQ4aHVHMFZFTWFLbDdxdFVVZ3BTbG8zM2prMDhHRk53YnpOb0hWYWUwSEVNeGZDRld4RzdfNmRsMVZrdU9vOEdlZHNkcEJSdGhCMUxFaXNrY3laRGZXc0ZJZjI4MDQ?oc=5",
+          "id": "azure_1794186569_3",
+          "title": "システムインテグレーションパートナーとOracle Databaseのマルチクラウド移行を加速する - Oracle Blogs",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMjdfQTdkR19PaUdxOFc1SEoxdmQ5MDdPWkhDWXNJcWhucFk4Yy1jcGpEWkRucnFDLW12WkRyQWFMLU5YaG1TaDMtTWthcWkxZnYycjNvcEgyVnJzQUZWcS10eTZCRmd1aUtoaV9pQ0lXcDAtR29ZSEF2ZTFycmxsX0ppYzdiLW1zVWUwVlJWbUpXNDRmWXRIaEdOc0I0RjRQdVJKYmQycnpfcFpCT2ExOC0xVHZhb0swOGc3dExTSWtZV0E?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-11-06 04:10",
+          "published_at": "2026-11-07 10:54",
+          "headline": "システムインテグレーションパートナーとOracle Databaseのマルチクラ...",
+          "summary": [
+            "【概要】システムインテグレーションパートナーとOracle Databaseのマルチクラウド移行を加速する - Oracle Blogs",
+            "システムインテグレーションパートナーとOracle Databaseのマルチクラウド移行を加速する Oracle Blo...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1794186569_4",
+          "title": "AWS・Azure・Google Cloud 三つ巴の進化 - 日経クロステック",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQajRKWEpuU3hwaHV0Z21CMzZEZkJJMi1MdHN4VzdNdXRNMVM5bWdudHg4bWF6Mk5IZDlyOFlVX0tMbTl6aG00T19LRlZ1QWpfY1RRTUJtZTNpbFNzMm51V2dIV3NSbEpqWGV4NWtxMFpScXZYSmlqMmg3dFB5YmdXWG9xaElFc2tTV1o5Ukl2QUVjdU1EMEdfbXVoNE5mdGRJaVMzNENoamFOZU9PVDg0U0VjT3M2OGNEcVRLSHdTNkFNV0tCTnYybW1xZktxdC1teXdrRldUbURXZVZfbm1iNXg1TGs2SGNjQ0lpX2Jn?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-11-06 15:38",
+          "headline": "AWS・Azure・Google Cloud 三つ巴の進化 - 日経クロステック",
+          "summary": [
+            "【概要】AWS・Azure・Google Cloud 三つ巴の進化 - 日経クロステック",
+            "AWS・Azure・Google Cloud 三つ巴の進化 日経クロステック...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1794186569_5",
+          "title": "ニューコミュニケーター、EU域内のAzureデータセンターでサービス提供を開始 - Infoseek",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYT05od2UxNmpwNUtFdnVpN1NobFBKY3hyTHRJcWRMY2hDM1I1bzU2di14ZGVLNmZFeHkxSlVSaDZ2bXFKLVpUeDRrUXA5a3NxR2NSQ0dXZUVlVE5iUk9OWE9CbVhOWUJBdGdXN18wdmJ1UQ?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-11-06 10:10",
           "headline": "ニューコミュニケーター、EU域内のAzureデータセンターでサービス提供を開始 ...",
           "summary": [
-            "【概要】ニューコミュニケーター、EU域内のAzureデータセンターでサービス提供を開始 - Excite エキサイト",
-            "ニューコミュニケーター、EU域内のAzureデータセンターでサービス提供を開始 Excite エキサイト...",
-            "情報提供元: Google News (Azure)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "azure_1794099145_3",
-          "title": "クラウド移行で3強激突 - 日経クロステック",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSkI2cmRDQ2RxUHhUM3FDek1Ob21OblZMclA2d1hKZDRCemVoNnNlRkU5YzV4VXJtc2ZkeWNHNjNjM3NRaUFOQXRvR05tX0NvNlc1TUVha1hLeWZubS1nYW5WUG1jVkEwLURjQjJLM1JsSjVBb1VaOWRkR05DUEF5XzVpVld0V1A4WDFybDlJdGJfTUxmZ1BhMzBhUmRrd2Y5eWpuUkVlS3d0VzFVY2NRSHF1Snl0anA0MkpCQ1BYWldvQjE3SHlzOXhWV3M4OWVLejd3?oc=5",
-          "source": "Google News (Azure)",
-          "is_official": false,
-          "published_at": "2026-11-06 00:51",
-          "headline": "クラウド移行で3強激突 - 日経クロステック",
-          "summary": [
-            "【概要】クラウド移行で3強激突 - 日経クロステック",
-            "クラウド移行で3強激突 日経クロステック...",
-            "情報提供元: Google News (Azure)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "azure_1794099145_4",
-          "title": "UiPath、Microsoftと協働し日本企業のレガシーアプリケーションのモダナイゼーションを支援 - ニコニコニュース",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1LQVNoRUlhZ1ktLXgxRmRXVU9uWmFxRmF1UlBqYzZ4UXVVSVYxTXUxU0o1MDN3M1JidVJWclYtaEhjNURPRTBNNTUwcEdTcXA1Q1NHYg?oc=5",
-          "source": "Google News (Azure)",
-          "is_official": false,
-          "published_at": "2026-11-05 20:15",
-          "headline": "UiPath、Microsoftと協働し日本企業のレガシーアプリケーションのモダ...",
-          "summary": [
-            "【概要】UiPath、Microsoftと協働し日本企業のレガシーアプリケーションのモダナイゼーションを支援 - ニコニコニュース",
-            "UiPath、Microsoftと協働し日本企業のレガシーアプリケーションのモダナイゼーションを支援 ニコニコニュース...",
-            "情報提供元: Google News (Azure)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "azure_1794099145_5",
-          "title": "Microsoftを装うサポート詐欺、広告経由で80組織の利用者に偽警告 PIXMがAzure上の詐欺サイトと電話番号管理基盤を分析 - 合同会社ロケットボーイズ",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd3NMZGlpSTBxLWtSSHZoZ1hBUVE5dU1OMWIwWGN2YmlDTXBXZG9zcGJpcW9PczJhMDJqUEVGelEtblN4SGtwNVFFdUZUWHh6UHdZOVFqdU5NdGdwam0wQXRaUTRabFlYc3Jxb3VnNk1xUFNFN25aM01BWC1JZG9ITlN3dEpyVjdtMWZXU2I2a3BqaEpFaVlnc3MxWDFWN2VCUjN4aDdB?oc=5",
-          "source": "Google News (Azure)",
-          "is_official": false,
-          "published_at": "2026-11-05 15:00",
-          "headline": "Microsoftを装うサポート詐欺、広告経由で80組織の利用者に偽警告 PIX...",
-          "summary": [
-            "【概要】Microsoftを装うサポート詐欺、広告経由で80組織の利用者に偽警告 PIXMがAzure上の詐欺サイトと電話番号管理基盤を分析 - 合同会社ロケットボーイズ",
-            "Microsoftを装うサポート詐欺、広告経由で80組織の利用者に偽警告 PIXMがAzure上の詐欺サイトと電話番号管...",
+            "【概要】ニューコミュニケーター、EU域内のAzureデータセンターでサービス提供を開始 - Infoseek",
+            "ニューコミュニケーター、EU域内のAzureデータセンターでサービス提供を開始 Infoseek...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -118,16 +118,16 @@
       "description": "テスラの最新アップデート・EV・FSD・決算動向",
       "articles": [
         {
-          "id": "tesla_1794099146_1",
-          "title": "【小型化】テスラ「Cybercab」、電池を40kWhに〜新色リキッドシルバーも - Touch Lab",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TN05WVEdJUk1MbTB3dVk1eDFQYU9aZG9QRUVsOFBBQkhQSUZTdkg4dm93MzlJeTF3Tk5RRHpWWDF4bFo2WXYzLVZrWVJEQWg1UEx5UlBSaFVYeU9LNUhTb2ZjR2N2N1ow?oc=5",
+          "id": "tesla_1794186570_1",
+          "title": "テスラ「サイバートラック」失速。生産縮小が示す期待と現実 - WIRED.jp",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVkdsSFI1TVozLUJJNnYwUUtmZGp6OURUNGlCeE4tUlp6NjlSbXVraHVaQ3dnbXR5bnQ4VlZNYjF5cWdUODJzOFBMVUR5YklnSVlEUzhHekFfemI2blY5THdpV2JVWWZTU3U3cmt4dkl3N3JkNmlkTHZQTFlyYS0wMG1aRU1WV1JLZ0NaSFVn?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-11-08 09:09",
-          "headline": "【小型化】テスラ「Cybercab」、電池を40kWhに〜新色リキッドシルバーも...",
+          "published_at": "2026-11-09 09:00",
+          "headline": "テスラ「サイバートラック」失速。生産縮小が示す期待と現実 - WIRED.jp",
           "summary": [
-            "【概要】【小型化】テスラ「Cybercab」、電池を40kWhに〜新色リキッドシルバーも - Touch Lab",
-            "【小型化】テスラ「Cybercab」、電池を40kWhに〜新色リキッドシルバーも Touch Lab...",
+            "【概要】テスラ「サイバートラック」失速。生産縮小が示す期待と現実 - WIRED.jp",
+            "テスラ「サイバートラック」失速。生産縮小が示す期待と現実 WIRED.jp...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -138,36 +138,16 @@
           "importance": 3
         },
         {
-          "id": "tesla_1794099146_2",
-          "title": "Tesla deemed liable for fraud after Solar Roof ‘experiment’ on a home",
-          "link": "https://electrek.co/2026/11/07/tesla-solar-roof-fraud-liable-experiment-lawsuit/",
-          "source": "Electrek (Tesla)",
-          "is_official": true,
-          "published_at": "2026-11-08 01:01",
-          "headline": "Tesla deemed liable for fraud after Sola...",
-          "summary": [
-            "【概要】Tesla deemed liable for fraud after Solar Roof ‘experiment’ on a home",
-            "A California judge has deemed Tesla liable for fraud in a So...",
-            "情報提供元: Electrek (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 4
-        },
-        {
-          "id": "tesla_1794099146_3",
-          "title": "$テスラ (TSLA.US)$ - Moomoo",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBCejRZdFhSSENXYUFlSzZhOVZoNGVDU19Wd01WWFJFRHhTT1RNa3ZLNjJjQ0ptN0lLYmoxeGVzMkdsRlZEQTdyTlNhSW5VcldKV0RpVW1EQ2JQSndKV0hqV2M4MHkxTVZ2RUxRNHFHb2VoUzJQN0EtNnJB?oc=5",
+          "id": "tesla_1794186570_2",
+          "title": "サイバートラックに終焉の時：イーロン・マスク氏、テスラが最も賛否を呼んだEVの生産を縮小すると発言 - Business Insider Japan",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONWI3T09EQ2J2dVNta3c5TThGMXYtLWRZeFBDbHZjUzZfODNaSUJtc3dqRHBhZ0dGV09YMG9rdzBZNzFSd0FYQjloSE1IUjdVZzRXREN0QzJZZ1haOUVMOFR2VjN5dFBiLWREY2pSZ0RSZU15NFdRVWQ0RFluUGZXY0MtRTNEbGVtZXNnX0VYT1lQajJHWnFGYkZPLTNJcTBRLW1GOHZBWFQwS2c?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-11-07 22:58",
-          "headline": "$テスラ (TSLA.US)$ - Moomoo",
+          "published_at": "2026-11-09 08:00",
+          "headline": "サイバートラックに終焉の時：イーロン・マスク氏、テスラが最も賛否を呼んだEVの生...",
           "summary": [
-            "【概要】$テスラ (TSLA.US)$ - Moomoo",
-            "$テスラ (TSLA.US)$ Moomoo...",
+            "【概要】サイバートラックに終焉の時：イーロン・マスク氏、テスラが最も賛否を呼んだEVの生産を縮小すると発言 - Business Insider Japan",
+            "サイバートラックに終焉の時：イーロン・マスク氏、テスラが最も賛否を呼んだEVの生産を縮小すると発言 Business I...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -178,16 +158,16 @@
           "importance": 3
         },
         {
-          "id": "tesla_1794099146_4",
-          "title": "証拠開示の不備を受け、Solar Roof訴訟でTeslaに詐欺責任の判決 - Mezha.net",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSFI5RGNRNVpZVVZucDhSUWI5OHFlRVhJZWM5QTh4LTB5NElqcTV2ZVZlLVlqdDlRR0hBWHRSY2I4MzdHYk1VcWdzY2NNanlIdWhNY0l0VlBQLVYyV2NsaGpFX2ZtQ1Zfa1c4VmI5TV91ZHZmSXU3MUViWVRpSGxWdl9uNktpZWJJSldvNkZ5NnpYdw?oc=5",
+          "id": "tesla_1794186570_3",
+          "title": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vR2owRXJLX1dwYUtHY05wNjVKVmVrTHNXdm5yRGJ0NHJzSzZTaEgxWFo0WmNBOWUxV2tXcHljUWlYaG92bll2YUNIQzJlVE0?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-11-07 18:07",
-          "headline": "証拠開示の不備を受け、Solar Roof訴訟でTeslaに詐欺責任の判決 - ...",
+          "published_at": "2026-11-09 07:58",
+          "headline": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
           "summary": [
-            "【概要】証拠開示の不備を受け、Solar Roof訴訟でTeslaに詐欺責任の判決 - Mezha.net",
-            "証拠開示の不備を受け、Solar Roof訴訟でTeslaに詐欺責任の判決 Mezha.net...",
+            "【概要】テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
+            "テスラ【TSLA】：株価・株式情報 Yahoo!ファイナンス...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -198,16 +178,36 @@
           "importance": 3
         },
         {
-          "id": "tesla_1794099146_5",
-          "title": "テスラのロボタクシー ヒューストンで走行範囲「約10倍」に拡大 地図が「ロケット型」と話題に - 自動運転ラボ",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9vbFNCbF9Va1ZIb01HOEVaanhBTzk5Zk9VcWh1NzllUlNIOE03NkFWMTNZTnFCYUd5VTc4akVqanFKUk5Hb0tJbQ?oc=5",
+          "id": "tesla_1794186570_4",
+          "title": "テスラ 自動運転ロボタクシーで「お眠り」機能がついに実装 - 自動運転ラボ",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE11UzcwSzY4a3E2UzhIMF8yb0RzcUVfWE5UNF9sd2dJellXUi1HdHFpMk5EVGFXSzBkNjBaNHZlQTRsR29mVW14eg?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-11-07 16:00",
-          "headline": "テスラのロボタクシー ヒューストンで走行範囲「約10倍」に拡大 地図が「ロケット...",
+          "published_at": "2026-11-09 07:03",
+          "headline": "テスラ 自動運転ロボタクシーで「お眠り」機能がついに実装 - 自動運転ラボ",
           "summary": [
-            "【概要】テスラのロボタクシー ヒューストンで走行範囲「約10倍」に拡大 地図が「ロケット型」と話題に - 自動運転ラボ",
-            "テスラのロボタクシー ヒューストンで走行範囲「約10倍」に拡大 地図が「ロケット型」と話題に 自動運転ラボ...",
+            "【概要】テスラ 自動運転ロボタクシーで「お眠り」機能がついに実装 - 自動運転ラボ",
+            "テスラ 自動運転ロボタクシーで「お眠り」機能がついに実装 自動運転ラボ...",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "tesla_1794186570_5",
+          "title": "10月輸入車販売､3カ月連続増 テスラけん引しEV35%増 - 日本経済新聞",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBucG9DeGpwbkxfN1k5MVNhQ1dCeUc5cmZlX0d5aDRKLXlSRjF1U21oTWN0V2hRbjBqaUJLVm80eXhyOGQzTG5TemlvSGJzQ2NqMk5PeW54cDRKakVZSXlVSUR0aDliZ01ia3E3eVhCNGFhYnM5dm5oOUE5ME1TUTQ?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-11-09 05:00",
+          "headline": "10月輸入車販売､3カ月連続増 テスラけん引しEV35%増 - 日本経済新聞",
+          "summary": [
+            "【概要】10月輸入車販売､3カ月連続増 テスラけん引しEV35%増 - 日本経済新聞",
+            "10月輸入車販売､3カ月連続増 テスラけん引しEV35%増 日本経済新聞...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -226,16 +226,16 @@
       "description": "OpenAI・Google・生成AIの公式発表・技術速報",
       "articles": [
         {
-          "id": "ai_1794099147_1",
-          "title": "「AIで私は100倍速くなった」それでも会社が速くならない理由 - 株式会社エクサウィザーズ",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZTEp4U2M5NTRMcy1ZVWpqWDRIRDlaZ1QxNHYxUW5BNjQwSGZ3R3AxOU5KOVZjd25GcDVzcWViRHhRWGRVYlFqQnh5clJwdWp4aXlUcXJmNnVSd19WbGdfWW5WQ3c1dw?oc=5",
+          "id": "ai_1794186571_1",
+          "title": "中国、AI活用の低品質ショートドラマを特別取り締まり…今年だけで7万5000本を排除（中央日報日本語版） - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oUFNCWXBRcjlnVU9LM1lnODhCMTgzSGRGc1NONzlEMGgydktNaDZRNkRnTEJLeGpBeXk3akFHV0ROUnNUOXdCRTB6eVg1M0RueV95MUVjbDlTa2tNLXVqQ0Fjak9MMG5ZX1pVcXBYaDN1TkZKaW5CZFdhVHpQV2s?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-08 08:36",
-          "headline": "「AIで私は100倍速くなった」それでも会社が速くならない理由 - 株式会社エク...",
+          "published_at": "2026-11-09 09:25",
+          "headline": "中国、AI活用の低品質ショートドラマを特別取り締まり…今年だけで7万5000本を...",
           "summary": [
-            "【概要】「AIで私は100倍速くなった」それでも会社が速くならない理由 - 株式会社エクサウィザーズ",
-            "「AIで私は100倍速くなった」それでも会社が速くならない理由 株式会社エクサウィザーズ...",
+            "【概要】中国、AI活用の低品質ショートドラマを特別取り締まり…今年だけで7万5000本を排除（中央日報日本語版） - Yahoo!ニュース",
+            "中国、AI活用の低品質ショートドラマを特別取り締まり…今年だけで7万5000本を排除（中央日報日本語版） Yahoo!ニ...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -246,16 +246,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1794099147_2",
-          "title": "アングル：中国「独身の日」、世界最大級セールでＡＩトークンが新たな目玉に - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNHMwRHBOdjBWbFJDYnExc2dabVgyWlRSSXRSY3A3SnhzdWtYREp3RDQxcENCSTJzWUFKZDdnSUpvdGxNcDhOdkZVT3RHeHNPUmFmbHpsc2pRNDhqR092aGg5dzdqRDNyNTE5Q3BvcE05ejVmcHlNWjFOemZsa1ZJQnM4RQ?oc=5",
+          "id": "ai_1794186571_2",
+          "title": "AI中心大学・AX大学院発足で大学教育のAI転換推進 韓国MSIT - Science Portal Asia Pacific",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80OExGLXRjN3I4MDRaTHhERXlCWF9WdHpGemRyMjZqVi1HUVBaZi1tYVo1RGxWb1o4M2h1MDBfNGg4bnI0cncxdmZReEFQX3NGZ1cxNmVGUzhZdlRSSjR3NUZCOW5vSU9B?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-08 08:10",
-          "headline": "アングル：中国「独身の日」、世界最大級セールでＡＩトークンが新たな目玉に - R...",
+          "published_at": "2026-11-09 09:21",
+          "headline": "AI中心大学・AX大学院発足で大学教育のAI転換推進 韓国MSIT - Scie...",
           "summary": [
-            "【概要】アングル：中国「独身の日」、世界最大級セールでＡＩトークンが新たな目玉に - Reuters",
-            "アングル：中国「独身の日」、世界最大級セールでＡＩトークンが新たな目玉に Reuters...",
+            "【概要】AI中心大学・AX大学院発足で大学教育のAI転換推進 韓国MSIT - Science Portal Asia Pacific",
+            "AI中心大学・AX大学院発足で大学教育のAI転換推進 韓国MSIT Science Portal Asia Pacifi...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -266,16 +266,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1794099147_3",
-          "title": "【AIアシスタント比較】Dots・Muse・Grok Botとは？ 使い方や料金など「3つの違い」 - ビジネス+IT",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RRDZ1SHRQdk5Lc3lQemxhdjBxT1NxelZTb0dpbWtrNHVIVHhNNzU5NUU4UktjTFhFR2x0WEtpell0TUV2d3lKWm9nWVJiM2s3Ujlv?oc=5",
+          "id": "ai_1794186571_3",
+          "title": "生成AIを巡る米欧中の規制動向最前線 中国「AIセキュリティガバナンスフレームワーク3.0」が示す企業のAI運用統制 - PwC",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSTNhZXRDOHo3c3p5aGVwYmE1Y1VhcUxabWwwZFZsNjZtMXhlUzdzdGtqM0ZzQlF1MzV5eWhsbUlYTW10ZzdXcEJuYVppUkhlY1hTeUhrOEg3Y0VmUVJwOC16MmRZaDhvV3NJSlZNR0d5T3ZGUXJNYnZVUVZ3by1UblA3VzBycklaWVJqVHpwMmxfeVM0U3VaTnl4OVZfbHFx?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-08 07:10",
-          "headline": "【AIアシスタント比較】Dots・Muse・Grok Botとは？ 使い方や料金...",
+          "published_at": "2026-11-09 09:15",
+          "headline": "生成AIを巡る米欧中の規制動向最前線 中国「AIセキュリティガバナンスフレームワ...",
           "summary": [
-            "【概要】【AIアシスタント比較】Dots・Muse・Grok Botとは？ 使い方や料金など「3つの違い」 - ビジネス+IT",
-            "【AIアシスタント比較】Dots・Muse・Grok Botとは？ 使い方や料金など「3つの違い」 ビジネス+IT...",
+            "【概要】生成AIを巡る米欧中の規制動向最前線 中国「AIセキュリティガバナンスフレームワーク3.0」が示す企業のAI運用統制 - PwC",
+            "生成AIを巡る米欧中の規制動向最前線 中国「AIセキュリティガバナンスフレームワーク3.0」が示す企業のAI運用統制 P...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -286,16 +286,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1794099147_4",
-          "title": "iシェアーズ AI グローバル・イノベーション アクティブ【408A】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84dXppanVrNENHYmJBZVFMVTktQUhybk1LYzVXNXBmM2RSbXJsa1lOenBUZW1PRTVwQS00Nmp1akY5QmEya29Yak1pVWYzUjNzUUE?oc=5",
+          "id": "ai_1794186571_4",
+          "title": "今日の株式見通し＝反発、米ナスダック高を好感 ＡＩ・半導体株中心に買い先行 - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNDdYc3dfOXRoRk56SlZ3cGNxTkU0RlA0Si05bjM3SGRRQlVKYXB5NUswcnRtN09GYy0xcUZWN0ZCanktbUQ4T2htSC1DRUEtUklrX3BwRVNsU2Z6UW5VX0ZvWVdjaWR6Z2ROSjZnZFdvcTNFNFRLTE4weFdrYi1vMzMxN1ZmZw?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-08 07:03",
-          "headline": "iシェアーズ AI グローバル・イノベーション アクティブ【408A】：株価・株...",
+          "published_at": "2026-11-09 08:10",
+          "headline": "今日の株式見通し＝反発、米ナスダック高を好感 ＡＩ・半導体株中心に買い先行 - ...",
           "summary": [
-            "【概要】iシェアーズ AI グローバル・イノベーション アクティブ【408A】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-            "iシェアーズ AI グローバル・イノベーション アクティブ【408A】：株価・株式情報（夜間PTS含む） Yahoo!フ...",
+            "【概要】今日の株式見通し＝反発、米ナスダック高を好感 ＡＩ・半導体株中心に買い先行 - Reuters",
+            "今日の株式見通し＝反発、米ナスダック高を好感 ＡＩ・半導体株中心に買い先行 Reuters...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -306,16 +306,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1794099147_5",
-          "title": "【米中間選挙 2026】 AI関連株の急落、なぜ起きたのか - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BQnc3SWVVMEc3UjNFVnBlcDJSU0xqdXVHbHFnQ2gyLUwzQ1dxTk82VHFUODRqNXZJb3JVVW5xYXpoTDNVSlRSOVVldmpuYmVBYWQ5ZnVKaWx0dmZQSi1xT9IBZkFVX3lxTE1VRkF5U3d3SUhnZWw4SlNQVmZwb2JKZWRMTG4xb2JnaGxGbzluc2NPVEZCN1JhNUZBQllYdzlvUTg1eWtXOW1XLUJhcU56dWNHcmoxVzg3STJMUFE2YkZyZ3pfVFluZw?oc=5",
+          "id": "ai_1794186571_5",
+          "title": "自動運転AI「日産以外にも」 英ウェイブ、日本勢の採用拡大に意欲 [AIの時代] - 朝日新聞",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tWDJ3UVpvNTVlVTBxRW1QUGNVMlcwaE9lOHB1T1g5SFJQT1NNQm00MzBDS0ZGWm5yM3RBb2JJcEpiclFFZ2s0akZqTTc5VDNOVEZfTVBocjhBTEFIWGRaM3FobUE3bEE?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-07 17:06",
-          "headline": "【米中間選挙 2026】 AI関連株の急落、なぜ起きたのか - BBC",
+          "published_at": "2026-11-09 07:00",
+          "headline": "自動運転AI「日産以外にも」 英ウェイブ、日本勢の採用拡大に意欲 [AIの時代]...",
           "summary": [
-            "【概要】【米中間選挙 2026】 AI関連株の急落、なぜ起きたのか - BBC",
-            "【米中間選挙 2026】 AI関連株の急落、なぜ起きたのか BBC...",
+            "【概要】自動運転AI「日産以外にも」 英ウェイブ、日本勢の採用拡大に意欲 [AIの時代] - 朝日新聞",
+            "自動運転AI「日産以外にも」 英ウェイブ、日本勢の採用拡大に意欲 [AIの時代] 朝日新聞...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
