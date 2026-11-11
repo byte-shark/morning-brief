@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026年11月10日 12:44",
-  "updated_at_iso": "2026-11-10T12:44:20.469148+09:00",
+  "updated_at": "2026年11月11日 10:24",
+  "updated_at_iso": "2026-11-11T10:24:48.667267+09:00",
   "model_used": "mock-mode",
   "categories": [
     {
@@ -10,16 +10,56 @@
       "description": "Microsoft Azureの公式発表・最新クラウド動向",
       "articles": [
         {
-          "id": "azure_1794282260_1",
-          "title": "未来に備える教育へ: 選択肢、柔軟性、価値を高める Microsoft 365 Education の進化 - Microsoft Source",
+          "id": "azure_1794360289_1",
+          "title": "目指すキャリアに直結 AWS、Azure、Googleの3大クラウド認定資格を徹底比較 - TechTargetジャパン",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvWjIxam41eDVRejBxbmRXVE5xaGpJdV94dDVid0hwRXJtWXE5UWNSV0tVSDdaaHdzRVFKTkoxa1A1ZmhGREl2Tkg5QXJVLWphOU5VR2Q5TnJtSlRVcU0yNmFISi1fNGFkN2NNdzQ1Q0k?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-11-11 05:00",
+          "headline": "目指すキャリアに直結 AWS、Azure、Googleの3大クラウド認定資格を徹...",
+          "summary": [
+            "【概要】目指すキャリアに直結 AWS、Azure、Googleの3大クラウド認定資格を徹底比較 - TechTargetジャパン",
+            "目指すキャリアに直結 AWS、Azure、Googleの3大クラウド認定資格を徹底比較 TechTargetジャパン...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1794360289_2",
+          "title": "UiPath、Google Cloudの医療向け「Gemini for Healthcare」のローンチパートナーに就任、ガバナンス管理されたAIエージェントを臨床ワークフローに導入 - BigGo ファイナンス",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlRnFKUW9WaUFjUWc5ZUptTUQ1amI1YzdaWlBGbHotbXg5dUNfeHp5VzB0WFhpOHI2VDE2aGgxd2YxWkFCTmVwZU5KWGpCM3hPSmNLSFROaHRrOEpTeDNTeDBVUUhRRlN2ak9KRXN4UE5uNXpl?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-11-11 02:05",
+          "headline": "UiPath、Google Cloudの医療向け「Gemini for Heal...",
+          "summary": [
+            "【概要】UiPath、Google Cloudの医療向け「Gemini for Healthcare」のローンチパートナーに就任、ガバナンス管理されたAIエージェントを臨床ワークフローに導入 - BigGo ファイナンス",
+            "UiPath、Google Cloudの医療向け「Gemini for Healthcare」のローンチパートナーに就任...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1794360289_3",
+          "title": "未来に備える教育: 進化する Microsoft 365 Education - Microsoft Source",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSVZPMzk2NE51WlZKX1pqQWRhaTVWc2JFd1dnQlUyNXUyTXBmM2dncXhOSFVETXVuaDNyak9JbmtqNFlVM2cxd2t6dnc2VVBBNHVtSzI4YXdzUWk3UHJSY1lwMi0xTEZrbUdkUFB4R0xHSHBRRlNHSWVCR09hXzdxd2dOaUFIeUx1R2JuSjk2QkIzWVZqZTRkQ1l6SVp1czVybmJXdEwxR1NqZ3NHUTl3NWxB?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-11-10 12:28",
-          "headline": "未来に備える教育へ: 選択肢、柔軟性、価値を高める Microsoft 365 ...",
+          "published_at": "2026-11-10 12:38",
+          "headline": "未来に備える教育: 進化する Microsoft 365 Education -...",
           "summary": [
-            "【概要】未来に備える教育へ: 選択肢、柔軟性、価値を高める Microsoft 365 Education の進化 - Microsoft Source",
-            "未来に備える教育へ: 選択肢、柔軟性、価値を高める Microsoft 365 Education の進化 Micros...",
+            "【概要】未来に備える教育: 進化する Microsoft 365 Education - Microsoft Source",
+            "未来に備える教育: 進化する Microsoft 365 Education Microsoft Source...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -30,47 +70,7 @@
           "importance": 3
         },
         {
-          "id": "azure_1794282260_2",
-          "title": "Microsoft、単一の Azure Linux アップデートで 470 件超の CVE を修正 - news.lavx.hu",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTkVQUDdLNjVVX3VYNTkxMVpqM3hoeG5HTnpucjJQTHRkSHZMdHNUeEwwQzRUbkliSm1kbVo0Z2pSRGFaeFE1UENuMTZ0dDVxV2VSNVprUXRRTkJ3TUZBdFNoR2xDWnQ5WFBwbnhhcG9OQmdNRVd6ZV8xVmZXS1RmX0xIVEdydWhpUWREMTZDODdJSXBDRER2a1E0dEVKaGRwMjVESWlRMXI?oc=5",
-          "source": "Google News (Azure)",
-          "is_official": false,
-          "published_at": "2026-11-10 01:14",
-          "headline": "Microsoft、単一の Azure Linux アップデートで 470 件超...",
-          "summary": [
-            "【概要】Microsoft、単一の Azure Linux アップデートで 470 件超の CVE を修正 - news.lavx.hu",
-            "Microsoft、単一の Azure Linux アップデートで 470 件超の CVE を修正 news.lavx....",
-            "情報提供元: Google News (Azure)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "azure_1794282260_3",
-          "title": "エーピーコミュニケーションズ、Microsoft Agent 365の導入支援を開始 - ニコニコニュース",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XY0VXQlFjQ0Zrai1FeWdMUVpqOEZEQ2JJUS1yWDZIV25WSnNqaXYtNEhxb2xSMkl1bVA3NW1sM0dQZXdnVjdNaF9xSW55NEVXaGNkTHVnS0t0RVlBNVJYTDdjNmF4ZlhYRGVLTXYtTQ?oc=5",
-          "source": "Google News (Azure)",
-          "is_official": false,
-          "published_at": "2026-11-09 20:00",
-          "headline": "エーピーコミュニケーションズ、Microsoft Agent 365の導入支援を...",
-          "summary": [
-            "【概要】エーピーコミュニケーションズ、Microsoft Agent 365の導入支援を開始 - ニコニコニュース",
-            "エーピーコミュニケーションズ、Microsoft Agent 365の導入支援を開始 ニコニコニュース...",
-            "情報提供元: Google News (Azure)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "azure_1794282260_4",
+          "id": "azure_1794360289_4",
           "title": "【Azure OpenAI Service】コンテンツフィルター -入門編-｜Ｓｋｙ Tech Blog（スカイ テック ブログ） - Ｓｋｙ株式会社",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93ZWR3SHoxV2xxbHRQaHdXQ2VDWHc5a2VfU1dQblU3QTlOOWg4OE1mNnRhVlg4Y2FEb1RBY1lTd1poNzlqQ3lkYkxwYVFLU012b01PcGlEN3hhY00?oc=5",
           "source": "Google News (Azure)",
@@ -90,12 +90,12 @@
           "importance": 3
         },
         {
-          "id": "azure_1794282260_5",
+          "id": "azure_1794360289_5",
           "title": "UiPath、レガシーシステムのモダナイゼーションに向けたソリューション開発でMicrosoftと協業（クラウド Watch） - Yahoo!ニュース",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPclEtZnk1cm82bHNWVTluSnhyTFlHampxTTZMUDlhYW5oWHVzMlc4YWpxV0g1VU5wQWQ0M0RqRTBScS1oMjdEa3pMX011WmZ4dm10V255YW55TzFzWFo0Z0lGYzJ5Z1lkem11bDBDRC1Vb00wSTFlOEl6cUNjdVk?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-11-09 08:11",
+          "published_at": "2026-11-09 08:00",
           "headline": "UiPath、レガシーシステムのモダナイゼーションに向けたソリューション開発でM...",
           "summary": [
             "【概要】UiPath、レガシーシステムのモダナイゼーションに向けたソリューション開発でMicrosoftと協業（クラウド Watch） - Yahoo!ニュース",
@@ -118,12 +118,12 @@
       "description": "テスラの最新アップデート・EV・FSD・決算動向",
       "articles": [
         {
-          "id": "tesla_1794282261_1",
+          "id": "tesla_1794360289_1",
           "title": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vR2owRXJLX1dwYUtHY05wNjVKVmVrTHNXdm5yRGJ0NHJzSzZTaEgxWFo0WmNBOWUxV2tXcHljUWlYaG92bll2YUNIQzJlVE0?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-11-10 11:11",
+          "published_at": "2026-11-11 08:20",
           "headline": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
           "summary": [
             "【概要】テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
@@ -138,16 +138,16 @@
           "importance": 3
         },
         {
-          "id": "tesla_1794282261_2",
-          "title": "テスラの顔は「アリ」か「ナシ」か!? グリルレスをめぐる激論をプロが斬る!! - ベストカーWeb",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBrSkxtcTVGUW9tZEFLOVNRWlZ2Qm94eVZraWpNcF9oVDVWNmN2R2hkSmgtd0NHUlppUXlTaDZvSG9fTHNOMjRIcG1DN2hGaXd0SHp3VFNFaw?oc=5",
+          "id": "tesla_1794360289_2",
+          "title": "「看板倒れ」に終わったテスラ・サイバートラック、マスクの野望に顧客層が下したシビアな評価 - Forbes JAPAN",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IQ0E1Y05LWHNEOHprSXJFNWVtQko1ZS1UTEU3WF9nVm5rV0Utay1lNW9qZklRcVRFVnM1VzdRbGlOSW5uYzBtTndZUF9lOUVvQkpmbDZQbXVIUQ?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-11-10 08:00",
-          "headline": "テスラの顔は「アリ」か「ナシ」か!? グリルレスをめぐる激論をプロが斬る!! -...",
+          "published_at": "2026-11-11 07:30",
+          "headline": "「看板倒れ」に終わったテスラ・サイバートラック、マスクの野望に顧客層が下したシビ...",
           "summary": [
-            "【概要】テスラの顔は「アリ」か「ナシ」か!? グリルレスをめぐる激論をプロが斬る!! - ベストカーWeb",
-            "テスラの顔は「アリ」か「ナシ」か!? グリルレスをめぐる激論をプロが斬る!! ベストカーWeb...",
+            "【概要】「看板倒れ」に終わったテスラ・サイバートラック、マスクの野望に顧客層が下したシビアな評価 - Forbes JAPAN",
+            "「看板倒れ」に終わったテスラ・サイバートラック、マスクの野望に顧客層が下したシビアな評価 Forbes JAPAN...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -158,16 +158,16 @@
           "importance": 3
         },
         {
-          "id": "tesla_1794282261_3",
-          "title": "マスク氏、Cybertruckを2027年半ばに生産終了と発表、多くの予約金を返金へ - Pasquale Pillitteri",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQTBLOEZzUWhOc3Q1Q01nbUdmdGtySkhJTlZmbUI2UGtlTnRRTUVUQUNGc2EzcGdLMllaU2hyWVkzV3dLU0kyWnVYYThLSUo2ME1TTXVzNzlSUHR4ODFNZnJOX2pXbzhvS0hPQ1RKVGo3NWJFOW1YaU1wajV2UGtiT092dVJycExpMldj?oc=5",
+          "id": "tesla_1794360289_3",
+          "title": "テスラの自動運転機能、韓国で「無料で使うウラ技」横行 - 自動運転ラボ",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1QQVFGd0hlbzdlZFQyS0tDSGVPaGpxN3hxU0FEcXJKVjZhYm0zVWcxMWU1TlJfY1llSXZrYU5lMFJxa1I5N0FYLQ?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-11-10 06:39",
-          "headline": "マスク氏、Cybertruckを2027年半ばに生産終了と発表、多くの予約金を返...",
+          "published_at": "2026-11-11 07:02",
+          "headline": "テスラの自動運転機能、韓国で「無料で使うウラ技」横行 - 自動運転ラボ",
           "summary": [
-            "【概要】マスク氏、Cybertruckを2027年半ばに生産終了と発表、多くの予約金を返金へ - Pasquale Pillitteri",
-            "マスク氏、Cybertruckを2027年半ばに生産終了と発表、多くの予約金を返金へ Pasquale Pillitte...",
+            "【概要】テスラの自動運転機能、韓国で「無料で使うウラ技」横行 - 自動運転ラボ",
+            "テスラの自動運転機能、韓国で「無料で使うウラ技」横行 自動運転ラボ...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -178,36 +178,36 @@
           "importance": 3
         },
         {
-          "id": "tesla_1794282261_4",
-          "title": "トヨタ次期カローラは4ドメイン テスラと一線、あえて集約せず - 日経クロステック",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zUnQ5QVljQXYzTlctSU5qR0hTQ2d3NFA4c21BanN3cHAwRDQ1RVRxXzlkM3c3Q0VpYlh6clQwNlJmRWIyendKd2l0cWtwSVlUQ0hhakZSemp5UU4yRTE1RTVyTEVGWVE?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-11-10 05:00",
-          "headline": "トヨタ次期カローラは4ドメイン テスラと一線、あえて集約せず - 日経クロステッ...",
-          "summary": [
-            "【概要】トヨタ次期カローラは4ドメイン テスラと一線、あえて集約せず - 日経クロステック",
-            "トヨタ次期カローラは4ドメイン テスラと一線、あえて集約せず 日経クロステック...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "tesla_1794282261_5",
-          "title": "Musk admits Tesla doesn’t have enough talent to build more than one car at a time after exodus",
-          "link": "https://electrek.co/2026/11/09/tesla-deep-bench-gone-musk-admits-talent-shortage/",
+          "id": "tesla_1794360289_4",
+          "title": "Lucid CEO admits it ‘did not even know where cars were’ and lost orders",
+          "link": "https://electrek.co/2026/11/10/lucid-ceo-did-not-know-where-cars-were-lost-orders/",
           "source": "Electrek (Tesla)",
           "is_official": true,
-          "published_at": "2026-11-10 01:41",
-          "headline": "Musk admits Tesla doesn’t have enough ta...",
+          "published_at": "2026-11-11 06:03",
+          "headline": "Lucid CEO admits it ‘did not even know w...",
           "summary": [
-            "【概要】Musk admits Tesla doesn’t have enough talent to build more than one car at a time after exodus",
-            "Elon Musk now says Tesla can’t build the Cybertruck and the ...",
+            "【概要】Lucid CEO admits it ‘did not even know where cars were’ and lost orders",
+            "Lucid (LCID) CEO Silvio Napoli admitted on the company’s Q3 ...",
+            "情報提供元: Electrek (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 4
+        },
+        {
+          "id": "tesla_1794360289_5",
+          "title": "Tesla’s China sales crash 66% to lowest level in over four years",
+          "link": "https://electrek.co/2026/11/10/tesla-china-sales-crash-october-2026-lowest-four-years/",
+          "source": "Electrek (Tesla)",
+          "is_official": true,
+          "published_at": "2026-11-11 01:04",
+          "headline": "Tesla’s China sales crash 66% to lowest ...",
+          "summary": [
+            "【概要】Tesla’s China sales crash 66% to lowest level in over four years",
+            "Only 8,817 of the cars Tesla delivered from Giga Shanghai in...",
             "情報提供元: Electrek (Tesla)"
           ],
           "key_points": [
@@ -226,16 +226,36 @@
       "description": "OpenAI・Google・生成AIの公式発表・技術速報",
       "articles": [
         {
-          "id": "ai_1794282262_1",
-          "title": "ソフトバンクG、マレーシアでAIインフラ整備へ 10億ドル拠出 [AIの時代] - 朝日新聞",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56ZjFSbEVmUHVhTHpuenNyQ1E2aXYwSGtndlN4eXlIYWJnU2hRNC1jcFRIcWZzWDR3emU0dXhabC1jQUJQWDRHM09lQUxsZF9IYU1Zd3BIQ2tHemFCWjlHVmdER282WG8?oc=5",
+          "id": "ai_1794360290_1",
+          "title": "Gilbert + Tobin rethinks the business of law with AI",
+          "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
+          "source": "OpenAI Official Blog",
+          "is_official": true,
+          "published_at": "2026-11-12 09:00",
+          "headline": "Gilbert + Tobin rethinks the business of...",
+          "summary": [
+            "【概要】Gilbert + Tobin rethinks the business of law with AI",
+            "A conversation with Sam Nickless, Partner and Chief Executiv...",
+            "情報提供元: OpenAI Official Blog"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 4
+        },
+        {
+          "id": "ai_1794360290_2",
+          "title": "「最先端AIを作らない国」は属国になるのか - 株式会社エクサウィザーズ",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LYWtENmQ2VXRHVndWejBzSVI2Wl92Rnd2LUZLYnBReVhoYklYekZmamUwWmtULXRfUUVJMVpTU1BFaGdrSktuUmZsejBueGFLSnE1YlFOZW5ITmtLdXh0T0E0NGRhTzk1?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-10 11:48",
-          "headline": "ソフトバンクG、マレーシアでAIインフラ整備へ 10億ドル拠出 [AIの時代] ...",
+          "published_at": "2026-11-11 10:23",
+          "headline": "「最先端AIを作らない国」は属国になるのか - 株式会社エクサウィザーズ",
           "summary": [
-            "【概要】ソフトバンクG、マレーシアでAIインフラ整備へ 10億ドル拠出 [AIの時代] - 朝日新聞",
-            "ソフトバンクG、マレーシアでAIインフラ整備へ 10億ドル拠出 [AIの時代] 朝日新聞...",
+            "【概要】「最先端AIを作らない国」は属国になるのか - 株式会社エクサウィザーズ",
+            "「最先端AIを作らない国」は属国になるのか 株式会社エクサウィザーズ...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -246,16 +266,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1794282262_2",
-          "title": "KPMGジャパン、AIの投資対効果を高めるAIコスト適正化（AI FinOps）支援サービスの提供開始 - kpmg.com",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TN0k5Z3B3UW82SGg5TFh5alctWkUyWkk2X1ROZTRXN0hDaVhjOGlkc3d4SGE2ZnpVb3JJNkFCUkdTbmhZZTBwMTRCemVXcl9rZkI3aFlyOGxhdVplV255bWpkNGtPTUJyb3hUT2pXSjNySE5IQ1pJVmJKY05WUzQ?oc=5",
+          "id": "ai_1794360290_3",
+          "title": "レーダとAIで波と風を面的に同時に計測深層学習で短波海洋レーダの観測能力を拡張－計算時間は従来法の約１００分の１に - 琉球大学",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9la3Q5cUYtTURib21JeEloR01rVlFzd1BYOS03OGN5V0Q2RG5oWDZEZGFGVHNPdU1vcGpJOVM2NUJHU2hETi1ZRVA5NnpHaUU?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-10 11:08",
-          "headline": "KPMGジャパン、AIの投資対効果を高めるAIコスト適正化（AI FinOps）...",
+          "published_at": "2026-11-11 10:05",
+          "headline": "レーダとAIで波と風を面的に同時に計測深層学習で短波海洋レーダの観測能力を拡張－...",
           "summary": [
-            "【概要】KPMGジャパン、AIの投資対効果を高めるAIコスト適正化（AI FinOps）支援サービスの提供開始 - kpmg.com",
-            "KPMGジャパン、AIの投資対効果を高めるAIコスト適正化（AI FinOps）支援サービスの提供開始 kpmg.com...",
+            "【概要】レーダとAIで波と風を面的に同時に計測深層学習で短波海洋レーダの観測能力を拡張－計算時間は従来法の約１００分の１に - 琉球大学",
+            "レーダとAIで波と風を面的に同時に計測深層学習で短波海洋レーダの観測能力を拡張－計算時間は従来法の約１００分の１に 琉球...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -266,16 +286,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1794282262_3",
-          "title": "SocioFutureとトレンドマイクロ、AIと人の連携で、特殊詐欺被害を送金前に防ぐ実証実験を本格展開 | トレンドマイクロ (JP) - www.trendmicro.com",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNHlwUElPaHhYampha0ZuTzJGSFU4ckdUTzJkS180TnFlN29zbFdFZnJTaTNHbUVubWFxamExUlpvV015cFRCck8wWXZsZzQtN29QRFBGcEFHeUVGamI4S3JRTURfOVBnUjlvLTNIOE1pOE1hREdnZldBajZCZUJWOXljOFpjampSOElZUTRGczA?oc=5",
+          "id": "ai_1794360290_4",
+          "title": "生成AIの利用者は「大卒・大都市・大企業」に偏っている――AIを使えるかどうかが、評価と所得を分けていく - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rc1ptSWVHdlV5LWxtUi1VM0dBOTJ0MVQ4ZnY3Rk5EN1YtRWh1VVpiamxyZThDQXdlMm1INFZkRTJKNEppeWZidlhEMXlYU0E2bHhRbjlUOEQtWWVVUkIxMDhVb0ptb3dIam82aWJJbm5QTC1iY3ZfOWJLMURydkk?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-10 10:47",
-          "headline": "SocioFutureとトレンドマイクロ、AIと人の連携で、特殊詐欺被害を送金前...",
+          "published_at": "2026-11-11 09:00",
+          "headline": "生成AIの利用者は「大卒・大都市・大企業」に偏っている――AIを使えるかどうかが...",
           "summary": [
-            "【概要】SocioFutureとトレンドマイクロ、AIと人の連携で、特殊詐欺被害を送金前に防ぐ実証実験を本格展開 | トレンドマイクロ (JP) - www.trendmicro.com",
-            "SocioFutureとトレンドマイクロ、AIと人の連携で、特殊詐欺被害を送金前に防ぐ実証実験を本格展開 | トレンドマ...",
+            "【概要】生成AIの利用者は「大卒・大都市・大企業」に偏っている――AIを使えるかどうかが、評価と所得を分けていく - Yahoo!ニュース",
+            "生成AIの利用者は「大卒・大都市・大企業」に偏っている――AIを使えるかどうかが、評価と所得を分けていく Yahoo!ニ...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -286,36 +306,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1794282262_4",
-          "title": "iシェアーズ AI グローバル・イノベーション アクティブ【408A】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84dXppanVrNENHYmJBZVFMVTktQUhybk1LYzVXNXBmM2RSbXJsa1lOenBUZW1PRTVwQS00Nmp1akY5QmEya29Yak1pVWYzUjNzUUE?oc=5",
+          "id": "ai_1794360290_5",
+          "title": "AIエージェントの“見えないリスク”に備えてアイデンティティを「関係」で統制する - デジタルクロス",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUWVNpU0NvdE01SDlWWE9XY3N5dGpCQ1ZqS3lNaXBGX3NKVElZdGtHWWFyN1U4djRzZkhjS0tmU0FKN2VRMW5BUHluZktwWU81OHVVVDlLamZXSlhCLUVHUjhkWHY5VWFIenBWQlBjcjNadG9Hbmc?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-10 10:35",
-          "headline": "iシェアーズ AI グローバル・イノベーション アクティブ【408A】：株価・株...",
+          "published_at": "2026-11-11 09:00",
+          "headline": "AIエージェントの“見えないリスク”に備えてアイデンティティを「関係」で統制する...",
           "summary": [
-            "【概要】iシェアーズ AI グローバル・イノベーション アクティブ【408A】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-            "iシェアーズ AI グローバル・イノベーション アクティブ【408A】：株価・株式情報（夜間PTS含む） Yahoo!フ...",
-            "情報提供元: Google News (AI)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "ai_1794282262_5",
-          "title": "宜野湾市AIオンデマンド交通「あいちゃん」 - 宜野湾市",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSWVNelNNTmZNQ0h4RXdDdUVwYlVTYVpzVExfMGc0WjdSQlBnODNCcGkwdHM4X3NEVEdPNFoxcWx3NDlWbTZHR0xuSU00bkd2ckpUNThwNnN5eG1TSG1Bdm53b0pkcjd5Ti1WcGZOYkJJVUpYb3JTWnpCb21sUTZ4OWlWc2FoYlR0Sk5rR3NyamlISGJ1bGdz?oc=5",
-          "source": "Google News (AI)",
-          "is_official": false,
-          "published_at": "2026-11-10 04:10",
-          "headline": "宜野湾市AIオンデマンド交通「あいちゃん」 - 宜野湾市",
-          "summary": [
-            "【概要】宜野湾市AIオンデマンド交通「あいちゃん」 - 宜野湾市",
-            "宜野湾市AIオンデマンド交通「あいちゃん」 宜野湾市...",
+            "【概要】AIエージェントの“見えないリスク”に備えてアイデンティティを「関係」で統制する - デジタルクロス",
+            "AIエージェントの“見えないリスク”に備えてアイデンティティを「関係」で統制する デジタルクロス...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
