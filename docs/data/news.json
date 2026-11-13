@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026年11月12日 11:26",
-  "updated_at_iso": "2026-11-12T11:26:03.451244+09:00",
+  "updated_at": "2026年11月13日 11:03",
+  "updated_at_iso": "2026-11-13T11:03:32.739744+09:00",
   "model_used": "mock-mode",
   "categories": [
     {
@@ -10,16 +10,16 @@
       "description": "Microsoft Azureの公式発表・最新クラウド動向",
       "articles": [
         {
-          "id": "azure_1794450363_1",
-          "title": "ゼンアーキテクツ、2026 Microsoft Partner of the Year Awards「Innovate with Azure AI Apps and Agents」部門を受賞 - ニコニコニュース",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vaFJfeXllQ2pFa2lDQjVvNnNOUEtnbmNUZllaU21WdUQzR1kwTU1UZnd2LV9oS1hNQkNMYUJ6SE4zRmVFemJGdldRTWRQczJNbkVrMFkyUGd1Sy1zeVFYdFNvODZ6ZUR1?oc=5",
+          "id": "azure_1794535413_1",
+          "title": "協働によるメリット：IBMとMicrosoftが全社レベルのトランスフォーメーションを実現 - IBM",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNUtFck5UMTZSc3NudEx6bVl0QUhUWE16a05kVTA2UEl6UXNFXzZlQXVfbjZTNjRWS2gzUXRpYXFLTnM4MVNWRUFpdlpnWFR3WUtaUV8xSjE0dmdhZjhWT1UwbktHU3dBS3lfSUJGNWJ0X3Z6OEVVMktKYmVZYUhoaEUyaE9nUnpmMXUtRXVqVEhUd2dsSE84aVVXcmdQLWNyN01hZldhdHJzMXB2U1J1WmV5VEFUbzZsYkZqTHlaN2w?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-11-12 10:45",
-          "headline": "ゼンアーキテクツ、2026 Microsoft Partner of the Y...",
+          "published_at": "2026-11-13 08:01",
+          "headline": "協働によるメリット：IBMとMicrosoftが全社レベルのトランスフォーメーシ...",
           "summary": [
-            "【概要】ゼンアーキテクツ、2026 Microsoft Partner of the Year Awards「Innovate with Azure AI Apps and Agents」部門を受賞 - ニコニコニュース",
-            "ゼンアーキテクツ、2026 Microsoft Partner of the Year Awards「Innovate ...",
+            "【概要】協働によるメリット：IBMとMicrosoftが全社レベルのトランスフォーメーションを実現 - IBM",
+            "協働によるメリット：IBMとMicrosoftが全社レベルのトランスフォーメーションを実現 IBM...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -30,16 +30,16 @@
           "importance": 3
         },
         {
-          "id": "azure_1794450363_2",
-          "title": "【セミナーレポート】守りはそのまま、運用はもっとラクに ～自治体情報インフラの最適化～ - ジチタイワークスWEB",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9YUTdNLXhvWWcwZmI2Zmc4OFVPQnN2TWV2VGhzWkpJcmRGTTdCQ1J1Z3Atbl9YSVdGbWlxTnlYLTJxOTVxaWFtNVE1Mkc?oc=5",
+          "id": "azure_1794535413_2",
+          "title": "はじめに：『ひと目でわかるAzure 基本から学ぶサーバー＆ネットワーク構築 第5版』 - 日経BOOKプラス",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByTThEdm9fVmw5ZmNGTFlZQkdhU0dCRVI5ek9IRWVqNm5TMjlhTFBRbE1MbjljUUdaYUY4WUotMTZxZ0FsMHhFcFc1b01yWU1ERUdYMXYzT0ZqcWhheWR0ek1UYTRmMW9uQUdhMg?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-11-12 09:00",
-          "headline": "【セミナーレポート】守りはそのまま、運用はもっとラクに ～自治体情報インフラの最...",
+          "published_at": "2026-11-13 05:02",
+          "headline": "はじめに：『ひと目でわかるAzure 基本から学ぶサーバー＆ネットワーク構築 第...",
           "summary": [
-            "【概要】【セミナーレポート】守りはそのまま、運用はもっとラクに ～自治体情報インフラの最適化～ - ジチタイワークスWEB",
-            "【セミナーレポート】守りはそのまま、運用はもっとラクに ～自治体情報インフラの最適化～ ジチタイワークスWEB...",
+            "【概要】はじめに：『ひと目でわかるAzure 基本から学ぶサーバー＆ネットワーク構築 第5版』 - 日経BOOKプラス",
+            "はじめに：『ひと目でわかるAzure 基本から学ぶサーバー＆ネットワーク構築 第5版』 日経BOOKプラス...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -50,16 +50,16 @@
           "importance": 3
         },
         {
-          "id": "azure_1794450363_3",
-          "title": "Anthropic、クラウド契約を100億ドル超追加 MicrosoftとGoogleとの契約規模が急拡大 - BigGo ファイナンス",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtNVpvcGt5eS1kaHNyQzZkY29ZOEs3WXFzZVhTbW1ySVowTTNqWWFfdlpESGpSM0JxczM1d1M2eldtOURFbUhKbmdtTm81WHhJUFBrbXhJZ0t2QjZRYWhvbkpKcEU2VGt5SW5jWHpuQk5XUFZ3?oc=5",
+          "id": "azure_1794535413_3",
+          "title": "企業が「Microsoft Azure」を選ばざるを得ない理由：選択肢を奪う囲い込み - TechTargetジャパン",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GQjdOUXpQd2RfUS1vZWhMak9CdkZnREIteFVWMlZRQ25Ob2JaUmxkVEZDMHNZMWN3X21wNUtybllmdXN0ZU9oeW5PV09RX1JhMTNwRUhfbHhvbzNoN3VqVUhYb2YzQlIzc3JOeEQ1NXg?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-11-11 22:05",
-          "headline": "Anthropic、クラウド契約を100億ドル超追加 MicrosoftとGoo...",
+          "published_at": "2026-11-13 05:00",
+          "headline": "企業が「Microsoft Azure」を選ばざるを得ない理由：選択肢を奪う囲い...",
           "summary": [
-            "【概要】Anthropic、クラウド契約を100億ドル超追加 MicrosoftとGoogleとの契約規模が急拡大 - BigGo ファイナンス",
-            "Anthropic、クラウド契約を100億ドル超追加 MicrosoftとGoogleとの契約規模が急拡大 BigGo ...",
+            "【概要】企業が「Microsoft Azure」を選ばざるを得ない理由：選択肢を奪う囲い込み - TechTargetジャパン",
+            "企業が「Microsoft Azure」を選ばざるを得ない理由：選択肢を奪う囲い込み TechTargetジャパン...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -70,16 +70,16 @@
           "importance": 3
         },
         {
-          "id": "azure_1794450363_4",
-          "title": "Microsoft、2026年11月の月例更新 - CVEベースで1094件の脆弱性への対応が行われる - ｄメニューニュース",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tMnY1OFNOeG4xNTZ0THlsTnA0T0M3dFdOUTMxT0stS3FXODBsZnQwMlZsMWFaY3lSanRwZlR2bC02OE8weHVUdi1QcGZUdTB2dXdaNHpiM0NiMVp5eHRkTnF5MzFwbjJuQ1RqTlF2NTJEMWhxN21uQtIBeEFVX3lxTE1tMnY1OFNOeG4xNTZ0THlsTnA0T0M3dFdOUTMxT0stS3FXODBsZnQwMlZsMWFaY3lSanRwZlR2bC02OE8weHVUdi1QcGZUdTB2dXdaNHpiM0NiMVp5eHRkTnF5MzFwbjJuQ1RqTlF2NTJEMWhxN21uQg?oc=5",
+          "id": "azure_1794535413_4",
+          "title": "Windows Admin CenterのAzure SSOの欠陥、テナント全体の侵害につながるリスク - eSecurity Planet",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYTJnWHFhSnkxT3d4NlQxam5NLWVMY0FCMkhrQXlRNHVWVmphR0ZoQjNnOFZVWXNsQzV5S001bGxVanc3bFd2YmVYQ2NVXzhFRHZLdUotcHh5Tm4yX3ZSWld2Ni1JN2QzMm1vUXJnaDFHRTM4dERrWllmajVNYjdKazFUUkFTb1VpUW5qQ1h0cGhuUW9CckVZa2MtMlpLTFFzbkcxdEloTlhmRVJhRVM5Mw?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-11-11 17:28",
-          "headline": "Microsoft、2026年11月の月例更新 - CVEベースで1094件の脆...",
+          "published_at": "2026-11-13 02:31",
+          "headline": "Windows Admin CenterのAzure SSOの欠陥、テナント全体...",
           "summary": [
-            "【概要】Microsoft、2026年11月の月例更新 - CVEベースで1094件の脆弱性への対応が行われる - ｄメニューニュース",
-            "Microsoft、2026年11月の月例更新 - CVEベースで1094件の脆弱性への対応が行われる ｄメニューニュー...",
+            "【概要】Windows Admin CenterのAzure SSOの欠陥、テナント全体の侵害につながるリスク - eSecurity Planet",
+            "Windows Admin CenterのAzure SSOの欠陥、テナント全体の侵害につながるリスク eSecurit...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -90,24 +90,24 @@
           "importance": 3
         },
         {
-          "id": "azure_1794450363_5",
-          "title": "未来に備える教育: 進化する Microsoft 365 Education - Microsoft Source",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSVZPMzk2NE51WlZKX1pqQWRhaTVWc2JFd1dnQlUyNXUyTXBmM2dncXhOSFVETXVuaDNyak9JbmtqNFlVM2cxd2t6dnc2VVBBNHVtSzI4YXdzUWk3UHJSY1lwMi0xTEZrbUdkUFB4R0xHSHBRRlNHSWVCR09hXzdxd2dOaUFIeUx1R2JuSjk2QkIzWVZqZTRkQ1l6SVp1czVybmJXdEwxR1NqZ3NHUTl3NWxB?oc=5",
-          "source": "Google News (Azure)",
-          "is_official": false,
-          "published_at": "2026-11-10 12:38",
-          "headline": "未来に備える教育: 進化する Microsoft 365 Education -...",
+          "id": "azure_1794535413_5",
+          "title": "From AI ambition to business impact",
+          "link": "https://blogs.microsoft.com/blog/2026/11/12/from-ai-ambition-to-business-impact/",
+          "source": "Microsoft Official Blog",
+          "is_official": true,
+          "published_at": "2026-11-13 02:00",
+          "headline": "From AI ambition to business impact",
           "summary": [
-            "【概要】未来に備える教育: 進化する Microsoft 365 Education - Microsoft Source",
-            "未来に備える教育: 進化する Microsoft 365 Education Microsoft Source...",
-            "情報提供元: Google News (Azure)"
+            "【概要】From AI ambition to business impact",
+            "Most business leaders I meet no longer need to be convinced ...",
+            "情報提供元: Microsoft Official Blog"
           ],
           "key_points": [
             "最新の公式・主要発表",
             "詳細は元記事リンクから確認可能"
           ],
           "badge": "注目",
-          "importance": 3
+          "importance": 4
         }
       ]
     },
@@ -118,12 +118,52 @@
       "description": "テスラの最新アップデート・EV・FSD・決算動向",
       "articles": [
         {
-          "id": "tesla_1794450364_1",
+          "id": "tesla_1794535414_1",
+          "title": "テスラから開閉式サンルーフが消えた、いかにもテスラらしい2つの理由 - Business Insider Japan",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYnpiMnRMUVdEZ2FkVGhKV3RibVdRek5reUUyR1pBamdzRkhHZlc3cmpQOGUzcFZxenI2eTV1empaY2pPdjMtMHBpc29Dc1RveENiOVB2Q2Zjb3ozd3dPUmlKdWNHem1xNTNtYjlzQmtmYzN5VExtcXlZVi04aVZHSnBGclU0YkRrMWNDY3J3?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-11-13 10:30",
+          "headline": "テスラから開閉式サンルーフが消えた、いかにもテスラらしい2つの理由 - Busi...",
+          "summary": [
+            "【概要】テスラから開閉式サンルーフが消えた、いかにもテスラらしい2つの理由 - Business Insider Japan",
+            "テスラから開閉式サンルーフが消えた、いかにもテスラらしい2つの理由 Business Insider Japan...",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "tesla_1794535414_2",
+          "title": "スペースXとテスラ、12月にも経営統合発表か 米報道 - 日本経済新聞",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05VUtnd2o3Y2hrRFpfTV9XZllPaEdkZlZSbUU1ckpnRkVRNXBSWXBlTzZHWFd0YUFxaVFGb1E3RHhld1FpekZVcnFqOENPMFctbDRkR1NpZ2lkWEQzVFNCRnNQSmxLSzAzUllnQg?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-11-13 08:46",
+          "headline": "スペースXとテスラ、12月にも経営統合発表か 米報道 - 日本経済新聞",
+          "summary": [
+            "【概要】スペースXとテスラ、12月にも経営統合発表か 米報道 - 日本経済新聞",
+            "スペースXとテスラ、12月にも経営統合発表か 米報道 日本経済新聞...",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "tesla_1794535414_3",
           "title": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vR2owRXJLX1dwYUtHY05wNjVKVmVrTHNXdm5yRGJ0NHJzSzZTaEgxWFo0WmNBOWUxV2tXcHljUWlYaG92bll2YUNIQzJlVE0?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-11-12 08:34",
+          "published_at": "2026-11-13 06:15",
           "headline": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
           "summary": [
             "【概要】テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
@@ -138,16 +178,16 @@
           "importance": 3
         },
         {
-          "id": "tesla_1794450364_2",
-          "title": "【Tesla・SpaceX】マスク氏の半導体工場「Terafab」構想、月産100万枚へ！Samsung・SK hynixに匹敵するメモリー生産計画 - note",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10ZUJiSGJTSnQ1bVBOejFSb3Z3RWdNZE1sd2g0R3hDY3BHTG11dVMtNUZ0RGFiNDgxMm5ITGVkRE1yVF9FM0xCbHpLeEVKS08zRHcxVTdnT01MbEJNcGc?oc=5",
+          "id": "tesla_1794535414_4",
+          "title": "スペースXとテスラの合併協議が進展、成立なら3450億円のビットコイン保有に - CoinPost",
+          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5OcUlkS0lLQW1qeUZqbnh1NlBKZnF1ZXNkV2NnS3RwZDNpQ3BVMTV3Zi0zeE5tVmtlOFNGNlgyQ0pndDg?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-11-12 07:27",
-          "headline": "【Tesla・SpaceX】マスク氏の半導体工場「Terafab」構想、月産10...",
+          "published_at": "2026-11-13 06:12",
+          "headline": "スペースXとテスラの合併協議が進展、成立なら3450億円のビットコイン保有に -...",
           "summary": [
-            "【概要】【Tesla・SpaceX】マスク氏の半導体工場「Terafab」構想、月産100万枚へ！Samsung・SK hynixに匹敵するメモリー生産計画 - note",
-            "【Tesla・SpaceX】マスク氏の半導体工場「Terafab」構想、月産100万枚へ！Samsung・SK hyni...",
+            "【概要】スペースXとテスラの合併協議が進展、成立なら3450億円のビットコイン保有に - CoinPost",
+            "スペースXとテスラの合併協議が進展、成立なら3450億円のビットコイン保有に CoinPost...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -158,56 +198,16 @@
           "importance": 3
         },
         {
-          "id": "tesla_1794450364_3",
-          "title": "テスラのサイバーキャブ ついに雪道でも自動運転対応へ 米ミシガンで自動運転テスト開始 仮のハンドル付きで - 自動運転ラボ",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9YX0s0Y254Y19qQ1AzYll0OE9BWVpVR1hrYlNHR0t0ekxYSjh1a09LQUxMVFlOQUdSWDc0dnVLY3dvNElhZHpFcw?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-11-12 07:00",
-          "headline": "テスラのサイバーキャブ ついに雪道でも自動運転対応へ 米ミシガンで自動運転テスト...",
-          "summary": [
-            "【概要】テスラのサイバーキャブ ついに雪道でも自動運転対応へ 米ミシガンで自動運転テスト開始 仮のハンドル付きで - 自動運転ラボ",
-            "テスラのサイバーキャブ ついに雪道でも自動運転対応へ 米ミシガンで自動運転テスト開始 仮のハンドル付きで 自動運転ラボ...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "tesla_1794450364_4",
-          "title": "イーロン・マスク氏、テスラはサイバートラックの預かり金を「多額にわたり」返還する必要がある - Business Insider Japan",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS3VCdW5ocGZQT1hDbXowMmtvbE5jQklCZ2wyRUg0MHZ6czB6bVg5ejRoQVZxNktJZDRVTl9HdFNLUVNWNG5BRzBhbThDRnU5SFctSV9vMlIzX3lWdnNsbVlpUUlUM0s3NnZYbUYyd0JnM1l0cHpESk1SLXJRSkdXRVNNcDRpUTh5U2stVzFxYldvWGMyXzdjREg4WXBncEFkZ3pQd1dISE9ueXgz?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-11-12 07:00",
-          "headline": "イーロン・マスク氏、テスラはサイバートラックの預かり金を「多額にわたり」返還する...",
-          "summary": [
-            "【概要】イーロン・マスク氏、テスラはサイバートラックの預かり金を「多額にわたり」返還する必要がある - Business Insider Japan",
-            "イーロン・マスク氏、テスラはサイバートラックの預かり金を「多額にわたり」返還する必要がある Business Insid...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "tesla_1794450364_5",
-          "title": "Tesla extends Cybertruck production to late summer 2027 amid fan backlash",
-          "link": "https://electrek.co/2026/11/11/tesla-extends-cybertruck-production-summer-2027-fan-backlash/",
+          "id": "tesla_1794535414_5",
+          "title": "SpaceX could announce $1.5 trillion Tesla merger in December: report",
+          "link": "https://electrek.co/2026/11/12/spacex-tesla-merger-announcement-december-report/",
           "source": "Electrek (Tesla)",
           "is_official": true,
-          "published_at": "2026-11-12 03:24",
-          "headline": "Tesla extends Cybertruck production to l...",
+          "published_at": "2026-11-13 05:39",
+          "headline": "SpaceX could announce $1.5 trillion Tesl...",
           "summary": [
-            "【概要】Tesla extends Cybertruck production to late summer 2027 amid fan backlash",
-            "Elon Musk now says Tesla will keep building the Cybertruck “...",
+            "【概要】SpaceX could announce $1.5 trillion Tesla merger in December: report",
+            "Elon Musk’s companies are moving faster than expected on a T...",
             "情報提供元: Electrek (Tesla)"
           ],
           "key_points": [
@@ -226,16 +226,16 @@
       "description": "OpenAI・Google・生成AIの公式発表・技術速報",
       "articles": [
         {
-          "id": "ai_1794450365_1",
-          "title": "ＳＯＭＰＯシステムズ：基幹システムコードの保守をナレッジグラフと AI 開発で大幅に効率化 - Google Cloud",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZUhzd3pQTlY0c3NNcXhacU54dk41eE9JdWdQaEFiMjEydFJ1VElQdGJQdXRiTko5b1FiUVMtTE9oNU5QMllrbFhIOWNManZMZlJIUWduUS16WGlzWXlxV01tSWhVQkJncVo5bzRyNzBPcm9qRV9FdTYwd2V6VFh1TmJVRUE4UXlCMDRMbzdGdW1zRUtiRC1zZE1Wa1JxQ2RhTEUzQm5iRGtwNkY0czRzVW5RQWRpaVhLLWlHczBnNUE0Rzl1RGFqUi10LVAwTDJOcU8yVUtkNTFOUGc?oc=5",
+          "id": "ai_1794535415_1",
+          "title": "受講者の78.6％が満足、システム開発経験者のスキルをAIエージェント開発へ拡張 『ビルスピアカデミー』、製造業向け人材育成の実践知を支援事例として公開 - PERSOL INNOVATION",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5NSXAyc3hENDZ0elc3X1dnSmxyYml4eUt2V3dzQTVXRjZhM0t4ck9mWTNtRXU1OXFnc3dWdmU4ZkoxM0FLa1FYYzNma0VpX3YtVVd1VURwUWxfN1RET0pZX093?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-12 09:53",
-          "headline": "ＳＯＭＰＯシステムズ：基幹システムコードの保守をナレッジグラフと AI 開発で大...",
+          "published_at": "2026-11-13 11:00",
+          "headline": "受講者の78.6％が満足、システム開発経験者のスキルをAIエージェント開発へ拡張...",
           "summary": [
-            "【概要】ＳＯＭＰＯシステムズ：基幹システムコードの保守をナレッジグラフと AI 開発で大幅に効率化 - Google Cloud",
-            "ＳＯＭＰＯシステムズ：基幹システムコードの保守をナレッジグラフと AI 開発で大幅に効率化 Google Cloud...",
+            "【概要】受講者の78.6％が満足、システム開発経験者のスキルをAIエージェント開発へ拡張 『ビルスピアカデミー』、製造業向け人材育成の実践知を支援事例として公開 - PERSOL INNOVATION",
+            "受講者の78.6％が満足、システム開発経験者のスキルをAIエージェント開発へ拡張 『ビルスピアカデミー』、製造業向け人材...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -246,16 +246,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1794450365_2",
-          "title": "AIエージェント向けのデータ基盤のEdelbyte、7,000万ドルを調達 - BRIDGE（ブリッジ）",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zUVc1QjBUZmJSLVAwUkNWNFlCNXlVS0xLWlU3OGJRTkxLWEU3dWItQ2E4emZqYVBLM3I5STl6NXJaX1dBTzUxbnQ0bGhQSXZfNFRKRjN4b3Nab1VOcmltdzNHYjVacU9LZ0hka2VZaGwwcUppSURnb0VSUGw?oc=5",
+          "id": "ai_1794535415_2",
+          "title": "選挙ポスターAI作成? 戸惑いの声 - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WZjRvdjF6NmNmU0h6c256d3RyT2xzRVF5THlxbVpMRHRoRk1rVjVPNmVMRzBhN01NSk9Bc1NSMlFlR09OUHNzcXJLdU9CR1gw?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-12 09:49",
-          "headline": "AIエージェント向けのデータ基盤のEdelbyte、7,000万ドルを調達 - ...",
+          "published_at": "2026-11-13 10:07",
+          "headline": "選挙ポスターAI作成? 戸惑いの声 - Yahoo!ニュース",
           "summary": [
-            "【概要】AIエージェント向けのデータ基盤のEdelbyte、7,000万ドルを調達 - BRIDGE（ブリッジ）",
-            "AIエージェント向けのデータ基盤のEdelbyte、7,000万ドルを調達 BRIDGE（ブリッジ）...",
+            "【概要】選挙ポスターAI作成? 戸惑いの声 - Yahoo!ニュース",
+            "選挙ポスターAI作成? 戸惑いの声 Yahoo!ニュース...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -266,16 +266,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1794450365_3",
-          "title": "iシェアーズ AI グローバル・イノベーション アクティブ【408A】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84dXppanVrNENHYmJBZVFMVTktQUhybk1LYzVXNXBmM2RSbXJsa1lOenBUZW1PRTVwQS00Nmp1akY5QmEya29Yak1pVWYzUjNzUUE?oc=5",
+          "id": "ai_1794535415_3",
+          "title": "【プレスリリース】誰もが、24時間、かかりつけAI医師に見守られる社会へ そろそろAI医師免許を解禁しませんか？ - 国立大学法人群馬大学",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OLWFySk8wcjctUkdvZzJZOFpPZDMweHAxY01VYi12UTFtMjJuVUREOVRGMmNDUE9rdWVpM3l4cVdwTVJJazNxUzhjT21wZGQxek0yUEhlRQ?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-12 09:35",
-          "headline": "iシェアーズ AI グローバル・イノベーション アクティブ【408A】：株価・株...",
+          "published_at": "2026-11-13 10:06",
+          "headline": "【プレスリリース】誰もが、24時間、かかりつけAI医師に見守られる社会へ そろそ...",
           "summary": [
-            "【概要】iシェアーズ AI グローバル・イノベーション アクティブ【408A】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-            "iシェアーズ AI グローバル・イノベーション アクティブ【408A】：株価・株式情報（夜間PTS含む） Yahoo!フ...",
+            "【概要】【プレスリリース】誰もが、24時間、かかりつけAI医師に見守られる社会へ そろそろAI医師免許を解禁しませんか？ - 国立大学法人群馬大学",
+            "【プレスリリース】誰もが、24時間、かかりつけAI医師に見守られる社会へ そろそろAI医師免許を解禁しませんか？ 国立大...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -286,36 +286,36 @@
           "importance": 3
         },
         {
-          "id": "ai_1794450365_4",
-          "title": "Gilbert + Tobin rethinks the business of law with AI",
-          "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
-          "source": "OpenAI Official Blog",
-          "is_official": true,
-          "published_at": "2026-11-12 09:00",
-          "headline": "Gilbert + Tobin rethinks the business of...",
+          "id": "ai_1794535415_4",
+          "title": "AIで効率は上がったのに、人は動かなかった。DeNAが踏み切ったAIネイティブな「業務フローの組み替え」 - フルスイング - DeNA",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02WVdOakFDM2kxTTA3M1BQeEZNYkxRNm90dG5NeERKYThlb25GaEVoWndtZFE5cVM2NUtKUFE5OWh3SDYzSDdMLXRacUF4emRlSVNpcHVR?oc=5",
+          "source": "Google News (AI)",
+          "is_official": false,
+          "published_at": "2026-11-13 10:02",
+          "headline": "AIで効率は上がったのに、人は動かなかった。DeNAが踏み切ったAIネイティブな...",
           "summary": [
-            "【概要】Gilbert + Tobin rethinks the business of law with AI",
-            "A conversation with Sam Nickless, Partner and Chief Executiv...",
-            "情報提供元: OpenAI Official Blog"
+            "【概要】AIで効率は上がったのに、人は動かなかった。DeNAが踏み切ったAIネイティブな「業務フローの組み替え」 - フルスイング - DeNA",
+            "AIで効率は上がったのに、人は動かなかった。DeNAが踏み切ったAIネイティブな「業務フローの組み替え」 フルスイング ...",
+            "情報提供元: Google News (AI)"
           ],
           "key_points": [
             "最新の公式・主要発表",
             "詳細は元記事リンクから確認可能"
           ],
           "badge": "注目",
-          "importance": 4
+          "importance": 3
         },
         {
-          "id": "ai_1794450365_5",
-          "title": "AI活用で成果を出すチームは、人材探しではなく役割の組み合わせから始める - デジタルクロス",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtdl9BaGVNX2VZa2FJX0hKODV4dUNUbnlLYmZqWG5KTFc1NGw0UVZmZGxCWVRJMWZ4Z3JiTG11cXo3NzZjd3o5WE5jMlJWUXdMRGpWbFJUOS04NHIyVTVtYUpxaUQ0ZkRpNHpBWWRrdW9zZjlXc1E?oc=5",
+          "id": "ai_1794535415_5",
+          "title": "Lenovo社の検証済みAIサーバーを短納期で提供する「Lenovo AI Express」の取り扱いを開始 - 株式会社アスク",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KeWtBUVRDek1keGl1YjFlYnZIY3VaaWIyNzQxc3pldXRHQUowSUl0dFBmbWdOVVRENXNoNUJNNmo5eE9NM3oyT1huYU52QWFMWkJQaUdKakF5cVZZMng2LUtaTVBiOVA0ajFr?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-12 09:00",
-          "headline": "AI活用で成果を出すチームは、人材探しではなく役割の組み合わせから始める - デ...",
+          "published_at": "2026-11-13 09:45",
+          "headline": "Lenovo社の検証済みAIサーバーを短納期で提供する「Lenovo AI Ex...",
           "summary": [
-            "【概要】AI活用で成果を出すチームは、人材探しではなく役割の組み合わせから始める - デジタルクロス",
-            "AI活用で成果を出すチームは、人材探しではなく役割の組み合わせから始める デジタルクロス...",
+            "【概要】Lenovo社の検証済みAIサーバーを短納期で提供する「Lenovo AI Express」の取り扱いを開始 - 株式会社アスク",
+            "Lenovo社の検証済みAIサーバーを短納期で提供する「Lenovo AI Express」の取り扱いを開始 株式会社ア...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
