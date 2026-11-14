@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026年11月13日 11:03",
-  "updated_at_iso": "2026-11-13T11:03:32.739744+09:00",
+  "updated_at": "2026年11月14日 10:39",
+  "updated_at_iso": "2026-11-14T10:39:27.185340+09:00",
   "model_used": "mock-mode",
   "categories": [
     {
@@ -10,7 +10,67 @@
       "description": "Microsoft Azureの公式発表・最新クラウド動向",
       "articles": [
         {
-          "id": "azure_1794535413_1",
+          "id": "azure_1794620367_1",
+          "title": "Microsoft、11月の月例更新プログラム公開 悪用確認済みのOutlookの脆弱性を修正 - マイナビニュース",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5WC1rQXZfRUh4amhfWWJZZ2pZOW1MRFFOYnNISWpmdGdJMmY1RGcxeU1NbXRvX0ppdTdUZzZmNHQ0N0Y0M2hhazRMYlpNalJFcnp5Z2Z1T3RSZW5nb3RWYWEwVmJuYTFK?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-11-13 16:05",
+          "headline": "Microsoft、11月の月例更新プログラム公開 悪用確認済みのOutlook...",
+          "summary": [
+            "【概要】Microsoft、11月の月例更新プログラム公開 悪用確認済みのOutlookの脆弱性を修正 - マイナビニュース",
+            "Microsoft、11月の月例更新プログラム公開 悪用確認済みのOutlookの脆弱性を修正 マイナビニュース...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1794620367_2",
+          "title": "Microsoft 365大規模障害、「Outlook」や「Teams」などに影響か 復旧難航 - 日経クロステック",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9XeVlDVm1yekpKYVFuZHRJQ0xOcGFGOVl2TVQwZVUwQWZ4cDZiWlJIdzV4UWN4UFRmbkVmMkJQd1pNb1k4cEtrY1kwSWJ6T0hyQTB2QjZTRzlFQ2Qy?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-11-13 11:20",
+          "headline": "Microsoft 365大規模障害、「Outlook」や「Teams」などに影...",
+          "summary": [
+            "【概要】Microsoft 365大規模障害、「Outlook」や「Teams」などに影響か 復旧難航 - 日経クロステック",
+            "Microsoft 365大規模障害、「Outlook」や「Teams」などに影響か 復旧難航 日経クロステック...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1794620367_3",
+          "title": "MSの大規模障害、2020年以降に2回サイバー攻撃起因 大抵は数時間で復旧 急がれる究明と対策 #エキスパートトピ - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcjAtMXJEcXhrQTZ5Mm13MVRtVkl3T1VKTnlhQURyY3ZvalFxQ3FrYWpXWnBXVUtwWUNZSVdlN0R6dUNXbFpiMUthbEg3WGppbXlENTJYUHJjUUtCaUZrcTFCY3FSNVJwM3F4TDJtWHM4eXc4eVQ3bXp2OGF3b21zdkNLa1lxQlJE?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-11-13 10:35",
+          "headline": "MSの大規模障害、2020年以降に2回サイバー攻撃起因 大抵は数時間で復旧 急が...",
+          "summary": [
+            "【概要】MSの大規模障害、2020年以降に2回サイバー攻撃起因 大抵は数時間で復旧 急がれる究明と対策 #エキスパートトピ - Yahoo!ニュース",
+            "MSの大規模障害、2020年以降に2回サイバー攻撃起因 大抵は数時間で復旧 急がれる究明と対策 #エキスパートトピ Ya...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1794620367_4",
           "title": "協働によるメリット：IBMとMicrosoftが全社レベルのトランスフォーメーションを実現 - IBM",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNUtFck5UMTZSc3NudEx6bVl0QUhUWE16a05kVTA2UEl6UXNFXzZlQXVfbjZTNjRWS2gzUXRpYXFLTnM4MVNWRUFpdlpnWFR3WUtaUV8xSjE0dmdhZjhWT1UwbktHU3dBS3lfSUJGNWJ0X3Z6OEVVMktKYmVZYUhoaEUyaE9nUnpmMXUtRXVqVEhUd2dsSE84aVVXcmdQLWNyN01hZldhdHJzMXB2U1J1WmV5VEFUbzZsYkZqTHlaN2w?oc=5",
           "source": "Google News (Azure)",
@@ -30,27 +90,7 @@
           "importance": 3
         },
         {
-          "id": "azure_1794535413_2",
-          "title": "はじめに：『ひと目でわかるAzure 基本から学ぶサーバー＆ネットワーク構築 第5版』 - 日経BOOKプラス",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByTThEdm9fVmw5ZmNGTFlZQkdhU0dCRVI5ek9IRWVqNm5TMjlhTFBRbE1MbjljUUdaYUY4WUotMTZxZ0FsMHhFcFc1b01yWU1ERUdYMXYzT0ZqcWhheWR0ek1UYTRmMW9uQUdhMg?oc=5",
-          "source": "Google News (Azure)",
-          "is_official": false,
-          "published_at": "2026-11-13 05:02",
-          "headline": "はじめに：『ひと目でわかるAzure 基本から学ぶサーバー＆ネットワーク構築 第...",
-          "summary": [
-            "【概要】はじめに：『ひと目でわかるAzure 基本から学ぶサーバー＆ネットワーク構築 第5版』 - 日経BOOKプラス",
-            "はじめに：『ひと目でわかるAzure 基本から学ぶサーバー＆ネットワーク構築 第5版』 日経BOOKプラス...",
-            "情報提供元: Google News (Azure)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "azure_1794535413_3",
+          "id": "azure_1794620367_5",
           "title": "企業が「Microsoft Azure」を選ばざるを得ない理由：選択肢を奪う囲い込み - TechTargetジャパン",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GQjdOUXpQd2RfUS1vZWhMak9CdkZnREIteFVWMlZRQ25Ob2JaUmxkVEZDMHNZMWN3X21wNUtybllmdXN0ZU9oeW5PV09RX1JhMTNwRUhfbHhvbzNoN3VqVUhYb2YzQlIzc3JOeEQ1NXg?oc=5",
           "source": "Google News (Azure)",
@@ -68,46 +108,6 @@
           ],
           "badge": "注目",
           "importance": 3
-        },
-        {
-          "id": "azure_1794535413_4",
-          "title": "Windows Admin CenterのAzure SSOの欠陥、テナント全体の侵害につながるリスク - eSecurity Planet",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYTJnWHFhSnkxT3d4NlQxam5NLWVMY0FCMkhrQXlRNHVWVmphR0ZoQjNnOFZVWXNsQzV5S001bGxVanc3bFd2YmVYQ2NVXzhFRHZLdUotcHh5Tm4yX3ZSWld2Ni1JN2QzMm1vUXJnaDFHRTM4dERrWllmajVNYjdKazFUUkFTb1VpUW5qQ1h0cGhuUW9CckVZa2MtMlpLTFFzbkcxdEloTlhmRVJhRVM5Mw?oc=5",
-          "source": "Google News (Azure)",
-          "is_official": false,
-          "published_at": "2026-11-13 02:31",
-          "headline": "Windows Admin CenterのAzure SSOの欠陥、テナント全体...",
-          "summary": [
-            "【概要】Windows Admin CenterのAzure SSOの欠陥、テナント全体の侵害につながるリスク - eSecurity Planet",
-            "Windows Admin CenterのAzure SSOの欠陥、テナント全体の侵害につながるリスク eSecurit...",
-            "情報提供元: Google News (Azure)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "azure_1794535413_5",
-          "title": "From AI ambition to business impact",
-          "link": "https://blogs.microsoft.com/blog/2026/11/12/from-ai-ambition-to-business-impact/",
-          "source": "Microsoft Official Blog",
-          "is_official": true,
-          "published_at": "2026-11-13 02:00",
-          "headline": "From AI ambition to business impact",
-          "summary": [
-            "【概要】From AI ambition to business impact",
-            "Most business leaders I meet no longer need to be convinced ...",
-            "情報提供元: Microsoft Official Blog"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 4
         }
       ]
     },
@@ -118,16 +118,16 @@
       "description": "テスラの最新アップデート・EV・FSD・決算動向",
       "articles": [
         {
-          "id": "tesla_1794535414_1",
-          "title": "テスラから開閉式サンルーフが消えた、いかにもテスラらしい2つの理由 - Business Insider Japan",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYnpiMnRMUVdEZ2FkVGhKV3RibVdRek5reUUyR1pBamdzRkhHZlc3cmpQOGUzcFZxenI2eTV1empaY2pPdjMtMHBpc29Dc1RveENiOVB2Q2Zjb3ozd3dPUmlKdWNHem1xNTNtYjlzQmtmYzN5VExtcXlZVi04aVZHSnBGclU0YkRrMWNDY3J3?oc=5",
+          "id": "tesla_1794620368_1",
+          "title": "テスラのロボタクシー車両「利回り170％」 個人運用で試算 - 自動運転ラボ",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBGVGRhUFZEaGhGclVDSUZsYWJsdzc2dzAxT3pNaUtxaWljdHg4YWQwOHJUdllsWVQ5YjZsZHB2WWdxeFJrbS1QNA?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-11-13 10:30",
-          "headline": "テスラから開閉式サンルーフが消えた、いかにもテスラらしい2つの理由 - Busi...",
+          "published_at": "2026-11-14 07:15",
+          "headline": "テスラのロボタクシー車両「利回り170％」 個人運用で試算 - 自動運転ラボ",
           "summary": [
-            "【概要】テスラから開閉式サンルーフが消えた、いかにもテスラらしい2つの理由 - Business Insider Japan",
-            "テスラから開閉式サンルーフが消えた、いかにもテスラらしい2つの理由 Business Insider Japan...",
+            "【概要】テスラのロボタクシー車両「利回り170％」 個人運用で試算 - 自動運転ラボ",
+            "テスラのロボタクシー車両「利回り170％」 個人運用で試算 自動運転ラボ...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -138,32 +138,12 @@
           "importance": 3
         },
         {
-          "id": "tesla_1794535414_2",
-          "title": "スペースXとテスラ、12月にも経営統合発表か 米報道 - 日本経済新聞",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05VUtnd2o3Y2hrRFpfTV9XZllPaEdkZlZSbUU1ckpnRkVRNXBSWXBlTzZHWFd0YUFxaVFGb1E3RHhld1FpekZVcnFqOENPMFctbDRkR1NpZ2lkWEQzVFNCRnNQSmxLSzAzUllnQg?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-11-13 08:46",
-          "headline": "スペースXとテスラ、12月にも経営統合発表か 米報道 - 日本経済新聞",
-          "summary": [
-            "【概要】スペースXとテスラ、12月にも経営統合発表か 米報道 - 日本経済新聞",
-            "スペースXとテスラ、12月にも経営統合発表か 米報道 日本経済新聞...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "tesla_1794535414_3",
+          "id": "tesla_1794620368_2",
           "title": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vR2owRXJLX1dwYUtHY05wNjVKVmVrTHNXdm5yRGJ0NHJzSzZTaEgxWFo0WmNBOWUxV2tXcHljUWlYaG92bll2YUNIQzJlVE0?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-11-13 06:15",
+          "published_at": "2026-11-14 06:10",
           "headline": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
           "summary": [
             "【概要】テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
@@ -178,16 +158,36 @@
           "importance": 3
         },
         {
-          "id": "tesla_1794535414_4",
-          "title": "スペースXとテスラの合併協議が進展、成立なら3450億円のビットコイン保有に - CoinPost",
-          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5OcUlkS0lLQW1qeUZqbnh1NlBKZnF1ZXNkV2NnS3RwZDNpQ3BVMTV3Zi0zeE5tVmtlOFNGNlgyQ0pndDg?oc=5",
+          "id": "tesla_1794620368_3",
+          "title": "Tesla stops selling every Cybertruck except the $109,990 Cyberbeast",
+          "link": "https://electrek.co/2026/11/13/tesla-only-sells-cybertruck-cyberbeast-109990/",
+          "source": "Electrek (Tesla)",
+          "is_official": true,
+          "published_at": "2026-11-14 03:13",
+          "headline": "Tesla stops selling every Cybertruck exc...",
+          "summary": [
+            "【概要】Tesla stops selling every Cybertruck except the $109,990 Cyberbeast",
+            "Tesla is now only selling one version of the Cybertruck in t...",
+            "情報提供元: Electrek (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 4
+        },
+        {
+          "id": "tesla_1794620368_4",
+          "title": "テスラ（TSLA）機関投資家の資金動向（金曜・市場前）：プレマーケットで株価は1.2%高 - Moomoo",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbE56WXhtVDdaZTZreHZxQmdPektlbkpnWHRrNVEyUlBoVkFLaFdJYmY0V1R6aTJwNHdCZG1JOVpWM1lKcjkzNld5WnhqdFBQMUJ2LV8zZ3J2c3pqMEo5N3NHdnJzV08ta2dxMExIMHlQMGV4N0d2Z2VRamVha3R6MFRBaG85VTJYRDY4amFYdEpRVzVFa2VWSGVRNXZjZ2FUcjBZekQ5YmEyMG0yZ21lZV81djFsOGpab2Jv?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-11-13 06:12",
-          "headline": "スペースXとテスラの合併協議が進展、成立なら3450億円のビットコイン保有に -...",
+          "published_at": "2026-11-13 23:24",
+          "headline": "テスラ（TSLA）機関投資家の資金動向（金曜・市場前）：プレマーケットで株価は1...",
           "summary": [
-            "【概要】スペースXとテスラの合併協議が進展、成立なら3450億円のビットコイン保有に - CoinPost",
-            "スペースXとテスラの合併協議が進展、成立なら3450億円のビットコイン保有に CoinPost...",
+            "【概要】テスラ（TSLA）機関投資家の資金動向（金曜・市場前）：プレマーケットで株価は1.2%高 - Moomoo",
+            "テスラ（TSLA）機関投資家の資金動向（金曜・市場前）：プレマーケットで株価は1.2%高 Moomoo...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -198,24 +198,24 @@
           "importance": 3
         },
         {
-          "id": "tesla_1794535414_5",
-          "title": "SpaceX could announce $1.5 trillion Tesla merger in December: report",
-          "link": "https://electrek.co/2026/11/12/spacex-tesla-merger-announcement-december-report/",
-          "source": "Electrek (Tesla)",
-          "is_official": true,
-          "published_at": "2026-11-13 05:39",
-          "headline": "SpaceX could announce $1.5 trillion Tesl...",
+          "id": "tesla_1794620368_5",
+          "title": "合併観測で勢いを保てるか、Tesla株の見通し - Traders Union",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdXRuSDZoT0hmQkpkTVNyWGdic19nY0dLZEV4MmR1eUVRTjl1TElidGxSZ3FydnVCd2RzOFlEOThTZDE3U3A2bXpFb2Fra2hjSnRCZ2ZUNjBKdm5VOTN4eFVXdDFITzB0UncxNFEtangzY3FsM1FBSjVtUlZBTHhHTGt4eGlBclROeTZqV3hR?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-11-13 21:09",
+          "headline": "合併観測で勢いを保てるか、Tesla株の見通し - Traders Union",
           "summary": [
-            "【概要】SpaceX could announce $1.5 trillion Tesla merger in December: report",
-            "Elon Musk’s companies are moving faster than expected on a T...",
-            "情報提供元: Electrek (Tesla)"
+            "【概要】合併観測で勢いを保てるか、Tesla株の見通し - Traders Union",
+            "合併観測で勢いを保てるか、Tesla株の見通し Traders Union...",
+            "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
             "最新の公式・主要発表",
             "詳細は元記事リンクから確認可能"
           ],
           "badge": "注目",
-          "importance": 4
+          "importance": 3
         }
       ]
     },
@@ -226,16 +226,16 @@
       "description": "OpenAI・Google・生成AIの公式発表・技術速報",
       "articles": [
         {
-          "id": "ai_1794535415_1",
-          "title": "受講者の78.6％が満足、システム開発経験者のスキルをAIエージェント開発へ拡張 『ビルスピアカデミー』、製造業向け人材育成の実践知を支援事例として公開 - PERSOL INNOVATION",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5NSXAyc3hENDZ0elc3X1dnSmxyYml4eUt2V3dzQTVXRjZhM0t4ck9mWTNtRXU1OXFnc3dWdmU4ZkoxM0FLa1FYYzNma0VpX3YtVVd1VURwUWxfN1RET0pZX093?oc=5",
+          "id": "ai_1794620369_1",
+          "title": "FRB 市場の最大脅威は「AI関連」 - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE95YTNaYjNDdHVualpBdFRDSy1aakFfN3lVN083eFZNeFhWdWpKaWhDSlpjSEJydFB3aDI3UVRQMGRZSHhnTV9WSUJDQkUtWl81?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-13 11:00",
-          "headline": "受講者の78.6％が満足、システム開発経験者のスキルをAIエージェント開発へ拡張...",
+          "published_at": "2026-11-14 09:53",
+          "headline": "FRB 市場の最大脅威は「AI関連」 - Yahoo!ニュース",
           "summary": [
-            "【概要】受講者の78.6％が満足、システム開発経験者のスキルをAIエージェント開発へ拡張 『ビルスピアカデミー』、製造業向け人材育成の実践知を支援事例として公開 - PERSOL INNOVATION",
-            "受講者の78.6％が満足、システム開発経験者のスキルをAIエージェント開発へ拡張 『ビルスピアカデミー』、製造業向け人材...",
+            "【概要】FRB 市場の最大脅威は「AI関連」 - Yahoo!ニュース",
+            "FRB 市場の最大脅威は「AI関連」 Yahoo!ニュース...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -246,16 +246,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1794535415_2",
-          "title": "選挙ポスターAI作成? 戸惑いの声 - Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WZjRvdjF6NmNmU0h6c256d3RyT2xzRVF5THlxbVpMRHRoRk1rVjVPNmVMRzBhN01NSk9Bc1NSMlFlR09OUHNzcXJLdU9CR1gw?oc=5",
+          "id": "ai_1794620369_2",
+          "title": "Google、高速・高効率なAIモデル「Gemini 4 Hydrogen」を発表 - CodeZine",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBEc3NrUkNoM3Nsd0hSR2ptZ1plUnFNT19oTFd2NEZQU3RNTmo4Wmw1R2x5U3A2dXlLbFFEcUxoTElMeDdUTFJLRm92ekotdw?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-13 10:07",
-          "headline": "選挙ポスターAI作成? 戸惑いの声 - Yahoo!ニュース",
+          "published_at": "2026-11-14 09:00",
+          "headline": "Google、高速・高効率なAIモデル「Gemini 4 Hydrogen」を発...",
           "summary": [
-            "【概要】選挙ポスターAI作成? 戸惑いの声 - Yahoo!ニュース",
-            "選挙ポスターAI作成? 戸惑いの声 Yahoo!ニュース...",
+            "【概要】Google、高速・高効率なAIモデル「Gemini 4 Hydrogen」を発表 - CodeZine",
+            "Google、高速・高効率なAIモデル「Gemini 4 Hydrogen」を発表 CodeZine...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -266,16 +266,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1794535415_3",
-          "title": "【プレスリリース】誰もが、24時間、かかりつけAI医師に見守られる社会へ そろそろAI医師免許を解禁しませんか？ - 国立大学法人群馬大学",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OLWFySk8wcjctUkdvZzJZOFpPZDMweHAxY01VYi12UTFtMjJuVUREOVRGMmNDUE9rdWVpM3l4cVdwTVJJazNxUzhjT21wZGQxek0yUEhlRQ?oc=5",
+          "id": "ai_1794620369_3",
+          "title": "脅威アクターが ARTEX の AI エージェントで展開するサイバー犯罪キャンペーンを Amazon Threat Intelligence が観測 - Amazon Web Services (AWS)",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObm1BLTJSb21UYUVLMXlFZUZnQnZudjFiYzdzTjRSUVA0Um5aeXp3S284aVJEWnJLOXlxbVNKV2E2WTVLZFNuU2xzcjdkQ1RSNm95b2ZsZTJURE9ya2w4elBHLXVtYnNhY2ZDM2dCSlNpYzhiRkUxek1KVlB6U0R4VWRZY2RHS1V0dVpZbXZQSzNPMW9ueENiTjNlZU9jal9mYkszbjFTWXJDUXVjXzB0b0hxZHBJOVFib0NpSVF0S1pmUGZNRTAxVVRXbDlBWHBnaWNV?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-13 10:06",
-          "headline": "【プレスリリース】誰もが、24時間、かかりつけAI医師に見守られる社会へ そろそ...",
+          "published_at": "2026-11-14 07:39",
+          "headline": "脅威アクターが ARTEX の AI エージェントで展開するサイバー犯罪キャンペ...",
           "summary": [
-            "【概要】【プレスリリース】誰もが、24時間、かかりつけAI医師に見守られる社会へ そろそろAI医師免許を解禁しませんか？ - 国立大学法人群馬大学",
-            "【プレスリリース】誰もが、24時間、かかりつけAI医師に見守られる社会へ そろそろAI医師免許を解禁しませんか？ 国立大...",
+            "【概要】脅威アクターが ARTEX の AI エージェントで展開するサイバー犯罪キャンペーンを Amazon Threat Intelligence が観測 - Amazon Web Services (AWS)",
+            "脅威アクターが ARTEX の AI エージェントで展開するサイバー犯罪キャンペーンを Amazon Threat In...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -286,16 +286,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1794535415_4",
-          "title": "AIで効率は上がったのに、人は動かなかった。DeNAが踏み切ったAIネイティブな「業務フローの組み替え」 - フルスイング - DeNA",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02WVdOakFDM2kxTTA3M1BQeEZNYkxRNm90dG5NeERKYThlb25GaEVoWndtZFE5cVM2NUtKUFE5OWh3SDYzSDdMLXRacUF4emRlSVNpcHVR?oc=5",
+          "id": "ai_1794620369_4",
+          "title": "AIデータセンター向け債務拡大、「規模を把握できず」 FRBが警鐘 - 日本経済新聞",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01TnZHckFlNFAtTnp4dDhlNjBLeUs4QTE5MTdxUmNPQ1pGYzQ3Q0NYQTNUMjFfWTEwVmFDWEgxZC1tRFZieWQ5Y1NUOE1jbmpqMHVNOXdFcG50dFJoRHZDRXA1MlBwZmRySGpNUw?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-13 10:02",
-          "headline": "AIで効率は上がったのに、人は動かなかった。DeNAが踏み切ったAIネイティブな...",
+          "published_at": "2026-11-14 07:09",
+          "headline": "AIデータセンター向け債務拡大、「規模を把握できず」 FRBが警鐘 - 日本経済...",
           "summary": [
-            "【概要】AIで効率は上がったのに、人は動かなかった。DeNAが踏み切ったAIネイティブな「業務フローの組み替え」 - フルスイング - DeNA",
-            "AIで効率は上がったのに、人は動かなかった。DeNAが踏み切ったAIネイティブな「業務フローの組み替え」 フルスイング ...",
+            "【概要】AIデータセンター向け債務拡大、「規模を把握できず」 FRBが警鐘 - 日本経済新聞",
+            "AIデータセンター向け債務拡大、「規模を把握できず」 FRBが警鐘 日本経済新聞...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -306,16 +306,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1794535415_5",
-          "title": "Lenovo社の検証済みAIサーバーを短納期で提供する「Lenovo AI Express」の取り扱いを開始 - 株式会社アスク",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KeWtBUVRDek1keGl1YjFlYnZIY3VaaWIyNzQxc3pldXRHQUowSUl0dFBmbWdOVVRENXNoNUJNNmo5eE9NM3oyT1huYU52QWFMWkJQaUdKakF5cVZZMng2LUtaTVBiOVA0ajFr?oc=5",
+          "id": "ai_1794620369_5",
+          "title": "‍‍‍動画生成AI - 無料でテキストから動画を生成 - 日本取引所グループ",
+          "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxObEdXQ3Vyajgzb3F2SUhlejRHZlpmWXBMTVVYQlpQbWpYMkJvWG56NG1fZHBwZTZnS0U1a2NabXJ1T0pNR0R2d1U5N0k3NkdOLWp6OWpIWDRUNkljb0dHdHBBeFJTZ1doZWY1X2hfZHNKeUNTVWpWUkdmQXlXSm5TOTNqbjVjVEVFQXZXWDVnTHFXZS1FakNWVzA1aHFIall6QmxBZGJwNmh2a1g0bDlHSmk2ZE1UN1oyWmNKR0k2aUtXb1BVUGNLMUtwVWZaSDBQSXdReHhyZFJtVW44RkQwQkx5eFE0V1g3MHN6aHlYSkZQaU1ZMEYwSUxQVmZIaThBVFBqWXZnTWFfLWpsWW1EWkV2WVVpd1pCS0QxZVV5Y050Tm5oRHJVeGpQOWpPN3FTMVdMZXROMk0wUEFsanJSYXliOTY2RGlHaE1pRVV1ZEJLRmhvclg2TG5HLU0ybDVURlM4QW5oVmpUOENmM0c2alhTa1RZeUU?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-13 09:45",
-          "headline": "Lenovo社の検証済みAIサーバーを短納期で提供する「Lenovo AI Ex...",
+          "published_at": "2026-11-14 03:55",
+          "headline": "‍‍‍動画生成AI - 無料でテキストから動画を生成 - 日本取引所グループ",
           "summary": [
-            "【概要】Lenovo社の検証済みAIサーバーを短納期で提供する「Lenovo AI Express」の取り扱いを開始 - 株式会社アスク",
-            "Lenovo社の検証済みAIサーバーを短納期で提供する「Lenovo AI Express」の取り扱いを開始 株式会社ア...",
+            "【概要】‍‍‍動画生成AI - 無料でテキストから動画を生成 - 日本取引所グループ",
+            "‍‍‍動画生成AI - 無料でテキストから動画を生成 日本取引所グループ...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
