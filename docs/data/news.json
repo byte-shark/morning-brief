@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026年11月15日 10:13",
-  "updated_at_iso": "2026-11-15T10:13:23.430893+09:00",
+  "updated_at": "2026年11月16日 10:20",
+  "updated_at_iso": "2026-11-16T10:20:00.004732+09:00",
   "model_used": "mock-mode",
   "categories": [
     {
@@ -10,7 +10,7 @@
       "description": "Microsoft Azureの公式発表・最新クラウド動向",
       "articles": [
         {
-          "id": "azure_1794705203_1",
+          "id": "azure_1794792000_1",
           "title": "Microsoft、11月の月例更新プログラム公開 悪用確認済みのOutlookの脆弱性を修正 - マイナビニュース",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5WC1rQXZfRUh4amhfWWJZZ2pZOW1MRFFOYnNISWpmdGdJMmY1RGcxeU1NbXRvX0ppdTdUZzZmNHQ0N0Y0M2hhazRMYlpNalJFcnp5Z2Z1T3RSZW5nb3RWYWEwVmJuYTFK?oc=5",
           "source": "Google News (Azure)",
@@ -30,7 +30,7 @@
           "importance": 3
         },
         {
-          "id": "azure_1794705203_2",
+          "id": "azure_1794792000_2",
           "title": "Microsoft 365の障害：サーバーがシャットダウンし、連鎖的な過負荷が発生し、OutlookとTeamsに支障が出ています。 - Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRld5S0NsNDNubTdEazdiOFJCVWtLQmlzZkR0d0VxMUtSbHdRdHhqVTUzcVgwU3RJdjR6RTlwZHhZSkgycUdHaFNVN2UyRzlPT0pHNWw1WmZTZzdyYl9zR0JyWTFQX213bmpMZVQ5M2UxVjhZTHRNZVEwalFpWHBpWThGR29EWWJWWnY3RjRFQjJOSFF4TGVOUmpILUtMX1lGWmdVY0ZtVXRjc0FCRVVKSkhwZVhDd3c?oc=5",
           "source": "Google News (Azure)",
@@ -50,7 +50,7 @@
           "importance": 3
         },
         {
-          "id": "azure_1794705203_3",
+          "id": "azure_1794792000_3",
           "title": "Microsoft 365大規模障害、「Outlook」や「Teams」などに影響か 復旧難航 - 日経クロステック Active",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xOVdFLUpmcmF1MHNEZEF4WEhTa3JrMEdiek1YajVDSUF0X09CUGJhaGh2TFFTREctdXBGQUw0dTI5T1VnS0NEUzNWeV9Pdl96cGxkWklfNmNDenlLT2VBZDVqNGR5aDM5S3c?oc=5",
           "source": "Google News (Azure)",
@@ -70,16 +70,16 @@
           "importance": 3
         },
         {
-          "id": "azure_1794705203_4",
-          "title": "MSの大規模障害、2020年以降に2回サイバー攻撃起因 大抵は数時間で復旧 急がれる究明と対策 #エキスパートトピ - Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcjAtMXJEcXhrQTZ5Mm13MVRtVkl3T1VKTnlhQURyY3ZvalFxQ3FrYWpXWnBXVUtwWUNZSVdlN0R6dUNXbFpiMUthbEg3WGppbXlENTJYUHJjUUtCaUZrcTFCY3FSNVJwM3F4TDJtWHM4eXc4eVQ3bXp2OGF3b21zdkNLa1lxQlJE?oc=5",
+          "id": "azure_1794792000_4",
+          "title": "「Microsoft 365」で大規模障害、メールやWeb会議に影響 原因と復旧状況は？ - ITmedia",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8wazNWV2h3aU5xbmdLb1J6YXMtcjIwSEdsTDdJZlVRTVJnZldqLVVlbWtfY041NVdyNWtiV1R1d0lwcmtvcTBObDZUSFdvU1pYd3J0bVdZbDRCcU41ek45RFFlTjZ2b2xhd095WGhhQ1c1UQ?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-11-13 10:35",
-          "headline": "MSの大規模障害、2020年以降に2回サイバー攻撃起因 大抵は数時間で復旧 急が...",
+          "published_at": "2026-11-13 11:15",
+          "headline": "「Microsoft 365」で大規模障害、メールやWeb会議に影響 原因と復旧...",
           "summary": [
-            "【概要】MSの大規模障害、2020年以降に2回サイバー攻撃起因 大抵は数時間で復旧 急がれる究明と対策 #エキスパートトピ - Yahoo!ニュース",
-            "MSの大規模障害、2020年以降に2回サイバー攻撃起因 大抵は数時間で復旧 急がれる究明と対策 #エキスパートトピ Ya...",
+            "【概要】「Microsoft 365」で大規模障害、メールやWeb会議に影響 原因と復旧状況は？ - ITmedia",
+            "「Microsoft 365」で大規模障害、メールやWeb会議に影響 原因と復旧状況は？ ITmedia...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -90,16 +90,16 @@
           "importance": 3
         },
         {
-          "id": "azure_1794705203_5",
-          "title": "企業が「Microsoft Azure」を選ばざるを得ない理由：選択肢を奪う囲い込み - TechTargetジャパン",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GQjdOUXpQd2RfUS1vZWhMak9CdkZnREIteFVWMlZRQ25Ob2JaUmxkVEZDMHNZMWN3X21wNUtybllmdXN0ZU9oeW5PV09RX1JhMTNwRUhfbHhvbzNoN3VqVUhYb2YzQlIzc3JOeEQ1NXg?oc=5",
+          "id": "azure_1794792000_5",
+          "title": "MSの大規模障害、2020年以降に2回サイバー攻撃起因 大抵は数時間で復旧 急がれる究明と対策 #エキスパートトピ - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcjAtMXJEcXhrQTZ5Mm13MVRtVkl3T1VKTnlhQURyY3ZvalFxQ3FrYWpXWnBXVUtwWUNZSVdlN0R6dUNXbFpiMUthbEg3WGppbXlENTJYUHJjUUtCaUZrcTFCY3FSNVJwM3F4TDJtWHM4eXc4eVQ3bXp2OGF3b21zdkNLa1lxQlJE?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-11-13 05:00",
-          "headline": "企業が「Microsoft Azure」を選ばざるを得ない理由：選択肢を奪う囲い...",
+          "published_at": "2026-11-13 10:35",
+          "headline": "MSの大規模障害、2020年以降に2回サイバー攻撃起因 大抵は数時間で復旧 急が...",
           "summary": [
-            "【概要】企業が「Microsoft Azure」を選ばざるを得ない理由：選択肢を奪う囲い込み - TechTargetジャパン",
-            "企業が「Microsoft Azure」を選ばざるを得ない理由：選択肢を奪う囲い込み TechTargetジャパン...",
+            "【概要】MSの大規模障害、2020年以降に2回サイバー攻撃起因 大抵は数時間で復旧 急がれる究明と対策 #エキスパートトピ - Yahoo!ニュース",
+            "MSの大規模障害、2020年以降に2回サイバー攻撃起因 大抵は数時間で復旧 急がれる究明と対策 #エキスパートトピ Ya...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -118,12 +118,12 @@
       "description": "テスラの最新アップデート・EV・FSD・決算動向",
       "articles": [
         {
-          "id": "tesla_1794705204_1",
+          "id": "tesla_1794792001_1",
           "title": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vR2owRXJLX1dwYUtHY05wNjVKVmVrTHNXdm5yRGJ0NHJzSzZTaEgxWFo0WmNBOWUxV2tXcHljUWlYaG92bll2YUNIQzJlVE0?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-11-15 09:30",
+          "published_at": "2026-11-16 09:57",
           "headline": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
           "summary": [
             "【概要】テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
@@ -138,16 +138,16 @@
           "importance": 3
         },
         {
-          "id": "tesla_1794705204_2",
-          "title": "Teslaの個人用Cybercabは、走行に有料の月額自動運転サービスへの加入が必要 - Securities.io",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeGN6a2pPcGdlN3YyZ05wRzhMUGRpY2JyRXlfc2RobXdOSjVBTWh6dGxIdHpPSHhZVFVjUF9yY19SOXN3czRialBfbzF6bVVUZ0tQXy03SVZ1OXNzOG5CZUxqMTJnNXFKUjZjbnZvSnRTdHV1dEs4QXNnUnd1dERVZGlsdWFySWEwSlBnTTItWjRQMV8zSzktTk1mUQ?oc=5",
+          "id": "tesla_1794792001_2",
+          "title": "テスラ「Cybercab」、購入しても別途「月5万円のサブスク契約」が必要 払わないと走行不可 - CNET Japan",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GTWJaTUJvQ1lnZzl5ZEJWUzhvVGp1YU5TWnBQSG5OYXlQVzlrQlNndXRUdEliZ29VcDZadm1Eb0hhOThmX19tbE82MW9TaXFUY1E?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-11-15 01:21",
-          "headline": "Teslaの個人用Cybercabは、走行に有料の月額自動運転サービスへの加入が...",
+          "published_at": "2026-11-16 08:15",
+          "headline": "テスラ「Cybercab」、購入しても別途「月5万円のサブスク契約」が必要 払わ...",
           "summary": [
-            "【概要】Teslaの個人用Cybercabは、走行に有料の月額自動運転サービスへの加入が必要 - Securities.io",
-            "Teslaの個人用Cybercabは、走行に有料の月額自動運転サービスへの加入が必要 Securities.io...",
+            "【概要】テスラ「Cybercab」、購入しても別途「月5万円のサブスク契約」が必要 払わないと走行不可 - CNET Japan",
+            "テスラ「Cybercab」、購入しても別途「月5万円のサブスク契約」が必要 払わないと走行不可 CNET Japan...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -158,16 +158,56 @@
           "importance": 3
         },
         {
-          "id": "tesla_1794705204_3",
-          "title": "Tesla Cybercab’s autonomy agreement is insane: $299/mo or it doesn’t move",
-          "link": "https://electrek.co/2026/11/14/tesla-cybercab-autonomy-subscription-agreement-terms/",
+          "id": "tesla_1794792001_3",
+          "title": "テスラはついにハンドルもペダルもないクルマを走らせ始めた！　自動運転の裏側を支える技術の中身 - WEB CARTOP",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NQ2dkLVZXaUZjaVIta2N0R21CbXFXcS1Ga2loRjR3TjhnQ1BxVTZiMHZWLUdlT3FzLXplNUtYZWZqRXVQWHAwR0s0cVAyRVdEZjJF0gFYQVVfeXFMTVQ0dWZiX1NoVDN6SV9FVDF5QU1xUUVjZWgwcnN2OEVFM0lzV0tOd3BWc3ZOMXhmVTNDXzBfcTh1RjJOX0hTcmtqYURua0dhSkRPZ0RtQk1ieQ?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-11-16 06:20",
+          "headline": "テスラはついにハンドルもペダルもないクルマを走らせ始めた！　自動運転の裏側を支え...",
+          "summary": [
+            "【概要】テスラはついにハンドルもペダルもないクルマを走らせ始めた！　自動運転の裏側を支える技術の中身 - WEB CARTOP",
+            "テスラはついにハンドルもペダルもないクルマを走らせ始めた！ 自動運転の裏側を支える技術の中身 WEB CARTOP...",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "tesla_1794792001_4",
+          "title": "編集者の視点「テスラ人型ロボ、遅れたが初期生産開始」 - 日本経済新聞",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdE5KckpCSjlKN3ZOQ2JNdWlwaDRyWGh5VkpYQnVmX2pwMFBxM2t3UXVlZU85b19hc1RuUTJHSFFMRmJjX3BoQWR4U080MndHWmhfTVczcHZyQVpLVEQxVWM4a0JHUGhwUTZacGRXN2d5cUxJZV9YR2RWWVMzOS05MDh0X0x3cGs?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-11-16 05:00",
+          "headline": "編集者の視点「テスラ人型ロボ、遅れたが初期生産開始」 - 日本経済新聞",
+          "summary": [
+            "【概要】編集者の視点「テスラ人型ロボ、遅れたが初期生産開始」 - 日本経済新聞",
+            "編集者の視点「テスラ人型ロボ、遅れたが初期生産開始」 日本経済新聞...",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "tesla_1794792001_5",
+          "title": "Is Tesla rushing out a half-baked Cybercab just to shave MKBHD’s head?",
+          "link": "https://electrek.co/2026/11/15/tesla-cybercab-mkbhd-bet-musk-chicken/",
           "source": "Electrek (Tesla)",
           "is_official": true,
-          "published_at": "2026-11-14 22:33",
-          "headline": "Tesla Cybercab’s autonomy agreement is i...",
+          "published_at": "2026-11-16 01:31",
+          "headline": "Is Tesla rushing out a half-baked Cyberc...",
           "summary": [
-            "【概要】Tesla Cybercab’s autonomy agreement is insane: $299/mo or it doesn’t move",
-            "Tesla has posted the agreement that comes with its $29,990 C...",
+            "【概要】Is Tesla rushing out a half-baked Cybercab just to shave MKBHD’s head?",
+            "Elon Musk called YouTuber Marques Brownlee “a chicken” early...",
             "情報提供元: Electrek (Tesla)"
           ],
           "key_points": [
@@ -176,46 +216,6 @@
           ],
           "badge": "注目",
           "importance": 4
-        },
-        {
-          "id": "tesla_1794705204_4",
-          "title": "テスラ、競合が2倍の台数を販売してもフォードとGMを利益で上回る - BigGo ファイナンス",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54cFMyY21DY0JaLWRWMzEwaVdBbUtwV1Z5d19Rc1lWWVJITDBKZjZZUDRWYnc5Qmh4TWc1R0dZdTE2Y3lUZWJOUjB5LXB6X2ZYSFdvaExSQTBIZmp0WGlMcTFrSVJzMkVoWHlQejROTFRpQXZE?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-11-14 21:25",
-          "headline": "テスラ、競合が2倍の台数を販売してもフォードとGMを利益で上回る - BigGo...",
-          "summary": [
-            "【概要】テスラ、競合が2倍の台数を販売してもフォードとGMを利益で上回る - BigGo ファイナンス",
-            "テスラ、競合が2倍の台数を販売してもフォードとGMを利益で上回る BigGo ファイナンス...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "tesla_1794705204_5",
-          "title": "テスラ ロボタクシーに全ツッパか！？サイバートラック生産止めてサイバーキャブ増産へ - 自動運転ラボ",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBsQ2tqY0ZWVnVfOFZ2MkhjNWlXbWl2VDZUUVR5aWhvRkQyNldUek9RTFFKb3JTRXo0eFVVNUJZR2NrWVBoVE8yNA?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-11-14 16:00",
-          "headline": "テスラ ロボタクシーに全ツッパか！？サイバートラック生産止めてサイバーキャブ増産...",
-          "summary": [
-            "【概要】テスラ ロボタクシーに全ツッパか！？サイバートラック生産止めてサイバーキャブ増産へ - 自動運転ラボ",
-            "テスラ ロボタクシーに全ツッパか！？サイバートラック生産止めてサイバーキャブ増産へ 自動運転ラボ...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
         }
       ]
     },
@@ -226,16 +226,16 @@
       "description": "OpenAI・Google・生成AIの公式発表・技術速報",
       "articles": [
         {
-          "id": "ai_1794705205_1",
-          "title": "アングル：ＡＩ電力不足で中古タービン市場過熱、退役ジェットエンジンも転用 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0wbThrUHRNbFVTUk9IMGhNSndGd2NMSGdnZDc1TWFNeVBEZVNWVVhsdk5HMnRSQV9wdDRXYWZ6MjZLUl8wY1lTTVZHc2c0c3UyTW83WmFJS3ktdDZLeGRhZTZBWXZUUHY4cHc3a2JDNGstZWtUYkVUdFdMZlFHZw?oc=5",
+          "id": "ai_1794792002_1",
+          "title": "AI時代の事業リスク評価――「点の評価」から「判断を更新し続ける仕組み」へ - PwC",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeWF1TXRsSG1fbmxyX3FOWENuNU1TcFd3eUpMVWlFZGlEalpjSmsyUW5CYmVUNE9idUJPSUtPMGZwdm42Z1NKM2dCVlpiWFVpQ2ozZXBLMmw2TU5aQVA2WVlJN2ZQVjhucXpXaFlxRHFCUGNvUDJSN3FnN05vQTM1M1FEWW9uY01KeUJ2LUpnYWJmNldrSlpUNUVPdHA3OUtjYkE?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-15 08:01",
-          "headline": "アングル：ＡＩ電力不足で中古タービン市場過熱、退役ジェットエンジンも転用 - R...",
+          "published_at": "2026-11-16 10:10",
+          "headline": "AI時代の事業リスク評価――「点の評価」から「判断を更新し続ける仕組み」へ - ...",
           "summary": [
-            "【概要】アングル：ＡＩ電力不足で中古タービン市場過熱、退役ジェットエンジンも転用 - Reuters",
-            "アングル：ＡＩ電力不足で中古タービン市場過熱、退役ジェットエンジンも転用 Reuters...",
+            "【概要】AI時代の事業リスク評価――「点の評価」から「判断を更新し続ける仕組み」へ - PwC",
+            "AI時代の事業リスク評価――「点の評価」から「判断を更新し続ける仕組み」へ PwC...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -246,16 +246,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1794705205_2",
-          "title": "AIが検事の取り調べをチェック 録画から言動を分析、年度内導入へ（朝日新聞） - Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rSHhROVEzMGRTbEgwOGxEc1k1Skh6WTNacEc3LUNEQ1dURkN6cFhrRzdVQjlCeG5nci1wd0ItYTYwZndaa2RmN0oxUzdBMlBEMVVkVlpvUDlMSUxEbU8zei1ST2hMZFhKSnVPaDRCZXF1cUlINzVjOEpiMnRGOTg?oc=5",
+          "id": "ai_1794792002_2",
+          "title": "AI導入で問われる「自社らしさ」 - 大和総研",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14SEdKY0lmdS1DNUlXbmtvX2QwaFhFajl1ajF3TnlmQ1QxYndDcmZPeFVLOUZUU1pVLWxJdGtxMHpTNHhncUsxT2drZFZxb2pKZkxPVzgxTUoyVHlsTWpDUHpwX2diamc?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-15 06:00",
-          "headline": "AIが検事の取り調べをチェック 録画から言動を分析、年度内導入へ（朝日新聞） -...",
+          "published_at": "2026-11-16 08:57",
+          "headline": "AI導入で問われる「自社らしさ」 - 大和総研",
           "summary": [
-            "【概要】AIが検事の取り調べをチェック 録画から言動を分析、年度内導入へ（朝日新聞） - Yahoo!ニュース",
-            "AIが検事の取り調べをチェック 録画から言動を分析、年度内導入へ（朝日新聞） Yahoo!ニュース...",
+            "【概要】AI導入で問われる「自社らしさ」 - 大和総研",
+            "AI導入で問われる「自社らしさ」 大和総研...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -266,16 +266,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1794705205_3",
-          "title": "‍‍‍プライバシーと安全機能がある生成AIによるポルノコンテンツの情報 ai - 日本取引所グループ",
-          "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxNU0EwX2FjNHNvQ2w3aDNVZGVSSjBYbDFvQU1OZ25UN2lhWHFfM3RCQ1p2NEkyWGJZcjMxVjVPUXJNWVV1Z0dxbktjc19saF9JcjJKMlB4RGswUVhFakZWd21LRWUtYm9jVnpvRjBSdEZNczNvWXREQkpWOUJQWW9kMTNGNURsT3J3aWhwM3d6ckM2T0tPdER3YVQ0TnJFM1Fzd2VheUMtbmNkbHhsU3hDVXhLeDlrcHhXblJfQW45LTVNbDdQUFZZLWg1aVdUamowRFMxTWdHNUllTml5eDBzYTNXWUhReUlRcjVEa2NRN3Q5TGJrUFI4WnVxUy1FZnVVTDlhSV92cGQ1S1RtUTM3amZyZTVNSngxNGhoS2NhRGduV1VtX2E5d3RsWVFlaU80ODBhODAyUzZfTzdlT01tTVRYR2Z1NTNMSW5TeWwwbzRvTTdCX2dMZ3VJMEVoTC14cEFycTFOQndMUTZNWmdMLUF4T0lNZDBDREp6dHlTLTdfWEE?oc=5",
+          "id": "ai_1794792002_3",
+          "title": "AIが生み出す生物兵器の脅威にAIで立ち向かう。米スタートアップの挑戦 - WIRED.jp",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NT3dEVVJjcDlYVWtGVG41c24ydm1NdlBDdXpoRWNXQlVFMVZfaFNYU3E4Nmt2XzVWQm9rNExVblEtTDVXOXdFckxfUzlQU1NBRC1WdWpUaXRuejJraWtuZmJkTVhMai1qU0ZVRU9iYw?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-15 03:57",
-          "headline": "‍‍‍プライバシーと安全機能がある生成AIによるポルノコンテンツの情報 ai -...",
+          "published_at": "2026-11-16 08:00",
+          "headline": "AIが生み出す生物兵器の脅威にAIで立ち向かう。米スタートアップの挑戦 - WI...",
           "summary": [
-            "【概要】‍‍‍プライバシーと安全機能がある生成AIによるポルノコンテンツの情報 ai - 日本取引所グループ",
-            "‍‍‍プライバシーと安全機能がある生成AIによるポルノコンテンツの情報 ai 日本取引所グループ...",
+            "【概要】AIが生み出す生物兵器の脅威にAIで立ち向かう。米スタートアップの挑戦 - WIRED.jp",
+            "AIが生み出す生物兵器の脅威にAIで立ち向かう。米スタートアップの挑戦 WIRED.jp...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -286,16 +286,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1794705205_4",
-          "title": "‍‍‍ヘンタイAI生成 ai - 日本取引所グループ",
-          "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPTWh1WlBydnBzOUVfOG1QYU5wbWhJd2g3LTVHMzdRUnNiYnJqZWVHTHJwS3I3WDRFLXJza1RXZ2VDT3dlY29DYjR4UVJQaE44TFJKTm9YV090dDVya09XRWJrVFVVWjlZX3dTeFJEaWRqQ1FFNHJJcThLUmdaTkNlZGdFb29FY3hFZEZnVFZIdVF2WU42d1dQMFhybXgzRHJpakFjQ1JpdzRZd2F6R0pSYlZZOGt4M2R1UWtEZGFsRThIbXoyeXZjLWwyMEtPZ2stYTFyNDNhTUtVSElEMzJ4R2Y3aWxxVTF4OTRFMUpMVU5KR2UxMUtrS2Z2eEJ3Q3F2UGRKaFdRSnBoUWlsWkdKRW43cmpZcUFRYlRLQ0VYdkM5RHNrbkUydExfUGRtSzJtekJV?oc=5",
+          "id": "ai_1794792002_4",
+          "title": "AI敵視から融和へ Disney路線変更 - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0wMG8yRUYySFh1NkdkMUZ1dGNwRTdSLWdhemZwMl9TYVY4LVVteTN1N3U2VU1OVXJmNy1ZVjRPY1dSR1RoR0RWOXUzblZlbVlt?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-15 03:46",
-          "headline": "‍‍‍ヘンタイAI生成 ai - 日本取引所グループ",
+          "published_at": "2026-11-16 07:53",
+          "headline": "AI敵視から融和へ Disney路線変更 - Yahoo!ニュース",
           "summary": [
-            "【概要】‍‍‍ヘンタイAI生成 ai - 日本取引所グループ",
-            "‍‍‍ヘンタイAI生成 ai 日本取引所グループ...",
+            "【概要】AI敵視から融和へ Disney路線変更 - Yahoo!ニュース",
+            "AI敵視から融和へ Disney路線変更 Yahoo!ニュース...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -306,24 +306,24 @@
           "importance": 3
         },
         {
-          "id": "ai_1794705205_5",
-          "title": "AI悪用攻撃拠点か 世界で千台発見 - Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KbDJFN1lQc2ZMaEl0RHZ3Y2tiajB4cnhHcWJKQnIydDBFRnpRRG1nSlU0VE54MkZPdV9aUlRxYnRzYW82eW05S0hDbnNLT1Fi?oc=5",
-          "source": "Google News (AI)",
-          "is_official": false,
-          "published_at": "2026-11-14 22:45",
-          "headline": "AI悪用攻撃拠点か 世界で千台発見 - Yahoo!ニュース",
+          "id": "ai_1794792002_5",
+          "title": "A step toward defining the Standard Model on a lattice",
+          "link": "https://openai.com/index/step-toward-defining-the-standard-model",
+          "source": "OpenAI Official Blog",
+          "is_official": true,
+          "published_at": "2026-11-16 07:00",
+          "headline": "A step toward defining the Standard Mode...",
           "summary": [
-            "【概要】AI悪用攻撃拠点か 世界で千台発見 - Yahoo!ニュース",
-            "AI悪用攻撃拠点か 世界で千台発見 Yahoo!ニュース...",
-            "情報提供元: Google News (AI)"
+            "【概要】A step toward defining the Standard Model on a lattice",
+            "Explore a candidate nonperturbative lattice definition of th...",
+            "情報提供元: OpenAI Official Blog"
           ],
           "key_points": [
             "最新の公式・主要発表",
             "詳細は元記事リンクから確認可能"
           ],
           "badge": "注目",
-          "importance": 3
+          "importance": 4
         }
       ]
     }
