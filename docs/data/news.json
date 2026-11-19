@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026年11月18日 12:05",
-  "updated_at_iso": "2026-11-18T12:05:10.148511+09:00",
+  "updated_at": "2026年11月19日 11:45",
+  "updated_at_iso": "2026-11-19T11:45:03.543270+09:00",
   "model_used": "mock-mode",
   "categories": [
     {
@@ -10,16 +10,16 @@
       "description": "Microsoft Azureの公式発表・最新クラウド動向",
       "articles": [
         {
-          "id": "azure_1794971110_1",
-          "title": "Microsoft、自社CPU「Cobalt 200」Azure VMを全面提供開始…AIエージェント向けに最大1.9倍の性能 - BigGo ファイナンス",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjNldQWU1PRUpSSS0zdm5URFJoa0x2T1pMbW9DT2t4N0IzUWtxQVo4QnFJUTlBZm1JQ0tNeWptM0RDTjl4UFp3cXRxZUtTWGJFUHVKU2FCY1dGNm5BdnFBQll0WlN5MUFJdWFJZ0FrVWgxQXVG?oc=5",
+          "id": "azure_1795056303_1",
+          "title": "NinjaOne（ニンジャワン）がハイブリッドIT環境の可視性を統合するMicrosoft Azure連携を発表 - DXable News",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb0V1VHZuOUxHZVZudkEwRzB3bWVyRFBtdTZyR1lVNnpfMVU3T1UySzg0QUduaTBKZ21tSkRaQmhYYm9abzMwWk9oTm1BNlRFZ3hfX2JfRWxZN3JfTDBmd25OQ0VsWEFtRW9malV3SlVNeTlvT1o0Y3ZGY2c2ZktDR0IxUTg1aDB0b0hLTG9TUTctZTU5aHBrV2JoY053SlprejlmV1BIUzB6SG1MU0hsV1NMWWVlRHNQbEtzX2RB?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-11-18 08:35",
-          "headline": "Microsoft、自社CPU「Cobalt 200」Azure VMを全面提供...",
+          "published_at": "2026-11-19 11:26",
+          "headline": "NinjaOne（ニンジャワン）がハイブリッドIT環境の可視性を統合するMicr...",
           "summary": [
-            "【概要】Microsoft、自社CPU「Cobalt 200」Azure VMを全面提供開始…AIエージェント向けに最大1.9倍の性能 - BigGo ファイナンス",
-            "Microsoft、自社CPU「Cobalt 200」Azure VMを全面提供開始…AIエージェント向けに最大1.9倍...",
+            "【概要】NinjaOne（ニンジャワン）がハイブリッドIT環境の可視性を統合するMicrosoft Azure連携を発表 - DXable News",
+            "NinjaOne（ニンジャワン）がハイブリッドIT環境の可視性を統合するMicrosoft Azure連携を発表 DXa...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -30,16 +30,16 @@
           "importance": 3
         },
         {
-          "id": "azure_1794971110_2",
-          "title": "Baseten、4つのオープンモデルをMicrosoft Foundryのプレビューで提供 - Unite.AI",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOR3dmSk8zWXlaSi1tNEpUMmR0LUpOLVRXdDNhWEZyNGJOeWtHZVNmeHBkdnBmNjU5aW5lenlPMXA0VnMwNVlSUHNFSm0xWVJvV0hIYVluamdWbGRVMDN1d3FKMUE5cWtiOG80Q2RqM21rUnZCbFd6MHZVVjJKQlhNWTRNRk4zYjdyVGtJX2RR?oc=5",
+          "id": "azure_1795056303_2",
+          "title": "KDDIアイレット、Microsoft Cloud Solution Provider として Microsoft 事業を開始 - Infoseek",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uOFZ0ZUlBUlFJRDJ6djcxdlF6Sk1GS0x0emYwcVZOSzBobVZfTGNkb0FfdUIyeHhrak52aXUtV0gzY094dnp4aU1mT2xZcVFTeVBSZFZmNFhqVUtyTnpMSzdyNzR6Y2NuUDFZdE5Lc3hwdw?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-11-18 07:56",
-          "headline": "Baseten、4つのオープンモデルをMicrosoft Foundryのプレビ...",
+          "published_at": "2026-11-19 05:10",
+          "headline": "KDDIアイレット、Microsoft Cloud Solution Provi...",
           "summary": [
-            "【概要】Baseten、4つのオープンモデルをMicrosoft Foundryのプレビューで提供 - Unite.AI",
-            "Baseten、4つのオープンモデルをMicrosoft Foundryのプレビューで提供 Unite.AI...",
+            "【概要】KDDIアイレット、Microsoft Cloud Solution Provider として Microsoft 事業を開始 - Infoseek",
+            "KDDIアイレット、Microsoft Cloud Solution Provider として Microsoft 事業...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -50,16 +50,16 @@
           "importance": 3
         },
         {
-          "id": "azure_1794971110_3",
-          "title": "［速報］マイクロソフト、PostgreSQL互換のミッションクリティカル向けデータベースサービス「Azure HorizonDB」正式リリース - Publickey",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kSWpNcWdxcVlBNUk0SDVTOGxXTWhZZWxfc3Zwc3k2OTBIYXNzNlNkOUozMHhJRzVBWjhIOU9FaFpXeHJucURfaVVtQjNBWnZpdDBmWTloMUFaNU9MVTQzQTcya1F1MDlUVkpGUHRYSU5odw?oc=5",
+          "id": "azure_1795056303_3",
+          "title": "マイクロソフト、Azure向けチップにインテルのEMIBパッケージング採用 Xeonの複数年供給も確保 - BigGo ファイナンス",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9MMTI2V3ZzNEdiUF85WWVxaGxwZHRyOW43Q2xsNTcyZVRvcWVRYTNrSVNXWTRHc0RBRzVLY0tudkdDdEkwUkJRWlljNl9zZDFsQ1BsbW53QXg4RDhpd2xLaXEwbXZjX2pubjN0S3Y3YlNIVFVY?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-11-18 06:52",
-          "headline": "［速報］マイクロソフト、PostgreSQL互換のミッションクリティカル向けデー...",
+          "published_at": "2026-11-19 04:05",
+          "headline": "マイクロソフト、Azure向けチップにインテルのEMIBパッケージング採用 Xe...",
           "summary": [
-            "【概要】［速報］マイクロソフト、PostgreSQL互換のミッションクリティカル向けデータベースサービス「Azure HorizonDB」正式リリース - Publickey",
-            "［速報］マイクロソフト、PostgreSQL互換のミッションクリティカル向けデータベースサービス「Azure Horiz...",
+            "【概要】マイクロソフト、Azure向けチップにインテルのEMIBパッケージング採用 Xeonの複数年供給も確保 - BigGo ファイナンス",
+            "マイクロソフト、Azure向けチップにインテルのEMIBパッケージング採用 Xeonの複数年供給も確保 BigGo ファ...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -70,16 +70,16 @@
           "importance": 3
         },
         {
-          "id": "azure_1794971110_4",
-          "title": "［速報］Azure SQL Databaseをローカルで実行する「Azure SQL Database local development container」パブリックプレビュー - Publickey",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU0NJTkpTelQwU1NzWC1lYXl4b3pBYko0dEpXbW5zN0RrMmdzZzNhcXYzckltaUp1SFhDSVhSanhfY1E2dzBGcUFmS0pBa2hISFVaWnBPRVJTaGIyMEZzejZxRFhpdG4yYnJGMWoyTjVqMDBUN2JubGJRMm52VEUwODhnNFRCemZRNVk5Z3JvekpSaTBicmViZ3RtRVdLWGdFMHJvTlh3?oc=5",
+          "id": "azure_1795056303_4",
+          "title": "Microsoft、AzureとCopilotの進展も下落リスク払拭できず - Traders Union",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZHQzX0didnhlVzFIMkNvekhsMy1fWUtyLU1PQm9ybWVndUVaOGdEUk5SR2x5cHl5dE80X0NVOHNhRjZ2WWJpQmdwNlMyb3ZjcjZLNF92UG9oVFZTOGdRR0xKblBXQ0lXMGJ4Y3JqN2NqSXFteDFwdFpqcmhVY3k2NlhaZDBMTjVVb1FJMzRURQ?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-11-18 06:42",
-          "headline": "［速報］Azure SQL Databaseをローカルで実行する「Azure S...",
+          "published_at": "2026-11-19 00:15",
+          "headline": "Microsoft、AzureとCopilotの進展も下落リスク払拭できず - ...",
           "summary": [
-            "【概要】［速報］Azure SQL Databaseをローカルで実行する「Azure SQL Database local development container」パブリックプレビュー - Publickey",
-            "［速報］Azure SQL Databaseをローカルで実行する「Azure SQL Database local de...",
+            "【概要】Microsoft、AzureとCopilotの進展も下落リスク払拭できず - Traders Union",
+            "Microsoft、AzureとCopilotの進展も下落リスク払拭できず Traders Union...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -90,24 +90,24 @@
           "importance": 3
         },
         {
-          "id": "azure_1794971110_5",
-          "title": "Ignite 2026: Building the frontier ecosystem",
-          "link": "https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/",
-          "source": "Microsoft Official Blog",
-          "is_official": true,
-          "published_at": "2026-11-18 03:36",
-          "headline": "Ignite 2026: Building the frontier ecosy...",
+          "id": "azure_1795056303_5",
+          "title": "Microsoft Ignite 2026: 人の志、インテリジェンス、信頼を力に - Microsoft Source",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeUxhVFJtNG1pQ2c1Sk1RNS1FcnNUVFR4cHVCWVJmY0hIaHJ0R0o4LUJCZURfMWhNclZ1b2FPSXI2TTNaelNSNGNtbmFzS25xcGJ1Ym9nR1hUZ3VhcmNYLVNCbFM3cm9Gc3VXeFppQUxPLWhBcjRMMC05djlyX3FWanBjMndCVmxnSGlFTE5TX2ZRVDJ5RW1TNERRMW55VzUxWExUQ21udFJvMlVRVU1ZX3ZnakNEVjR3YkVpM3h1ZDcweGhuMVE?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-11-18 14:07",
+          "headline": "Microsoft Ignite 2026: 人の志、インテリジェンス、信頼を力...",
           "summary": [
-            "【概要】Ignite 2026: Building the frontier ecosystem",
-            "Satya Nadella, Microsoft Chairman and CEO, delivered the ope...",
-            "情報提供元: Microsoft Official Blog"
+            "【概要】Microsoft Ignite 2026: 人の志、インテリジェンス、信頼を力に - Microsoft Source",
+            "Microsoft Ignite 2026: 人の志、インテリジェンス、信頼を力に Microsoft Source...",
+            "情報提供元: Google News (Azure)"
           ],
           "key_points": [
             "最新の公式・主要発表",
             "詳細は元記事リンクから確認可能"
           ],
           "badge": "注目",
-          "importance": 4
+          "importance": 3
         }
       ]
     },
@@ -118,16 +118,16 @@
       "description": "テスラの最新アップデート・EV・FSD・決算動向",
       "articles": [
         {
-          "id": "tesla_1794971111_1",
-          "title": "テスラ（TSLA）の機関投資家の資金動向：オプション資金の55%がコールに集中、11月17日 - Moomoo",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVC11WUFTS0hRampzak5iUGxTdU5NYVZadnhwcy1MR1EtZl9SWWZ1TjRUYTk3VGJRcWpUVVdxTTNhZmlrWkhNMThOeElja2dpUkxiOThqSTFjNGF3QXlYSmE1VF9TSkd4OWo2MzJyY0gxcmgtU2dJSUpHSkRTd2ZvY011dlN4SGhrOGhQaHJSTE5qY0Z4M1pvYmlnODN2empKODEzTjFaZGF0bEFSczdHZkZmcw?oc=5",
+          "id": "tesla_1795056304_1",
+          "title": "#テスラ、反発継続中 - Moomoo",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPazB6VktvOFFpRDBXTjVrejFQSVM3REhqZjAzZlVCWTVGVkRpRWtva2RiUVRJanFOWTNsVFp0WnZMdGhxWTlRcnhaS2hlTmE2cFE2RXpYQVhoNXlLdVBvblNBVFRzaS1vTkNQMURyOEJ2QkljNF9JZnFITUZUM3ZUTkJNeDNmUQ?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-11-18 11:41",
-          "headline": "テスラ（TSLA）の機関投資家の資金動向：オプション資金の55%がコールに集中、...",
+          "published_at": "2026-11-19 10:56",
+          "headline": "#テスラ、反発継続中 - Moomoo",
           "summary": [
-            "【概要】テスラ（TSLA）の機関投資家の資金動向：オプション資金の55%がコールに集中、11月17日 - Moomoo",
-            "テスラ（TSLA）の機関投資家の資金動向：オプション資金の55%がコールに集中、11月17日 Moomoo...",
+            "【概要】#テスラ、反発継続中 - Moomoo",
+            "#テスラ、反発継続中 Moomoo...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -138,12 +138,12 @@
           "importance": 3
         },
         {
-          "id": "tesla_1794971111_2",
+          "id": "tesla_1795056304_2",
           "title": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vR2owRXJLX1dwYUtHY05wNjVKVmVrTHNXdm5yRGJ0NHJzSzZTaEgxWFo0WmNBOWUxV2tXcHljUWlYaG92bll2YUNIQzJlVE0?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-11-18 11:18",
+          "published_at": "2026-11-19 08:31",
           "headline": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
           "summary": [
             "【概要】テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
@@ -158,16 +158,16 @@
           "importance": 3
         },
         {
-          "id": "tesla_1794971111_3",
-          "title": "ゲイリー・ブラック氏、テスラ株を依然保有せず 2027年予想PER173倍とマーケティング不足を指摘 - BigGo ファイナンス",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBQLXcyUUxCck56dnRtWG9HWHpLOEtka3BYTTNTS282QUNkaEtyVUtfLUUzVEk4ZUxrWk1zbWNKa1ppdXNUVmxrc1B0RGtqNGU4ckVyZFNDMjE4cE1NeHNEdWtWbThIdl9TcEtDckg3UnJtOUE0?oc=5",
+          "id": "tesla_1795056304_3",
+          "title": "テスラの「サイバーキャブ」が突きつける“所有”の意味──購入したクルマは本当に自分のものなのか？ - WIRED.jp",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSHl5TWphcEJQRm9iR2NDQ1VBbXVFWk9jUTVkR3VydEZsSjBSaFdHX183bWM2ZEFzOFFyNFg3azdpd2ZaaHVJS3JDbHNlM0FxWG9sUXZ4MTNUM2x5QjJxM2hSczBGR093Qm41bXh6WlZQX1RZM3hEUU5QLVRWQVRIRHpCT0owQXVhV3JfY2RtV3lyWjZyN1hvbzNUTXY3TEU?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-11-18 07:36",
-          "headline": "ゲイリー・ブラック氏、テスラ株を依然保有せず 2027年予想PER173倍とマー...",
+          "published_at": "2026-11-19 08:00",
+          "headline": "テスラの「サイバーキャブ」が突きつける“所有”の意味──購入したクルマは本当に自...",
           "summary": [
-            "【概要】ゲイリー・ブラック氏、テスラ株を依然保有せず 2027年予想PER173倍とマーケティング不足を指摘 - BigGo ファイナンス",
-            "ゲイリー・ブラック氏、テスラ株を依然保有せず 2027年予想PER173倍とマーケティング不足を指摘 BigGo ファイ...",
+            "【概要】テスラの「サイバーキャブ」が突きつける“所有”の意味──購入したクルマは本当に自分のものなのか？ - WIRED.jp",
+            "テスラの「サイバーキャブ」が突きつける“所有”の意味──購入したクルマは本当に自分のものなのか？ WIRED.jp...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -178,16 +178,16 @@
           "importance": 3
         },
         {
-          "id": "tesla_1794971111_4",
-          "title": "テスラ、サイバーキャブを29年にドイツ生産 100万台規模へ - 日経クロステック",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LaG5ET3RlQUZZZVVjQWJoZlFUdTRrbmU0WW5QalBReTlVcEJYdDlRcW5MWmFpTl92QmQ4RU96UW1yTGhlQnAwR2ExNXN5WTNuUmczMk5ad3pmak14TTIyWTJLSy1hUDNqVzdaXw?oc=5",
+          "id": "tesla_1795056304_4",
+          "title": "テスラ・モデルY Lプレミアム（前編） - webCG",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYWl9WcVctd3A0VTVtZGJzckpaQmVjdDRxTXpzaEdFUXM1UXM0bXV2Vk45T0VIRFk2eDFWcjc5b0syYXRkOG10bmFkSUQyQU3SAVJBVV95cUxQOHVIVW1GTHpsUnZUblZPVkprYVpaSHJ6OVVsbGx6eXJzTnZ2R0dkaWJfYk9jQUMzWThZWXdfdUdWR25NaDBMdlpWS2RBUWRuVmtB?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-11-18 05:00",
-          "headline": "テスラ、サイバーキャブを29年にドイツ生産 100万台規模へ - 日経クロステッ...",
+          "published_at": "2026-11-19 06:00",
+          "headline": "テスラ・モデルY Lプレミアム（前編） - webCG",
           "summary": [
-            "【概要】テスラ、サイバーキャブを29年にドイツ生産 100万台規模へ - 日経クロステック",
-            "テスラ、サイバーキャブを29年にドイツ生産 100万台規模へ 日経クロステック...",
+            "【概要】テスラ・モデルY Lプレミアム（前編） - webCG",
+            "テスラ・モデルY Lプレミアム（前編） webCG...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -198,24 +198,24 @@
           "importance": 3
         },
         {
-          "id": "tesla_1794971111_5",
-          "title": "Tesla unveils 7.4 MW Powercore to take on ex-exec Baglino’s Heron Link",
-          "link": "https://electrek.co/2026/11/17/tesla-powercore-solid-state-transformer-heron-link/",
-          "source": "Electrek (Tesla)",
-          "is_official": true,
-          "published_at": "2026-11-18 01:35",
-          "headline": "Tesla unveils 7.4 MW Powercore to take o...",
+          "id": "tesla_1795056304_5",
+          "title": "3位は「テスラ『サイバーキャブ』の衝撃 車の稼働率10倍へ、収益構造が激変」50代の注目トップ10 - 日経クロステック",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CV1NBMFlTUzFoSldOQzdESk5wWEcwZExIdjIxQUZGeGFUUlZrQi0xODZ5TjBFMGxFUzVVXy1Ua2huVlktdmFjUVpYOGRHdUlvRElEam9hYjgzV3hBeU9nQ0lCYl9iZkR1STRlMQ?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-11-19 05:00",
+          "headline": "3位は「テスラ『サイバーキャブ』の衝撃 車の稼働率10倍へ、収益構造が激変」50...",
           "summary": [
-            "【概要】Tesla unveils 7.4 MW Powercore to take on ex-exec Baglino’s Heron Link",
-            "Tesla has unveiled Powercore, a solid-state medium-voltage t...",
-            "情報提供元: Electrek (Tesla)"
+            "【概要】3位は「テスラ『サイバーキャブ』の衝撃 車の稼働率10倍へ、収益構造が激変」50代の注目トップ10 - 日経クロステック",
+            "3位は「テスラ『サイバーキャブ』の衝撃 車の稼働率10倍へ、収益構造が激変」50代の注目トップ10 日経クロステック...",
+            "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
             "最新の公式・主要発表",
             "詳細は元記事リンクから確認可能"
           ],
           "badge": "注目",
-          "importance": 4
+          "importance": 3
         }
       ]
     },
@@ -226,104 +226,104 @@
       "description": "OpenAI・Google・生成AIの公式発表・技術速報",
       "articles": [
         {
-          "id": "ai_1794971112_1",
-          "title": "大手AI事業者から受け取った対価をクリエイターに還元へ。AI回答にコンテンツが参照された実績に応じた分配を開始 - note株式会社",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1wa1dqNW91NXBPN1Uzd1I3djZTS3doTmg3aWphWlVTU2tDa2ZRTmZMaWp0aXEyNjVuX2NoT2s2U3JSX0ZCLXc?oc=5",
-          "source": "Google News (AI)",
-          "is_official": false,
-          "published_at": "2026-11-18 12:00",
-          "headline": "大手AI事業者から受け取った対価をクリエイターに還元へ。AI回答にコンテンツが参...",
+          "id": "ai_1795056305_1",
+          "title": "The Gemini app is now available on lower-memory Android devices.",
+          "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+          "source": "Google AI Blog",
+          "is_official": true,
+          "published_at": "2026-11-19 02:00",
+          "headline": "The Gemini app is now available on lower...",
           "summary": [
-            "【概要】大手AI事業者から受け取った対価をクリエイターに還元へ。AI回答にコンテンツが参照された実績に応じた分配を開始 - note株式会社",
-            "大手AI事業者から受け取った対価をクリエイターに還元へ。AI回答にコンテンツが参照された実績に応じた分配を開始 note...",
-            "情報提供元: Google News (AI)"
+            "【概要】The Gemini app is now available on lower-memory Android devices.",
+            "The Google Gemini app now supports lower-memory Android devi...",
+            "情報提供元: Google AI Blog"
           ],
           "key_points": [
             "最新の公式・主要発表",
             "詳細は元記事リンクから確認可能"
           ],
           "badge": "注目",
-          "importance": 3
+          "importance": 4
         },
         {
-          "id": "ai_1794971112_2",
-          "title": "AIに記事が参照された対価を、クリエイターのみなさんに還元します - note",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1rTlJ5bjgyZHlPRnQ5bHdnVXhDZjFjWmZ5aVhETWZPV0RaMDhkOHROb19jQmFEVzJoX1V0eVNob3JjVGdlVU9SUzhKb1Exdw?oc=5",
-          "source": "Google News (AI)",
-          "is_official": false,
-          "published_at": "2026-11-18 12:00",
-          "headline": "AIに記事が参照された対価を、クリエイターのみなさんに還元します - note",
+          "id": "ai_1795056305_2",
+          "title": "The Silent Consensus",
+          "link": "https://openai.com/index/the-silent-consensus",
+          "source": "OpenAI Official Blog",
+          "is_official": true,
+          "published_at": "2026-11-18 19:00",
+          "headline": "The Silent Consensus",
           "summary": [
-            "【概要】AIに記事が参照された対価を、クリエイターのみなさんに還元します - note",
-            "AIに記事が参照された対価を、クリエイターのみなさんに還元します note...",
-            "情報提供元: Google News (AI)"
+            "【概要】The Silent Consensus",
+            "Dean Ball, Head of Strategic Futures at OpenAI, examines how...",
+            "情報提供元: OpenAI Official Blog"
           ],
           "key_points": [
             "最新の公式・主要発表",
             "詳細は元記事リンクから確認可能"
           ],
           "badge": "注目",
-          "importance": 3
+          "importance": 4
         },
         {
-          "id": "ai_1794971112_3",
-          "title": "【中高生対象】 AIとロボットが働く無人実験室をのぞきに行こう！ 科学コミュニケーターと探検する研究の現場 - 日本科学未来館",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwNGcwLXFNb1VleGNSaUs2cDdiQWhISjVjLVNLdF9wcjZ0Tk5yMEthSFJlanFabFB4ZnRKVEk4dzdWaHp2cV9ReWdaaDdNNXJtZnlWNzgyZDYtcm9XdGpNRFA3bEhiZw?oc=5",
-          "source": "Google News (AI)",
-          "is_official": false,
-          "published_at": "2026-11-18 11:50",
-          "headline": "【中高生対象】 AIとロボットが働く無人実験室をのぞきに行こう！ 科学コミュニケ...",
+          "id": "ai_1795056305_3",
+          "title": "Research acceleration: The jagged frontier",
+          "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+          "source": "OpenAI Official Blog",
+          "is_official": true,
+          "published_at": "2026-11-18 17:00",
+          "headline": "Research acceleration: The jagged fronti...",
           "summary": [
-            "【概要】【中高生対象】 AIとロボットが働く無人実験室をのぞきに行こう！ 科学コミュニケーターと探検する研究の現場 - 日本科学未来館",
-            "【中高生対象】 AIとロボットが働く無人実験室をのぞきに行こう！ 科学コミュニケーターと探検する研究の現場 日本科学未来...",
-            "情報提供元: Google News (AI)"
+            "【概要】Research acceleration: The jagged frontier",
+            "OpenAI measures how coding agents are accelerating AI resear...",
+            "情報提供元: OpenAI Official Blog"
           ],
           "key_points": [
             "最新の公式・主要発表",
             "詳細は元記事リンクから確認可能"
           ],
           "badge": "注目",
-          "importance": 3
+          "importance": 4
         },
         {
-          "id": "ai_1794971112_4",
-          "title": "ケンブリッジ辞典が選ぶ今年の単語は「人間」、AIめぐる論議の高まりを象徴 - CNN",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBvMEdvaTYtM1dUZEFnMkJJbS15NV82UkNDdG4tdjlqdTExdFA3eW9fWFVCNXVuYlFIRzVLZDlXcTdLcGJacXB2RUlLRnRTMVNIbkJBZQ?oc=5",
-          "source": "Google News (AI)",
-          "is_official": false,
-          "published_at": "2026-11-18 11:26",
-          "headline": "ケンブリッジ辞典が選ぶ今年の単語は「人間」、AIめぐる論議の高まりを象徴 - C...",
+          "id": "ai_1795056305_4",
+          "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+          "link": "https://openai.com/business/customer-stories/sumitomo-life",
+          "source": "OpenAI Official Blog",
+          "is_official": true,
+          "published_at": "2026-11-18 17:00",
+          "headline": "How Sumitomo Life’s leaders helped teams...",
           "summary": [
-            "【概要】ケンブリッジ辞典が選ぶ今年の単語は「人間」、AIめぐる論議の高まりを象徴 - CNN",
-            "ケンブリッジ辞典が選ぶ今年の単語は「人間」、AIめぐる論議の高まりを象徴 CNN...",
-            "情報提供元: Google News (AI)"
+            "【概要】How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+            "Sumitomo Life uses ChatGPT Enterprise to research insurers, ...",
+            "情報提供元: OpenAI Official Blog"
           ],
           "key_points": [
             "最新の公式・主要発表",
             "詳細は元記事リンクから確認可能"
           ],
           "badge": "注目",
-          "importance": 3
+          "importance": 4
         },
         {
-          "id": "ai_1794971112_5",
-          "title": "AIエージェント時代の実践的サイバーリスクコントロールとは？～第16回サイバーセキュリティ国際シンポジウム登壇レポート - www.trendmicro.com",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVmQyZFpRMHQwbEJTNGxCMm9ycXk1Vm91Nk1RVzFxS0Rxb2NZRWJaNnpZUUZzWE9EckVnWVlFR3ZLNC1YWkxpMy1TWUxPM0tINTdObEkxRVNpUXF3V1VtOUd0N1J3eVhGb3FPM05BMmpORW8wMU1SQmNpUFZaTVcyeFQyNA?oc=5",
-          "source": "Google News (AI)",
-          "is_official": false,
-          "published_at": "2026-11-18 11:23",
-          "headline": "AIエージェント時代の実践的サイバーリスクコントロールとは？～第16回サイバーセ...",
+          "id": "ai_1795056305_5",
+          "title": "Inside the Codex sandbox",
+          "link": "https://openai.com/index/inside-the-codex-sandbox",
+          "source": "OpenAI Official Blog",
+          "is_official": true,
+          "published_at": "2026-11-18 17:00",
+          "headline": "Inside the Codex sandbox",
           "summary": [
-            "【概要】AIエージェント時代の実践的サイバーリスクコントロールとは？～第16回サイバーセキュリティ国際シンポジウム登壇レポート - www.trendmicro.com",
-            "AIエージェント時代の実践的サイバーリスクコントロールとは？～第16回サイバーセキュリティ国際シンポジウム登壇レポート ...",
-            "情報提供元: Google News (AI)"
+            "【概要】Inside the Codex sandbox",
+            "See how Codex runs commands on your machine while enforcing ...",
+            "情報提供元: OpenAI Official Blog"
           ],
           "key_points": [
             "最新の公式・主要発表",
             "詳細は元記事リンクから確認可能"
           ],
           "badge": "注目",
-          "importance": 3
+          "importance": 4
         }
       ]
     }
