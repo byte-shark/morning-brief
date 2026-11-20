@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026年11月19日 11:45",
-  "updated_at_iso": "2026-11-19T11:45:03.543270+09:00",
+  "updated_at": "2026年11月20日 11:30",
+  "updated_at_iso": "2026-11-20T11:30:40.665238+09:00",
   "model_used": "mock-mode",
   "categories": [
     {
@@ -10,12 +10,72 @@
       "description": "Microsoft Azureの公式発表・最新クラウド動向",
       "articles": [
         {
-          "id": "azure_1795056303_1",
+          "id": "azure_1795141841_1",
+          "title": "KDDIアイレット、Microsoft Cloud Solution Provider として Microsoft 事業を開始｜Infoseekニュース - Infoseek",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uOFZ0ZUlBUlFJRDJ6djcxdlF6Sk1GS0x0emYwcVZOSzBobVZfTGNkb0FfdUIyeHhrak52aXUtV0gzY094dnp4aU1mT2xZcVFTeVBSZFZmNFhqVUtyTnpMSzdyNzR6Y2NuUDFZdE5Lc3hwdw?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-11-20 01:10",
+          "headline": "KDDIアイレット、Microsoft Cloud Solution Provi...",
+          "summary": [
+            "【概要】KDDIアイレット、Microsoft Cloud Solution Provider として Microsoft 事業を開始｜Infoseekニュース - Infoseek",
+            "KDDIアイレット、Microsoft Cloud Solution Provider として Microsoft 事業...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1795141841_2",
+          "title": "マイクロソフト、クラウドやオンプレミスのデータベースを一元管理する「Database Hub」正式リリース。AIエージェントによる運用監視の自動化も - Publickey",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9fSThBMUY0LXl5Ym9yTkhveXJxUGNxTzJuNVZrNU5ZYVJoMU0za2FTalJjdDhwazJKOEIxYUZIaUxSOVU0TmZEVVdTY0k4MERiYXBOb2ZreWMwZkNCR2pZUDdxNA?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-11-20 00:24",
+          "headline": "マイクロソフト、クラウドやオンプレミスのデータベースを一元管理する「Databa...",
+          "summary": [
+            "【概要】マイクロソフト、クラウドやオンプレミスのデータベースを一元管理する「Database Hub」正式リリース。AIエージェントによる運用監視の自動化も - Publickey",
+            "マイクロソフト、クラウドやオンプレミスのデータベースを一元管理する「Database Hub」正式リリース。AIエージェ...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1795141841_3",
+          "title": "システム移行、AIの守備範囲は？ Azure Catalyst一般提供、新機能の多くはプレビュー - ビジネス+IT",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBOTDMzeDFXOWVkTUVxY2hvejNyUE92LWFoamtfSmo3aklqZFhRbEhtMnJtaUhHZm1PalBFQ01sQ0FYSkM4R016TFQ0akpYbnFGNTVz?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-11-19 21:35",
+          "headline": "システム移行、AIの守備範囲は？ Azure Catalyst一般提供、新機能の...",
+          "summary": [
+            "【概要】システム移行、AIの守備範囲は？ Azure Catalyst一般提供、新機能の多くはプレビュー - ビジネス+IT",
+            "システム移行、AIの守備範囲は？ Azure Catalyst一般提供、新機能の多くはプレビュー ビジネス+IT...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1795141841_4",
           "title": "NinjaOne（ニンジャワン）がハイブリッドIT環境の可視性を統合するMicrosoft Azure連携を発表 - DXable News",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb0V1VHZuOUxHZVZudkEwRzB3bWVyRFBtdTZyR1lVNnpfMVU3T1UySzg0QUduaTBKZ21tSkRaQmhYYm9abzMwWk9oTm1BNlRFZ3hfX2JfRWxZN3JfTDBmd25OQ0VsWEFtRW9malV3SlVNeTlvT1o0Y3ZGY2c2ZktDR0IxUTg1aDB0b0hLTG9TUTctZTU5aHBrV2JoY053SlprejlmV1BIUzB6SG1MU0hsV1NMWWVlRHNQbEtzX2RB?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-11-19 11:26",
+          "published_at": "2026-11-19 16:30",
           "headline": "NinjaOne（ニンジャワン）がハイブリッドIT環境の可視性を統合するMicr...",
           "summary": [
             "【概要】NinjaOne（ニンジャワン）がハイブリッドIT環境の可視性を統合するMicrosoft Azure連携を発表 - DXable News",
@@ -30,76 +90,16 @@
           "importance": 3
         },
         {
-          "id": "azure_1795056303_2",
-          "title": "KDDIアイレット、Microsoft Cloud Solution Provider として Microsoft 事業を開始 - Infoseek",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uOFZ0ZUlBUlFJRDJ6djcxdlF6Sk1GS0x0emYwcVZOSzBobVZfTGNkb0FfdUIyeHhrak52aXUtV0gzY094dnp4aU1mT2xZcVFTeVBSZFZmNFhqVUtyTnpMSzdyNzR6Y2NuUDFZdE5Lc3hwdw?oc=5",
+          "id": "azure_1795141841_5",
+          "title": "新しい Microsoft IQ を発表: 組織のインテリジェンスをあらゆるエージェントで活用 - Microsoft Source",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVUpVNHdoQWRhTXpvbzBsTnZCcmlIakdSWXJqdUw1MmF2eVoyRnExZW1NaVdmbF90RW9Zc25qWFRRUXRpVkRNbTBTQmJiRktLQkRMaURYMXhjMmo4NHpxTnNCNV9xU2tyYUdTTHkzQlluOGl1TVczenFwWmQySE9aa1NIcUVFRzJlZ1pzLWtyakQ4VTdDdlpmN1VNWTFteXNNdXhRbGRmS0tFazFhSnp2UzRXZ1R3bkNFV19XMU40Sm0tSW5sOVB4RHNWMkhKYi1aRG9Nd2k0bnRRcGtOX2tNTVRVVFlpek0?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-11-19 05:10",
-          "headline": "KDDIアイレット、Microsoft Cloud Solution Provi...",
+          "published_at": "2026-11-19 14:02",
+          "headline": "新しい Microsoft IQ を発表: 組織のインテリジェンスをあらゆるエー...",
           "summary": [
-            "【概要】KDDIアイレット、Microsoft Cloud Solution Provider として Microsoft 事業を開始 - Infoseek",
-            "KDDIアイレット、Microsoft Cloud Solution Provider として Microsoft 事業...",
-            "情報提供元: Google News (Azure)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "azure_1795056303_3",
-          "title": "マイクロソフト、Azure向けチップにインテルのEMIBパッケージング採用 Xeonの複数年供給も確保 - BigGo ファイナンス",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9MMTI2V3ZzNEdiUF85WWVxaGxwZHRyOW43Q2xsNTcyZVRvcWVRYTNrSVNXWTRHc0RBRzVLY0tudkdDdEkwUkJRWlljNl9zZDFsQ1BsbW53QXg4RDhpd2xLaXEwbXZjX2pubjN0S3Y3YlNIVFVY?oc=5",
-          "source": "Google News (Azure)",
-          "is_official": false,
-          "published_at": "2026-11-19 04:05",
-          "headline": "マイクロソフト、Azure向けチップにインテルのEMIBパッケージング採用 Xe...",
-          "summary": [
-            "【概要】マイクロソフト、Azure向けチップにインテルのEMIBパッケージング採用 Xeonの複数年供給も確保 - BigGo ファイナンス",
-            "マイクロソフト、Azure向けチップにインテルのEMIBパッケージング採用 Xeonの複数年供給も確保 BigGo ファ...",
-            "情報提供元: Google News (Azure)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "azure_1795056303_4",
-          "title": "Microsoft、AzureとCopilotの進展も下落リスク払拭できず - Traders Union",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZHQzX0didnhlVzFIMkNvekhsMy1fWUtyLU1PQm9ybWVndUVaOGdEUk5SR2x5cHl5dE80X0NVOHNhRjZ2WWJpQmdwNlMyb3ZjcjZLNF92UG9oVFZTOGdRR0xKblBXQ0lXMGJ4Y3JqN2NqSXFteDFwdFpqcmhVY3k2NlhaZDBMTjVVb1FJMzRURQ?oc=5",
-          "source": "Google News (Azure)",
-          "is_official": false,
-          "published_at": "2026-11-19 00:15",
-          "headline": "Microsoft、AzureとCopilotの進展も下落リスク払拭できず - ...",
-          "summary": [
-            "【概要】Microsoft、AzureとCopilotの進展も下落リスク払拭できず - Traders Union",
-            "Microsoft、AzureとCopilotの進展も下落リスク払拭できず Traders Union...",
-            "情報提供元: Google News (Azure)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "azure_1795056303_5",
-          "title": "Microsoft Ignite 2026: 人の志、インテリジェンス、信頼を力に - Microsoft Source",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeUxhVFJtNG1pQ2c1Sk1RNS1FcnNUVFR4cHVCWVJmY0hIaHJ0R0o4LUJCZURfMWhNclZ1b2FPSXI2TTNaelNSNGNtbmFzS25xcGJ1Ym9nR1hUZ3VhcmNYLVNCbFM3cm9Gc3VXeFppQUxPLWhBcjRMMC05djlyX3FWanBjMndCVmxnSGlFTE5TX2ZRVDJ5RW1TNERRMW55VzUxWExUQ21udFJvMlVRVU1ZX3ZnakNEVjR3YkVpM3h1ZDcweGhuMVE?oc=5",
-          "source": "Google News (Azure)",
-          "is_official": false,
-          "published_at": "2026-11-18 14:07",
-          "headline": "Microsoft Ignite 2026: 人の志、インテリジェンス、信頼を力...",
-          "summary": [
-            "【概要】Microsoft Ignite 2026: 人の志、インテリジェンス、信頼を力に - Microsoft Source",
-            "Microsoft Ignite 2026: 人の志、インテリジェンス、信頼を力に Microsoft Source...",
+            "【概要】新しい Microsoft IQ を発表: 組織のインテリジェンスをあらゆるエージェントで活用 - Microsoft Source",
+            "新しい Microsoft IQ を発表: 組織のインテリジェンスをあらゆるエージェントで活用 Microsoft So...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -118,16 +118,16 @@
       "description": "テスラの最新アップデート・EV・FSD・決算動向",
       "articles": [
         {
-          "id": "tesla_1795056304_1",
-          "title": "#テスラ、反発継続中 - Moomoo",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPazB6VktvOFFpRDBXTjVrejFQSVM3REhqZjAzZlVCWTVGVkRpRWtva2RiUVRJanFOWTNsVFp0WnZMdGhxWTlRcnhaS2hlTmE2cFE2RXpYQVhoNXlLdVBvblNBVFRzaS1vTkNQMURyOEJ2QkljNF9JZnFITUZUM3ZUTkJNeDNmUQ?oc=5",
+          "id": "tesla_1795141841_1",
+          "title": "テスラ、2万9990ドルのサイバーキャブ予約受注を開始 競合と電池サプライヤーに動揺広がる - BigGo ファイナンス",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5FVmZ0Y1pSbVVUWUJBanJhOV91RGJVX1R0WUlkVVpsYmxzd3FyOFlTQUxPdzNuMWN3Ymx2djZMdkk5cEVQODVBaEJ5alNIMUtBYi1sZEk3UkRrWGcwcXp0NlMtb2gzanFHVEV4UzNHeFRtYlV0?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-11-19 10:56",
-          "headline": "#テスラ、反発継続中 - Moomoo",
+          "published_at": "2026-11-20 10:55",
+          "headline": "テスラ、2万9990ドルのサイバーキャブ予約受注を開始 競合と電池サプライヤーに...",
           "summary": [
-            "【概要】#テスラ、反発継続中 - Moomoo",
-            "#テスラ、反発継続中 Moomoo...",
+            "【概要】テスラ、2万9990ドルのサイバーキャブ予約受注を開始 競合と電池サプライヤーに動揺広がる - BigGo ファイナンス",
+            "テスラ、2万9990ドルのサイバーキャブ予約受注を開始 競合と電池サプライヤーに動揺広がる BigGo ファイナンス...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -138,12 +138,52 @@
           "importance": 3
         },
         {
-          "id": "tesla_1795056304_2",
+          "id": "tesla_1795141841_2",
+          "title": "マスク氏、テスラ中国工場の増産を約束＝中国国営メディア - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNREFfX0E0OW9xWG1ZZS15UzdSYV9mdU1ZVzBFNGd2UllDaVl6UVRrLUxWRURmV3d6UUhMU2phUzVwdXRHYVhfS3pJZTFvRlI3S0F3clJCajlpVXJraTZRR1NoUVZDZ0d2dVFXQllKNWQ4LXZaOWVIajdRMnJ0Z0RtMFJvdWdSTEk?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-11-20 10:24",
+          "headline": "マスク氏、テスラ中国工場の増産を約束＝中国国営メディア - Reuters",
+          "summary": [
+            "【概要】マスク氏、テスラ中国工場の増産を約束＝中国国営メディア - Reuters",
+            "マスク氏、テスラ中国工場の増産を約束＝中国国営メディア Reuters...",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "tesla_1795141841_3",
+          "title": "【Spigen】Teslaオーナー必見！Teslaの車内をさらに洗練された上質空間へ。新発売の車載アイテムを含む厳選5点をご紹介！期間限定で最大21％OFFも実施決定！ - PR TIMES",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByUER2UVpWVS13QmlrRDZDVWRRU2tQbkxrNUhnNGs3b1dLUzBoTFp5SzNJdXRuRllDdG1IMkdtZnQ1Zk9tSTIyZHBBTU1qLW9NWFV0S25XcG5NQnNzRjlUajZ3Ty0xTE5HOVE?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-11-20 10:12",
+          "headline": "【Spigen】Teslaオーナー必見！Teslaの車内をさらに洗練された上質空...",
+          "summary": [
+            "【概要】【Spigen】Teslaオーナー必見！Teslaの車内をさらに洗練された上質空間へ。新発売の車載アイテムを含む厳選5点をご紹介！期間限定で最大21％OFFも実施決定！ - PR TIMES",
+            "【Spigen】Teslaオーナー必見！Teslaの車内をさらに洗練された上質空間へ。新発売の車載アイテムを含む厳選5点...",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "tesla_1795141841_4",
           "title": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vR2owRXJLX1dwYUtHY05wNjVKVmVrTHNXdm5yRGJ0NHJzSzZTaEgxWFo0WmNBOWUxV2tXcHljUWlYaG92bll2YUNIQzJlVE0?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-11-19 08:31",
+          "published_at": "2026-11-20 09:17",
           "headline": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
           "summary": [
             "【概要】テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
@@ -158,56 +198,16 @@
           "importance": 3
         },
         {
-          "id": "tesla_1795056304_3",
-          "title": "テスラの「サイバーキャブ」が突きつける“所有”の意味──購入したクルマは本当に自分のものなのか？ - WIRED.jp",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSHl5TWphcEJQRm9iR2NDQ1VBbXVFWk9jUTVkR3VydEZsSjBSaFdHX183bWM2ZEFzOFFyNFg3azdpd2ZaaHVJS3JDbHNlM0FxWG9sUXZ4MTNUM2x5QjJxM2hSczBGR093Qm41bXh6WlZQX1RZM3hEUU5QLVRWQVRIRHpCT0owQXVhV3JfY2RtV3lyWjZyN1hvbzNUTXY3TEU?oc=5",
+          "id": "tesla_1795141841_5",
+          "title": "3位は「テスラ、圧縮空気で空飛ぶロードスター 強烈なダウンフォース生む特許読解」60代以上の注目トップ10 - 日経クロステック",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1WFJoczJHeElfNC12M1RZaUN4X0c0dlRaRnJEREw4VHNUVHc3cGNqSjIxM2JmeFlaVHkyU2xlbko2UktjSUNUZ0EwWG5QX09EUkotRjVZUkdQTDhRbFhoclFSN1NzbFVfUlhzLQ?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-11-19 08:00",
-          "headline": "テスラの「サイバーキャブ」が突きつける“所有”の意味──購入したクルマは本当に自...",
+          "published_at": "2026-11-20 05:00",
+          "headline": "3位は「テスラ、圧縮空気で空飛ぶロードスター 強烈なダウンフォース生む特許読解」...",
           "summary": [
-            "【概要】テスラの「サイバーキャブ」が突きつける“所有”の意味──購入したクルマは本当に自分のものなのか？ - WIRED.jp",
-            "テスラの「サイバーキャブ」が突きつける“所有”の意味──購入したクルマは本当に自分のものなのか？ WIRED.jp...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "tesla_1795056304_4",
-          "title": "テスラ・モデルY Lプレミアム（前編） - webCG",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYWl9WcVctd3A0VTVtZGJzckpaQmVjdDRxTXpzaEdFUXM1UXM0bXV2Vk45T0VIRFk2eDFWcjc5b0syYXRkOG10bmFkSUQyQU3SAVJBVV95cUxQOHVIVW1GTHpsUnZUblZPVkprYVpaSHJ6OVVsbGx6eXJzTnZ2R0dkaWJfYk9jQUMzWThZWXdfdUdWR25NaDBMdlpWS2RBUWRuVmtB?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-11-19 06:00",
-          "headline": "テスラ・モデルY Lプレミアム（前編） - webCG",
-          "summary": [
-            "【概要】テスラ・モデルY Lプレミアム（前編） - webCG",
-            "テスラ・モデルY Lプレミアム（前編） webCG...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "tesla_1795056304_5",
-          "title": "3位は「テスラ『サイバーキャブ』の衝撃 車の稼働率10倍へ、収益構造が激変」50代の注目トップ10 - 日経クロステック",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CV1NBMFlTUzFoSldOQzdESk5wWEcwZExIdjIxQUZGeGFUUlZrQi0xODZ5TjBFMGxFUzVVXy1Ua2huVlktdmFjUVpYOGRHdUlvRElEam9hYjgzV3hBeU9nQ0lCYl9iZkR1STRlMQ?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-11-19 05:00",
-          "headline": "3位は「テスラ『サイバーキャブ』の衝撃 車の稼働率10倍へ、収益構造が激変」50...",
-          "summary": [
-            "【概要】3位は「テスラ『サイバーキャブ』の衝撃 車の稼働率10倍へ、収益構造が激変」50代の注目トップ10 - 日経クロステック",
-            "3位は「テスラ『サイバーキャブ』の衝撃 車の稼働率10倍へ、収益構造が激変」50代の注目トップ10 日経クロステック...",
+            "【概要】3位は「テスラ、圧縮空気で空飛ぶロードスター 強烈なダウンフォース生む特許読解」60代以上の注目トップ10 - 日経クロステック",
+            "3位は「テスラ、圧縮空気で空飛ぶロードスター 強烈なダウンフォース生む特許読解」60代以上の注目トップ10 日経クロステ...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -226,104 +226,104 @@
       "description": "OpenAI・Google・生成AIの公式発表・技術速報",
       "articles": [
         {
-          "id": "ai_1795056305_1",
-          "title": "The Gemini app is now available on lower-memory Android devices.",
-          "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
-          "source": "Google AI Blog",
-          "is_official": true,
-          "published_at": "2026-11-19 02:00",
-          "headline": "The Gemini app is now available on lower...",
+          "id": "ai_1795141842_1",
+          "title": "日沼諭史の「AI活用入門塾」AmazonのAIアシスタントがリニューアル、商品探し・比較、価格チェックに役立てよう - 株式会社インプレス",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJUGxvY05vNkdwT3FfUDVqQmpqRkpXd0sybUhVcG9LaTNSOXN5QUk5M0NoNGdBVmZlVU9RTXVUVWNSMjloTVpCbENBSTl2Y0Zmdi0xRzRNYTFaUXkxTTJlTnlLSjllcFEwSzZHT041SUpLUQ?oc=5",
+          "source": "Google News (AI)",
+          "is_official": false,
+          "published_at": "2026-11-20 11:11",
+          "headline": "日沼諭史の「AI活用入門塾」AmazonのAIアシスタントがリニューアル、商品探...",
           "summary": [
-            "【概要】The Gemini app is now available on lower-memory Android devices.",
-            "The Google Gemini app now supports lower-memory Android devi...",
-            "情報提供元: Google AI Blog"
+            "【概要】日沼諭史の「AI活用入門塾」AmazonのAIアシスタントがリニューアル、商品探し・比較、価格チェックに役立てよう - 株式会社インプレス",
+            "日沼諭史の「AI活用入門塾」AmazonのAIアシスタントがリニューアル、商品探し・比較、価格チェックに役立てよう 株式...",
+            "情報提供元: Google News (AI)"
           ],
           "key_points": [
             "最新の公式・主要発表",
             "詳細は元記事リンクから確認可能"
           ],
           "badge": "注目",
-          "importance": 4
+          "importance": 3
         },
         {
-          "id": "ai_1795056305_2",
-          "title": "The Silent Consensus",
-          "link": "https://openai.com/index/the-silent-consensus",
-          "source": "OpenAI Official Blog",
-          "is_official": true,
-          "published_at": "2026-11-18 19:00",
-          "headline": "The Silent Consensus",
+          "id": "ai_1795141842_2",
+          "title": "AIエージェント「LiveX AI」を導入。公式サイトにお問い合わせ専用チャットボットを開設 - 横浜F・マリノス 公式サイト",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5qamtIVmxVaXBBTjFyLXhFTFZsS2p5VXduQVZrTmFGdVVRTF9JcmxfUEpoWW9KeE5sRmdhZnQ3UWFNX0l0ZU84MkxMLV9URE5hWHItdw?oc=5",
+          "source": "Google News (AI)",
+          "is_official": false,
+          "published_at": "2026-11-20 11:01",
+          "headline": "AIエージェント「LiveX AI」を導入。公式サイトにお問い合わせ専用チャット...",
           "summary": [
-            "【概要】The Silent Consensus",
-            "Dean Ball, Head of Strategic Futures at OpenAI, examines how...",
-            "情報提供元: OpenAI Official Blog"
+            "【概要】AIエージェント「LiveX AI」を導入。公式サイトにお問い合わせ専用チャットボットを開設 - 横浜F・マリノス 公式サイト",
+            "AIエージェント「LiveX AI」を導入。公式サイトにお問い合わせ専用チャットボットを開設 横浜F・マリノス 公式サイ...",
+            "情報提供元: Google News (AI)"
           ],
           "key_points": [
             "最新の公式・主要発表",
             "詳細は元記事リンクから確認可能"
           ],
           "badge": "注目",
-          "importance": 4
+          "importance": 3
         },
         {
-          "id": "ai_1795056305_3",
-          "title": "Research acceleration: The jagged frontier",
-          "link": "https://openai.com/index/research-acceleration-jagged-frontier",
-          "source": "OpenAI Official Blog",
-          "is_official": true,
-          "published_at": "2026-11-18 17:00",
-          "headline": "Research acceleration: The jagged fronti...",
+          "id": "ai_1795141842_3",
+          "title": "サカナAI、米セールスフォースと連携 公共分野でAIモデル実装 - 日本経済新聞",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BSUVUaDFXeDBHckVia2s0QWVsMk5mWDItalJVQjB0WjAtdUNTTllqd0dncndrSWJvckxTSEJOQWNlTFhSaHdURHhRd0p5c2s5SndJdEQwSkZ4eEZCWDJZU2xSdndmdUFMRHVmMg?oc=5",
+          "source": "Google News (AI)",
+          "is_official": false,
+          "published_at": "2026-11-20 10:12",
+          "headline": "サカナAI、米セールスフォースと連携 公共分野でAIモデル実装 - 日本経済新聞",
           "summary": [
-            "【概要】Research acceleration: The jagged frontier",
-            "OpenAI measures how coding agents are accelerating AI resear...",
-            "情報提供元: OpenAI Official Blog"
+            "【概要】サカナAI、米セールスフォースと連携 公共分野でAIモデル実装 - 日本経済新聞",
+            "サカナAI、米セールスフォースと連携 公共分野でAIモデル実装 日本経済新聞...",
+            "情報提供元: Google News (AI)"
           ],
           "key_points": [
             "最新の公式・主要発表",
             "詳細は元記事リンクから確認可能"
           ],
           "badge": "注目",
-          "importance": 4
+          "importance": 3
         },
         {
-          "id": "ai_1795056305_4",
-          "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-          "link": "https://openai.com/business/customer-stories/sumitomo-life",
-          "source": "OpenAI Official Blog",
-          "is_official": true,
-          "published_at": "2026-11-18 17:00",
-          "headline": "How Sumitomo Life’s leaders helped teams...",
+          "id": "ai_1795141842_4",
+          "title": "日経平均、一時2800円超安 アンソロピック上場もAI市場に懸念 [AIの時代] - 朝日新聞",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yc3JUQk1oVWcwX2RNNmg2dmozdXZHWGcwZDFQRHhWWnlxWUM2VTRrOTdMaHNnaGFod3FrMmZVLU5VTmlrQU1kcW5fMzVVSkgwbUNOTjB3TUxqN0tHeGpOTFl4V3pDaVE?oc=5",
+          "source": "Google News (AI)",
+          "is_official": false,
+          "published_at": "2026-11-20 10:05",
+          "headline": "日経平均、一時2800円超安 アンソロピック上場もAI市場に懸念 [AIの時代]...",
           "summary": [
-            "【概要】How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-            "Sumitomo Life uses ChatGPT Enterprise to research insurers, ...",
-            "情報提供元: OpenAI Official Blog"
+            "【概要】日経平均、一時2800円超安 アンソロピック上場もAI市場に懸念 [AIの時代] - 朝日新聞",
+            "日経平均、一時2800円超安 アンソロピック上場もAI市場に懸念 [AIの時代] 朝日新聞...",
+            "情報提供元: Google News (AI)"
           ],
           "key_points": [
             "最新の公式・主要発表",
             "詳細は元記事リンクから確認可能"
           ],
           "badge": "注目",
-          "importance": 4
+          "importance": 3
         },
         {
-          "id": "ai_1795056305_5",
-          "title": "Inside the Codex sandbox",
-          "link": "https://openai.com/index/inside-the-codex-sandbox",
-          "source": "OpenAI Official Blog",
-          "is_official": true,
-          "published_at": "2026-11-18 17:00",
-          "headline": "Inside the Codex sandbox",
+          "id": "ai_1795141842_5",
+          "title": "韓国「AI不正」疑惑の男性死亡 法学試験満点、遺書とみられるメモ（時事通信） - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wMEZHal92emF2b3VseHA1UHJ3ZlkwM0lFWmZ3c3FxSEpUcjZ3R1pXbFFBc3BMX2loV05tYWtPbEVWSzQtd05GZjYxc21iS19TMGlnNDhpVi1YNDNkTmFoUVNCNmJqOEpzeWJ6SGNoMC1OUTVUa1ltSVBMLTBpU1k?oc=5",
+          "source": "Google News (AI)",
+          "is_official": false,
+          "published_at": "2026-11-20 06:56",
+          "headline": "韓国「AI不正」疑惑の男性死亡 法学試験満点、遺書とみられるメモ（時事通信） -...",
           "summary": [
-            "【概要】Inside the Codex sandbox",
-            "See how Codex runs commands on your machine while enforcing ...",
-            "情報提供元: OpenAI Official Blog"
+            "【概要】韓国「AI不正」疑惑の男性死亡 法学試験満点、遺書とみられるメモ（時事通信） - Yahoo!ニュース",
+            "韓国「AI不正」疑惑の男性死亡 法学試験満点、遺書とみられるメモ（時事通信） Yahoo!ニュース...",
+            "情報提供元: Google News (AI)"
           ],
           "key_points": [
             "最新の公式・主要発表",
             "詳細は元記事リンクから確認可能"
           ],
           "badge": "注目",
-          "importance": 4
+          "importance": 3
         }
       ]
     }
