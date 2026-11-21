@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026年11月20日 11:30",
-  "updated_at_iso": "2026-11-20T11:30:40.665238+09:00",
+  "updated_at": "2026年11月21日 11:43",
+  "updated_at_iso": "2026-11-21T11:43:27.642603+09:00",
   "model_used": "mock-mode",
   "categories": [
     {
@@ -10,15 +10,55 @@
       "description": "Microsoft Azureの公式発表・最新クラウド動向",
       "articles": [
         {
-          "id": "azure_1795141841_1",
-          "title": "KDDIアイレット、Microsoft Cloud Solution Provider として Microsoft 事業を開始｜Infoseekニュース - Infoseek",
+          "id": "azure_1795229008_1",
+          "title": "ダナハーとマイクロソフト、実験機器向けオープンAIエージェント基盤を構築 - BigGo ファイナンス",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1UVlMzYW8tNU5lYVM0Z050OTVxY2dldnI0SG1yTlFvZmdsaTljV3dqaUIycGZXeUNHU3g2ODZDS1AxZDc1aWMyN25RX2dfMjhtV280V3BzS2lGQkhFb1RvbFFpTzFCdjR1R3BQTGxEci00SlBI?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-11-21 02:05",
+          "headline": "ダナハーとマイクロソフト、実験機器向けオープンAIエージェント基盤を構築 - B...",
+          "summary": [
+            "【概要】ダナハーとマイクロソフト、実験機器向けオープンAIエージェント基盤を構築 - BigGo ファイナンス",
+            "ダナハーとマイクロソフト、実験機器向けオープンAIエージェント基盤を構築 BigGo ファイナンス...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1795229008_2",
+          "title": "Hermes Agentの開発企業がMicrosoftと提携して企業向けAIエージェント「Hermes Enterprise」を発表、Teamsから仕事を依頼可能に - GIGAZINE",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQb2JLLXNCLVVzM3FrLWstVVVXckpSOFBCVGQxZTNxLUlBOGR3ZnBrb1FGYmxlX1B4S0dCOHpRdTJRYXhhMmZLV3ZMdTBrQ0NZUzhOa0hLdnA2Q2JqVGdkSWdYQ1diUVVpWnBsdzB5OTlvNDE3Y083SU5PY0ZNTVlMV1pZVQ?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-11-20 16:35",
+          "headline": "Hermes Agentの開発企業がMicrosoftと提携して企業向けAIエー...",
+          "summary": [
+            "【概要】Hermes Agentの開発企業がMicrosoftと提携して企業向けAIエージェント「Hermes Enterprise」を発表、Teamsから仕事を依頼可能に - GIGAZINE",
+            "Hermes Agentの開発企業がMicrosoftと提携して企業向けAIエージェント「Hermes Enterpri...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1795229008_3",
+          "title": "KDDIアイレット、Microsoft Cloud Solution Provider として Microsoft 事業を開始 - Infoseek",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uOFZ0ZUlBUlFJRDJ6djcxdlF6Sk1GS0x0emYwcVZOSzBobVZfTGNkb0FfdUIyeHhrak52aXUtV0gzY094dnp4aU1mT2xZcVFTeVBSZFZmNFhqVUtyTnpMSzdyNzR6Y2NuUDFZdE5Lc3hwdw?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
           "published_at": "2026-11-20 01:10",
           "headline": "KDDIアイレット、Microsoft Cloud Solution Provi...",
           "summary": [
-            "【概要】KDDIアイレット、Microsoft Cloud Solution Provider として Microsoft 事業を開始｜Infoseekニュース - Infoseek",
+            "【概要】KDDIアイレット、Microsoft Cloud Solution Provider として Microsoft 事業を開始 - Infoseek",
             "KDDIアイレット、Microsoft Cloud Solution Provider として Microsoft 事業...",
             "情報提供元: Google News (Azure)"
           ],
@@ -30,7 +70,7 @@
           "importance": 3
         },
         {
-          "id": "azure_1795141841_2",
+          "id": "azure_1795229008_4",
           "title": "マイクロソフト、クラウドやオンプレミスのデータベースを一元管理する「Database Hub」正式リリース。AIエージェントによる運用監視の自動化も - Publickey",
           "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9fSThBMUY0LXl5Ym9yTkhveXJxUGNxTzJuNVZrNU5ZYVJoMU0za2FTalJjdDhwazJKOEIxYUZIaUxSOVU0TmZEVVdTY0k4MERiYXBOb2ZreWMwZkNCR2pZUDdxNA?oc=5",
           "source": "Google News (Azure)",
@@ -50,47 +90,7 @@
           "importance": 3
         },
         {
-          "id": "azure_1795141841_3",
-          "title": "システム移行、AIの守備範囲は？ Azure Catalyst一般提供、新機能の多くはプレビュー - ビジネス+IT",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBOTDMzeDFXOWVkTUVxY2hvejNyUE92LWFoamtfSmo3aklqZFhRbEhtMnJtaUhHZm1PalBFQ01sQ0FYSkM4R016TFQ0akpYbnFGNTVz?oc=5",
-          "source": "Google News (Azure)",
-          "is_official": false,
-          "published_at": "2026-11-19 21:35",
-          "headline": "システム移行、AIの守備範囲は？ Azure Catalyst一般提供、新機能の...",
-          "summary": [
-            "【概要】システム移行、AIの守備範囲は？ Azure Catalyst一般提供、新機能の多くはプレビュー - ビジネス+IT",
-            "システム移行、AIの守備範囲は？ Azure Catalyst一般提供、新機能の多くはプレビュー ビジネス+IT...",
-            "情報提供元: Google News (Azure)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "azure_1795141841_4",
-          "title": "NinjaOne（ニンジャワン）がハイブリッドIT環境の可視性を統合するMicrosoft Azure連携を発表 - DXable News",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb0V1VHZuOUxHZVZudkEwRzB3bWVyRFBtdTZyR1lVNnpfMVU3T1UySzg0QUduaTBKZ21tSkRaQmhYYm9abzMwWk9oTm1BNlRFZ3hfX2JfRWxZN3JfTDBmd25OQ0VsWEFtRW9malV3SlVNeTlvT1o0Y3ZGY2c2ZktDR0IxUTg1aDB0b0hLTG9TUTctZTU5aHBrV2JoY053SlprejlmV1BIUzB6SG1MU0hsV1NMWWVlRHNQbEtzX2RB?oc=5",
-          "source": "Google News (Azure)",
-          "is_official": false,
-          "published_at": "2026-11-19 16:30",
-          "headline": "NinjaOne（ニンジャワン）がハイブリッドIT環境の可視性を統合するMicr...",
-          "summary": [
-            "【概要】NinjaOne（ニンジャワン）がハイブリッドIT環境の可視性を統合するMicrosoft Azure連携を発表 - DXable News",
-            "NinjaOne（ニンジャワン）がハイブリッドIT環境の可視性を統合するMicrosoft Azure連携を発表 DXa...",
-            "情報提供元: Google News (Azure)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "azure_1795141841_5",
+          "id": "azure_1795229008_5",
           "title": "新しい Microsoft IQ を発表: 組織のインテリジェンスをあらゆるエージェントで活用 - Microsoft Source",
           "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVUpVNHdoQWRhTXpvbzBsTnZCcmlIakdSWXJqdUw1MmF2eVoyRnExZW1NaVdmbF90RW9Zc25qWFRRUXRpVkRNbTBTQmJiRktLQkRMaURYMXhjMmo4NHpxTnNCNV9xU2tyYUdTTHkzQlluOGl1TVczenFwWmQySE9aa1NIcUVFRzJlZ1pzLWtyakQ4VTdDdlpmN1VNWTFteXNNdXhRbGRmS0tFazFhSnp2UzRXZ1R3bkNFV19XMU40Sm0tSW5sOVB4RHNWMkhKYi1aRG9Nd2k0bnRRcGtOX2tNTVRVVFlpek0?oc=5",
           "source": "Google News (Azure)",
@@ -118,72 +118,12 @@
       "description": "テスラの最新アップデート・EV・FSD・決算動向",
       "articles": [
         {
-          "id": "tesla_1795141841_1",
-          "title": "テスラ、2万9990ドルのサイバーキャブ予約受注を開始 競合と電池サプライヤーに動揺広がる - BigGo ファイナンス",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5FVmZ0Y1pSbVVUWUJBanJhOV91RGJVX1R0WUlkVVpsYmxzd3FyOFlTQUxPdzNuMWN3Ymx2djZMdkk5cEVQODVBaEJ5alNIMUtBYi1sZEk3UkRrWGcwcXp0NlMtb2gzanFHVEV4UzNHeFRtYlV0?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-11-20 10:55",
-          "headline": "テスラ、2万9990ドルのサイバーキャブ予約受注を開始 競合と電池サプライヤーに...",
-          "summary": [
-            "【概要】テスラ、2万9990ドルのサイバーキャブ予約受注を開始 競合と電池サプライヤーに動揺広がる - BigGo ファイナンス",
-            "テスラ、2万9990ドルのサイバーキャブ予約受注を開始 競合と電池サプライヤーに動揺広がる BigGo ファイナンス...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "tesla_1795141841_2",
-          "title": "マスク氏、テスラ中国工場の増産を約束＝中国国営メディア - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNREFfX0E0OW9xWG1ZZS15UzdSYV9mdU1ZVzBFNGd2UllDaVl6UVRrLUxWRURmV3d6UUhMU2phUzVwdXRHYVhfS3pJZTFvRlI3S0F3clJCajlpVXJraTZRR1NoUVZDZ0d2dVFXQllKNWQ4LXZaOWVIajdRMnJ0Z0RtMFJvdWdSTEk?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-11-20 10:24",
-          "headline": "マスク氏、テスラ中国工場の増産を約束＝中国国営メディア - Reuters",
-          "summary": [
-            "【概要】マスク氏、テスラ中国工場の増産を約束＝中国国営メディア - Reuters",
-            "マスク氏、テスラ中国工場の増産を約束＝中国国営メディア Reuters...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "tesla_1795141841_3",
-          "title": "【Spigen】Teslaオーナー必見！Teslaの車内をさらに洗練された上質空間へ。新発売の車載アイテムを含む厳選5点をご紹介！期間限定で最大21％OFFも実施決定！ - PR TIMES",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByUER2UVpWVS13QmlrRDZDVWRRU2tQbkxrNUhnNGs3b1dLUzBoTFp5SzNJdXRuRllDdG1IMkdtZnQ1Zk9tSTIyZHBBTU1qLW9NWFV0S25XcG5NQnNzRjlUajZ3Ty0xTE5HOVE?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-11-20 10:12",
-          "headline": "【Spigen】Teslaオーナー必見！Teslaの車内をさらに洗練された上質空...",
-          "summary": [
-            "【概要】【Spigen】Teslaオーナー必見！Teslaの車内をさらに洗練された上質空間へ。新発売の車載アイテムを含む厳選5点をご紹介！期間限定で最大21％OFFも実施決定！ - PR TIMES",
-            "【Spigen】Teslaオーナー必見！Teslaの車内をさらに洗練された上質空間へ。新発売の車載アイテムを含む厳選5点...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "tesla_1795141841_4",
+          "id": "tesla_1795229008_1",
           "title": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vR2owRXJLX1dwYUtHY05wNjVKVmVrTHNXdm5yRGJ0NHJzSzZTaEgxWFo0WmNBOWUxV2tXcHljUWlYaG92bll2YUNIQzJlVE0?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-11-20 09:17",
+          "published_at": "2026-11-21 09:08",
           "headline": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
           "summary": [
             "【概要】テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
@@ -198,16 +138,76 @@
           "importance": 3
         },
         {
-          "id": "tesla_1795141841_5",
-          "title": "3位は「テスラ、圧縮空気で空飛ぶロードスター 強烈なダウンフォース生む特許読解」60代以上の注目トップ10 - 日経クロステック",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1WFJoczJHeElfNC12M1RZaUN4X0c0dlRaRnJEREw4VHNUVHc3cGNqSjIxM2JmeFlaVHkyU2xlbko2UktjSUNUZ0EwWG5QX09EUkotRjVZUkdQTDhRbFhoclFSN1NzbFVfUlhzLQ?oc=5",
+          "id": "tesla_1795229008_2",
+          "title": "11月20日のTesla Inc (TSLA) 値動きは3.11%下落：主な推進要因が明らかにされました - TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVDdKVXJmVElOanBXc1FkWVg0aTBTODQtVTc4cUNNRC1DYmY0d0diUF9zX1ZYamRNTkQ2YnE2ajJaX3FHMUF4MG5NbzdlVTBjbWxDdzE2ejVqQS1pcGY3SHBGV0otemVTb04tYUVBR2lSNFJGRkR5YktLZkk3SkF5M1l0WVBNRUlIZzdfeG1qUQ?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-11-20 05:00",
-          "headline": "3位は「テスラ、圧縮空気で空飛ぶロードスター 強烈なダウンフォース生む特許読解」...",
+          "published_at": "2026-11-21 01:16",
+          "headline": "11月20日のTesla Inc (TSLA) 値動きは3.11%下落：主な推進...",
           "summary": [
-            "【概要】3位は「テスラ、圧縮空気で空飛ぶロードスター 強烈なダウンフォース生む特許読解」60代以上の注目トップ10 - 日経クロステック",
-            "3位は「テスラ、圧縮空気で空飛ぶロードスター 強烈なダウンフォース生む特許読解」60代以上の注目トップ10 日経クロステ...",
+            "【概要】11月20日のTesla Inc (TSLA) 値動きは3.11%下落：主な推進要因が明らかにされました - TradingKey",
+            "11月20日のTesla Inc (TSLA) 値動きは3.11%下落：主な推進要因が明らかにされました Trading...",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "tesla_1795229008_3",
+          "title": "Tesla FSD approved in Italy, the first big EU market to say yes",
+          "link": "https://electrek.co/2026/11/20/tesla-fsd-italy-approval-assisted-driving/",
+          "source": "Electrek (Tesla)",
+          "is_official": true,
+          "published_at": "2026-11-21 00:50",
+          "headline": "Tesla FSD approved in Italy, the first b...",
+          "summary": [
+            "【概要】Tesla FSD approved in Italy, the first big EU market to say yes",
+            "Italy’s transport ministry has granted provisional approval ...",
+            "情報提供元: Electrek (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 4
+        },
+        {
+          "id": "tesla_1795229008_4",
+          "title": "イタリア、Teslaの監視付き運転システムを暫定承認 - EU主要市場で初 - Mezha.net",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcnYtMnowbHBoak5wcTBwRllGYTFVTV9hZllfcXd5bndvLThtV0NzRFJVaFFtMVVuTjVTNE1fQUhGLVlMckJOam43SWktcDN0ZEdNUVpZYlRGV05EME0zWkZ6Z1A4ZmlneV93WFRxOTltVFlCeDdxcmQ5OE90TzFyTjNXbzg3X1ZON0R1V0U2Vlk5dFdKZ2taYQ?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-11-20 17:56",
+          "headline": "イタリア、Teslaの監視付き運転システムを暫定承認 - EU主要市場で初 - ...",
+          "summary": [
+            "【概要】イタリア、Teslaの監視付き運転システムを暫定承認 - EU主要市場で初 - Mezha.net",
+            "イタリア、Teslaの監視付き運転システムを暫定承認 - EU主要市場で初 Mezha.net...",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "tesla_1795229008_5",
+          "title": "韓国、TeslaのFSD特例申請が最初の関門で頓挫…技術説明2枚に「検討不可」 - BigGo ファイナンス",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9idS1Mc3RfUXItTTNEbjJxbTY2djcwQS1ULURRczllWFN1WklFR3ZfTjBaNkE3OHhBUmMtTjdiZzRjaTYtTlZSZDR6cm5TZkJuSHMxZF9ZakdRekRDZ2NPenZTU3p2SWt4R3BHNEpCai02ZWt2?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-11-20 17:25",
+          "headline": "韓国、TeslaのFSD特例申請が最初の関門で頓挫…技術説明2枚に「検討不可」 ...",
+          "summary": [
+            "【概要】韓国、TeslaのFSD特例申請が最初の関門で頓挫…技術説明2枚に「検討不可」 - BigGo ファイナンス",
+            "韓国、TeslaのFSD特例申請が最初の関門で頓挫…技術説明2枚に「検討不可」 BigGo ファイナンス...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -226,16 +226,16 @@
       "description": "OpenAI・Google・生成AIの公式発表・技術速報",
       "articles": [
         {
-          "id": "ai_1795141842_1",
-          "title": "日沼諭史の「AI活用入門塾」AmazonのAIアシスタントがリニューアル、商品探し・比較、価格チェックに役立てよう - 株式会社インプレス",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJUGxvY05vNkdwT3FfUDVqQmpqRkpXd0sybUhVcG9LaTNSOXN5QUk5M0NoNGdBVmZlVU9RTXVUVWNSMjloTVpCbENBSTl2Y0Zmdi0xRzRNYTFaUXkxTTJlTnlLSjllcFEwSzZHT041SUpLUQ?oc=5",
+          "id": "ai_1795229010_1",
+          "title": "モデル世代――AIは大学と若者の進路をどう変えたか｜Trans-N - note",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DdUdMODI2NDhrc2ZYVGRmVS1HZVJvTlQtck1NRldFQ2k3NFcyUkFiaWc1b2llaFc2T1BpX29WcFNkTzlBQU9nZzRpc3NESF9rbjN4WTBR?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-20 11:11",
-          "headline": "日沼諭史の「AI活用入門塾」AmazonのAIアシスタントがリニューアル、商品探...",
+          "published_at": "2026-11-21 10:47",
+          "headline": "モデル世代――AIは大学と若者の進路をどう変えたか｜Trans-N - note",
           "summary": [
-            "【概要】日沼諭史の「AI活用入門塾」AmazonのAIアシスタントがリニューアル、商品探し・比較、価格チェックに役立てよう - 株式会社インプレス",
-            "日沼諭史の「AI活用入門塾」AmazonのAIアシスタントがリニューアル、商品探し・比較、価格チェックに役立てよう 株式...",
+            "【概要】モデル世代――AIは大学と若者の進路をどう変えたか｜Trans-N - note",
+            "モデル世代――AIは大学と若者の進路をどう変えたか｜Trans-N note...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -246,16 +246,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1795141842_2",
-          "title": "AIエージェント「LiveX AI」を導入。公式サイトにお問い合わせ専用チャットボットを開設 - 横浜F・マリノス 公式サイト",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5qamtIVmxVaXBBTjFyLXhFTFZsS2p5VXduQVZrTmFGdVVRTF9JcmxfUEpoWW9KeE5sRmdhZnQ3UWFNX0l0ZU84MkxMLV9URE5hWHItdw?oc=5",
+          "id": "ai_1795229010_2",
+          "title": "アンソロピック研究者、数学難問「リーマン予想」をAIで解決と発表 - 日本経済新聞",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EaVJUdXRuWHY0M3UwUXljX0FxZjM1OGM3TFRMSFVTS0NDU3JQMmhhd2M4TDNhWmgydlVjcU14U2Y1Tlk0NnJOd2NqanZsSjZBYXRWOVh6Zk1pckhEbWlDd09BS0JjRXAwV2hPQQ?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-20 11:01",
-          "headline": "AIエージェント「LiveX AI」を導入。公式サイトにお問い合わせ専用チャット...",
+          "published_at": "2026-11-21 09:44",
+          "headline": "アンソロピック研究者、数学難問「リーマン予想」をAIで解決と発表 - 日本経済新...",
           "summary": [
-            "【概要】AIエージェント「LiveX AI」を導入。公式サイトにお問い合わせ専用チャットボットを開設 - 横浜F・マリノス 公式サイト",
-            "AIエージェント「LiveX AI」を導入。公式サイトにお問い合わせ専用チャットボットを開設 横浜F・マリノス 公式サイ...",
+            "【概要】アンソロピック研究者、数学難問「リーマン予想」をAIで解決と発表 - 日本経済新聞",
+            "アンソロピック研究者、数学難問「リーマン予想」をAIで解決と発表 日本経済新聞...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -266,16 +266,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1795141842_3",
-          "title": "サカナAI、米セールスフォースと連携 公共分野でAIモデル実装 - 日本経済新聞",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BSUVUaDFXeDBHckVia2s0QWVsMk5mWDItalJVQjB0WjAtdUNTTllqd0dncndrSWJvckxTSEJOQWNlTFhSaHdURHhRd0p5c2s5SndJdEQwSkZ4eEZCWDJZU2xSdndmdUFMRHVmMg?oc=5",
+          "id": "ai_1795229010_3",
+          "title": "「リーマン予想」生成AIが証明か - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBETS1fT3R1Ql9vUUFoSUVscnNXbmdyZXhyVnpqc3VHdVNmYTNmZE1qZGxITnBzcjBOMmFYUHpnYThZcF9zZFFVWERxdVY4cDJp?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-20 10:12",
-          "headline": "サカナAI、米セールスフォースと連携 公共分野でAIモデル実装 - 日本経済新聞",
+          "published_at": "2026-11-21 07:55",
+          "headline": "「リーマン予想」生成AIが証明か - Yahoo!ニュース",
           "summary": [
-            "【概要】サカナAI、米セールスフォースと連携 公共分野でAIモデル実装 - 日本経済新聞",
-            "サカナAI、米セールスフォースと連携 公共分野でAIモデル実装 日本経済新聞...",
+            "【概要】「リーマン予想」生成AIが証明か - Yahoo!ニュース",
+            "「リーマン予想」生成AIが証明か Yahoo!ニュース...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -286,16 +286,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1795141842_4",
-          "title": "日経平均、一時2800円超安 アンソロピック上場もAI市場に懸念 [AIの時代] - 朝日新聞",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yc3JUQk1oVWcwX2RNNmg2dmozdXZHWGcwZDFQRHhWWnlxWUM2VTRrOTdMaHNnaGFod3FrMmZVLU5VTmlrQU1kcW5fMzVVSkgwbUNOTjB3TUxqN0tHeGpOTFl4V3pDaVE?oc=5",
+          "id": "ai_1795229010_4",
+          "title": "日本株はなぜ「AI失望売り」で全面安になったのか？浮かび上がった「次の主役企業」 | ＤＯＬ特別レポート - ダイヤモンド・オンライン",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5UazVHN242cVdWenZSYnZsakdtc3lYWXVkRGNrNzVBMTBtbURZWFl3Z2M5TnpCRjZmNVlrbVlHOWdXanU3bmwwTi1iU18?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-20 10:05",
-          "headline": "日経平均、一時2800円超安 アンソロピック上場もAI市場に懸念 [AIの時代]...",
+          "published_at": "2026-11-21 05:00",
+          "headline": "日本株はなぜ「AI失望売り」で全面安になったのか？浮かび上がった「次の主役企業」...",
           "summary": [
-            "【概要】日経平均、一時2800円超安 アンソロピック上場もAI市場に懸念 [AIの時代] - 朝日新聞",
-            "日経平均、一時2800円超安 アンソロピック上場もAI市場に懸念 [AIの時代] 朝日新聞...",
+            "【概要】日本株はなぜ「AI失望売り」で全面安になったのか？浮かび上がった「次の主役企業」 | ＤＯＬ特別レポート - ダイヤモンド・オンライン",
+            "日本株はなぜ「AI失望売り」で全面安になったのか？浮かび上がった「次の主役企業」 | ＤＯＬ特別レポート ダイヤモンド・...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -306,16 +306,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1795141842_5",
-          "title": "韓国「AI不正」疑惑の男性死亡 法学試験満点、遺書とみられるメモ（時事通信） - Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wMEZHal92emF2b3VseHA1UHJ3ZlkwM0lFWmZ3c3FxSEpUcjZ3R1pXbFFBc3BMX2loV05tYWtPbEVWSzQtd05GZjYxc21iS19TMGlnNDhpVi1YNDNkTmFoUVNCNmJqOEpzeWJ6SGNoMC1OUTVUa1ltSVBMLTBpU1k?oc=5",
+          "id": "ai_1795229010_5",
+          "title": "ビットコイン、7月以来初の6万ドル割れ ＡＩ株安でリスク資産に売り - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CdWIxREwyUUpnOUdGcHpzQ2p1RW03OTIwOW9aMkRRTXhISW9pa2lUZlBLdnhTdk9ndkk0RHFLM2ZuUThwUWdPT3VGNW1BcExfdzJaTm9BLWx3aGpoRnhEM1Z5QkxHdms0b0ZzcjNqZFo1eUc3bmxDaERkVFd4dw?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-20 06:56",
-          "headline": "韓国「AI不正」疑惑の男性死亡 法学試験満点、遺書とみられるメモ（時事通信） -...",
+          "published_at": "2026-11-21 02:22",
+          "headline": "ビットコイン、7月以来初の6万ドル割れ ＡＩ株安でリスク資産に売り - Reut...",
           "summary": [
-            "【概要】韓国「AI不正」疑惑の男性死亡 法学試験満点、遺書とみられるメモ（時事通信） - Yahoo!ニュース",
-            "韓国「AI不正」疑惑の男性死亡 法学試験満点、遺書とみられるメモ（時事通信） Yahoo!ニュース...",
+            "【概要】ビットコイン、7月以来初の6万ドル割れ ＡＩ株安でリスク資産に売り - Reuters",
+            "ビットコイン、7月以来初の6万ドル割れ ＡＩ株安でリスク資産に売り Reuters...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
