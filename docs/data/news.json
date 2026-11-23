@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026年11月22日 10:29",
-  "updated_at_iso": "2026-11-22T10:29:36.641499+09:00",
+  "updated_at": "2026年11月23日 10:55",
+  "updated_at_iso": "2026-11-23T10:55:06.080395+09:00",
   "model_used": "mock-mode",
   "categories": [
     {
@@ -10,32 +10,12 @@
       "description": "Microsoft Azureの公式発表・最新クラウド動向",
       "articles": [
         {
-          "id": "azure_1795310977_1",
-          "title": "企業が「Microsoft Azure」を選ばざるを得ない理由（TechTargetジャパン） - Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wUi10dGN0T1FDb2JpM3dpd045dXNNV1FpczczTEtEUUJsVjdzUkJhV0Njb1VHZVRFMkdQRWdvT1gwc1FuZS1FVDN3NUVRR01VZnJrUjdYVDdDRGJmSHdVWEQxOXhlRWxEVGs4d1JyeFdDZ3YtMkxjYmZ2d0E4WVk?oc=5",
-          "source": "Google News (Azure)",
-          "is_official": false,
-          "published_at": "2026-11-22 08:10",
-          "headline": "企業が「Microsoft Azure」を選ばざるを得ない理由（TechTarg...",
-          "summary": [
-            "【概要】企業が「Microsoft Azure」を選ばざるを得ない理由（TechTargetジャパン） - Yahoo!ニュース",
-            "企業が「Microsoft Azure」を選ばざるを得ない理由（TechTargetジャパン） Yahoo!ニュース...",
-            "情報提供元: Google News (Azure)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "azure_1795310977_2",
+          "id": "azure_1795398906_1",
           "title": "KDDIアイレット、Microsoft Cloud Solution Provider として Microsoft 事業を開始 - Excite エキサイト",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ndlJtdmVJS281cER0ZVNRa3YtQXc1VnFCMUV5WlAweHNITThmY29iQjdVQXZtTGJDcEtIc0pIejRsSEdudkRKZlkyWnd3b0VkQnFNUWhVRUJNZm43d28tYVdvTlgyYjBzVTdiUDZJZDh4OTQ?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-11-22 01:40",
+          "published_at": "2026-11-22 19:40",
           "headline": "KDDIアイレット、Microsoft Cloud Solution Provi...",
           "summary": [
             "【概要】KDDIアイレット、Microsoft Cloud Solution Provider として Microsoft 事業を開始 - Excite エキサイト",
@@ -50,7 +30,7 @@
           "importance": 3
         },
         {
-          "id": "azure_1795310977_3",
+          "id": "azure_1795398906_2",
           "title": "Microsoft Azureの自社開発チップにIntel EMIB先進パッケージングを初導入！両社が数年間の長期提携に署名 - Mashdigi",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQV1F1TU9SQjFpaV9oVFBHVHBEcU9JVlhUajBsa1ZUdVBuX0FTVVJnT0xZb05QMVFkRVRLVFQ0SU15Nlp6RFNZaFRXOWVoSGR3TVZSbmg2dG04cjBFRi1xS2s0TkUzNWE1amYwSUtSelFtdE1BUnIyamVqaDQ0YnZGUF9Dbnk?oc=5",
           "source": "Google News (Azure)",
@@ -70,7 +50,7 @@
           "importance": 3
         },
         {
-          "id": "azure_1795310977_4",
+          "id": "azure_1795398906_3",
           "title": "ダナハーとマイクロソフト、実験機器向けオープンAIエージェント基盤を構築 - BigGo ファイナンス",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1UVlMzYW8tNU5lYVM0Z050OTVxY2dldnI0SG1yTlFvZmdsaTljV3dqaUIycGZXeUNHU3g2ODZDS1AxZDc1aWMyN25RX2dfMjhtV280V3BzS2lGQkhFb1RvbFFpTzFCdjR1R3BQTGxEci00SlBI?oc=5",
           "source": "Google News (Azure)",
@@ -90,16 +70,36 @@
           "importance": 3
         },
         {
-          "id": "azure_1795310977_5",
-          "title": "新しい Microsoft IQ を発表: 組織のインテリジェンスをあらゆるエージェントで活用 - Microsoft Source",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVUpVNHdoQWRhTXpvbzBsTnZCcmlIakdSWXJqdUw1MmF2eVoyRnExZW1NaVdmbF90RW9Zc25qWFRRUXRpVkRNbTBTQmJiRktLQkRMaURYMXhjMmo4NHpxTnNCNV9xU2tyYUdTTHkzQlluOGl1TVczenFwWmQySE9aa1NIcUVFRzJlZ1pzLWtyakQ4VTdDdlpmN1VNWTFteXNNdXhRbGRmS0tFazFhSnp2UzRXZ1R3bkNFV19XMU40Sm0tSW5sOVB4RHNWMkhKYi1aRG9Nd2k0bnRRcGtOX2tNTVRVVFlpek0?oc=5",
+          "id": "azure_1795398906_4",
+          "title": "Hermes Agentの開発企業がMicrosoftと提携して企業向けAIエージェント「Hermes Enterprise」を発表、Teamsから仕事を依頼可能に - GIGAZINE",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQb2JLLXNCLVVzM3FrLWstVVVXckpSOFBCVGQxZTNxLUlBOGR3ZnBrb1FGYmxlX1B4S0dCOHpRdTJRYXhhMmZLV3ZMdTBrQ0NZUzhOa0hLdnA2Q2JqVGdkSWdYQ1diUVVpWnBsdzB5OTlvNDE3Y083SU5PY0ZNTVlMV1pZVQ?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-11-19 14:02",
-          "headline": "新しい Microsoft IQ を発表: 組織のインテリジェンスをあらゆるエー...",
+          "published_at": "2026-11-20 16:35",
+          "headline": "Hermes Agentの開発企業がMicrosoftと提携して企業向けAIエー...",
           "summary": [
-            "【概要】新しい Microsoft IQ を発表: 組織のインテリジェンスをあらゆるエージェントで活用 - Microsoft Source",
-            "新しい Microsoft IQ を発表: 組織のインテリジェンスをあらゆるエージェントで活用 Microsoft So...",
+            "【概要】Hermes Agentの開発企業がMicrosoftと提携して企業向けAIエージェント「Hermes Enterprise」を発表、Teamsから仕事を依頼可能に - GIGAZINE",
+            "Hermes Agentの開発企業がMicrosoftと提携して企業向けAIエージェント「Hermes Enterpri...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1795398906_5",
+          "title": "Azureの「最大2.3倍」「最大2.5倍」―CXLとQATの性能を左右する比較条件 - 財経新聞",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PUHhyc3cxMlIydGFiVkNrYTlSYjNiXzh3QXRHN3BfQ1d0S0FsTjFkT3FSbTA5NzlEeDFPclZnUk1DaDloMFVMQWdQaEVyZV9qTFFnc1FwRThVMGRkZDJTTUlxVdIBaEFVX3lxTE83eFkycDJiVEw3aEJNcjJibjM0QTRPenZLVjhxSThCaUVzRnZOMmc2TnBVdGwyc2NlWFlORW9jTXJGQlNrWTFSMEJBaUE2ZHNJLUdDbWNPdlJmUDZ4dEg1cWUwTHBEVi1Q?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-11-20 12:31",
+          "headline": "Azureの「最大2.3倍」「最大2.5倍」―CXLとQATの性能を左右する比較...",
+          "summary": [
+            "【概要】Azureの「最大2.3倍」「最大2.5倍」―CXLとQATの性能を左右する比較条件 - 財経新聞",
+            "Azureの「最大2.3倍」「最大2.5倍」―CXLとQATの性能を左右する比較条件 財経新聞...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -118,72 +118,12 @@
       "description": "テスラの最新アップデート・EV・FSD・決算動向",
       "articles": [
         {
-          "id": "tesla_1795310977_1",
-          "title": "テスラ、ハンドルなし「モデルY」構想 6〜7人乗りでロボタクシー網の空白補完へ - BigGo ファイナンス",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90ekZZWVBlTG90MjUwX2NudW1QeDJfM24wUV9VN05vaVo0bHRiYk1vQkhHaDN4M1g0Nm5hQXdiYk1sUjU4RlIwSUt4TVJKeUdxcHd0Uk1LTV95MDNYcnFoaTNOUmRVejlqQnhITFhkSk5ma0oz?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-11-22 09:25",
-          "headline": "テスラ、ハンドルなし「モデルY」構想 6〜7人乗りでロボタクシー網の空白補完へ ...",
-          "summary": [
-            "【概要】テスラ、ハンドルなし「モデルY」構想 6〜7人乗りでロボタクシー網の空白補完へ - BigGo ファイナンス",
-            "テスラ、ハンドルなし「モデルY」構想 6〜7人乗りでロボタクシー網の空白補完へ BigGo ファイナンス...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "tesla_1795310977_2",
-          "title": "Tesla launches FSD v15, targets its biggest weaknesses, from signs to potholes",
-          "link": "https://electrek.co/2026/11/21/tesla-fsd-v15-rollout-25x-safety-reality-view/",
-          "source": "Electrek (Tesla)",
-          "is_official": true,
-          "published_at": "2026-11-22 04:56",
-          "headline": "Tesla launches FSD v15, targets its bigg...",
-          "summary": [
-            "【概要】Tesla launches FSD v15, targets its biggest weaknesses, from signs to potholes",
-            "Tesla has started rolling out “Full Self-Driving” v15, and i...",
-            "情報提供元: Electrek (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 4
-        },
-        {
-          "id": "tesla_1795310977_3",
-          "title": "Tesla Cybertruck’s already impressive turning radius gets even tighter",
-          "link": "https://electrek.co/2026/11/21/tesla-cybertruck-tighter-turning-radius-update/",
-          "source": "Electrek (Tesla)",
-          "is_official": true,
-          "published_at": "2026-11-22 04:14",
-          "headline": "Tesla Cybertruck’s already impressive tu...",
-          "summary": [
-            "【概要】Tesla Cybertruck’s already impressive turning radius gets even tighter",
-            "Tesla is rolling out an update that makes the Cybertruck tur...",
-            "情報提供元: Electrek (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 4
-        },
-        {
-          "id": "tesla_1795310977_4",
+          "id": "tesla_1795398907_1",
           "title": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vR2owRXJLX1dwYUtHY05wNjVKVmVrTHNXdm5yRGJ0NHJzSzZTaEgxWFo0WmNBOWUxV2tXcHljUWlYaG92bll2YUNIQzJlVE0?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-11-22 04:02",
+          "published_at": "2026-11-23 10:50",
           "headline": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
           "summary": [
             "【概要】テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
@@ -198,24 +138,84 @@
           "importance": 3
         },
         {
-          "id": "tesla_1795310977_5",
-          "title": "Elon Musk freezes at awkward Tesla Argentina launch: ‘I don’t know what to say’",
-          "link": "https://electrek.co/2026/11/21/elon-musk-tesla-argentina-launch-awkward-video-milei/",
-          "source": "Electrek (Tesla)",
-          "is_official": true,
-          "published_at": "2026-11-22 00:11",
-          "headline": "Elon Musk freezes at awkward Tesla Argen...",
+          "id": "tesla_1795398907_2",
+          "title": "Tesla、Cybertruckの小回り性能を改善 アップデートは2027年モデル限定 - 디지털투데이",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOb2FjT2Y1TzJ2VEVyajh5S2syOXpQQzFFSDA5XzJfZmUxczluNGdJMmc1TDZPcmdpei1CQ1hXaGZVbDh0T1dqbWY1aTV1RHJuaW9ISHFudE4wMVJJRWh3ZUF5dXhVaHNfUnNxTzk5X3pLU3doSmhsS1pIUWxfemlnMHJ6Q0ZsT29OSWlHNk1LQ21GMTJHNDNpSWNxSFljdmdJd0g3bDRQdmNCVzRCT2hkWjVzM0p3azlzaU5ucjd6WjF5ZHRNMVVwWnZRaw?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-11-23 10:05",
+          "headline": "Tesla、Cybertruckの小回り性能を改善 アップデートは2027年モデ...",
           "summary": [
-            "【概要】Elon Musk freezes at awkward Tesla Argentina launch: ‘I don’t know what to say’",
-            "Tesla officially launched in Argentina on Friday with Presid...",
-            "情報提供元: Electrek (Tesla)"
+            "【概要】Tesla、Cybertruckの小回り性能を改善 アップデートは2027年モデル限定 - 디지털투데이",
+            "Tesla、Cybertruckの小回り性能を改善 アップデートは2027年モデル限定 디지털투데이...",
+            "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
             "最新の公式・主要発表",
             "詳細は元記事リンクから確認可能"
           ],
           "badge": "注目",
-          "importance": 4
+          "importance": 3
+        },
+        {
+          "id": "tesla_1795398907_3",
+          "title": "テスラ「FSD v15」配信開始 まるでGTA6のように自車を表示 - CNET Japan",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jQ1JVTHZOeVhYMkRCR2MxWmNJOThMQzJqWGlnVWN3N2ZHQV9oSXlvWnlwT2JYM25keDZiUmxNQXJhTnFzOEp1eWdjdWhCZkRlckE?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-11-23 08:30",
+          "headline": "テスラ「FSD v15」配信開始 まるでGTA6のように自車を表示 - CNET...",
+          "summary": [
+            "【概要】テスラ「FSD v15」配信開始 まるでGTA6のように自車を表示 - CNET Japan",
+            "テスラ「FSD v15」配信開始 まるでGTA6のように自車を表示 CNET Japan...",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "tesla_1795398907_4",
+          "title": "Musk、AI5をOptimusに割り当て、Tesla車はAI4を継続 - Unite.AI",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVmtLMmxMTWJhcUtQVUJhNHQtSXBiUURsSlp2U0hpczcwVFRhWTVMbTIya0FTRVE4XzVUd0tGTWlQODJVNzZ1NGVlTkNWeXNiOUV6U3MzdlBYM2s4QXBRakNrbzVGb3l1Wm5TT3VHTFBrUHZTY2xaQVpyRk1xUUJXaGd1M2lKcEU?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-11-23 03:23",
+          "headline": "Musk、AI5をOptimusに割り当て、Tesla車はAI4を継続 - Un...",
+          "summary": [
+            "【概要】Musk、AI5をOptimusに割り当て、Tesla車はAI4を継続 - Unite.AI",
+            "Musk、AI5をOptimusに割り当て、Tesla車はAI4を継続 Unite.AI...",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "tesla_1795398907_5",
+          "title": "中国製Teslaの猛進で韓国の対中自動車貿易赤字が6兆ウォン迫る…過去最大 - BigGo ファイナンス",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE44bHdnUTVTaXA1em5lWDJRdVlPWWRXMmZwRWlWX2VJQVZreUluNXljUFYyTVlQSmlEWDZ5Y3JDZ2ViREg0c2JTa2IyR0FCcjVhTlJNb1o2bGNVMWhjeWN2OEJYNll0OF9IOUZTelh3VnRpT3Zv?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-11-22 11:35",
+          "headline": "中国製Teslaの猛進で韓国の対中自動車貿易赤字が6兆ウォン迫る…過去最大 - ...",
+          "summary": [
+            "【概要】中国製Teslaの猛進で韓国の対中自動車貿易赤字が6兆ウォン迫る…過去最大 - BigGo ファイナンス",
+            "中国製Teslaの猛進で韓国の対中自動車貿易赤字が6兆ウォン迫る…過去最大 BigGo ファイナンス...",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
         }
       ]
     },
@@ -226,16 +226,16 @@
       "description": "OpenAI・Google・生成AIの公式発表・技術速報",
       "articles": [
         {
-          "id": "ai_1795310978_1",
-          "title": "【今どき就活最前線】AIコピペは逆効果！タイパ重視で一次面接に“撃沈”する学生の痛い末路（FRIDAY） - Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10WllqNHQ0YkliS3o1cG5TNGZxVTh3WldMc3g5MUFtTXdpM2ZjVktOdHJkbDh1anl0enBSOHZaTFZra2tZN2g0UlFaYlYtbWl2Rnl0azdvd2x4UFI4SUJmeGFocFdEUkx0UHR3OGFiZ09nQWt4bGZ2dnZ6M0YtVk0?oc=5",
+          "id": "ai_1795398908_1",
+          "title": "米オラクル、オープンＡＩ向けインフラ契約の資金全額確保 - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNU1waWVDWXV0VER2SmpZbWJmeUVOZ0RiMERnZ1ZLZXZQakVfWWtuMFBra2hGcHZGcnlsTFZIN0toZGhUcUxMV1dncVNJcVpDX0R2R1dWN0M4WHlwOU52Ym5nbVJqU21xQTJRa2UwSWV4SllxMU9NYmxPal9VRlhybVJKM0E5Zw?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-22 10:00",
-          "headline": "【今どき就活最前線】AIコピペは逆効果！タイパ重視で一次面接に“撃沈”する学生の...",
+          "published_at": "2026-11-23 09:02",
+          "headline": "米オラクル、オープンＡＩ向けインフラ契約の資金全額確保 - Reuters",
           "summary": [
-            "【概要】【今どき就活最前線】AIコピペは逆効果！タイパ重視で一次面接に“撃沈”する学生の痛い末路（FRIDAY） - Yahoo!ニュース",
-            "【今どき就活最前線】AIコピペは逆効果！タイパ重視で一次面接に“撃沈”する学生の痛い末路（FRIDAY） Yahoo!ニ...",
+            "【概要】米オラクル、オープンＡＩ向けインフラ契約の資金全額確保 - Reuters",
+            "米オラクル、オープンＡＩ向けインフラ契約の資金全額確保 Reuters...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -246,16 +246,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1795310978_2",
-          "title": "「バグマゲドン」はいつ終わるのか AIが壊す安全、AIが取り戻す安全 - 株式会社エクサウィザーズ",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rWW1DeWRYRGFnb2thekpoak1EQ01qekM1U1VsalE5a08zdWt4U24yck9CMWlGejc4Ym9HalQ3Y0hNZnZ0WmwwdXFoMlktZXhYdDNEaWRuOTlWYkJPN3g2RDYxSGpxUQ?oc=5",
+          "id": "ai_1795398908_2",
+          "title": "ドル円見通し｜AI好決算でも世界株急落、NASDAQ5.28％安 米金利低下で158円台へ【相場の現在地】 - 外為どっとコム",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PRlhjNk44QjdXVEZuSVR3RTZ0NGQ1SmdNLURkUHlLTGhKZ3RXYy1Ndk1JUUFqMDAxS2hSeGgxV3NKcHkxVDEtaHZ4blFJcTgxS3JBcWNEUmRuUE9tR2pYanh1VQ?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-22 07:53",
-          "headline": "「バグマゲドン」はいつ終わるのか AIが壊す安全、AIが取り戻す安全 - 株式会...",
+          "published_at": "2026-11-23 09:00",
+          "headline": "ドル円見通し｜AI好決算でも世界株急落、NASDAQ5.28％安 米金利低下で1...",
           "summary": [
-            "【概要】「バグマゲドン」はいつ終わるのか AIが壊す安全、AIが取り戻す安全 - 株式会社エクサウィザーズ",
-            "「バグマゲドン」はいつ終わるのか AIが壊す安全、AIが取り戻す安全 株式会社エクサウィザーズ...",
+            "【概要】ドル円見通し｜AI好決算でも世界株急落、NASDAQ5.28％安 米金利低下で158円台へ【相場の現在地】 - 外為どっとコム",
+            "ドル円見通し｜AI好決算でも世界株急落、NASDAQ5.28％安 米金利低下で158円台へ【相場の現在地】 外為どっとコ...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -266,16 +266,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1795310978_3",
-          "title": "「オープンAIの文化壊れてた」 暴走止められず、辞めた社員の告白 [AIの時代] - 朝日新聞",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJSDBFU0VmenhDd01NTU83NzNJYmoyeDlUem4yYzcxMDhVbDlscXdULTJrNVRqcWJCVGNxVzNKaF9sTE9LRTVjbDFkamZubnVoOWMxWWhITlJwa1RZdkp2Y3FLZkVuTzQ?oc=5",
+          "id": "ai_1795398908_3",
+          "title": "「2027年に世界最大級のAIインフラ企業へ」SpaceXが発電設備まで内製化する理由 - 株式会社エクサウィザーズ",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zdEVPZ01QelJadkRZVEhublJQa2R4S09aV3NtTjQ2dGVGak01TWwwbWFlajBxZkwwOVZudk1QWEVaS0R6Tmx5YkVrRkM3amNrR1VQNkNXaW1sdTRmd3YzcTRKel9hdw?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-22 06:00",
-          "headline": "「オープンAIの文化壊れてた」 暴走止められず、辞めた社員の告白 [AIの時代]...",
+          "published_at": "2026-11-23 07:41",
+          "headline": "「2027年に世界最大級のAIインフラ企業へ」SpaceXが発電設備まで内製化す...",
           "summary": [
-            "【概要】「オープンAIの文化壊れてた」 暴走止められず、辞めた社員の告白 [AIの時代] - 朝日新聞",
-            "「オープンAIの文化壊れてた」 暴走止められず、辞めた社員の告白 [AIの時代] 朝日新聞...",
+            "【概要】「2027年に世界最大級のAIインフラ企業へ」SpaceXが発電設備まで内製化する理由 - 株式会社エクサウィザーズ",
+            "「2027年に世界最大級のAIインフラ企業へ」SpaceXが発電設備まで内製化する理由 株式会社エクサウィザーズ...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -286,16 +286,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1795310978_4",
-          "title": "AIに必要なのは知識か、企業独自の判断基準か？ 管理職調査で見えたAI活用の盲点 - キーマンズネット",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByeXVxNmZmdEd1VmhvX0NsMVhtQzM0TjBJRldtVWYzVGxISTV6SkR2STRTdlJ3eVBLUW1DMGhObjc5WFVjeG45ZmFxLV9nNzBzVjE1X2ZfSktkbktvWkFndWN2TmVxQQ?oc=5",
+          "id": "ai_1795398908_4",
+          "title": "消費者の74％、買い物でAIエージェントのアドバイスを信頼--Salesforce調査 - ZDNET Japan",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Zb3hXdUtWQjZYLTdoODEydGV1WE80SmlreksxNlZodDJGbm1QaG1HQjh0ZjUtOFFSX1hkWlJueHctSHpIZkNwLTE2RGpyMTFxcy0w?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-22 06:00",
-          "headline": "AIに必要なのは知識か、企業独自の判断基準か？ 管理職調査で見えたAI活用の盲点...",
+          "published_at": "2026-11-23 07:00",
+          "headline": "消費者の74％、買い物でAIエージェントのアドバイスを信頼--Salesforc...",
           "summary": [
-            "【概要】AIに必要なのは知識か、企業独自の判断基準か？ 管理職調査で見えたAI活用の盲点 - キーマンズネット",
-            "AIに必要なのは知識か、企業独自の判断基準か？ 管理職調査で見えたAI活用の盲点 キーマンズネット...",
+            "【概要】消費者の74％、買い物でAIエージェントのアドバイスを信頼--Salesforce調査 - ZDNET Japan",
+            "消費者の74％、買い物でAIエージェントのアドバイスを信頼--Salesforce調査 ZDNET Japan...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -306,16 +306,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1795310978_5",
-          "title": "AI兵器の規制、米国・ロシア反対で足踏み NGO「人類を危険に」 - 日本経済新聞",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfaFJ1ZGJ1dHRvaVppWUNuLUZvMzBjYXlaTDN1UTR6cTlMZzB4OHMxTXdXWThhYjZHRTlaUjF0dHpRSVdCZkYySEt2bTJmQVhldjhURVFfUW9pb0dKZjhVTm0yM0NPS0wxTTk4WQ?oc=5",
+          "id": "ai_1795398908_5",
+          "title": "リーマン予想 AI証明巡り共同声明 - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CMmxuTGc4ZGxBVTB5Uk9sLVlDTnJIMVpLMDM4T2NvVW5hYWNJbTRneXdjbG81VHJxU0hHTHFINkhyTFk1SndNTTA3aGtmOVlM?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-22 05:00",
-          "headline": "AI兵器の規制、米国・ロシア反対で足踏み NGO「人類を危険に」 - 日本経済新...",
+          "published_at": "2026-11-22 17:07",
+          "headline": "リーマン予想 AI証明巡り共同声明 - Yahoo!ニュース",
           "summary": [
-            "【概要】AI兵器の規制、米国・ロシア反対で足踏み NGO「人類を危険に」 - 日本経済新聞",
-            "AI兵器の規制、米国・ロシア反対で足踏み NGO「人類を危険に」 日本経済新聞...",
+            "【概要】リーマン予想 AI証明巡り共同声明 - Yahoo!ニュース",
+            "リーマン予想 AI証明巡り共同声明 Yahoo!ニュース...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
