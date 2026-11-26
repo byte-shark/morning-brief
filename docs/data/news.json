@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026年11月25日 13:30",
-  "updated_at_iso": "2026-11-25T13:30:09.681151+09:00",
+  "updated_at": "2026年11月26日 12:42",
+  "updated_at_iso": "2026-11-26T12:42:56.260655+09:00",
   "model_used": "mock-mode",
   "categories": [
     {
@@ -10,16 +10,16 @@
       "description": "Microsoft Azureの公式発表・最新クラウド動向",
       "articles": [
         {
-          "id": "azure_1795581010_1",
-          "title": "クラウドクリエイティブスタジオ、「2026 Microsoft Japan Partner of the Year Awards」Gaming を3年連続で受賞 - Infoseek",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HZjhWYlM1TnFJT0I2Vng5Smt0TmU2ZmlhbmpsN29MVjI4VWFwU3FmQVVNY3hfazJpdTYtbnpneWZZRDFIcElVWkZJYm1oUFBSUGV6bXFDV3cxbXNPNFQwV21UalRCMFVmX25ycVVBWURZQQ?oc=5",
+          "id": "azure_1795664576_1",
+          "title": "ダイワボウ情報システム、2026 Microsoft Japan Partner of the Year Awards ＜Distributor Award＞受賞 - ICT教育ニュース",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwQW5ZM2VDTEw4cFlnTDhfX1c0a1RsT1d3RUxhQkVYWjhhcFlacEpwdExkenQyYlJ3N2hzY3JYbWhSZ25WU21vaXNrdHFrMGU3dU1ielJB?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-11-25 11:45",
-          "headline": "クラウドクリエイティブスタジオ、「2026 Microsoft Japan Pa...",
+          "published_at": "2026-11-26 10:23",
+          "headline": "ダイワボウ情報システム、2026 Microsoft Japan Partner...",
           "summary": [
-            "【概要】クラウドクリエイティブスタジオ、「2026 Microsoft Japan Partner of the Year Awards」Gaming を3年連続で受賞 - Infoseek",
-            "クラウドクリエイティブスタジオ、「2026 Microsoft Japan Partner of the Year Aw...",
+            "【概要】ダイワボウ情報システム、2026 Microsoft Japan Partner of the Year Awards ＜Distributor Award＞受賞 - ICT教育ニュース",
+            "ダイワボウ情報システム、2026 Microsoft Japan Partner of the Year Awards ...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -30,16 +30,16 @@
           "importance": 3
         },
         {
-          "id": "azure_1795581010_2",
-          "title": "ＪＢＣＣホールディングス[9889]：ＪＢＣＣ、2026 Microsoft Japan Partner of the Year Awardsにおいて SMC - SI アワードを受賞 2026年11月25日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTUk2R2wwajV5dm40TWl3a250c28yQm1zOUFQOHkybVd1aWVYQ1RCLXVFd0VIb2tFQ2NoQ2MyMjVYLW1SRV8teDROdU9sMmhSYXVCRlF6VjRpRGFyTFpTR0dfUHRaUEtmRWhrdzlWbjM5NVAzRXhYTWdGeE1wWFhoNnNYZjFaMHBRWERUU01iRUF3b0I3ZGhPNWg0UThMR0QzbFcyLUVfSXRmcXpXaVpMZFRzUDBhZkdFOGppR2FpalBKX3pIY21ENFlmRjg?oc=5",
+          "id": "azure_1795664576_2",
+          "title": "チェック・ポイント、Microsoft Azure上でCheck Point SASEプラットフォームを展開（クラウド Watch） - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yNy1lMUxwWXFNN2oxeXhoQW02NGVjYUF4TElLcEViYkkzUnpiMHBtajBEVW42TS10dkFIY3psTVlFVUJzSFcxYmgwU2VvYk81dDlTWkY1ZGwwZEVXUnpWTnNLaVdMaXdvenlOZDl4SEw5UC1BY1phZ1dPeWE4UUU?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-11-25 11:30",
-          "headline": "ＪＢＣＣホールディングス[9889]：ＪＢＣＣ、2026 Microsoft J...",
+          "published_at": "2026-11-26 08:07",
+          "headline": "チェック・ポイント、Microsoft Azure上でCheck Point S...",
           "summary": [
-            "【概要】ＪＢＣＣホールディングス[9889]：ＪＢＣＣ、2026 Microsoft Japan Partner of the Year Awardsにおいて SMC - SI アワードを受賞 2026年11月25日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-            "ＪＢＣＣホールディングス[9889]：ＪＢＣＣ、2026 Microsoft Japan Partner of the ...",
+            "【概要】チェック・ポイント、Microsoft Azure上でCheck Point SASEプラットフォームを展開（クラウド Watch） - Yahoo!ニュース",
+            "チェック・ポイント、Microsoft Azure上でCheck Point SASEプラットフォームを展開（クラウド ...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -50,16 +50,16 @@
           "importance": 3
         },
         {
-          "id": "azure_1795581010_3",
-          "title": "Microsoft製品の使い勝手はなぜ改善されない？ 現役・元社員が語る開発の裏側 - マイナビニュース",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VUFNMT1REUldULURURkswTXZqdnIxTlNmLXBCYWJqVXJuQ1JTVUxKd2wyV0FPeEY1R2t5N0lidUNmZ1draEZjZk1wUFRqa1VkaEMxSDlRU3h1a3pCZEtnZl9heXpJUGRy?oc=5",
+          "id": "azure_1795664576_3",
+          "title": "Microsoft Azure API Managementの脆弱性がサイバー攻撃に悪用-ノルウェーのエネルギー企業も被害 - 合同会社ロケットボーイズ",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdXN4QVZYdndJVzM3VXdBR1V1eWFqcGNUSFMzRTFpNEVRRk80aFk3bFc0cFhxR0tjZEZzeTlwOUF4VDlDSEJpUXJYeVVXQlF0SFhuMnpCS2o3cVNnanlIX1Y2U3NuX3J6YURTaVJ2TkhHcjBjb1E3RnFjWlZKRVlxN1BnbkNGYk1sYVFTSF96QW8yNGh4NVZFcGJVM1JmN3dDNHV6MVR6Q2s?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-11-25 10:59",
-          "headline": "Microsoft製品の使い勝手はなぜ改善されない？ 現役・元社員が語る開発の裏...",
+          "published_at": "2026-11-26 07:00",
+          "headline": "Microsoft Azure API Managementの脆弱性がサイバー攻...",
           "summary": [
-            "【概要】Microsoft製品の使い勝手はなぜ改善されない？ 現役・元社員が語る開発の裏側 - マイナビニュース",
-            "Microsoft製品の使い勝手はなぜ改善されない？ 現役・元社員が語る開発の裏側 マイナビニュース...",
+            "【概要】Microsoft Azure API Managementの脆弱性がサイバー攻撃に悪用-ノルウェーのエネルギー企業も被害 - 合同会社ロケットボーイズ",
+            "Microsoft Azure API Managementの脆弱性がサイバー攻撃に悪用-ノルウェーのエネルギー企業も被...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -70,7 +70,7 @@
           "importance": 3
         },
         {
-          "id": "azure_1795581010_4",
+          "id": "azure_1795664576_4",
           "title": "Microsoft Azureの脆弱性が悪用され、顧客のAPI認証情報が盗まれる - 株式会社マキナレコード",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWmp1ZHZMRXNydnlUVEcxYnpFZVlMUDgtQU5FM2ZjR24tSmdsWDVOd0ZLSDV3RzlFVTdhVmpSQ3c1VkhnWDZobENkZkczT0hYbEpvVEx2cDR0UzRFc2x6ek5ob0JyNE80UDNmRVdtZlRQYTlLMWlwZmw4N1VjcElSaWRick8?oc=5",
           "source": "Google News (Azure)",
@@ -90,7 +90,7 @@
           "importance": 3
         },
         {
-          "id": "azure_1795581010_5",
+          "id": "azure_1795664576_5",
           "title": "世界トップクラスの性能を、大規模に活用できる価格で提供する 7 つの新モデル - Microsoft Source",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTnJ5bm9nV21zZWVkOW52ZWp0TEJBMUluUGtISnU4ZGJVLTlDTUFfb0diOEdEWHNKUkhlc1FydkppVktQLVZzZU1vNTJ3NUwxVFRsWjVaNDB2MEJQUlFTYXluX0o2NThtNktIcldTaXR3VGRBdXBHZDBnRWkwajJVSzNWOTE?oc=5",
           "source": "Google News (Azure)",
@@ -118,72 +118,12 @@
       "description": "テスラの最新アップデート・EV・FSD・決算動向",
       "articles": [
         {
-          "id": "tesla_1795581010_1",
-          "title": "テスラ ハンドルなしCybercab市販開始 買っても「自分の車」にならず転売すると5万ドル罰金の謎ルール - 自動運転ラボ",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5GZEtnZExVaVhoekZ5c000OU11UHRrUTJFem4zYmhkU1p3YWZvMWNaZE12NmhWVENvaVpSMTZIcGN4SHJpLTRCZA?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-11-25 13:06",
-          "headline": "テスラ ハンドルなしCybercab市販開始 買っても「自分の車」にならず転売す...",
-          "summary": [
-            "【概要】テスラ ハンドルなしCybercab市販開始 買っても「自分の車」にならず転売すると5万ドル罰金の謎ルール - 自動運転ラボ",
-            "テスラ ハンドルなしCybercab市販開始 買っても「自分の車」にならず転売すると5万ドル罰金の謎ルール 自動運転ラボ...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "tesla_1795581010_2",
-          "title": "メモリ価格高騰で自動車メーカーが設計変更を迫られる：テスラAI4.5チップの容量25%減、スマホ・PCも同時にスペックダウン - BigGo ファイナンス",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBtUTR1Ynpib3FNRWktQllPclowZ0FQVU16eEtCZWVfSFE2dVNwaDJGOFlmWGN4U2liVWZjdXpPclZDUUdTOUxYSWhhQTlmaFJkY3hXU3lydjUzNks0LXJMTmlSWG5lUHZqMnBxamxmXzZCU2tw?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-11-25 12:30",
-          "headline": "メモリ価格高騰で自動車メーカーが設計変更を迫られる：テスラAI4.5チップの容量...",
-          "summary": [
-            "【概要】メモリ価格高騰で自動車メーカーが設計変更を迫られる：テスラAI4.5チップの容量25%減、スマホ・PCも同時にスペックダウン - BigGo ファイナンス",
-            "メモリ価格高騰で自動車メーカーが設計変更を迫られる：テスラAI4.5チップの容量25%減、スマホ・PCも同時にスペックダ...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "tesla_1795581010_3",
-          "title": "テスラ ジャパン・BYD・ボルボが出展、 14のEVオーナーズクラブが集結「X Takeover Japan 2026」 11月29日パシフィコ横浜で開催 - Newscast.jp",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wcEU2UnRyS21GNmJrX3h2YktPdWVaTWpua1g4TjltUHc1NUl3VElkZlBWVEdabkt1enA5d1lKZkhmdVgtSldyRmdmMW9DUUk?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-11-25 12:00",
-          "headline": "テスラ ジャパン・BYD・ボルボが出展、 14のEVオーナーズクラブが集結「X ...",
-          "summary": [
-            "【概要】テスラ ジャパン・BYD・ボルボが出展、 14のEVオーナーズクラブが集結「X Takeover Japan 2026」 11月29日パシフィコ横浜で開催 - Newscast.jp",
-            "テスラ ジャパン・BYD・ボルボが出展、 14のEVオーナーズクラブが集結「X Takeover Japan 2026」...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "tesla_1795581010_4",
+          "id": "tesla_1795664577_1",
           "title": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vR2owRXJLX1dwYUtHY05wNjVKVmVrTHNXdm5yRGJ0NHJzSzZTaEgxWFo0WmNBOWUxV2tXcHljUWlYaG92bll2YUNIQzJlVE0?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-11-25 11:31",
+          "published_at": "2026-11-26 11:50",
           "headline": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
           "summary": [
             "【概要】テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
@@ -198,16 +138,76 @@
           "importance": 3
         },
         {
-          "id": "tesla_1795581010_5",
-          "title": "Tesla EV、保証後の駆動用バッテリー交換費は2万ドル超も - 디지털투데이",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUWoxZGstbTFRMzE3YXp6NUZBdlo3TDBvel9UT01iMDk4M0d2Q1FKWGVrRWJ5bWl2X29HRDB6eXFVbUtQWkVkdWhVU04tZVl0djlrN0ZtTWxBeFU5WWNBaENjZHhYdUpKcnc3TDltUzl3NW1qOWVWaHFFbmE5WFVYZnRmT2ZxVHZUOC1KXzBrdHNRZHp6ajRDYTJTdTgwblE?oc=5",
+          "id": "tesla_1795664577_2",
+          "title": "テスラの新しいFSD画面、運転中に道路のAI動画を生成 - Business Insider Japan",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOWxtRENyeldQbG9NQm5GeFpLZjRVWlJ5UHl0TjdycEFPUUNHRExYSHFDcWJPN21Qb2pDQVZuRkstcUt4cU9BZnN2ZzFoMHZQUHNwbWhQMnZrdmIzZVJNMmpJYjQzell4eW02dDBDUW1kVDJIdTExZVRhUnJwaDFFT0pVMWswZw?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-11-25 10:44",
-          "headline": "Tesla EV、保証後の駆動用バッテリー交換費は2万ドル超も - 디지털투데이",
+          "published_at": "2026-11-26 07:00",
+          "headline": "テスラの新しいFSD画面、運転中に道路のAI動画を生成 - Business I...",
           "summary": [
-            "【概要】Tesla EV、保証後の駆動用バッテリー交換費は2万ドル超も - 디지털투데이",
-            "Tesla EV、保証後の駆動用バッテリー交換費は2万ドル超も 디지털투데이...",
+            "【概要】テスラの新しいFSD画面、運転中に道路のAI動画を生成 - Business Insider Japan",
+            "テスラの新しいFSD画面、運転中に道路のAI動画を生成 Business Insider Japan...",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "tesla_1795664577_3",
+          "title": "Tesla quietly sets up a company at German machine maker EMAG’s HQ",
+          "link": "https://electrek.co/2026/11/25/tesla-emag-germany-machining-company-optimus/",
+          "source": "Electrek (Tesla)",
+          "is_official": true,
+          "published_at": "2026-11-26 06:00",
+          "headline": "Tesla quietly sets up a company at Germa...",
+          "summary": [
+            "【概要】Tesla quietly sets up a company at German machine maker EMAG’s HQ",
+            "Tesla has registered a new German company whose business add...",
+            "情報提供元: Electrek (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 4
+        },
+        {
+          "id": "tesla_1795664577_4",
+          "title": "テスラ・モデルY Lプレミアム（後編） - webCG",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9pcWFvcUNzXzhDSlR0cVJwSHhhY0FNUVhNNzJSekNsUFh1MTFCTFh6aTdwLXBCMVpwblJPbnB3ZFJqaGgyZG53bnFKWXQzb2vSAVJBVV95cUxPZ205emcxMnEzbDFtNzdINjNhbnR6bVVCaHV4bjVGWmVLdlppV1JNbUphRGh2WDJta09ZN0NONmtGSTdqRFdsY0x4WjN3dEpXdU9n?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-11-26 06:00",
+          "headline": "テスラ・モデルY Lプレミアム（後編） - webCG",
+          "summary": [
+            "【概要】テスラ・モデルY Lプレミアム（後編） - webCG",
+            "テスラ・モデルY Lプレミアム（後編） webCG...",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "tesla_1795664577_5",
+          "title": "編集者の視点「テスラのサイクルタイム10秒革命」 - 日本経済新聞",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVUFzRUdrdEhCUXdOM3FMbE80dEJWcE9qaW9nRHBTVzZJTm5qdGZKV2lHSHMyWHNCOEM3M2ZjcW1RMGtqMVdiZHdWV1BLNFFZRFZQYjhRQzUyeWhGSVVtWEc3MTNaRXBoYW1FNkNpczhybXg5dzZUSW9OMENCQVBiakhBQTl3ZEU?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-11-26 05:00",
+          "headline": "編集者の視点「テスラのサイクルタイム10秒革命」 - 日本経済新聞",
+          "summary": [
+            "【概要】編集者の視点「テスラのサイクルタイム10秒革命」 - 日本経済新聞",
+            "編集者の視点「テスラのサイクルタイム10秒革命」 日本経済新聞...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -226,16 +226,16 @@
       "description": "OpenAI・Google・生成AIの公式発表・技術速報",
       "articles": [
         {
-          "id": "ai_1795581012_1",
-          "title": "AI時代の金融と信用創造「信頼インフラ」の構築が不可欠 | 日本経済新聞 電子版特集（PR） - ps.nikkei.com",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zOUZNR0xrRkExcXF0WkFXRmJNbEFzeklzNExHU0tsY3VNVWUweGtFbTdrODNnekt0YnJJdTR2VWlTTGxVV2pXaDM5bnJCYmNYMlE?oc=5",
+          "id": "ai_1795664578_1",
+          "title": "Ｓｋｙ株式会社様の AI-DLC Unicorn Gym 実践レポート：4 チームの実践から各事業本部に広がる AI 駆動開発 - Amazon Web Services",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DMUtXWklJNnV6bjFEUmVWa1Nzc3VaUDJkT3RzenF0WmdvRUdiV0ljeHJJUnVYQW80bGRuX1hiRGFhNUJKTTY5djF3RzhCbk9RUEN6RVExXzdUMFoz?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-25 12:05",
-          "headline": "AI時代の金融と信用創造「信頼インフラ」の構築が不可欠 | 日本経済新聞 電子版...",
+          "published_at": "2026-11-26 10:56",
+          "headline": "Ｓｋｙ株式会社様の AI-DLC Unicorn Gym 実践レポート：4 チー...",
           "summary": [
-            "【概要】AI時代の金融と信用創造「信頼インフラ」の構築が不可欠 | 日本経済新聞 電子版特集（PR） - ps.nikkei.com",
-            "AI時代の金融と信用創造「信頼インフラ」の構築が不可欠 | 日本経済新聞 電子版特集（PR） ps.nikkei.com...",
+            "【概要】Ｓｋｙ株式会社様の AI-DLC Unicorn Gym 実践レポート：4 チームの実践から各事業本部に広がる AI 駆動開発 - Amazon Web Services",
+            "Ｓｋｙ株式会社様の AI-DLC Unicorn Gym 実践レポート：4 チームの実践から各事業本部に広がる AI 駆...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -246,16 +246,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1795581012_2",
-          "title": "AI時代には「技術を隠す」ことが通用しなくなる - 株式会社エクサウィザーズ",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50MTA0eHkxazNzYVhPWk1fTzNXejlZUHlmdzFxd3FjUl83TUNldk52dW5jREpxYnNZejNPYWotS1MtMlh5U0hoNUxrM3NtWnV2WGJmRFFUSzAzZXBHazMtUU9PamN1YlpL?oc=5",
+          "id": "ai_1795664578_2",
+          "title": "進化続けるフィジカルAI 世界初！“遠隔触覚”技術も…人間の繊細な動きを学習 - TOKYO MX",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MSFBLTUlpVFNaYXQ5RzcwYjFic1cxcUJseWR3bzZsR05oanNLZkRGcDBjYzdfcjBZVnJBbXY3enk3NUt1aDN4RGs3dENhYnhQTjN6Tmx6N2pmWVl0bGxlMnlIZkh5alpBdWtnOWZB?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-25 11:21",
-          "headline": "AI時代には「技術を隠す」ことが通用しなくなる - 株式会社エクサウィザーズ",
+          "published_at": "2026-11-26 10:30",
+          "headline": "進化続けるフィジカルAI 世界初！“遠隔触覚”技術も…人間の繊細な動きを学習 -...",
           "summary": [
-            "【概要】AI時代には「技術を隠す」ことが通用しなくなる - 株式会社エクサウィザーズ",
-            "AI時代には「技術を隠す」ことが通用しなくなる 株式会社エクサウィザーズ...",
+            "【概要】進化続けるフィジカルAI 世界初！“遠隔触覚”技術も…人間の繊細な動きを学習 - TOKYO MX",
+            "進化続けるフィジカルAI 世界初！“遠隔触覚”技術も…人間の繊細な動きを学習 TOKYO MX...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -266,16 +266,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1795581012_3",
-          "title": "AIを使いこなすために、使わない時間 - 早稲田大学",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuTlItWWVEQ1hQaXJwM1cxdzlMbHBHaUFvclhYa3FtNHRpeTMwazBNUGYxbG5QZVFSb1VnTm03RHRmUnllSXdkVmRSU2ZxNFJnODhDTXpCZTNnS0VGOG43djNfVWV6WjZP?oc=5",
+          "id": "ai_1795664578_3",
+          "title": "製造業の現場で活かせるAI導入セミナーを開催します！ - 滋賀県",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14Rmo5OEZYTWVEbjdNMk1qUG5HRmR6WHVobnhTUEtQWHk0ak04ZTFjejZYN0d4X184MERQc3NuSThmS2Z6aXFnVkl5SmUzNzY3VlZIcmlIZ3NQUVdKeFcwR3F3bEpRUkxtUFE?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-25 10:30",
-          "headline": "AIを使いこなすために、使わない時間 - 早稲田大学",
+          "published_at": "2026-11-26 10:01",
+          "headline": "製造業の現場で活かせるAI導入セミナーを開催します！ - 滋賀県",
           "summary": [
-            "【概要】AIを使いこなすために、使わない時間 - 早稲田大学",
-            "AIを使いこなすために、使わない時間 早稲田大学...",
+            "【概要】製造業の現場で活かせるAI導入セミナーを開催します！ - 滋賀県",
+            "製造業の現場で活かせるAI導入セミナーを開催します！ 滋賀県...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -286,16 +286,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1795581012_4",
-          "title": "現場に即応するオンプレミスの「推論基盤」が、AIモデルを業務の成果につなげる - デジタルクロス",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05TGFCczdzSTR3Wkg0Y0J3eG9DYmJ1Z2U0eUNZRnNKN2l1RWlTVEpRZ180bFdLYlh2ZzMzNGx0cVNneUgzWEFYZHMzVXF6NFY3VDZ0UDdQcFZGQndMenRmVkVRVXdudjFBbl9FMHIwSDRjODFVX3c?oc=5",
+          "id": "ai_1795664578_4",
+          "title": "AI相場、次の主役は 半導体株から逃げたマネーの行方 - 日本経済新聞",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qOTljMXlNc2lEYUhqVjFEcUZXNzY3NDVCWF9DRWItbHphUkxEMGRYcmhwUnhGMXlxMGdOaXR0NUpOSVdYcG11Z2szbHBrRkFJQ1NCWlJ0aHlZQQ?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-25 09:00",
-          "headline": "現場に即応するオンプレミスの「推論基盤」が、AIモデルを業務の成果につなげる -...",
+          "published_at": "2026-11-26 09:27",
+          "headline": "AI相場、次の主役は 半導体株から逃げたマネーの行方 - 日本経済新聞",
           "summary": [
-            "【概要】現場に即応するオンプレミスの「推論基盤」が、AIモデルを業務の成果につなげる - デジタルクロス",
-            "現場に即応するオンプレミスの「推論基盤」が、AIモデルを業務の成果につなげる デジタルクロス...",
+            "【概要】AI相場、次の主役は 半導体株から逃げたマネーの行方 - 日本経済新聞",
+            "AI相場、次の主役は 半導体株から逃げたマネーの行方 日本経済新聞...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -306,16 +306,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1795581012_5",
-          "title": "米中に次ぐAI国家確立へ 政府案 - Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE51cWhFM3VwenhzckxMTVc5NmFTbm5zZGZodklzUEhsUWVad3F5UXBXWFBvd25NVHdCeU1jNzhfOUdvQlhWQzlIZ1pfMlZkZkxq?oc=5",
+          "id": "ai_1795664578_5",
+          "title": "AI法改正案の概要判明 罰則新設 - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBORTRjbTgtOGE0ejRfcGNUZjlGWU10Z2xNNGh0d0VjVkd2TWZPSG1fYmJ4UjBKcl9PeHBaelFHU0lhLTRlMEZleVhjbU9odUJI?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-25 08:10",
-          "headline": "米中に次ぐAI国家確立へ 政府案 - Yahoo!ニュース",
+          "published_at": "2026-11-26 07:44",
+          "headline": "AI法改正案の概要判明 罰則新設 - Yahoo!ニュース",
           "summary": [
-            "【概要】米中に次ぐAI国家確立へ 政府案 - Yahoo!ニュース",
-            "米中に次ぐAI国家確立へ 政府案 Yahoo!ニュース...",
+            "【概要】AI法改正案の概要判明 罰則新設 - Yahoo!ニュース",
+            "AI法改正案の概要判明 罰則新設 Yahoo!ニュース...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
