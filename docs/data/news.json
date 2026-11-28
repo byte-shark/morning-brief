@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026年11月27日 12:44",
-  "updated_at_iso": "2026-11-27T12:44:34.305347+09:00",
+  "updated_at": "2026年11月28日 12:27",
+  "updated_at_iso": "2026-11-28T12:27:56.887074+09:00",
   "model_used": "mock-mode",
   "categories": [
     {
@@ -10,7 +10,27 @@
       "description": "Microsoft Azureの公式発表・最新クラウド動向",
       "articles": [
         {
-          "id": "azure_1795751074_1",
+          "id": "azure_1795836477_1",
+          "title": "Windows 11 24H2のHome／Proはもう更新なし 「まだ動く」PCが危ない：月刊Microsoft通信 - TechTargetジャパン",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmdWlaenJzVk1hX3VGd0lyMUtWdnluLUwwcTJxbGpKZDRSVU9QQnY4d2k0QVJHM0ZUb0tDWTdKWWkxeUF2dXBPU1Q3QVZiUnlobjJHQlVaSWhMRzZ3ME9RLU1yVmxsdTdERVFoM2ZvMmg?oc=5",
+          "source": "Google News (Azure)",
+          "is_official": false,
+          "published_at": "2026-11-27 12:00",
+          "headline": "Windows 11 24H2のHome／Proはもう更新なし 「まだ動く」PC...",
+          "summary": [
+            "【概要】Windows 11 24H2のHome／Proはもう更新なし 「まだ動く」PCが危ない：月刊Microsoft通信 - TechTargetジャパン",
+            "Windows 11 24H2のHome／Proはもう更新なし 「まだ動く」PCが危ない：月刊Microsoft通信 T...",
+            "情報提供元: Google News (Azure)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "azure_1795836477_2",
           "title": "さくらインターネット、AWSやAzureなど他クラウドでバックアップ可能な新ストレージ「Object Storage Suite」（OS2）発表 - Publickey",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5OQUFFUnFEOFNTYjdfNXJvc2tiSW5HVHUyZkk2eEpFWDVxM05TTTJySDZjNUNTcnhCVFdGeHlJUTJDSGVnR3pJRWUyWE5adEl5TEswOGdRMjJNZlJlUHR4RUlNS1QzTFVQdlU0MTZTRmloTml1NkVPbEt3?oc=5",
           "source": "Google News (Azure)",
@@ -30,7 +50,7 @@
           "importance": 3
         },
         {
-          "id": "azure_1795751074_2",
+          "id": "azure_1795836477_3",
           "title": "チェック・ポイント、Microsoft Azure上でCheck Point SASEプラットフォームを展開（クラウド Watch） - Yahoo!ニュース",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yNy1lMUxwWXFNN2oxeXhoQW02NGVjYUF4TElLcEViYkkzUnpiMHBtajBEVW42TS10dkFIY3psTVlFVUJzSFcxYmgwU2VvYk81dDlTWkY1ZGwwZEVXUnpWTnNLaVdMaXdvenlOZDl4SEw5UC1BY1phZ1dPeWE4UUU?oc=5",
           "source": "Google News (Azure)",
@@ -50,7 +70,7 @@
           "importance": 3
         },
         {
-          "id": "azure_1795751074_3",
+          "id": "azure_1795836477_4",
           "title": "Microsoft Azure API Managementの脆弱性がサイバー攻撃に悪用-ノルウェーのエネルギー企業も被害 - 合同会社ロケットボーイズ",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdXN4QVZYdndJVzM3VXdBR1V1eWFqcGNUSFMzRTFpNEVRRk80aFk3bFc0cFhxR0tjZEZzeTlwOUF4VDlDSEJpUXJYeVVXQlF0SFhuMnpCS2o3cVNnanlIX1Y2U3NuX3J6YURTaVJ2TkhHcjBjb1E3RnFjWlZKRVlxN1BnbkNGYk1sYVFTSF96QW8yNGh4NVZFcGJVM1JmN3dDNHV6MVR6Q2s?oc=5",
           "source": "Google News (Azure)",
@@ -70,36 +90,16 @@
           "importance": 3
         },
         {
-          "id": "azure_1795751074_4",
-          "title": "IBMとMicrosoft、Azure上でコンピュート集約型ワークロードのオーケストレーションのためのコラボレーションを拡大 - IBM",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdVN1c3p6OEQ1VFJpWXdPMkZxcGJkZ19iY2lyWFNKOVNEdmNyeWVJbkxsVVFUbTJTdzlPS1l6SXlDRnpoaFByTHRiV0pyZjlBWG9MeXktSUFVbmtvd1pjQ053WDZMTmVNMDFBQmktNlA0TENvNDZLQmpCNUEzMXBwXzE2c1hQUTM1VkZIaTRMYXRFWGVYZWNnd3VTeEc4OWtKYnVQc2RBcFRCTy13R2JDZ3F3YWo3NzBUNEdvdTM5dG9qZnFWYmVFeXhoN2ZNaUlEbnc?oc=5",
+          "id": "azure_1795836477_5",
+          "title": "FortiGate VMとMicrosoft Azure Localの統合により、AIエージェント実行においてもセキュリティを展開 - ASCII.jp",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA0dnp5X2J0Q0lhWFp2NHNvWTlXcUs3S3BzT0VudTBVclJZbzlaT3F4d2dLVHZGNjVybktDZFQ4WXNtWjA1OXl0T0ZoaXhyXzNTb1F4cg?oc=5",
           "source": "Google News (Azure)",
           "is_official": false,
-          "published_at": "2026-11-24 17:00",
-          "headline": "IBMとMicrosoft、Azure上でコンピュート集約型ワークロードのオーケ...",
+          "published_at": "2026-11-25 17:00",
+          "headline": "FortiGate VMとMicrosoft Azure Localの統合により...",
           "summary": [
-            "【概要】IBMとMicrosoft、Azure上でコンピュート集約型ワークロードのオーケストレーションのためのコラボレーションを拡大 - IBM",
-            "IBMとMicrosoft、Azure上でコンピュート集約型ワークロードのオーケストレーションのためのコラボレーションを...",
-            "情報提供元: Google News (Azure)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "azure_1795751074_5",
-          "title": "Microsoft Azureの脆弱性が悪用され、顧客のAPI認証情報が盗まれる - 株式会社マキナレコード",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWmp1ZHZMRXNydnlUVEcxYnpFZVlMUDgtQU5FM2ZjR24tSmdsWDVOd0ZLSDV3RzlFVTdhVmpSQ3c1VkhnWDZobENkZkczT0hYbEpvVEx2cDR0UzRFc2x6ek5ob0JyNE80UDNmRVdtZlRQYTlLMWlwZmw4N1VjcElSaWRick8?oc=5",
-          "source": "Google News (Azure)",
-          "is_official": false,
-          "published_at": "2026-11-24 14:54",
-          "headline": "Microsoft Azureの脆弱性が悪用され、顧客のAPI認証情報が盗まれる...",
-          "summary": [
-            "【概要】Microsoft Azureの脆弱性が悪用され、顧客のAPI認証情報が盗まれる - 株式会社マキナレコード",
-            "Microsoft Azureの脆弱性が悪用され、顧客のAPI認証情報が盗まれる 株式会社マキナレコード...",
+            "【概要】FortiGate VMとMicrosoft Azure Localの統合により、AIエージェント実行においてもセキュリティを展開 - ASCII.jp",
+            "FortiGate VMとMicrosoft Azure Localの統合により、AIエージェント実行においてもセキュリ...",
             "情報提供元: Google News (Azure)"
           ],
           "key_points": [
@@ -118,12 +118,32 @@
       "description": "テスラの最新アップデート・EV・FSD・決算動向",
       "articles": [
         {
-          "id": "tesla_1795751075_1",
+          "id": "tesla_1795836478_1",
+          "title": "日本の特許庁、テスラの「サイバーキャブ」の商標認可 - 自動運転ラボ",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE43UF9vX04yQ29sTnpzYllGbEhJT3ZlV2xHakxva2FBa3IxQlA4RHlFX3JMUFRVcXlMempxZlFENnJBWW5LeVppdA?oc=5",
+          "source": "Google News (Tesla)",
+          "is_official": false,
+          "published_at": "2026-11-28 08:14",
+          "headline": "日本の特許庁、テスラの「サイバーキャブ」の商標認可 - 自動運転ラボ",
+          "summary": [
+            "【概要】日本の特許庁、テスラの「サイバーキャブ」の商標認可 - 自動運転ラボ",
+            "日本の特許庁、テスラの「サイバーキャブ」の商標認可 自動運転ラボ...",
+            "情報提供元: Google News (Tesla)"
+          ],
+          "key_points": [
+            "最新の公式・主要発表",
+            "詳細は元記事リンクから確認可能"
+          ],
+          "badge": "注目",
+          "importance": 3
+        },
+        {
+          "id": "tesla_1795836478_2",
           "title": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vR2owRXJLX1dwYUtHY05wNjVKVmVrTHNXdm5yRGJ0NHJzSzZTaEgxWFo0WmNBOWUxV2tXcHljUWlYaG92bll2YUNIQzJlVE0?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-11-27 12:28",
+          "published_at": "2026-11-28 07:25",
           "headline": "テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
           "summary": [
             "【概要】テスラ【TSLA】：株価・株式情報 - Yahoo!ファイナンス",
@@ -138,36 +158,16 @@
           "importance": 3
         },
         {
-          "id": "tesla_1795751075_2",
-          "title": "米国の子どもに株式を贈るマスク氏…1株当たり95億ドルになると予想し「売るな」 - 中央日報",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05T0dueHpybmxpQ2dEQ1Voa1ZmQTZPbkJSb3BvdXdZelFLR1Y2bDBDUUlTT0lwTXhpS0JYampXV2t0QlRPTGdTT3FSeHQ0dzFNVVZHVg?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-11-27 07:49",
-          "headline": "米国の子どもに株式を贈るマスク氏…1株当たり95億ドルになると予想し「売るな」 ...",
-          "summary": [
-            "【概要】米国の子どもに株式を贈るマスク氏…1株当たり95億ドルになると予想し「売るな」 - 中央日報",
-            "米国の子どもに株式を贈るマスク氏…1株当たり95億ドルになると予想し「売るな」 中央日報...",
-            "情報提供元: Google News (Tesla)"
-          ],
-          "key_points": [
-            "最新の公式・主要発表",
-            "詳細は元記事リンクから確認可能"
-          ],
-          "badge": "注目",
-          "importance": 3
-        },
-        {
-          "id": "tesla_1795751075_3",
-          "title": "Tesla deploys 29 mobile Supercharger stalls for Thanksgiving travel rush",
-          "link": "https://electrek.co/2026/11/26/tesla-deploys-mobile-superchargers-thanksgiving-travel/",
+          "id": "tesla_1795836478_3",
+          "title": "Used Tesla Cybertruck prices jump after Musk kills it, one asks $150K",
+          "link": "https://electrek.co/2026/11/27/used-cybertruck-prices-jump-after-tesla-kills-it/",
           "source": "Electrek (Tesla)",
           "is_official": true,
-          "published_at": "2026-11-27 02:33",
-          "headline": "Tesla deploys 29 mobile Supercharger sta...",
+          "published_at": "2026-11-28 02:06",
+          "headline": "Used Tesla Cybertruck prices jump after ...",
           "summary": [
-            "【概要】Tesla deploys 29 mobile Supercharger stalls for Thanksgiving travel rush",
-            "Tesla has parked a fleet of mobile Supercharger stalls at so...",
+            "【概要】Used Tesla Cybertruck prices jump after Musk kills it, one asks $150K",
+            "Used Cybertruck prices are up 10 to 15% in the month since T...",
             "情報提供元: Electrek (Tesla)"
           ],
           "key_points": [
@@ -178,16 +178,16 @@
           "importance": 4
         },
         {
-          "id": "tesla_1795751075_4",
-          "title": "SpaceXとTesla、3.5兆ドル規模の合併交渉…FCCは衛星100万基を承認 - BigGo ファイナンス",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01M1JNZl83Rl9zcjVIT0hETmd3Tk4wMW54UFR2czQ5V3pSODF6OGVDWDVLWWRvNlM1UlhDNmVHa1F0N3liWGVhRkxJa0dYQ0loY2NaUXc1TFJEaDZmYnUxR3AySkYyeURjNzhSWGVacTBpQjEy?oc=5",
+          "id": "tesla_1795836478_4",
+          "title": "11月27日のTesla Inc (TSLA) 値動きは3.43%上昇：値動きの背後にある要因 - TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT3RVemhiampoZkhTTGNEd1RTSGp4UXIyb205WGlGd0pVQkE4QnNsYWQtVTRCa04yS0RDMGlqU2htSTBza2xUWmtudHk5LW4yZGtIaXdwRVBhd2pZZmdHZDNpR1BtZGo2REI0WlFYT1hwWDRKb2pmTU5SbHRYSGx3MGc5LXVDWjJOUVB5Y0RPZw?oc=5",
           "source": "Google News (Tesla)",
           "is_official": false,
-          "published_at": "2026-11-27 01:25",
-          "headline": "SpaceXとTesla、3.5兆ドル規模の合併交渉…FCCは衛星100万基を承...",
+          "published_at": "2026-11-28 00:16",
+          "headline": "11月27日のTesla Inc (TSLA) 値動きは3.43%上昇：値動きの...",
           "summary": [
-            "【概要】SpaceXとTesla、3.5兆ドル規模の合併交渉…FCCは衛星100万基を承認 - BigGo ファイナンス",
-            "SpaceXとTesla、3.5兆ドル規模の合併交渉…FCCは衛星100万基を承認 BigGo ファイナンス...",
+            "【概要】11月27日のTesla Inc (TSLA) 値動きは3.43%上昇：値動きの背後にある要因 - TradingKey",
+            "11月27日のTesla Inc (TSLA) 値動きは3.43%上昇：値動きの背後にある要因 TradingKey...",
             "情報提供元: Google News (Tesla)"
           ],
           "key_points": [
@@ -198,24 +198,24 @@
           "importance": 3
         },
         {
-          "id": "tesla_1795751075_5",
-          "title": "合併への不透明感がTesla株の重しとなり、$369.08のサポートを試す - Traders Union",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTjRneGlTYWZCM3hQWnlvbkQ1WlBDSDJtYUpQMVVkd2ZLZ2ZYMXUtQ19GeFNfM203WG12VTZwQmVDY3c4bVFpOVFFVC1FQXJJT2VqcWI3bTJHbmNKcndlQTZsMjRTRmtFZnJ6VDZRcmVrcnpPZGRxd241Y1lBUFJFUkdWaDJQOGVXeXpOLWZib2pyZw?oc=5",
-          "source": "Google News (Tesla)",
-          "is_official": false,
-          "published_at": "2026-11-26 23:41",
-          "headline": "合併への不透明感がTesla株の重しとなり、$369.08のサポートを試す - ...",
+          "id": "tesla_1795836478_5",
+          "title": "This might be the real reason Elon Musk says Tesla’s AI5 chip is going to Optimus",
+          "link": "https://electrek.co/2026/11/27/tesla-ai5-optimus-real-reason-tsmc-3nm/",
+          "source": "Electrek (Tesla)",
+          "is_official": true,
+          "published_at": "2026-11-27 23:48",
+          "headline": "This might be the real reason Elon Musk ...",
           "summary": [
-            "【概要】合併への不透明感がTesla株の重しとなり、$369.08のサポートを試す - Traders Union",
-            "合併への不透明感がTesla株の重しとなり、$369.08のサポートを試す Traders Union...",
-            "情報提供元: Google News (Tesla)"
+            "【概要】This might be the real reason Elon Musk says Tesla’s AI5 chip is going to Optimus",
+            "Elon Musk says Tesla’s cars don’t need the next-generation A...",
+            "情報提供元: Electrek (Tesla)"
           ],
           "key_points": [
             "最新の公式・主要発表",
             "詳細は元記事リンクから確認可能"
           ],
           "badge": "注目",
-          "importance": 3
+          "importance": 4
         }
       ]
     },
@@ -226,16 +226,16 @@
       "description": "OpenAI・Google・生成AIの公式発表・技術速報",
       "articles": [
         {
-          "id": "ai_1795751076_1",
-          "title": "消費者委員会 AIが消費者の意思決定に与える影響で報告書骨子案 - 月刊「事業構想」オンライン",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZzNXZmRWZTNHOV9JWVF1bGIyN1ZYMEIwbTMxLVNMOG9fa1hVNWZEUDhLcEoyVWY3czNOU09xalA4ckxHakJVUmpXalZJYm5KakZBNHhiTE1PbDgyV2RnWV9ZaDk1c01oRUkyQmZ1QWxmOTZ4cUlQNEY2bXgtQk40OGIyZVdNZw?oc=5",
+          "id": "ai_1795836479_1",
+          "title": "韓国、「AIが論述も解く時代」の入試見直し論…「正答」から思考力・問題解決力の評価へ（KOREA WAVE） - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pZXY5VHdNQjZXNFpZSXI4U1JFdjJuZnZuR2ZyeHAtWjYzTWVlR2o4b09RYjg3RnBCSXNQdjZEUmtsQlRPcTM3SG9Vb1ZWazNLdm1XYzgxRmUta3NBSWExaEVzaGFCcjRMYVFGT3hyZTBGV1ZHOUFxX0JHcVVtejQ?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-27 11:53",
-          "headline": "消費者委員会 AIが消費者の意思決定に与える影響で報告書骨子案 - 月刊「事業構...",
+          "published_at": "2026-11-28 12:12",
+          "headline": "韓国、「AIが論述も解く時代」の入試見直し論…「正答」から思考力・問題解決力の評...",
           "summary": [
-            "【概要】消費者委員会 AIが消費者の意思決定に与える影響で報告書骨子案 - 月刊「事業構想」オンライン",
-            "消費者委員会 AIが消費者の意思決定に与える影響で報告書骨子案 月刊「事業構想」オンライン...",
+            "【概要】韓国、「AIが論述も解く時代」の入試見直し論…「正答」から思考力・問題解決力の評価へ（KOREA WAVE） - Yahoo!ニュース",
+            "韓国、「AIが論述も解く時代」の入試見直し論…「正答」から思考力・問題解決力の評価へ（KOREA WAVE） Yahoo...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -246,16 +246,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1795751076_2",
-          "title": "ラヴィット！白熱！生成ＡＩ画像クイズ＆世代差ランキング！冬の名曲＆給食!!エビダン - TBSテレビ",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MWGkxV2JLZVRydWZ1MHl6eWpadVh6Y0FmX3VmXzNPblRjT3dhVkpaX2FJQnA2VjdKRlVvbW43cEJNaVVJaWpVZW9aRllZRWJzT0FjSi13?oc=5",
+          "id": "ai_1795836479_2",
+          "title": "Sakana AIが防衛特化子会社「Sakana Defense」設立、自衛隊指揮統制AIなど体制強化 - ビジネス+IT",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1mWWlNU2JHN3l6dHg1bHQ3WWhNZUNLekV5ZHdIWWJHYjFqbW5jbVJ2SjA0LXVoYlJHREpJc3YtaGtZS01KRmJfTlhUT09UZFE?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-27 11:30",
-          "headline": "ラヴィット！白熱！生成ＡＩ画像クイズ＆世代差ランキング！冬の名曲＆給食!!エビダ...",
+          "published_at": "2026-11-28 11:35",
+          "headline": "Sakana AIが防衛特化子会社「Sakana Defense」設立、自衛隊指...",
           "summary": [
-            "【概要】ラヴィット！白熱！生成ＡＩ画像クイズ＆世代差ランキング！冬の名曲＆給食!!エビダン - TBSテレビ",
-            "ラヴィット！白熱！生成ＡＩ画像クイズ＆世代差ランキング！冬の名曲＆給食!!エビダン TBSテレビ...",
+            "【概要】Sakana AIが防衛特化子会社「Sakana Defense」設立、自衛隊指揮統制AIなど体制強化 - ビジネス+IT",
+            "Sakana AIが防衛特化子会社「Sakana Defense」設立、自衛隊指揮統制AIなど体制強化 ビジネス+IT...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -266,16 +266,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1795751076_3",
-          "title": "ＡＩの能力向上、トークンのサイバー対策で「問題の重大性高める」＝日銀理事 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWnBNZ0JKNkJPbWZxVWtsUzgxcmx6ZG9OUkNCSFlOSm1GRFo4anJnWVl1eDFLMDRSYUx1bGtQbVYyclM2Ny1FSmwwUkJmMVVpeFpnTmZzTVpMM2x5aFgyX2h0YnZpWkJ5Vm40MXYyak5sWU9oa0ZaUnFJQ1dQbld1STMxUnNTbmFxam8yQ0ZYdkw?oc=5",
+          "id": "ai_1795836479_3",
+          "title": "AIに仕事を奪われる時代、人間に何が残る？又吉直樹と考えるNスペ - 朝日新聞",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IOTBOcmR2Q2owOGpFVDh0bXZUQVp1emhFNWpjNFFXdUsydXlBdUtsVnd3YUNxN3o5dnY0RzJMenBiY1lJN0VuRmdrVWlBYkYyTjZLVjBKNzZyUVZlVy1OOGVha0VjbU0?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-27 11:07",
-          "headline": "ＡＩの能力向上、トークンのサイバー対策で「問題の重大性高める」＝日銀理事 - R...",
+          "published_at": "2026-11-28 11:00",
+          "headline": "AIに仕事を奪われる時代、人間に何が残る？又吉直樹と考えるNスペ - 朝日新聞",
           "summary": [
-            "【概要】ＡＩの能力向上、トークンのサイバー対策で「問題の重大性高める」＝日銀理事 - Reuters",
-            "ＡＩの能力向上、トークンのサイバー対策で「問題の重大性高める」＝日銀理事 Reuters...",
+            "【概要】AIに仕事を奪われる時代、人間に何が残る？又吉直樹と考えるNスペ - 朝日新聞",
+            "AIに仕事を奪われる時代、人間に何が残る？又吉直樹と考えるNスペ 朝日新聞...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -286,16 +286,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1795751076_4",
-          "title": "KDDI と Google Cloud、AI の祭典「KDDI AI Agent Day」を今年も開催：自律型 AI エージェントの社会実装と「循環型イノベーション」への挑戦 - Google Cloud",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRXB3R1lFREp2eUFnb3poWUpNcm56V2tmOEVTSC1MMDBWYm1TWVpQSDByTGZXeDZvMWtsdFY1MXJJLWt2WXJQYWQ2cmRjemprNEhuOFdER205czhENE41Q3dMSXU1eW1zS3lYcld6cE1jM3FvY2N1VlN2bkhWTzdDclk5eW9LRkxqTmtvQWtPT2Y5SFdzZzRaMkQxc0hWV2ZjMTIzZzk2U1JhT2FISVltNE5ZZTY2ckYwNlYtTA?oc=5",
+          "id": "ai_1795836479_4",
+          "title": "伝説の銀行マンが教える「AIにギュられない人」の決定的な特徴 | ニュースな本 - ダイヤモンド・オンライン",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5SUktLYm9lMzhGdnloZFk1SkNxeXF0dzJ4R3N6WlllR3VjNS1ZVVJRc0VCcFB5WXgwZEZ5c1Q4dG0wS1l2dmJqY2tLRGU?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-27 11:06",
-          "headline": "KDDI と Google Cloud、AI の祭典「KDDI AI Agent...",
+          "published_at": "2026-11-28 08:00",
+          "headline": "伝説の銀行マンが教える「AIにギュられない人」の決定的な特徴 | ニュースな本 ...",
           "summary": [
-            "【概要】KDDI と Google Cloud、AI の祭典「KDDI AI Agent Day」を今年も開催：自律型 AI エージェントの社会実装と「循環型イノベーション」への挑戦 - Google Cloud",
-            "KDDI と Google Cloud、AI の祭典「KDDI AI Agent Day」を今年も開催：自律型 AI エ...",
+            "【概要】伝説の銀行マンが教える「AIにギュられない人」の決定的な特徴 | ニュースな本 - ダイヤモンド・オンライン",
+            "伝説の銀行マンが教える「AIにギュられない人」の決定的な特徴 | ニュースな本 ダイヤモンド・オンライン...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
@@ -306,16 +306,16 @@
           "importance": 3
         },
         {
-          "id": "ai_1795751076_5",
-          "title": "令和8年度DXセミナー「生成AI実践セミナー」の開催 - 兵庫県",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwSkFobWpaSWtIaElwRGl4RkkzU2N5OVlxMEVTdWhQd1VxemF3OE9vWFRzelQ2YUdjaFVfbi1YVERPM21qam5ES1kzWjBWTWNFbTFEZVBFMjZXNXI0eS1SdUMxRDg?oc=5",
+          "id": "ai_1795836479_5",
+          "title": "Breakingviews - COMMENTARY: コラム：ＡＩはなぜ市場を攻略できないか、数学と異なる投資の難問 - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNazNCN3NpekFIc2J2RE90bmZvbG1ldkJnc2lRMUxCVXkxbW84V1I3UFQybW5aaHBocF9IRzZpUW9JU2txYzhYd1VtRmxRY25PdWxLQXRFd0wxRmQwOHFtVzczczFPcm9ZUFM4Y29MbWRsbmx0VnpPZWU1VGZiVEdhNG5UNlBLN016QzJUVHRrbUk?oc=5",
           "source": "Google News (AI)",
           "is_official": false,
-          "published_at": "2026-11-27 11:01",
-          "headline": "令和8年度DXセミナー「生成AI実践セミナー」の開催 - 兵庫県",
+          "published_at": "2026-11-28 07:58",
+          "headline": "Breakingviews - COMMENTARY: コラム：ＡＩはなぜ市場を...",
           "summary": [
-            "【概要】令和8年度DXセミナー「生成AI実践セミナー」の開催 - 兵庫県",
-            "令和8年度DXセミナー「生成AI実践セミナー」の開催 兵庫県...",
+            "【概要】Breakingviews - COMMENTARY: コラム：ＡＩはなぜ市場を攻略できないか、数学と異なる投資の難問 - Reuters",
+            "Breakingviews - COMMENTARY: コラム：ＡＩはなぜ市場を攻略できないか、数学と異なる投資の難問 ...",
             "情報提供元: Google News (AI)"
           ],
           "key_points": [
